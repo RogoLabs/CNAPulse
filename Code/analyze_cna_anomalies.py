@@ -32,8 +32,9 @@ class CVEMonitor:
         self.now = datetime.now()
         self.monitoring_window = 30  # days
         self.baseline_months = 12  # months
-        self.cna_org_names = {}  # Map CNA short names to organization names
+        self.cna_org_names = {}  # Map CNA short names to organization names (includes lowercase)
         self.cna_by_uuid = {}  # Map UUID to CNA info for better matching
+        self.official_cna_list = set()  # Set of official CNA short names (no duplicates)
         
     def load_cna_organization_names(self):
         """Download and cache CNA organization names from official list."""
@@ -84,12 +85,15 @@ class CVEMonitor:
                     self.cna_org_names[short_name] = cna_info
                     # Also index by lowercase for case-insensitive lookup
                     self.cna_org_names[short_name.lower()] = cna_info
+                    # Track official CNA names (no duplicates)
+                    self.official_cna_list.add(short_name)
                 
                 # Index by UUID for more reliable matching
                 if uuid:
                     self.cna_by_uuid[uuid] = cna_info
             
-            print(f"Mapped {len(self.cna_org_names)} CNA organization names")
+            print(f"Mapped {len(self.cna_org_names)} CNA organization name entries")
+            print(f"Official CNAs: {len(self.official_cna_list)}")
             print(f"Mapped {len(self.cna_by_uuid)} CNAs by UUID")
             
         except Exception as e:
@@ -304,7 +308,7 @@ class CVEMonitor:
         
         # Find ALL official CNAs that we haven't seen yet (completely inactive)
         all_seen_cna_ids = set(cna_baselines.keys()) | set(monitoring_counts.keys())
-        official_cna_names = set(self.cna_org_names.keys())
+        official_cna_names = self.official_cna_list  # Use official list without duplicates
         
         # Map official names to IDs we've seen
         seen_cna_names = set()
