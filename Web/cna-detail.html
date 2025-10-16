@@ -63,11 +63,13 @@
             <!-- Metrics Row -->
             <div class="grid grid-cols-1 md:grid-cols-4 gap-6 mb-6 fade-in">
                 <div class="bg-white rounded-lg shadow p-6">
-                    <p class="text-sm font-medium text-gray-500">12-Month Avg</p>
+                    <p class="text-sm font-medium text-gray-500">Baseline Avg</p>
+                    <p class="text-xs text-gray-400">(Per 30 Days)</p>
                     <p class="text-3xl font-bold text-gray-900 mt-2" id="metric-baseline">0</p>
                 </div>
                 <div class="bg-white rounded-lg shadow p-6">
-                    <p class="text-sm font-medium text-gray-500">Last 30 Days</p>
+                    <p class="text-sm font-medium text-gray-500">Current Period</p>
+                    <p class="text-xs text-gray-400">(Last 30 Days)</p>
                     <p class="text-3xl font-bold text-gray-900 mt-2" id="metric-current">0</p>
                 </div>
                 <div class="bg-white rounded-lg shadow p-6">
@@ -82,9 +84,9 @@
 
             <!-- Chart Card -->
             <div class="bg-white rounded-lg shadow p-6 fade-in">
-                <h2 class="text-xl font-semibold text-gray-900 mb-4">13-Month Publishing Activity</h2>
+                <h2 class="text-xl font-semibold text-gray-900 mb-4">Publishing Activity (Rolling 30-Day Windows)</h2>
                 <p class="text-sm text-gray-600 mb-6">
-                    12 months of baseline data + current 30-day period
+                    12 rolling 30-day baseline windows + current 30-day period
                 </p>
                 <div class="relative" style="height: 400px;">
                     <canvas id="timeline-chart"></canvas>

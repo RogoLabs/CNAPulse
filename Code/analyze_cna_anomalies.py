@@ -202,31 +202,36 @@ class CVEMonitor:
             return None
     
     def generate_13month_timeline(self, monthly_data, current_count, monitoring_window_days=30):
-        """Generate 13-month timeline: 12 baseline months + current period."""
-        # Calculate the last 13 months
+        """Generate 13-period timeline: 12 rolling 30-day baseline windows + current 30-day period."""
         timeline = []
         
-        # Start from 12 months ago
-        start_date = self.now - timedelta(days=365)  # ~12 months
-        
-        for i in range(12):
-            # Calculate month
-            month_date = start_date + timedelta(days=30 * i)
-            month_key = (month_date.year, month_date.month)
+        # Generate 12 rolling 30-day windows for baseline
+        for i in range(12, 0, -1):
+            # Calculate the end date of this 30-day window
+            window_end = self.now - timedelta(days=(i * 30))
+            window_start = window_end - timedelta(days=30)
+            
+            # Use month key based on the window's midpoint for grouping
+            midpoint = window_start + timedelta(days=15)
+            month_key = (midpoint.year, midpoint.month)
             
             count = monthly_data.get(month_key, 0)
-            month_label = month_date.strftime('%b %Y')
+            
+            # Create clear label showing it's a 30-day window
+            # Format: "Days 330-360" for readability
+            days_ago_end = i * 30
+            days_ago_start = days_ago_end + 30
+            period_label = f"Days {days_ago_start}-{days_ago_end}"
             
             timeline.append({
-                'month': month_label,
+                'month': period_label,
                 'count': count,
                 'is_current': False
             })
         
         # Add current 30-day period
-        current_label = self.now.strftime('%b %Y') + ' (Current)'
         timeline.append({
-            'month': current_label,
+            'month': 'Last 30 Days',
             'count': current_count,
             'is_current': True
         })

@@ -191,9 +191,9 @@ function renderTimelineChart(cna) {
                             const value = context.parsed.y;
                             
                             if (datasetLabel === '12-Month Average') {
-                                return `${datasetLabel}: ${value.toFixed(1)} CVEs`;
+                                return `${datasetLabel}: ${value.toFixed(1)} CVEs per 30 days`;
                             } else {
-                                const label = isCurrent[context.dataIndex] ? ' (Current Period)' : '';
+                                const label = isCurrent[context.dataIndex] ? ' (Current 30-Day Period)' : ' (30-Day Window)';
                                 return `${value} CVE${value !== 1 ? 's' : ''}${label}`;
                             }
                         }
