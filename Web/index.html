@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CNAPulse </title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        .fade-in {
+            animation: fadeIn 0.6s ease-out;
+        }
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
+        }
+        .loading {
+            animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+        }
+    </style>
+</head>
+<body class="bg-gray-50 min-h-screen">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+        <!-- Header -->
+        <div class="mb-8 fade-in">
+            <h1 class="text-4xl font-bold text-gray-900 mb-2">
+                CNAPulse
+            </h1>
+            <p class="text-gray-600 text-lg">
+                Monitoring CVE Numbering Authority publishing activity and trends
+            </p>
+            <div id="metadata" class="mt-4 flex flex-wrap items-center gap-4 text-sm text-gray-500">
+                <div class="loading">Loading data...</div>
+            </div>
+        </div>
+
+        <!-- Metrics Cards -->
+        <div id="metrics" class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8 fade-in" style="display: none;">
+            <div class="bg-white rounded-lg shadow p-6">
+                <div class="flex items-center">
+                    <div class="p-3 rounded-full bg-blue-100 text-blue-600">
+                        <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                        </svg>
+                    </div>
+                    <div class="ml-4">
+                        <p class="text-sm font-medium text-gray-500">Monitoring Window</p>
+                        <p class="text-2xl font-semibold text-gray-900" id="monitoring-window">30 Days</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="bg-white rounded-lg shadow p-6">
+                <div class="flex items-center">
+                    <div class="p-3 rounded-full bg-purple-100 text-purple-600">
+                        <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                        </svg>
+                    </div>
+                    <div class="ml-4">
+                        <p class="text-sm font-medium text-gray-500">Baseline Period</p>
+                        <p class="text-2xl font-semibold text-gray-900" id="baseline-period">12 Months</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="bg-white rounded-lg shadow p-6">
+                <div class="flex items-center">
+                    <div class="p-3 rounded-full bg-orange-100 text-orange-600">
+                        <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                        </svg>
+                    </div>
+                    <div class="ml-4">
+                        <p class="text-sm font-medium text-gray-500">Total CNAs</p>
+                        <p class="text-2xl font-semibold text-gray-900" id="total-cnas">0</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Stats Row -->
+        <div class="grid grid-cols-1 md:grid-cols-4 gap-6 mb-8 fade-in">
+            <div class="bg-white rounded-lg shadow p-6 border-l-4 border-green-500">
+                <div class="flex items-center justify-between">
+                    <div>
+                        <p class="text-sm font-medium text-gray-500">Growth</p>
+                        <p class="text-3xl font-bold text-green-600" id="cnas-growth">0</p>
+                    </div>
+                    <div class="p-3 rounded-full bg-green-100">
+                        <svg class="w-8 h-8 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6"></path>
+                        </svg>
+                    </div>
+                </div>
+            </div>
+
+            <div class="bg-white rounded-lg shadow p-6 border-l-4 border-gray-400">
+                <div class="flex items-center justify-between">
+                    <div>
+                        <p class="text-sm font-medium text-gray-500">Normal</p>
+                        <p class="text-3xl font-bold text-gray-600" id="cnas-normal">0</p>
+                    </div>
+                    <div class="p-3 rounded-full bg-gray-100">
+                        <svg class="w-8 h-8 text-gray-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 12h14"></path>
+                        </svg>
+                    </div>
+                </div>
+            </div>
+
+            <div class="bg-white rounded-lg shadow p-6 border-l-4 border-red-500">
+                <div class="flex items-center justify-between">
+                    <div>
+                        <p class="text-sm font-medium text-gray-500">Declining</p>
+                        <p class="text-3xl font-bold text-red-600" id="cnas-declining">0</p>
+                    </div>
+                    <div class="p-3 rounded-full bg-red-100">
+                        <svg class="w-8 h-8 text-red-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 17h8m0 0V9m0 8l-8-8-4 4-6-6"></path>
+                        </svg>
+                    </div>
+                </div>
+            </div>
+
+            <div class="bg-white rounded-lg shadow p-6 border-l-4 border-gray-300">
+                <div class="flex items-center justify-between">
+                    <div>
+                        <p class="text-sm font-medium text-gray-500">Inactive</p>
+                        <p class="text-3xl font-bold text-gray-500" id="cnas-inactive">0</p>
+                    </div>
+                    <div class="p-3 rounded-full bg-gray-100">
+                        <svg class="w-8 h-8 text-gray-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M18.364 18.364A9 9 0 005.636 5.636m12.728 12.728A9 9 0 015.636 5.636m12.728 12.728L5.636 5.636"></path>
+                        </svg>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Legend -->
+        <div class="bg-white rounded-lg shadow p-6 mb-8 fade-in">
+            <h2 class="text-lg font-semibold text-gray-900 mb-4">CNA Status Types</h2>
+            <div class="grid grid-cols-1 md:grid-cols-4 gap-4">
+                <div class="flex items-start">
+                    <span class="px-3 py-1 text-xs font-semibold rounded-full bg-green-100 text-green-800 mt-1">Growth</span>
+                    <p class="ml-3 text-sm text-gray-600">
+                        <strong>&gt;250% of baseline (+150% growth).</strong> Publishing activity significantly above historical average. Major growth in CVE publications.
+                    </p>
+                </div>
+                <div class="flex items-start">
+                    <span class="px-3 py-1 text-xs font-semibold rounded-full bg-gray-100 text-gray-800 mt-1">Normal</span>
+                    <p class="ml-3 text-sm text-gray-600">
+                        <strong>50-250% of baseline.</strong> Publishing activity within expected range based on historical patterns.
+                    </p>
+                </div>
+                <div class="flex items-start">
+                    <span class="px-3 py-1 text-xs font-semibold rounded-full bg-red-100 text-red-800 mt-1">Declining</span>
+                    <p class="ml-3 text-sm text-gray-600">
+                        <strong>&lt;50% of baseline (-50% decline).</strong> Publishing activity significantly below historical average. Potential inactivity or slowdown.
+                    </p>
+                </div>
+                <div class="flex items-start">
+                    <span class="px-3 py-1 text-xs font-semibold rounded-full bg-gray-100 text-gray-600 mt-1">Inactive</span>
+                    <p class="ml-3 text-sm text-gray-600">
+                        <strong>No CVEs published.</strong> CNA has not published any CVEs in the dataset. May be newly registered or completely inactive.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Table -->
+        <div class="bg-white rounded-lg shadow overflow-hidden fade-in">
+            <div class="px-6 py-4 border-b border-gray-200">
+                <div class="flex flex-col md:flex-row md:items-center md:justify-between gap-4">
+                    <div>
+                        <h2 class="text-xl font-semibold text-gray-900">All CNAs</h2>
+                        <p class="text-sm text-gray-600 mt-1">Sorted by publishing trend (growth to decline)</p>
+                    </div>
+                    <!-- Search Bar -->
+                    <div class="relative">
+                        <input 
+                            type="text" 
+                            id="cna-search" 
+                            placeholder="Search CNAs..." 
+                            class="px-4 py-2 pr-10 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500 w-full md:w-64"
+                        />
+                        <svg class="absolute right-3 top-2.5 w-5 h-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+                        </svg>
+                    </div>
+                </div>
+            </div>
+            <div class="overflow-x-auto">
+                <table class="min-w-full divide-y divide-gray-200">
+                    <thead class="bg-gray-100">
+                        <tr>
+                            <th scope="col" class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider cursor-pointer hover:bg-gray-200 select-none whitespace-nowrap" onclick="sortTable('cna_name')">
+                                <div class="flex items-center">
+                                    CNA Name / ID
+                                    <svg class="w-4 h-4 ml-1 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 16V4m0 0L3 8m4-4l4 4m6 0v12m0 0l4-4m-4 4l-4-4"></path>
+                                    </svg>
+                                </div>
+                            </th>
+                            <th scope="col" class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider cursor-pointer hover:bg-gray-200 select-none whitespace-nowrap" onclick="sortTable('status')">
+                                <div class="flex items-center">
+                                    Status
+                                    <svg class="w-4 h-4 ml-1 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 16V4m0 0L3 8m4-4l4 4m6 0v12m0 0l4-4m-4 4l-4-4"></path>
+                                    </svg>
+                                </div>
+                            </th>
+                            <th scope="col" class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider cursor-pointer hover:bg-gray-200 select-none whitespace-nowrap" onclick="sortTable('baseline_avg')">
+                                <div class="flex items-center">
+                                    12-Month Avg
+                                    <svg class="w-4 h-4 ml-1 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 16V4m0 0L3 8m4-4l4 4m6 0v12m0 0l4-4m-4 4l-4-4"></path>
+                                    </svg>
+                                </div>
+                            </th>
+                            <th scope="col" class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider cursor-pointer hover:bg-gray-200 select-none whitespace-nowrap" onclick="sortTable('current_count')">
+                                <div class="flex items-center">
+                                    Last 30 Days
+                                    <svg class="w-4 h-4 ml-1 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 16V4m0 0L3 8m4-4l4 4m6 0v12m0 0l4-4m-4 4l-4-4"></path>
+                                    </svg>
+                                </div>
+                            </th>
+                            <th scope="col" class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider cursor-pointer hover:bg-gray-200 select-none whitespace-nowrap" onclick="sortTable('days_since_last_cve')">
+                                <div class="flex items-center">
+                                    Days Since Last CVE
+                                    <svg class="w-4 h-4 ml-1 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 16V4m0 0L3 8m4-4l4 4m6 0v12m0 0l4-4m-4 4l-4-4"></path>
+                                    </svg>
+                                </div>
+                            </th>
+                            <th scope="col" class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider cursor-pointer hover:bg-gray-200 select-none whitespace-nowrap" onclick="sortTable('deviation_pct')">
+                                <div class="flex items-center">
+                                    Deviation %
+                                    <svg class="w-4 h-4 ml-1 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 16V4m0 0L3 8m4-4l4 4m6 0v12m0 0l4-4m-4 4l-4-4"></path>
+                                    </svg>
+                                </div>
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody id="cna-table" class="bg-white divide-y divide-gray-200">
+                        <tr>
+                            <td colspan="6" class="px-6 py-4 text-center text-gray-500 loading">
+                                Loading CNA data...
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <div class="mt-8 text-center text-sm text-gray-500 fade-in">
+            <p>
+                Data Source: 
+                <a href="https://github.com/CVEProject/cvelistV5" class="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
+                    CVEProject/cvelistV5
+                </a>
+            </p>
+            <p class="mt-2">
+                Anomaly detection uses historical baseline (12 months) compared to recent activity (30 days)
+            </p>
+            <p class="mt-4 text-gray-400">
+                A <a href="https://rogolabs.net/" class="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">RogoLabs</a> project
+                • 
+                <a href="https://github.com/RogoLabs/CNAPulse" class="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">View Source on GitHub</a>
+            </p>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
