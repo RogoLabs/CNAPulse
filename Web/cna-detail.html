@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CNA Detail - CNAPulse</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='0.9em' font-size='90'>📊</text></svg>">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+    <style>
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        .fade-in {
+            animation: fadeIn 0.6s ease-out;
+        }
+    </style>
+</head>
+<body class="bg-gray-50 min-h-screen">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+        <!-- Back Button -->
+        <div class="mb-4 fade-in">
+            <a href="index.html" class="inline-flex items-center text-gray-600 hover:text-gray-900">
+                <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"></path>
+                </svg>
+                Back to Dashboard
+            </a>
+        </div>
+
+        <!-- Loading State -->
+        <div id="loading" class="text-center py-12">
+            <div class="inline-block animate-spin rounded-full h-12 w-12 border-b-2 border-gray-900"></div>
+            <p class="mt-4 text-gray-600">Loading CNA data...</p>
+        </div>
+
+        <!-- Error State -->
+        <div id="error" class="hidden bg-red-50 border border-red-200 rounded-lg p-6">
+            <h2 class="text-lg font-semibold text-red-800 mb-2">Error Loading CNA</h2>
+            <p class="text-red-600" id="error-message"></p>
+        </div>
+
+        <!-- CNA Content -->
+        <div id="cna-content" class="hidden">
+            <!-- Header Card -->
+            <div class="bg-white rounded-lg shadow p-6 mb-6 fade-in">
+                <div class="flex items-start justify-between">
+                    <div>
+                        <h1 class="text-3xl font-bold text-gray-900 mb-2" id="cna-title"></h1>
+                        <p class="text-gray-600" id="cna-subtitle"></p>
+                        <a id="cna-advisory-link" class="hidden inline-flex items-center mt-2 text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
+                            <svg class="w-4 h-4 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path>
+                            </svg>
+                            Security Advisories
+                        </a>
+                    </div>
+                    <span id="status-badge"></span>
+                </div>
+            </div>
+
+            <!-- Metrics Row -->
+            <div class="grid grid-cols-1 md:grid-cols-4 gap-6 mb-6 fade-in">
+                <div class="bg-white rounded-lg shadow p-6">
+                    <p class="text-sm font-medium text-gray-500">12-Month Avg</p>
+                    <p class="text-3xl font-bold text-gray-900 mt-2" id="metric-baseline">0</p>
+                </div>
+                <div class="bg-white rounded-lg shadow p-6">
+                    <p class="text-sm font-medium text-gray-500">Last 30 Days</p>
+                    <p class="text-3xl font-bold text-gray-900 mt-2" id="metric-current">0</p>
+                </div>
+                <div class="bg-white rounded-lg shadow p-6">
+                    <p class="text-sm font-medium text-gray-500">Deviation</p>
+                    <p class="text-3xl font-bold text-gray-900 mt-2" id="metric-deviation">0%</p>
+                </div>
+                <div class="bg-white rounded-lg shadow p-6">
+                    <p class="text-sm font-medium text-gray-500">Days Since Last CVE</p>
+                    <p class="text-3xl font-bold text-gray-900 mt-2" id="metric-days">-</p>
+                </div>
+            </div>
+
+            <!-- Chart Card -->
+            <div class="bg-white rounded-lg shadow p-6 fade-in">
+                <h2 class="text-xl font-semibold text-gray-900 mb-4">13-Month Publishing Activity</h2>
+                <p class="text-sm text-gray-600 mb-6">
+                    12 months of baseline data + current 30-day period
+                </p>
+                <div class="relative" style="height: 400px;">
+                    <canvas id="timeline-chart"></canvas>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="cna-detail.js"></script>
+</body>
+</html>

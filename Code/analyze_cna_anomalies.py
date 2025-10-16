@@ -27,15 +27,13 @@ except ImportError:
 class CVEMonitor:
     """Main class for CVE monitoring and anomaly detection."""
     
-    def __init__(self, repo_url="https://github.com/CVEProject/cvelistV5.git", 
-                 data_dir="cvelistV5"):
-        self.repo_url = repo_url
-        self.data_dir = data_dir
-        self.cves_dir = os.path.join(data_dir, "cves")
+    def __init__(self):
+        self.cves_dir = 'cvelistV5/cves'
         self.now = datetime.now()
         self.monitoring_window = 30  # days
-        self.baseline_months = 12
-        self.cna_org_names = {}  # Cache for CNA organization names
+        self.baseline_months = 12  # months
+        self.cna_org_names = {}  # Map CNA short names to organization names
+        self.cna_by_uuid = {}  # Map UUID to CNA info for better matching
         
     def load_cna_organization_names(self):
         """Download and cache CNA organization names from official list."""
@@ -56,6 +54,7 @@ class CVEMonitor:
             for cna in cna_list:
                 short_name = cna.get('shortName') or cna.get('ShortName') or cna.get('cnaShortName')
                 org_name = cna.get('organizationName', '')
+                uuid = cna.get('UUID') or cna.get('uuid')
                 
                 # Get advisory URL (try multiple locations)
                 advisory_url = ''
@@ -73,17 +72,54 @@ class CVEMonitor:
                     if advisories and len(advisories) > 0:
                         advisory_url = advisories[0].get('url', '')
                 
+                cna_info = {
+                    'org_name': org_name or short_name,
+                    'advisory_url': advisory_url,
+                    'short_name': short_name,
+                    'uuid': uuid
+                }
+                
+                # Index by shortName (exact)
                 if short_name:
-                    self.cna_org_names[short_name] = {
-                        'org_name': org_name or short_name,
-                        'advisory_url': advisory_url
-                    }
+                    self.cna_org_names[short_name] = cna_info
+                    # Also index by lowercase for case-insensitive lookup
+                    self.cna_org_names[short_name.lower()] = cna_info
+                
+                # Index by UUID for more reliable matching
+                if uuid:
+                    self.cna_by_uuid[uuid] = cna_info
             
             print(f"Mapped {len(self.cna_org_names)} CNA organization names")
+            print(f"Mapped {len(self.cna_by_uuid)} CNAs by UUID")
             
         except Exception as e:
             print(f"Warning: Could not download CNA list: {e}")
             print("Will use short names only")
+    
+    def get_cna_info(self, short_name, assigner_id):
+        """
+        Look up CNA info with multiple fallback strategies.
+        Returns dict with org_name and advisory_url.
+        """
+        # Try exact match on short name
+        if short_name in self.cna_org_names:
+            return self.cna_org_names[short_name]
+        
+        # Try lowercase match
+        if short_name and short_name.lower() in self.cna_org_names:
+            return self.cna_org_names[short_name.lower()]
+        
+        # Try UUID match
+        if assigner_id in self.cna_by_uuid:
+            return self.cna_by_uuid[assigner_id]
+        
+        # Return default
+        return {
+            'org_name': short_name or 'Unknown',
+            'advisory_url': '',
+            'short_name': short_name,
+            'uuid': assigner_id
+        }
         
     def parse_cve_files(self):
         """
@@ -161,11 +197,40 @@ class CVEMonitor:
         except (ValueError, AttributeError):
             return None
     
+    def generate_13month_timeline(self, monthly_data, current_count, monitoring_window_days=30):
+        """Generate 13-month timeline: 12 baseline months + current period."""
+        # Calculate the last 13 months
+        timeline = []
+        
+        # Start from 12 months ago
+        start_date = self.now - timedelta(days=365)  # ~12 months
+        
+        for i in range(12):
+            # Calculate month
+            month_date = start_date + timedelta(days=30 * i)
+            month_key = (month_date.year, month_date.month)
+            
+            count = monthly_data.get(month_key, 0)
+            month_label = month_date.strftime('%b %Y')
+            
+            timeline.append({
+                'month': month_label,
+                'count': count,
+                'is_current': False
+            })
+        
+        # Add current 30-day period
+        current_label = self.now.strftime('%b %Y') + ' (Current)'
+        timeline.append({
+            'month': current_label,
+            'count': current_count,
+            'is_current': True
+        })
+        
+        return timeline
+    
     def analyze_cna_activity(self, cve_data):
-        """
-        Core anomaly detection logic.
-        Returns anomaly data and metadata.
-        """
+        """Analyze CNA publishing activity for anomalies."""
         print("\nAnalyzing CNA activity...")
         
         # Calculate date boundaries
@@ -226,7 +291,8 @@ class CVEMonitor:
                     cna_baselines[assigner_id] = {
                         'avg_monthly': avg_monthly,
                         'short_name': cna_names.get(assigner_id, 'Unknown'),
-                        'monthly_counts': list(monthly_counts.values())
+                        'monthly_counts': list(monthly_counts.values()),
+                        'monthly_data': dict(monthly_counts)  # Store month keys for timeline
                     }
         
         print(f"Found {len(cna_baselines)} CNAs with baseline data")
@@ -314,15 +380,15 @@ class CVEMonitor:
             
             # Get organization name and advisory URL from official list
             short_name = baseline_info['short_name']
-            cna_info = self.cna_org_names.get(short_name, {})
+            cna_info = self.get_cna_info(short_name, assigner_id)
+            org_name = cna_info.get('org_name', '')
+            advisory_url = cna_info.get('advisory_url', '')
             
-            if isinstance(cna_info, dict):
-                org_name = cna_info.get('org_name', '')
-                advisory_url = cna_info.get('advisory_url', '')
-            else:
-                # Fallback for old format
-                org_name = cna_info if cna_info else ''
-                advisory_url = ''
+            # Generate 13-month timeline for detail page
+            timeline_13months = self.generate_13month_timeline(
+                baseline_info.get('monthly_data', {}),
+                current_count
+            )
             
             cna_entry = {
                 'assigner_id': assigner_id,
@@ -336,7 +402,8 @@ class CVEMonitor:
                 'days_since_last_cve': days_since_last,
                 'std_dev': round(std_dev, 2) if std_dev > 0 else None,
                 'threshold_low': round(threshold_low, 2),
-                'threshold_high': round(threshold_high, 2)
+                'threshold_high': round(threshold_high, 2),
+                'timeline_13months': timeline_13months
             }
             
             # Add to all CNAs list
@@ -366,14 +433,12 @@ class CVEMonitor:
             
             # Get organization name and advisory URL
             short_name = cna_names.get(assigner_id, 'Unknown')
-            cna_info = self.cna_org_names.get(short_name, {})
+            cna_info = self.get_cna_info(short_name, assigner_id)
+            org_name = cna_info.get('org_name', '')
+            advisory_url = cna_info.get('advisory_url', '')
             
-            if isinstance(cna_info, dict):
-                org_name = cna_info.get('org_name', '')
-                advisory_url = cna_info.get('advisory_url', '')
-            else:
-                org_name = cna_info if cna_info else ''
-                advisory_url = ''
+            # Generate 13-month timeline for new CNAs (all zeros + current)
+            timeline_13months = self.generate_13month_timeline({}, current_count)
             
             # New CNAs are marked as "Growth" (went from 0 to something)
             cna_entry = {
@@ -388,7 +453,8 @@ class CVEMonitor:
                 'days_since_last_cve': days_since_last,
                 'std_dev': None,
                 'threshold_low': 0.0,
-                'threshold_high': 0.0
+                'threshold_high': 0.0,
+                'timeline_13months': timeline_13months
             }
             
             all_cnas.append(cna_entry)
@@ -396,14 +462,12 @@ class CVEMonitor:
         
         # Process completely inactive CNAs (in official list but no CVEs in dataset)
         for short_name in inactive_cna_names:
-            cna_info = self.cna_org_names.get(short_name, {})
+            cna_info = self.get_cna_info(short_name, None)
+            org_name = cna_info.get('org_name', short_name)
+            advisory_url = cna_info.get('advisory_url', '')
             
-            if isinstance(cna_info, dict):
-                org_name = cna_info.get('org_name', short_name)
-                advisory_url = cna_info.get('advisory_url', '')
-            else:
-                org_name = cna_info if cna_info else short_name
-                advisory_url = ''
+            # Generate 13-month timeline for inactive CNAs (all zeros)
+            timeline_13months = self.generate_13month_timeline({}, 0)
             
             # Completely inactive CNAs - marked as "Inactive" (their own category)
             cna_entry = {
@@ -418,7 +482,8 @@ class CVEMonitor:
                 'days_since_last_cve': None,  # Unknown/never
                 'std_dev': None,
                 'threshold_low': 0.0,
-                'threshold_high': 0.0
+                'threshold_high': 0.0,
+                'timeline_13months': timeline_13months
             }
             
             all_cnas.append(cna_entry)

@@ -31,10 +31,10 @@ CNAPulse monitors all **512 official CVE Numbering Authorities (CNAs)** and trac
 2. **Monitoring Window**: Tracks CVE publications in the last 30 days.
 
 3. **Status Classification**: Compares current activity to baseline:
-   - **Growth** (🟢): Publishing >250% of baseline (+150% growth or more)
-   - **Normal** (⚪): Publishing 50-250% of baseline (within expected range)
-   - **Declining** (🔴): Publishing <50% of baseline (-50% decline or more)
-   - **Inactive** (⚫): No CVEs published in the entire dataset
+   - **Growth**: Publishing >250% of baseline (+150% growth or more)
+   - **Normal**: Publishing 50-250% of baseline (within expected range)
+   - **Declining**: Publishing <50% of baseline (-50% decline or more)
+   - **Inactive**: No CVEs published in the entire dataset
 
 4. **Enhanced Detection**:
    - **New CNAs**: Shows ∞ (infinity) for CNAs with 0 baseline but recent activity
@@ -174,17 +174,10 @@ The live dashboard at **[cnapulse.org](https://cnapulse.org)** includes:
 ### Interactive Table
 - **Sortable Columns**: Click any header to sort (CNA Name, Status, Baseline, Current, Days Since Last, Deviation)
 - **Search**: Real-time filtering by CNA name or organization
-- **Color Coding**: 
-  - 🟢 Green rows for Growth CNAs
-  - ⚪ White rows for Normal CNAs
-  - 🔴 Red rows for Declining CNAs
-  - ⚫ Gray rows for Inactive CNAs
+- **Striped Design**: Simple alternating white/gray rows for easy readability without value judgment
+- **Neutral Status Badges**: All status indicators use the same gray badge styling
 - **Clickable CNA Names**: Direct links to 315+ CNA advisory pages
-- **Days Since Last CVE**: Color-coded recency indicators
-  - Green: ≤7 days (very recent)
-  - Gray: 8-30 days (normal)
-  - Orange: 31-90 days (getting old)
-  - Red: >90 days (very old)
+- **Days Since Last CVE**: Shows days as neutral numbers without color coding
 - **Deviation Display**: 
   - Percentages for normal CNAs
   - ∞ (infinity) for new CNAs
