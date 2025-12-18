@@ -78,6 +78,7 @@ jobs:
         run: |
           git add Web/anomaly_data.json
           git commit -m "Update CNA anomaly data - $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+          git pull --rebase origin main
           git push
       
       - name: Upload artifacts

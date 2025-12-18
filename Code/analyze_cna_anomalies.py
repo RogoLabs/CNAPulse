@@ -150,6 +150,11 @@ class CVEMonitor:
                 with open(json_file, 'r', encoding='utf-8') as f:
                     data = json.load(f)
                 
+                # Skip files where root element is a list (e.g., deltaLog.json)
+                if isinstance(data, list):
+                    processed += 1
+                    continue
+                
                 # Extract required fields
                 cve_metadata = data.get('cveMetadata', {})
                 
