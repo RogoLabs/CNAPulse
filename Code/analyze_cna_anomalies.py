@@ -657,6 +657,45 @@ class CVEMonitor:
 
         self._update_history_index(history_dir)
 
+    def save_split_results(self, results: dict[str, Any]) -> None:
+        """Save results split into summary + per-CNA detail files."""
+        # Summary file (no timeline data - lightweight for main page)
+        summary: dict[str, Any] = {
+            "metadata": results["metadata"],
+            "cnas": [
+                {
+                    "assigner_id": c["assigner_id"],
+                    "cna_name": c["cna_name"],
+                    "cna_org_name": c["cna_org_name"],
+                    "cna_advisory_url": c["cna_advisory_url"],
+                    "status": c["status"],
+                    "baseline_avg": c["baseline_avg"],
+                    "current_count": c["current_count"],
+                    "deviation_pct": c["deviation_pct"],
+                    "days_since_last_cve": c["days_since_last_cve"],
+                    "country": c.get("country", ""),
+                    "scope_type": c.get("scope_type", ""),
+                }
+                for c in results["cnas"]
+            ],
+        }
+
+        summary_file = "Web/summary.json"
+        with open(summary_file, "w", encoding="utf-8") as f:
+            json.dump(summary, f, indent=2, ensure_ascii=False)
+
+        # Per-CNA detail files (with timeline)
+        detail_dir = Path("Web/cna")
+        detail_dir.mkdir(parents=True, exist_ok=True)
+
+        for cna in results["cnas"]:
+            cna_file = detail_dir / f"{cna['cna_name']}.json"
+            with open(cna_file, "w", encoding="utf-8") as f:
+                json.dump(cna, f, indent=2, ensure_ascii=False)
+
+        print(f"Summary saved: {summary_file}")
+        print(f"CNA details saved: {len(results['cnas'])} files in Web/cna/")
+
     def _update_history_index(self, history_dir: Path) -> None:
         """Maintain a history index file listing all available snapshots."""
         snapshots = sorted(history_dir.glob("2*.json"), reverse=True)
@@ -687,6 +726,7 @@ class CVEMonitor:
         # Step 4: Generate report
         self.save_results(results)
         self.save_daily_snapshot(results)
+        self.save_split_results(results)
 
         print("\n" + "=" * 80)
         print("Processing complete!")
