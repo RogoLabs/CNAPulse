@@ -1,0 +1,83 @@
+{
+  "assigner_id": "7d616e1a-3288-43b1-a0dd-0a65d3e70a49",
+  "cna_name": "ConnectWise",
+  "cna_org_name": "ConnectWise LLC",
+  "cna_advisory_url": "https://www.connectwise.com/company/trust/security-bulletins",
+  "country": "USA",
+  "scope_type": "",
+  "status": "Normal",
+  "baseline_avg": 1.43,
+  "current_count": 1,
+  "deviation_pct": -30.0,
+  "days_since_last_cve": 17,
+  "std_dev": 0.53,
+  "threshold_low": 0.71,
+  "threshold_high": 3.57,
+  "timeline_13months": [
+    {
+      "month": "Days 390-360",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Days 360-330",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Days 330-300",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 300-270",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Days 270-240",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 240-210",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 210-180",
+      "count": 2,
+      "is_current": false
+    },
+    {
+      "month": "Days 180-150",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 150-120",
+      "count": 2,
+      "is_current": false
+    },
+    {
+      "month": "Days 120-90",
+      "count": 2,
+      "is_current": false
+    },
+    {
+      "month": "Days 90-60",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 60-30",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Last 30 Days",
+      "count": 1,
+      "is_current": true
+    }
+  ]
+}

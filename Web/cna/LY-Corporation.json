@@ -1,0 +1,83 @@
+{
+  "assigner_id": "657f3255-0560-4aed-82e4-7f579ec6acfb",
+  "cna_name": "LY-Corporation",
+  "cna_org_name": "LY Corporation",
+  "cna_advisory_url": "https://line.github.io/security-advisory-blog/advisory",
+  "country": "Japan",
+  "scope_type": "",
+  "status": "Declining",
+  "baseline_avg": 3.0,
+  "current_count": 1,
+  "deviation_pct": -66.7,
+  "days_since_last_cve": 21,
+  "std_dev": null,
+  "threshold_low": 1.5,
+  "threshold_high": 7.5,
+  "timeline_13months": [
+    {
+      "month": "Days 390-360",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 360-330",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 330-300",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 300-270",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 270-240",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 240-210",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 210-180",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 180-150",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 150-120",
+      "count": 6,
+      "is_current": false
+    },
+    {
+      "month": "Days 120-90",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 90-60",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 60-30",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Last 30 Days",
+      "count": 1,
+      "is_current": true
+    }
+  ]
+}

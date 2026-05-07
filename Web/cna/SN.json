@@ -1,0 +1,83 @@
+{
+  "assigner_id": "303448ea-6ef3-4077-ad29-5c9bf253c375",
+  "cna_name": "SN",
+  "cna_org_name": "ServiceNow",
+  "cna_advisory_url": "https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1226057",
+  "country": "USA",
+  "scope_type": "",
+  "status": "Declining",
+  "baseline_avg": 1.2,
+  "current_count": 0,
+  "deviation_pct": -100.0,
+  "days_since_last_cve": 70,
+  "std_dev": 0.45,
+  "threshold_low": 0.6,
+  "threshold_high": 3.0,
+  "timeline_13months": [
+    {
+      "month": "Days 390-360",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 360-330",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 330-300",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 300-270",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Days 270-240",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Days 240-210",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 210-180",
+      "count": 2,
+      "is_current": false
+    },
+    {
+      "month": "Days 180-150",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 150-120",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 120-90",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Days 90-60",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Days 60-30",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Last 30 Days",
+      "count": 0,
+      "is_current": true
+    }
+  ]
+}

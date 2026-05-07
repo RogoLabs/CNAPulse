@@ -1,0 +1,83 @@
+{
+  "assigner_id": "c4f26cc8-17ff-4c99-b5e2-38fc1793eacc",
+  "cna_name": "wikimedia-foundation",
+  "cna_org_name": "The Wikimedia Foundation",
+  "cna_advisory_url": "https://gitlab.wikimedia.org/repos/security/wikimedia-cve-assignments",
+  "country": "USA",
+  "scope_type": "",
+  "status": "Declining",
+  "baseline_avg": 25.0,
+  "current_count": 5,
+  "deviation_pct": -80.0,
+  "days_since_last_cve": 29,
+  "std_dev": 20.68,
+  "threshold_low": 12.5,
+  "threshold_high": 62.5,
+  "timeline_13months": [
+    {
+      "month": "Days 390-360",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 360-330",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 330-300",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 300-270",
+      "count": 30,
+      "is_current": false
+    },
+    {
+      "month": "Days 270-240",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 240-210",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 210-180",
+      "count": 31,
+      "is_current": false
+    },
+    {
+      "month": "Days 180-150",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 150-120",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 120-90",
+      "count": 10,
+      "is_current": false
+    },
+    {
+      "month": "Days 90-60",
+      "count": 47,
+      "is_current": false
+    },
+    {
+      "month": "Days 60-30",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Last 30 Days",
+      "count": 5,
+      "is_current": true
+    }
+  ]
+}

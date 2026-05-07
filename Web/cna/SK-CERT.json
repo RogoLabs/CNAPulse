@@ -1,0 +1,83 @@
+{
+  "assigner_id": "bc375322-d3d7-4481-b261-e29662236cfd",
+  "cna_name": "SK-CERT",
+  "cna_org_name": "National Cyber Security Centre SK-CERT",
+  "cna_advisory_url": "https://www.sk-cert.sk/threat/",
+  "country": "Slovak Republic",
+  "scope_type": "",
+  "status": "Declining",
+  "baseline_avg": 1.0,
+  "current_count": 0,
+  "deviation_pct": -100.0,
+  "days_since_last_cve": 49,
+  "std_dev": null,
+  "threshold_low": 0.5,
+  "threshold_high": 2.5,
+  "timeline_13months": [
+    {
+      "month": "Days 390-360",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 360-330",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 330-300",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 300-270",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 270-240",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 240-210",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 210-180",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 180-150",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 150-120",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 120-90",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 90-60",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 60-30",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Last 30 Days",
+      "count": 0,
+      "is_current": true
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "assigner_id": "db4dfee8-a97e-4877-bfae-eba6d14a2166",
+  "cna_name": "NCSC-FI",
+  "cna_org_name": "National Cyber Security Centre Finland (NCSC-FI)",
+  "cna_advisory_url": "https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuudet",
+  "country": "Finland",
+  "scope_type": "",
+  "status": "Growth",
+  "baseline_avg": 2.6,
+  "current_count": 7,
+  "deviation_pct": 169.2,
+  "days_since_last_cve": 10,
+  "std_dev": 1.14,
+  "threshold_low": 1.3,
+  "threshold_high": 6.5,
+  "timeline_13months": [
+    {
+      "month": "Days 390-360",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 360-330",
+      "count": 3,
+      "is_current": false
+    },
+    {
+      "month": "Days 330-300",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 300-270",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 270-240",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 240-210",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Days 210-180",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 180-150",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 150-120",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 120-90",
+      "count": 2,
+      "is_current": false
+    },
+    {
+      "month": "Days 90-60",
+      "count": 2,
+      "is_current": false
+    },
+    {
+      "month": "Days 60-30",
+      "count": 5,
+      "is_current": false
+    },
+    {
+      "month": "Last 30 Days",
+      "count": 7,
+      "is_current": true
+    }
+  ]
+}

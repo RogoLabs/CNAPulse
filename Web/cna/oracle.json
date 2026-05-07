@@ -1,0 +1,83 @@
+{
+  "assigner_id": "43595867-4340-4103-b7a2-9a5208d29a85",
+  "cna_name": "oracle",
+  "cna_org_name": "Oracle",
+  "cna_advisory_url": "https://www.oracle.com/security-alerts/",
+  "country": "USA",
+  "scope_type": "",
+  "status": "Normal",
+  "baseline_avg": 50.0,
+  "current_count": 108,
+  "deviation_pct": 116.0,
+  "days_since_last_cve": 1,
+  "std_dev": 37.02,
+  "threshold_low": 25.0,
+  "threshold_high": 125.0,
+  "timeline_13months": [
+    {
+      "month": "Days 390-360",
+      "count": 73,
+      "is_current": false
+    },
+    {
+      "month": "Days 360-330",
+      "count": 2,
+      "is_current": false
+    },
+    {
+      "month": "Days 330-300",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 300-270",
+      "count": 77,
+      "is_current": false
+    },
+    {
+      "month": "Days 270-240",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 240-210",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Days 210-180",
+      "count": 78,
+      "is_current": false
+    },
+    {
+      "month": "Days 180-150",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 150-120",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 120-90",
+      "count": 66,
+      "is_current": false
+    },
+    {
+      "month": "Days 90-60",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 60-30",
+      "count": 3,
+      "is_current": false
+    },
+    {
+      "month": "Last 30 Days",
+      "count": 108,
+      "is_current": true
+    }
+  ]
+}

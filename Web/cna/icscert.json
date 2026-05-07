@@ -1,0 +1,83 @@
+{
+  "assigner_id": "7d14cffa-0d7d-4270-9dc0-52cabd5a23a6",
+  "cna_name": "icscert",
+  "cna_org_name": "Cybersecurity and Infrastructure Security Agency (CISA) Industrial Control Systems (ICS)",
+  "cna_advisory_url": "https://cisa.gov/icsa",
+  "country": "USA",
+  "scope_type": "",
+  "status": "Normal",
+  "baseline_avg": 32.0,
+  "current_count": 41,
+  "deviation_pct": 28.1,
+  "days_since_last_cve": 9,
+  "std_dev": 18.32,
+  "threshold_low": 16.0,
+  "threshold_high": 80.0,
+  "timeline_13months": [
+    {
+      "month": "Days 390-360",
+      "count": 38,
+      "is_current": false
+    },
+    {
+      "month": "Days 360-330",
+      "count": 23,
+      "is_current": false
+    },
+    {
+      "month": "Days 330-300",
+      "count": 31,
+      "is_current": false
+    },
+    {
+      "month": "Days 300-270",
+      "count": 24,
+      "is_current": false
+    },
+    {
+      "month": "Days 270-240",
+      "count": 24,
+      "is_current": false
+    },
+    {
+      "month": "Days 240-210",
+      "count": 26,
+      "is_current": false
+    },
+    {
+      "month": "Days 210-180",
+      "count": 20,
+      "is_current": false
+    },
+    {
+      "month": "Days 180-150",
+      "count": 33,
+      "is_current": false
+    },
+    {
+      "month": "Days 150-120",
+      "count": 32,
+      "is_current": false
+    },
+    {
+      "month": "Days 120-90",
+      "count": 21,
+      "is_current": false
+    },
+    {
+      "month": "Days 90-60",
+      "count": 70,
+      "is_current": false
+    },
+    {
+      "month": "Days 60-30",
+      "count": 36,
+      "is_current": false
+    },
+    {
+      "month": "Last 30 Days",
+      "count": 41,
+      "is_current": true
+    }
+  ]
+}

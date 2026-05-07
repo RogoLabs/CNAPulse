@@ -1,0 +1,83 @@
+{
+  "assigner_id": "c15abc07-96a9-4d11-a503-5d621bfe42ba",
+  "cna_name": "ASRG",
+  "cna_org_name": "Automotive Security Research Group (ASRG)",
+  "cna_advisory_url": "https://www.asrg.io/security-advisories/",
+  "country": "USA",
+  "scope_type": "",
+  "status": "Declining",
+  "baseline_avg": 5.4,
+  "current_count": 0,
+  "deviation_pct": -100.0,
+  "days_since_last_cve": 81,
+  "std_dev": 5.86,
+  "threshold_low": 2.7,
+  "threshold_high": 13.5,
+  "timeline_13months": [
+    {
+      "month": "Days 390-360",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 360-330",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 330-300",
+      "count": 14,
+      "is_current": false
+    },
+    {
+      "month": "Days 300-270",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 270-240",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Days 240-210",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Days 210-180",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 180-150",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 150-120",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 120-90",
+      "count": 2,
+      "is_current": false
+    },
+    {
+      "month": "Days 90-60",
+      "count": 9,
+      "is_current": false
+    },
+    {
+      "month": "Days 60-30",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Last 30 Days",
+      "count": 0,
+      "is_current": true
+    }
+  ]
+}

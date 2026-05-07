@@ -1,0 +1,83 @@
+{
+  "assigner_id": "076d1eb6-cfab-4401-b34d-6dfc2a413bdb",
+  "cna_name": "schneider",
+  "cna_org_name": "Schneider Electric",
+  "cna_advisory_url": "https://www.se.com/ww/en/work/support/cybersecurity/security-notifications.jsp",
+  "country": "France",
+  "scope_type": "",
+  "status": "Growth",
+  "baseline_avg": 5.75,
+  "current_count": 8,
+  "deviation_pct": 39.1,
+  "days_since_last_cve": 23,
+  "std_dev": 3.69,
+  "threshold_low": 2.88,
+  "threshold_high": 14.38,
+  "timeline_13months": [
+    {
+      "month": "Days 390-360",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 360-330",
+      "count": 2,
+      "is_current": false
+    },
+    {
+      "month": "Days 330-300",
+      "count": 10,
+      "is_current": false
+    },
+    {
+      "month": "Days 300-270",
+      "count": 7,
+      "is_current": false
+    },
+    {
+      "month": "Days 270-240",
+      "count": 10,
+      "is_current": false
+    },
+    {
+      "month": "Days 240-210",
+      "count": 3,
+      "is_current": false
+    },
+    {
+      "month": "Days 210-180",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 180-150",
+      "count": 3,
+      "is_current": false
+    },
+    {
+      "month": "Days 150-120",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 120-90",
+      "count": 3,
+      "is_current": false
+    },
+    {
+      "month": "Days 90-60",
+      "count": 2,
+      "is_current": false
+    },
+    {
+      "month": "Days 60-30",
+      "count": 6,
+      "is_current": false
+    },
+    {
+      "month": "Last 30 Days",
+      "count": 8,
+      "is_current": true
+    }
+  ]
+}

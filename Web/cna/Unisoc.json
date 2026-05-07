@@ -1,0 +1,83 @@
+{
+  "assigner_id": "63f92e9c-2193-4c24-98a9-93640392c3d3",
+  "cna_name": "Unisoc",
+  "cna_org_name": "Unisoc (Shanghai) Technologies Co., Ltd.",
+  "cna_advisory_url": "https://www.unisoc.com/en_us/secy/announcement",
+  "country": "China",
+  "scope_type": "",
+  "status": "Normal",
+  "baseline_avg": 5.14,
+  "current_count": 6,
+  "deviation_pct": 16.7,
+  "days_since_last_cve": 1,
+  "std_dev": 4.45,
+  "threshold_low": 2.57,
+  "threshold_high": 12.86,
+  "timeline_13months": [
+    {
+      "month": "Days 390-360",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 360-330",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Days 330-300",
+      "count": 3,
+      "is_current": false
+    },
+    {
+      "month": "Days 300-270",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 270-240",
+      "count": 4,
+      "is_current": false
+    },
+    {
+      "month": "Days 240-210",
+      "count": 6,
+      "is_current": false
+    },
+    {
+      "month": "Days 210-180",
+      "count": 2,
+      "is_current": false
+    },
+    {
+      "month": "Days 180-150",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Days 150-120",
+      "count": 11,
+      "is_current": false
+    },
+    {
+      "month": "Days 120-90",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 90-60",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 60-30",
+      "count": 8,
+      "is_current": false
+    },
+    {
+      "month": "Last 30 Days",
+      "count": 6,
+      "is_current": true
+    }
+  ]
+}

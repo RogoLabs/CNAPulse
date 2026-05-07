@@ -1,0 +1,83 @@
+{
+  "assigner_id": "68630edc-a58c-4cbd-9b01-0e130455c8ae",
+  "cna_name": "ASR",
+  "cna_org_name": "ASR Microelectronics Co., Ltd.",
+  "cna_advisory_url": "https://www.asrmicro.com/en/goods/psirt",
+  "country": "China",
+  "scope_type": "",
+  "status": "Declining",
+  "baseline_avg": 5.5,
+  "current_count": 2,
+  "deviation_pct": -63.6,
+  "days_since_last_cve": 7,
+  "std_dev": null,
+  "threshold_low": 2.75,
+  "threshold_high": 13.75,
+  "timeline_13months": [
+    {
+      "month": "Days 390-360",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 360-330",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 330-300",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 300-270",
+      "count": 10,
+      "is_current": false
+    },
+    {
+      "month": "Days 270-240",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 240-210",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 210-180",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 180-150",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Days 150-120",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 120-90",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 90-60",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 60-30",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Last 30 Days",
+      "count": 2,
+      "is_current": true
+    }
+  ]
+}

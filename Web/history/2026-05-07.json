@@ -1,0 +1,113 @@
+{
+  "date": "2026-05-07",
+  "generated_at": "2026-05-07T20:01:45.977532",
+  "total_cnas": 545,
+  "cnas_growth": 39,
+  "cnas_normal": 93,
+  "cnas_declining": 249,
+  "cnas_inactive": 164,
+  "top_growth": [
+    {
+      "cna_name": "Echo",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "FSOFT",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "securin",
+      "current_count": 7,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Nutanix",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "SCHUTZWERK",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "CIRCL",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "SNOWFLAKE",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "canonical",
+      "current_count": 53,
+      "deviation_pct": 1192.7
+    },
+    {
+      "cna_name": "GV",
+      "current_count": 12,
+      "deviation_pct": 1100.0
+    },
+    {
+      "cna_name": "Chrome",
+      "current_count": 251,
+      "deviation_pct": 999.3
+    }
+  ],
+  "top_declining": [
+    {
+      "cna_name": "Zyxel",
+      "current_count": 3,
+      "deviation_pct": 5.9
+    },
+    {
+      "cna_name": "mongodb",
+      "current_count": 5,
+      "deviation_pct": 4.7
+    },
+    {
+      "cna_name": "TPLink",
+      "current_count": 7,
+      "deviation_pct": -24.5
+    },
+    {
+      "cna_name": "ASUSTOR1",
+      "current_count": 2,
+      "deviation_pct": -25.0
+    },
+    {
+      "cna_name": "tenable",
+      "current_count": 2,
+      "deviation_pct": -31.0
+    },
+    {
+      "cna_name": "SamsungMobile",
+      "current_count": 11,
+      "deviation_pct": -45.3
+    },
+    {
+      "cna_name": "autodesk",
+      "current_count": 3,
+      "deviation_pct": -52.2
+    },
+    {
+      "cna_name": "GoogleCloud",
+      "current_count": 2,
+      "deviation_pct": -53.8
+    },
+    {
+      "cna_name": "Mandiant",
+      "current_count": 1,
+      "deviation_pct": -54.5
+    },
+    {
+      "cna_name": "Patchstack",
+      "current_count": 221,
+      "deviation_pct": -54.6
+    }
+  ]
+}

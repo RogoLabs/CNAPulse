@@ -1,0 +1,83 @@
+{
+  "assigner_id": "57da9224-a3e2-4646-9d0e-c4dc2e05e7da",
+  "cna_name": "GRAFANA",
+  "cna_org_name": "Grafana Labs",
+  "cna_advisory_url": "https://grafana.com/security/security-advisories/",
+  "country": "USA",
+  "scope_type": "",
+  "status": "Normal",
+  "baseline_avg": 3.11,
+  "current_count": 5,
+  "deviation_pct": 60.7,
+  "days_since_last_cve": 13,
+  "std_dev": 2.15,
+  "threshold_low": 1.56,
+  "threshold_high": 7.78,
+  "timeline_13months": [
+    {
+      "month": "Days 390-360",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Days 360-330",
+      "count": 2,
+      "is_current": false
+    },
+    {
+      "month": "Days 330-300",
+      "count": 3,
+      "is_current": false
+    },
+    {
+      "month": "Days 300-270",
+      "count": 3,
+      "is_current": false
+    },
+    {
+      "month": "Days 270-240",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Days 240-210",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Days 210-180",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Days 180-150",
+      "count": 3,
+      "is_current": false
+    },
+    {
+      "month": "Days 150-120",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 120-90",
+      "count": 2,
+      "is_current": false
+    },
+    {
+      "month": "Days 90-60",
+      "count": 3,
+      "is_current": false
+    },
+    {
+      "month": "Days 60-30",
+      "count": 8,
+      "is_current": false
+    },
+    {
+      "month": "Last 30 Days",
+      "count": 5,
+      "is_current": true
+    }
+  ]
+}

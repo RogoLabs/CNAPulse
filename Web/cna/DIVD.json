@@ -1,0 +1,83 @@
+{
+  "assigner_id": "b87402ff-ae37-4194-9dae-31abdbd6f217",
+  "cna_name": "DIVD",
+  "cna_org_name": "Dutch Institute for Vulnerability Disclosure (DIVD)",
+  "cna_advisory_url": "https://csirt.divd.nl/cves/",
+  "country": "Netherlands",
+  "scope_type": "",
+  "status": "Declining",
+  "baseline_avg": 4.2,
+  "current_count": 0,
+  "deviation_pct": -100.0,
+  "days_since_last_cve": 145,
+  "std_dev": 4.55,
+  "threshold_low": 2.1,
+  "threshold_high": 10.5,
+  "timeline_13months": [
+    {
+      "month": "Days 390-360",
+      "count": 3,
+      "is_current": false
+    },
+    {
+      "month": "Days 360-330",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 330-300",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Days 300-270",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Days 270-240",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 240-210",
+      "count": 4,
+      "is_current": false
+    },
+    {
+      "month": "Days 210-180",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 180-150",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 150-120",
+      "count": 12,
+      "is_current": false
+    },
+    {
+      "month": "Days 120-90",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 90-60",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 60-30",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Last 30 Days",
+      "count": 0,
+      "is_current": true
+    }
+  ]
+}

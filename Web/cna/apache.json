@@ -1,0 +1,83 @@
+{
+  "assigner_id": "f0158376-9dc2-43b6-827c-5f631a4d8d09",
+  "cna_name": "apache",
+  "cna_org_name": "Apache Software Foundation",
+  "cna_advisory_url": "https://www.openwall.com/lists/oss-security",
+  "country": "USA",
+  "scope_type": "",
+  "status": "Growth",
+  "baseline_avg": 19.17,
+  "current_count": 109,
+  "deviation_pct": 468.7,
+  "days_since_last_cve": 1,
+  "std_dev": 6.04,
+  "threshold_low": 9.58,
+  "threshold_high": 47.92,
+  "timeline_13months": [
+    {
+      "month": "Days 390-360",
+      "count": 7,
+      "is_current": false
+    },
+    {
+      "month": "Days 360-330",
+      "count": 15,
+      "is_current": false
+    },
+    {
+      "month": "Days 330-300",
+      "count": 21,
+      "is_current": false
+    },
+    {
+      "month": "Days 300-270",
+      "count": 24,
+      "is_current": false
+    },
+    {
+      "month": "Days 270-240",
+      "count": 20,
+      "is_current": false
+    },
+    {
+      "month": "Days 240-210",
+      "count": 10,
+      "is_current": false
+    },
+    {
+      "month": "Days 210-180",
+      "count": 19,
+      "is_current": false
+    },
+    {
+      "month": "Days 180-150",
+      "count": 19,
+      "is_current": false
+    },
+    {
+      "month": "Days 150-120",
+      "count": 20,
+      "is_current": false
+    },
+    {
+      "month": "Days 120-90",
+      "count": 22,
+      "is_current": false
+    },
+    {
+      "month": "Days 90-60",
+      "count": 25,
+      "is_current": false
+    },
+    {
+      "month": "Days 60-30",
+      "count": 20,
+      "is_current": false
+    },
+    {
+      "month": "Last 30 Days",
+      "count": 109,
+      "is_current": true
+    }
+  ]
+}

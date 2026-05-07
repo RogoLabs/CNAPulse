@@ -1,0 +1,83 @@
+{
+  "assigner_id": "8ce71d90-2354-404b-a86e-bec2cc4e6981",
+  "cna_name": "OX",
+  "cna_org_name": "Open-Xchange",
+  "cna_advisory_url": "https://documentation.open-xchange.com/appsuite/security/advisories/",
+  "country": "Germany",
+  "scope_type": "",
+  "status": "Normal",
+  "baseline_avg": 3.89,
+  "current_count": 22,
+  "deviation_pct": 465.7,
+  "days_since_last_cve": 15,
+  "std_dev": 5.44,
+  "threshold_low": 1.94,
+  "threshold_high": 9.72,
+  "timeline_13months": [
+    {
+      "month": "Days 390-360",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Days 360-330",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Days 330-300",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 300-270",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Days 270-240",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 240-210",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Days 210-180",
+      "count": 3,
+      "is_current": false
+    },
+    {
+      "month": "Days 180-150",
+      "count": 4,
+      "is_current": false
+    },
+    {
+      "month": "Days 150-120",
+      "count": 2,
+      "is_current": false
+    },
+    {
+      "month": "Days 120-90",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 90-60",
+      "count": 4,
+      "is_current": false
+    },
+    {
+      "month": "Days 60-30",
+      "count": 18,
+      "is_current": false
+    },
+    {
+      "month": "Last 30 Days",
+      "count": 22,
+      "is_current": true
+    }
+  ]
+}

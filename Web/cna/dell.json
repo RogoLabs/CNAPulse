@@ -1,0 +1,83 @@
+{
+  "assigner_id": "c550e75a-17ff-4988-97f0-544cde3820fe",
+  "cna_name": "dell",
+  "cna_org_name": "Dell",
+  "cna_advisory_url": "https://www.dell.com/support/security/en-us",
+  "country": "USA",
+  "scope_type": "",
+  "status": "Growth",
+  "baseline_avg": 18.33,
+  "current_count": 41,
+  "deviation_pct": 123.6,
+  "days_since_last_cve": 8,
+  "std_dev": 10.32,
+  "threshold_low": 9.17,
+  "threshold_high": 45.83,
+  "timeline_13months": [
+    {
+      "month": "Days 390-360",
+      "count": 8,
+      "is_current": false
+    },
+    {
+      "month": "Days 360-330",
+      "count": 13,
+      "is_current": false
+    },
+    {
+      "month": "Days 330-300",
+      "count": 13,
+      "is_current": false
+    },
+    {
+      "month": "Days 300-270",
+      "count": 14,
+      "is_current": false
+    },
+    {
+      "month": "Days 270-240",
+      "count": 28,
+      "is_current": false
+    },
+    {
+      "month": "Days 240-210",
+      "count": 16,
+      "is_current": false
+    },
+    {
+      "month": "Days 210-180",
+      "count": 34,
+      "is_current": false
+    },
+    {
+      "month": "Days 180-150",
+      "count": 20,
+      "is_current": false
+    },
+    {
+      "month": "Days 150-120",
+      "count": 3,
+      "is_current": false
+    },
+    {
+      "month": "Days 120-90",
+      "count": 24,
+      "is_current": false
+    },
+    {
+      "month": "Days 90-60",
+      "count": 24,
+      "is_current": false
+    },
+    {
+      "month": "Days 60-30",
+      "count": 19,
+      "is_current": false
+    },
+    {
+      "month": "Last 30 Days",
+      "count": 41,
+      "is_current": true
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "assigner_id": "a59d8014-47c4-4630-ab43-e1b13cbe58e3",
+  "cna_name": "TQtC",
+  "cna_org_name": "The Qt Company",
+  "cna_advisory_url": "https://wiki.qt.io/List_of_known_vulnerabilities_in_Qt_products",
+  "country": "Finland",
+  "scope_type": "",
+  "status": "Normal",
+  "baseline_avg": 1.8,
+  "current_count": 2,
+  "deviation_pct": 11.1,
+  "days_since_last_cve": 1,
+  "std_dev": 1.3,
+  "threshold_low": 0.9,
+  "threshold_high": 4.5,
+  "timeline_13months": [
+    {
+      "month": "Days 390-360",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 360-330",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Days 330-300",
+      "count": 3,
+      "is_current": false
+    },
+    {
+      "month": "Days 300-270",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Days 270-240",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 240-210",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 210-180",
+      "count": 3,
+      "is_current": false
+    },
+    {
+      "month": "Days 180-150",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 150-120",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Days 120-90",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 90-60",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 60-30",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Last 30 Days",
+      "count": 2,
+      "is_current": true
+    }
+  ]
+}

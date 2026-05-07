@@ -1,0 +1,83 @@
+{
+  "assigner_id": "dcf2e128-44bd-42ed-91e8-88f912c1401d",
+  "cna_name": "vmware",
+  "cna_org_name": "VMware by Broadcom",
+  "cna_advisory_url": "https://www.broadcom.com/support/vmware-security-advisories",
+  "country": "USA",
+  "scope_type": "",
+  "status": "Growth",
+  "baseline_avg": 7.6,
+  "current_count": 31,
+  "deviation_pct": 307.9,
+  "days_since_last_cve": 0,
+  "std_dev": 5.3,
+  "threshold_low": 3.8,
+  "threshold_high": 19.0,
+  "timeline_13months": [
+    {
+      "month": "Days 390-360",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Days 360-330",
+      "count": 14,
+      "is_current": false
+    },
+    {
+      "month": "Days 330-300",
+      "count": 16,
+      "is_current": false
+    },
+    {
+      "month": "Days 300-270",
+      "count": 7,
+      "is_current": false
+    },
+    {
+      "month": "Days 270-240",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Days 240-210",
+      "count": 9,
+      "is_current": false
+    },
+    {
+      "month": "Days 210-180",
+      "count": 2,
+      "is_current": false
+    },
+    {
+      "month": "Days 180-150",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 150-120",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 120-90",
+      "count": 4,
+      "is_current": false
+    },
+    {
+      "month": "Days 90-60",
+      "count": 8,
+      "is_current": false
+    },
+    {
+      "month": "Days 60-30",
+      "count": 14,
+      "is_current": false
+    },
+    {
+      "month": "Last 30 Days",
+      "count": 31,
+      "is_current": true
+    }
+  ]
+}

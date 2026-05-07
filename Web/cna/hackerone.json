@@ -1,0 +1,83 @@
+{
+  "assigner_id": "36234546-b8fa-4601-9d6f-f4e334aa8ea1",
+  "cna_name": "hackerone",
+  "cna_org_name": "HackerOne",
+  "cna_advisory_url": "https://hackerone.com/hacktivity?querystring=&filter=type:hacker-published&order_direction=DESC&order_field=popular",
+  "country": "USA",
+  "scope_type": "",
+  "status": "Normal",
+  "baseline_avg": 10.09,
+  "current_count": 11,
+  "deviation_pct": 9.0,
+  "days_since_last_cve": 3,
+  "std_dev": 7.27,
+  "threshold_low": 5.05,
+  "threshold_high": 25.23,
+  "timeline_13months": [
+    {
+      "month": "Days 390-360",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 360-330",
+      "count": 6,
+      "is_current": false
+    },
+    {
+      "month": "Days 330-300",
+      "count": 15,
+      "is_current": false
+    },
+    {
+      "month": "Days 300-270",
+      "count": 7,
+      "is_current": false
+    },
+    {
+      "month": "Days 270-240",
+      "count": 10,
+      "is_current": false
+    },
+    {
+      "month": "Days 240-210",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 210-180",
+      "count": 9,
+      "is_current": false
+    },
+    {
+      "month": "Days 180-150",
+      "count": 15,
+      "is_current": false
+    },
+    {
+      "month": "Days 150-120",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Days 120-90",
+      "count": 27,
+      "is_current": false
+    },
+    {
+      "month": "Days 90-60",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Days 60-30",
+      "count": 20,
+      "is_current": false
+    },
+    {
+      "month": "Last 30 Days",
+      "count": 11,
+      "is_current": true
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "assigner_id": "3af57064-a867-422c-b2ad-40307b65c458",
+  "cna_name": "SamsungMobile",
+  "cna_org_name": "SamsungMobile",
+  "cna_advisory_url": "",
+  "country": "",
+  "scope_type": "",
+  "status": "Declining",
+  "baseline_avg": 20.1,
+  "current_count": 11,
+  "deviation_pct": -45.3,
+  "days_since_last_cve": 8,
+  "std_dev": 10.48,
+  "threshold_low": 10.05,
+  "threshold_high": 50.25,
+  "timeline_13months": [
+    {
+      "month": "Days 390-360",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 360-330",
+      "count": 30,
+      "is_current": false
+    },
+    {
+      "month": "Days 330-300",
+      "count": 13,
+      "is_current": false
+    },
+    {
+      "month": "Days 300-270",
+      "count": 15,
+      "is_current": false
+    },
+    {
+      "month": "Days 270-240",
+      "count": 16,
+      "is_current": false
+    },
+    {
+      "month": "Days 240-210",
+      "count": 40,
+      "is_current": false
+    },
+    {
+      "month": "Days 210-180",
+      "count": 26,
+      "is_current": false
+    },
+    {
+      "month": "Days 180-150",
+      "count": 8,
+      "is_current": false
+    },
+    {
+      "month": "Days 150-120",
+      "count": 16,
+      "is_current": false
+    },
+    {
+      "month": "Days 120-90",
+      "count": 9,
+      "is_current": false
+    },
+    {
+      "month": "Days 90-60",
+      "count": 11,
+      "is_current": false
+    },
+    {
+      "month": "Days 60-30",
+      "count": 17,
+      "is_current": false
+    },
+    {
+      "month": "Last 30 Days",
+      "count": 11,
+      "is_current": true
+    }
+  ]
+}

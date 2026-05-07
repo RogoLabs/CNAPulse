@@ -1,0 +1,83 @@
+{
+  "assigner_id": "0c426f27-3ee1-4eff-be88-288d5a1822bc",
+  "cna_name": "Gallagher",
+  "cna_org_name": "Gallagher Group Ltd.",
+  "cna_advisory_url": "https://security.gallagher.com/Security-Advisories",
+  "country": "New Zealand",
+  "scope_type": "",
+  "status": "Declining",
+  "baseline_avg": 3.5,
+  "current_count": 0,
+  "deviation_pct": -100.0,
+  "days_since_last_cve": 65,
+  "std_dev": 1.0,
+  "threshold_low": 1.75,
+  "threshold_high": 8.75,
+  "timeline_13months": [
+    {
+      "month": "Days 390-360",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 360-330",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 330-300",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 300-270",
+      "count": 3,
+      "is_current": false
+    },
+    {
+      "month": "Days 270-240",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 240-210",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 210-180",
+      "count": 5,
+      "is_current": false
+    },
+    {
+      "month": "Days 180-150",
+      "count": 3,
+      "is_current": false
+    },
+    {
+      "month": "Days 150-120",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 120-90",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 90-60",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 60-30",
+      "count": 3,
+      "is_current": false
+    },
+    {
+      "month": "Last 30 Days",
+      "count": 0,
+      "is_current": true
+    }
+  ]
+}

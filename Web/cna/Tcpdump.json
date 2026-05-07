@@ -1,0 +1,83 @@
+{
+  "assigner_id": "cfdbb673-b408-4d03-89c1-c3d73ed80896",
+  "cna_name": "Tcpdump",
+  "cna_org_name": "Tcpdump Group",
+  "cna_advisory_url": "https://www.tcpdump.org/public-cve-list.txt",
+  "country": "Canada",
+  "scope_type": "",
+  "status": "Declining",
+  "baseline_avg": 2.0,
+  "current_count": 0,
+  "deviation_pct": -100.0,
+  "days_since_last_cve": 127,
+  "std_dev": null,
+  "threshold_low": 1.0,
+  "threshold_high": 5.0,
+  "timeline_13months": [
+    {
+      "month": "Days 390-360",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 360-330",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 330-300",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 300-270",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 270-240",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 240-210",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 210-180",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 180-150",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 150-120",
+      "count": 2,
+      "is_current": false
+    },
+    {
+      "month": "Days 120-90",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 90-60",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 60-30",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Last 30 Days",
+      "count": 0,
+      "is_current": true
+    }
+  ]
+}

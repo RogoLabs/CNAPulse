@@ -1,0 +1,83 @@
+{
+  "assigner_id": "5a6e4751-2f3f-4070-9419-94fb35b644e8",
+  "cna_name": "CIRCL",
+  "cna_org_name": "Computer Incident Response Center Luxembourg (CIRCL)",
+  "cna_advisory_url": "https://vulnerability.circl.lu/recent#gna-1",
+  "country": "Luxembourg",
+  "scope_type": "",
+  "status": "Growth",
+  "baseline_avg": 0.0,
+  "current_count": 1,
+  "deviation_pct": 999999.0,
+  "days_since_last_cve": 0,
+  "std_dev": null,
+  "threshold_low": 0.0,
+  "threshold_high": 0.0,
+  "timeline_13months": [
+    {
+      "month": "Days 390-360",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 360-330",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 330-300",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 300-270",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 270-240",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 240-210",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 210-180",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 180-150",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 150-120",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 120-90",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 90-60",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 60-30",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Last 30 Days",
+      "count": 1,
+      "is_current": true
+    }
+  ]
+}

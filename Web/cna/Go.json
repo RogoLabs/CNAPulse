@@ -1,0 +1,83 @@
+{
+  "assigner_id": "1bb62c36-49e3-4200-9d77-64a1400537cc",
+  "cna_name": "Go",
+  "cna_org_name": "Go Project",
+  "cna_advisory_url": "https://pkg.go.dev/vuln/list",
+  "country": "USA",
+  "scope_type": "",
+  "status": "Growth",
+  "baseline_avg": 4.64,
+  "current_count": 24,
+  "deviation_pct": 417.6,
+  "days_since_last_cve": 0,
+  "std_dev": 3.47,
+  "threshold_low": 2.32,
+  "threshold_high": 11.59,
+  "timeline_13months": [
+    {
+      "month": "Days 390-360",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Days 360-330",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 330-300",
+      "count": 3,
+      "is_current": false
+    },
+    {
+      "month": "Days 300-270",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Days 270-240",
+      "count": 4,
+      "is_current": false
+    },
+    {
+      "month": "Days 240-210",
+      "count": 2,
+      "is_current": false
+    },
+    {
+      "month": "Days 210-180",
+      "count": 10,
+      "is_current": false
+    },
+    {
+      "month": "Days 180-150",
+      "count": 3,
+      "is_current": false
+    },
+    {
+      "month": "Days 150-120",
+      "count": 3,
+      "is_current": false
+    },
+    {
+      "month": "Days 120-90",
+      "count": 5,
+      "is_current": false
+    },
+    {
+      "month": "Days 90-60",
+      "count": 6,
+      "is_current": false
+    },
+    {
+      "month": "Days 60-30",
+      "count": 10,
+      "is_current": false
+    },
+    {
+      "month": "Last 30 Days",
+      "count": 24,
+      "is_current": true
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "assigner_id": "f16b083a-5664-49f3-a51e-8d479e5ed7fe",
+  "cna_name": "mozilla",
+  "cna_org_name": "Mozilla Corporation",
+  "cna_advisory_url": "https://www.mozilla.org/en-US/security/advisories/",
+  "country": "USA",
+  "scope_type": "",
+  "status": "Growth",
+  "baseline_avg": 23.75,
+  "current_count": 52,
+  "deviation_pct": 118.9,
+  "days_since_last_cve": 0,
+  "std_dev": 14.92,
+  "threshold_low": 11.88,
+  "threshold_high": 59.38,
+  "timeline_13months": [
+    {
+      "month": "Days 390-360",
+      "count": 18,
+      "is_current": false
+    },
+    {
+      "month": "Days 360-330",
+      "count": 21,
+      "is_current": false
+    },
+    {
+      "month": "Days 330-300",
+      "count": 18,
+      "is_current": false
+    },
+    {
+      "month": "Days 300-270",
+      "count": 16,
+      "is_current": false
+    },
+    {
+      "month": "Days 270-240",
+      "count": 21,
+      "is_current": false
+    },
+    {
+      "month": "Days 240-210",
+      "count": 15,
+      "is_current": false
+    },
+    {
+      "month": "Days 210-180",
+      "count": 15,
+      "is_current": false
+    },
+    {
+      "month": "Days 180-150",
+      "count": 16,
+      "is_current": false
+    },
+    {
+      "month": "Days 150-120",
+      "count": 16,
+      "is_current": false
+    },
+    {
+      "month": "Days 120-90",
+      "count": 19,
+      "is_current": false
+    },
+    {
+      "month": "Days 90-60",
+      "count": 54,
+      "is_current": false
+    },
+    {
+      "month": "Days 60-30",
+      "count": 51,
+      "is_current": false
+    },
+    {
+      "month": "Last 30 Days",
+      "count": 52,
+      "is_current": true
+    }
+  ]
+}

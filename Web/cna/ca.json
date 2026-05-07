@@ -1,0 +1,83 @@
+{
+  "assigner_id": "e291eae9-7c0a-46ac-ba7d-5251811f8b7f",
+  "cna_name": "ca",
+  "cna_org_name": "CA Technologies - A Broadcom Company",
+  "cna_advisory_url": "https://support.broadcom.com/security-advisory/security-advisories-list.html?segment=ES",
+  "country": "USA",
+  "scope_type": "",
+  "status": "Declining",
+  "baseline_avg": 5.5,
+  "current_count": 0,
+  "deviation_pct": -100.0,
+  "days_since_last_cve": 115,
+  "std_dev": null,
+  "threshold_low": 2.75,
+  "threshold_high": 13.75,
+  "timeline_13months": [
+    {
+      "month": "Days 390-360",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 360-330",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Days 330-300",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 300-270",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 270-240",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 240-210",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 210-180",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 180-150",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 150-120",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 120-90",
+      "count": 10,
+      "is_current": false
+    },
+    {
+      "month": "Days 90-60",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 60-30",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Last 30 Days",
+      "count": 0,
+      "is_current": true
+    }
+  ]
+}
