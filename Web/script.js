@@ -8,6 +8,8 @@ let allCNAs = [];
 let filteredCNAs = [];
 let currentSort = { column: null, direction: "asc" };
 let activeStatusFilter = null;
+const PAGE_SIZE = 50;
+let currentPage = 1;
 
 // Load anomaly data on page load
 document.addEventListener("DOMContentLoaded", async () => {
@@ -254,7 +256,10 @@ function filterAndDisplay() {
     applySorting();
   }
 
-  updateCNATable(filteredCNAs);
+  currentPage = 1;
+  updateCNATable(getPagedCNAs());
+  updatePagination();
+  writeStateToURL();
 }
 
 /**
@@ -295,7 +300,9 @@ function sortTable(column) {
   }
 
   applySorting();
-  updateCNATable(filteredCNAs);
+  currentPage = 1;
+  updateCNATable(getPagedCNAs());
+  updatePagination();
   writeStateToURL();
 }
 
@@ -339,6 +346,61 @@ function applySorting() {
     // String comparison
     return String(aVal).localeCompare(String(bVal)) * multiplier;
   });
+}
+
+/**
+ * Get CNAs for current page
+ */
+function getPagedCNAs() {
+  const start = (currentPage - 1) * PAGE_SIZE;
+  const end = start + PAGE_SIZE;
+  return filteredCNAs.slice(start, end);
+}
+
+/**
+ * Update pagination controls
+ */
+function updatePagination() {
+  const totalPages = Math.ceil(filteredCNAs.length / PAGE_SIZE);
+  const paginationDiv = document.getElementById("pagination");
+
+  if (filteredCNAs.length <= PAGE_SIZE) {
+    paginationDiv.style.display = "none";
+    return;
+  }
+
+  paginationDiv.style.display = "flex";
+
+  const start = (currentPage - 1) * PAGE_SIZE + 1;
+  const end = Math.min(currentPage * PAGE_SIZE, filteredCNAs.length);
+  document.getElementById("page-info").textContent =
+    `Showing ${start}-${end} of ${filteredCNAs.length} CNAs`;
+
+  document.getElementById("btn-prev").disabled = currentPage === 1;
+  document.getElementById("btn-next").disabled = currentPage === totalPages;
+}
+
+/**
+ * Navigate to next page
+ */
+function nextPage() {
+  const totalPages = Math.ceil(filteredCNAs.length / PAGE_SIZE);
+  if (currentPage < totalPages) {
+    currentPage++;
+    updateCNATable(getPagedCNAs());
+    updatePagination();
+  }
+}
+
+/**
+ * Navigate to previous page
+ */
+function prevPage() {
+  if (currentPage > 1) {
+    currentPage--;
+    updateCNATable(getPagedCNAs());
+    updatePagination();
+  }
 }
 
 /**
