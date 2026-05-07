@@ -96,41 +96,8 @@ jobs:
         run: |
           git add Web/anomaly_data.json Web/summary.json Web/cna/ Web/history/
           git commit -m "Update CNA anomaly data - $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
-
-          # Try to pull and push, handling conflicts by preferring our version
-          max_retries=3
-          retry_count=0
-
-          while [ $retry_count -lt $max_retries ]; do
-            if git pull --rebase origin main; then
-              # Rebase successful, try to push
-              if git push; then
-                echo "Successfully pushed changes"
-                exit 0
-              else
-                echo "Push failed, retrying..."
-              fi
-            else
-              # Rebase failed due to conflict
-              echo "Rebase conflict detected, resolving by accepting our version..."
-              git checkout --ours Web/anomaly_data.json
-              git add Web/anomaly_data.json
-              git rebase --continue
-              
-              # Try to push after resolving conflict
-              if git push; then
-                echo "Successfully pushed after resolving conflict"
-                exit 0
-              fi
-            fi
-            
-            retry_count=$((retry_count + 1))
-            echo "Retry attempt $retry_count of $max_retries"
-            sleep 2
-          done
-
-          echo "Failed to push after $max_retries attempts"
-          exit 1
+          git pull --rebase origin main || true
+          git push || echo "Push failed - will retry next run in 3 hours"
 
       - name: Upload artifacts
         if: always()
