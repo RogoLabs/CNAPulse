@@ -541,3 +541,80 @@ function escapeHtml(text) {
   div.textContent = text;
   return div.innerHTML;
 }
+
+/**
+ * Export filtered CNAs as CSV
+ */
+function exportCSV() {
+  const headers = [
+    "CNA Name",
+    "Organization",
+    "Status",
+    "Baseline Avg",
+    "Current Count",
+    "Days Since Last CVE",
+    "Deviation %",
+    "Country",
+  ];
+  const rows = filteredCNAs.map((cna) => [
+    cna.cna_name,
+    cna.cna_org_name || "",
+    cna.status,
+    cna.baseline_avg,
+    cna.current_count,
+    cna.days_since_last_cve ?? "",
+    cna.deviation_pct >= 999999 ? "Infinity" : cna.deviation_pct,
+    cna.country || "",
+  ]);
+
+  const csv = [headers, ...rows]
+    .map((row) =>
+      row.map((cell) => `"${String(cell).replace(/"/g, '""')}"`).join(","),
+    )
+    .join("\n");
+
+  downloadFile(csv, "cnapulse-export.csv", "text/csv");
+}
+
+/**
+ * Export filtered CNAs as JSON
+ */
+function exportJSON() {
+  const data = {
+    exported_at: new Date().toISOString(),
+    filter: activeStatusFilter || "all",
+    search: document.getElementById("cna-search").value || null,
+    count: filteredCNAs.length,
+    cnas: filteredCNAs.map((cna) => ({
+      cna_name: cna.cna_name,
+      cna_org_name: cna.cna_org_name,
+      status: cna.status,
+      baseline_avg: cna.baseline_avg,
+      current_count: cna.current_count,
+      days_since_last_cve: cna.days_since_last_cve,
+      deviation_pct: cna.deviation_pct,
+      country: cna.country || "",
+    })),
+  };
+
+  downloadFile(
+    JSON.stringify(data, null, 2),
+    "cnapulse-export.json",
+    "application/json",
+  );
+}
+
+/**
+ * Trigger browser file download
+ */
+function downloadFile(content, filename, mimeType) {
+  const blob = new Blob([content], { type: mimeType });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement("a");
+  a.href = url;
+  a.download = filename;
+  document.body.appendChild(a);
+  a.click();
+  document.body.removeChild(a);
+  URL.revokeObjectURL(url);
+}
