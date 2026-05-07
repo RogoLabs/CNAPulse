@@ -253,7 +253,7 @@ class CVEMonitor:
         print(f"Recent activity check: {recent_activity_cutoff.date()} to {self.now.date()}")
 
         # Data structures
-        baseline_counts: dict[str, list[datetime]] = defaultdict(list)  # {assignerOrgId: [monthly counts]}
+        baseline_counts: dict[str, list[datetime]] = defaultdict(list)  # {assignerOrgId: [dates in baseline]}
         monitoring_counts: dict[str, int] = defaultdict(int)  # {assignerOrgId: count}
         recent_activity_counts: dict[str, int] = defaultdict(int)  # {assignerOrgId: count in last 14 days}
         last_cve_dates: dict[str, datetime] = {}  # {assignerOrgId: most recent CVE date}
@@ -284,24 +284,40 @@ class CVEMonitor:
             elif baseline_start <= date_published < baseline_end:
                 baseline_counts[assigner_id].append(date_published)
 
-        # Calculate monthly averages for baseline
+        # Calculate averages for baseline using rolling 30-day windows
         cna_baselines = {}
         for assigner_id, dates in baseline_counts.items():
             if dates:
-                # Group by month
-                monthly_counts: dict[tuple[int, int], int] = defaultdict(int)
-                for date in dates:
-                    month_key = (date.year, date.month)
-                    monthly_counts[month_key] += 1
+                # Calculate rolling 30-day window counts
+                window_counts: dict[int, int] = defaultdict(int)
+                monthly_data: dict[tuple[int, int], int] = defaultdict(int)  # For timeline compatibility
 
-                # Calculate average
-                if monthly_counts:
-                    avg_monthly = sum(monthly_counts.values()) / len(monthly_counts)
+                for date_published in dates:
+                    days_ago = (self.now - date_published).days
+
+                    # Skip if in monitoring window (shouldn't happen, but be defensive)
+                    if days_ago < self.monitoring_window:
+                        continue
+
+                    # Calculate which 30-day window this belongs to
+                    window_idx = (days_ago - self.monitoring_window) // 30
+
+                    # Only count if within baseline windows (0-11)
+                    if 0 <= window_idx < self.baseline_months:
+                        window_counts[window_idx] += 1
+
+                        # Also maintain calendar month mapping for timeline compatibility
+                        month_key = (date_published.year, date_published.month)
+                        monthly_data[month_key] += 1
+
+                # Calculate average over active windows (windows with at least one CVE)
+                if window_counts:
+                    avg_monthly = sum(window_counts.values()) / len(window_counts)
                     cna_baselines[assigner_id] = {
                         "avg_monthly": avg_monthly,
                         "short_name": cna_names.get(assigner_id, "Unknown"),
-                        "monthly_counts": list(monthly_counts.values()),
-                        "monthly_data": dict(monthly_counts),  # Store month keys for timeline
+                        "monthly_counts": list(window_counts.values()),
+                        "monthly_data": dict(monthly_data),  # Store month keys for timeline
                     }
 
         print(f"Found {len(cna_baselines)} CNAs with baseline data")

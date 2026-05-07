@@ -128,3 +128,38 @@ class TestGetCNAInfo:
     def test_no_match_returns_default(self, monitor):
         result = monitor.get_cna_info("Unknown", "no-match")
         assert result["org_name"] == "Unknown"
+
+
+class TestRollingWindowBaseline:
+    def test_baseline_uses_rolling_windows(self, monitor):
+        """Baseline should use 12 rolling 30-day windows, not calendar months."""
+        from datetime import timedelta
+
+        cve_data = []
+        # 2 CVEs per 30-day window for 6 windows in baseline
+        for i in range(6):
+            days_ago = 60 + (i * 30)
+            for j in range(2):
+                cve_data.append(
+                    {
+                        "cveId": f"CVE-2025-{i}{j}",
+                        "datePublished": (monitor.now - timedelta(days=days_ago + j)).isoformat(),
+                        "assignerOrgId": "uuid-test",
+                        "assignerShortName": "TestCNA",
+                    }
+                )
+        # 5 CVEs in the current monitoring window
+        for i in range(5):
+            cve_data.append(
+                {
+                    "cveId": f"CVE-2026-{i}",
+                    "datePublished": (monitor.now - timedelta(days=i + 1)).isoformat(),
+                    "assignerOrgId": "uuid-test",
+                    "assignerShortName": "TestCNA",
+                }
+            )
+
+        results = monitor.analyze_cna_activity(cve_data)
+        cna = next(c for c in results["cnas"] if c["cna_name"] == "TestCNA")
+        # Baseline avg should be 2.0 (2 CVEs per 30-day window, averaged over 6 active windows)
+        assert 1.5 <= cna["baseline_avg"] <= 2.5
