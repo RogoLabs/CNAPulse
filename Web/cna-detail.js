@@ -2,6 +2,31 @@
  * CNA Detail Page - Frontend Script
  */
 
+// Dark mode
+function toggleDarkMode() {
+  const isDark = document.documentElement.classList.toggle("dark");
+  localStorage.setItem("cnapulse-dark-mode", isDark ? "dark" : "light");
+  updateDarkModeIcons();
+}
+function updateDarkModeIcons() {
+  const isDark = document.documentElement.classList.contains("dark");
+  const darkIcon = document.getElementById("dark-icon");
+  const lightIcon = document.getElementById("light-icon");
+  if (darkIcon) darkIcon.classList.toggle("hidden", isDark);
+  if (lightIcon) lightIcon.classList.toggle("hidden", !isDark);
+}
+function initDarkMode() {
+  const stored = localStorage.getItem("cnapulse-dark-mode");
+  if (
+    stored === "dark" ||
+    (!stored && window.matchMedia("(prefers-color-scheme: dark)").matches)
+  ) {
+    document.documentElement.classList.add("dark");
+  }
+  updateDarkModeIcons();
+}
+initDarkMode();
+
 let chartInstance = null;
 
 // Get CNA name from URL parameter
@@ -207,6 +232,9 @@ function renderTimelineChart(cna) {
           display: true,
           position: "top",
           labels: {
+            color: document.documentElement.classList.contains("dark")
+              ? "#d1d5db"
+              : "#374151",
             usePointStyle: true,
             boxWidth: 20,
             padding: 15,
@@ -233,7 +261,15 @@ function renderTimelineChart(cna) {
       scales: {
         y: {
           beginAtZero: true,
+          grid: {
+            color: document.documentElement.classList.contains("dark")
+              ? "rgba(75, 85, 99, 0.5)"
+              : "rgba(0, 0, 0, 0.1)",
+          },
           ticks: {
+            color: document.documentElement.classList.contains("dark")
+              ? "#d1d5db"
+              : "#374151",
             stepSize: 1,
             callback: function (value) {
               if (Number.isInteger(value)) {
@@ -244,10 +280,21 @@ function renderTimelineChart(cna) {
           title: {
             display: true,
             text: "Number of CVEs Published",
+            color: document.documentElement.classList.contains("dark")
+              ? "#d1d5db"
+              : "#374151",
           },
         },
         x: {
+          grid: {
+            color: document.documentElement.classList.contains("dark")
+              ? "rgba(75, 85, 99, 0.5)"
+              : "rgba(0, 0, 0, 0.1)",
+          },
           ticks: {
+            color: document.documentElement.classList.contains("dark")
+              ? "#d1d5db"
+              : "#374151",
             maxRotation: 45,
             minRotation: 45,
           },
