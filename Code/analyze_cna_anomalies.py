@@ -79,6 +79,10 @@ class CVEMonitor:
                     "advisory_url": advisory_url,
                     "short_name": short_name,
                     "uuid": uuid,
+                    "country": cna.get("country", {}).get("code", "")
+                    if isinstance(cna.get("country"), dict)
+                    else cna.get("country", ""),
+                    "scope_type": cna.get("scope", {}).get("type", "") if isinstance(cna.get("scope"), dict) else "",
                 }
 
                 # Index by shortName (exact)
@@ -124,6 +128,8 @@ class CVEMonitor:
             "advisory_url": "",
             "short_name": short_name or "",
             "uuid": assigner_id or "",
+            "country": "",
+            "scope_type": "",
         }
 
     def parse_cve_files(self) -> list[dict[str, str]]:
@@ -453,6 +459,8 @@ class CVEMonitor:
                 "cna_name": short_name,
                 "cna_org_name": org_name,
                 "cna_advisory_url": advisory_url,
+                "country": cna_info.get("country", ""),
+                "scope_type": cna_info.get("scope_type", ""),
                 "status": status,
                 "baseline_avg": round(baseline_avg, 2),
                 "current_count": current_count,
@@ -504,6 +512,8 @@ class CVEMonitor:
                 "cna_name": short_name,
                 "cna_org_name": org_name,
                 "cna_advisory_url": advisory_url,
+                "country": cna_info.get("country", ""),
+                "scope_type": cna_info.get("scope_type", ""),
                 "status": "Growth",
                 "baseline_avg": 0.0,
                 "current_count": current_count,
@@ -533,6 +543,8 @@ class CVEMonitor:
                 "cna_name": short_name,
                 "cna_org_name": org_name,
                 "cna_advisory_url": advisory_url,
+                "country": cna_info.get("country", ""),
+                "scope_type": cna_info.get("scope_type", ""),
                 "status": "Inactive",
                 "baseline_avg": 0.0,
                 "current_count": 0,

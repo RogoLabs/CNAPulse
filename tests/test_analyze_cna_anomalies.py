@@ -195,3 +195,36 @@ class TestSeasonalNormalization:
         """Empty data should return 1.0."""
         factor = monitor.calculate_seasonal_factor([])
         assert factor == 1.0
+
+
+class TestCNAMetadataEnrichment:
+    def test_country_in_output(self, monitor):
+        """CNA entries should include country field."""
+        monitor.cna_org_names["TestCNA"] = {
+            "org_name": "Test Corp",
+            "advisory_url": "https://example.com",
+            "short_name": "TestCNA",
+            "uuid": "test-uuid",
+            "country": "US",
+            "scope_type": "product",
+        }
+        result = monitor.get_cna_info("TestCNA", "test-uuid")
+        assert result.get("country") == "US"
+
+    def test_scope_type_in_output(self, monitor):
+        """CNA entries should include scope_type field."""
+        monitor.cna_org_names["TestCNA"] = {
+            "org_name": "Test Corp",
+            "advisory_url": "https://example.com",
+            "short_name": "TestCNA",
+            "uuid": "test-uuid",
+            "country": "DE",
+            "scope_type": "product",
+        }
+        result = monitor.get_cna_info("TestCNA", "test-uuid")
+        assert result.get("scope_type") == "product"
+
+    def test_missing_country_defaults_empty(self, monitor):
+        """Missing country should default to empty string."""
+        result = monitor.get_cna_info("NonExistent", "no-match")
+        assert result.get("country", "") == ""
