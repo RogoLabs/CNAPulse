@@ -13,11 +13,14 @@ let activeStatusFilter = null;
 document.addEventListener("DOMContentLoaded", async () => {
   try {
     await loadAnomalyData();
+    readStateFromURL();
+    filterAndDisplay();
 
     // Setup search listener
-    document
-      .getElementById("cna-search")
-      .addEventListener("input", filterAndDisplay);
+    document.getElementById("cna-search").addEventListener("input", () => {
+      filterAndDisplay();
+      writeStateToURL();
+    });
   } catch (error) {
     console.error("Error loading anomaly data:", error);
     showError("Failed to load anomaly data. Please try again later.");
@@ -276,6 +279,7 @@ function filterByStatus(status) {
   });
 
   filterAndDisplay();
+  writeStateToURL();
 }
 
 /**
@@ -292,6 +296,7 @@ function sortTable(column) {
 
   applySorting();
   updateCNATable(filteredCNAs);
+  writeStateToURL();
 }
 
 /**
@@ -334,6 +339,58 @@ function applySorting() {
     // String comparison
     return String(aVal).localeCompare(String(bVal)) * multiplier;
   });
+}
+
+/**
+ * Read state from URL query params
+ */
+function readStateFromURL() {
+  const params = new URLSearchParams(window.location.search);
+
+  const search = params.get("q");
+  if (search) {
+    document.getElementById("cna-search").value = search;
+  }
+
+  const status = params.get("status");
+  if (
+    status &&
+    ["Growth", "Normal", "Declining", "Inactive"].includes(status)
+  ) {
+    activeStatusFilter = status;
+    const card = document.getElementById(`card-${status.toLowerCase()}`);
+    if (card) {
+      card.classList.add("ring-2", "ring-offset-2", "ring-blue-500");
+    }
+  }
+
+  const sortCol = params.get("sort");
+  const sortDir = params.get("dir");
+  if (sortCol) {
+    currentSort.column = sortCol;
+    currentSort.direction = sortDir || "asc";
+  }
+}
+
+/**
+ * Write current state to URL query params (without page reload)
+ */
+function writeStateToURL() {
+  const params = new URLSearchParams();
+
+  const search = document.getElementById("cna-search").value;
+  if (search) params.set("q", search);
+  if (activeStatusFilter) params.set("status", activeStatusFilter);
+  if (currentSort.column) {
+    params.set("sort", currentSort.column);
+    params.set("dir", currentSort.direction);
+  }
+
+  const newURL = params.toString()
+    ? `${window.location.pathname}?${params.toString()}`
+    : window.location.pathname;
+
+  window.history.replaceState({}, "", newURL);
 }
 
 /**
