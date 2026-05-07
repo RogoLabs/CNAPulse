@@ -12,6 +12,9 @@ dependencies = [
     "requests>=2.31.0",
 ]
 
+[tool.setuptools]
+packages = ["Code"]
+
 [project.optional-dependencies]
 dev = [
     "pytest>=7.4.0",
@@ -28,6 +31,7 @@ line-length = 120
 
 [tool.ruff.lint]
 select = ["E", "F", "I", "N", "W", "UP"]
+ignore = ["N999"]  # Allow non-standard module names (Code/)
 
 [tool.mypy]
 python_version = "3.11"
