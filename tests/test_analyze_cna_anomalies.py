@@ -1,5 +1,4 @@
 from datetime import datetime
-from Code.analyze_cna_anomalies import CVEMonitor
 
 
 class TestParseDate:
@@ -163,3 +162,36 @@ class TestRollingWindowBaseline:
         cna = next(c for c in results["cnas"] if c["cna_name"] == "TestCNA")
         # Baseline avg should be 2.0 (2 CVEs per 30-day window, averaged over 6 active windows)
         assert 1.5 <= cna["baseline_avg"] <= 2.5
+
+
+class TestSeasonalNormalization:
+    def test_seasonal_factor_low_season(self, monitor):
+        """Low season should produce factor < 1."""
+        # Window 0 = 1 month ago (April), window 11 = 12 months ago (May last year)
+        # If current is May, same-season windows would be around index 0 (April) and 11 (May)
+        # Make those low, everything else high
+        monthly_counts = [1, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 1]
+        factor = monitor.calculate_seasonal_factor(monthly_counts)
+        assert factor < 1.0
+
+    def test_seasonal_factor_high_season(self, monitor):
+        """High season should produce factor > 1."""
+        monthly_counts = [10, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 10]
+        factor = monitor.calculate_seasonal_factor(monthly_counts)
+        assert factor > 1.0
+
+    def test_seasonal_factor_uniform(self, monitor):
+        """Uniform data should produce factor ~1.0."""
+        monthly_counts = [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
+        factor = monitor.calculate_seasonal_factor(monthly_counts)
+        assert 0.9 <= factor <= 1.1
+
+    def test_seasonal_factor_insufficient_data(self, monitor):
+        """Fewer than 6 data points should return 1.0."""
+        factor = monitor.calculate_seasonal_factor([1, 2, 3])
+        assert factor == 1.0
+
+    def test_seasonal_factor_empty(self, monitor):
+        """Empty data should return 1.0."""
+        factor = monitor.calculate_seasonal_factor([])
+        assert factor == 1.0

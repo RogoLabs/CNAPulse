@@ -207,6 +207,38 @@ class CVEMonitor:
         except (ValueError, AttributeError):
             return None
 
+    def calculate_seasonal_factor(self, monthly_counts: list[int]) -> float:
+        """
+        Calculate a seasonal adjustment factor.
+        Compares the average of the same-season windows (±1 month) to the overall average.
+        Returns a multiplier: <1 means this is typically a low-activity season.
+        """
+        if not monthly_counts or len(monthly_counts) < 6:
+            return 1.0
+
+        overall_avg = sum(monthly_counts) / len(monthly_counts)
+        if overall_avg == 0:
+            return 1.0
+
+        # Current month index in Python (0=Jan, ..., 11=Dec)
+        current_month = self.now.month - 1
+
+        # Find baseline windows that correspond to the same season (±1 month)
+        # Window 0 is the most recent baseline (1 month ago), window 11 is oldest (12 months ago)
+        same_season_values = []
+        for window_idx, count in enumerate(monthly_counts):
+            # Approximate the calendar month this window corresponds to
+            window_month = (current_month - 1 - window_idx) % 12
+            month_distance = min(abs(window_month - current_month), 12 - abs(window_month - current_month))
+            if month_distance <= 1:
+                same_season_values.append(count)
+
+        if not same_season_values:
+            return 1.0
+
+        season_avg = sum(same_season_values) / len(same_season_values)
+        return season_avg / overall_avg if overall_avg > 0 else 1.0
+
     def generate_13month_timeline(
         self, monthly_data: dict[tuple[int, int], int], current_count: int, monitoring_window_days: int = 30
     ) -> list[dict[str, Any]]:
@@ -368,16 +400,22 @@ class CVEMonitor:
             threshold_low = baseline_avg * 0.5  # Below 50% of baseline is Declining
             threshold_high = baseline_avg * 2.5  # Above 250% of baseline is Growth
 
+            # Apply seasonal normalization
+            seasonal_factor = self.calculate_seasonal_factor(baseline_monthly_counts)
+            # Adjust thresholds - if this is typically a low season, lower the bar
+            adjusted_threshold_low = threshold_low * seasonal_factor
+            adjusted_threshold_high = threshold_high * seasonal_factor
+
             # Identify status type based on deviation from baseline
             anomaly_type = None
 
             # Growth: Above 250% of baseline (+150% growth)
-            if current_count > threshold_high:
+            if current_count > adjusted_threshold_high:
                 anomaly_type = "Growth"
 
             # Declining: Below 50% of baseline (-50% from baseline)
             # Only flag if baseline was meaningful (>=0.5 CVEs/month)
-            elif current_count < threshold_low and baseline_avg >= 0.5:
+            elif current_count < adjusted_threshold_low and baseline_avg >= 0.5:
                 anomaly_type = "Declining"
 
             # Otherwise: Normal (within 50% to 250% of baseline)
@@ -407,8 +445,8 @@ class CVEMonitor:
             advisory_url = cna_info.get("advisory_url", "")
 
             # Generate 13-month timeline for detail page
-            monthly_data: dict[tuple[int, int], int] = baseline_info.get("monthly_data", {})  # type: ignore[assignment]
-            timeline_13months = self.generate_13month_timeline(monthly_data, current_count)
+            cna_monthly_data: dict[tuple[int, int], int] = baseline_info.get("monthly_data", {})  # type: ignore[assignment]
+            timeline_13months = self.generate_13month_timeline(cna_monthly_data, current_count)
 
             cna_entry = {
                 "assigner_id": assigner_id,
