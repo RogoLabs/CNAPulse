@@ -61,6 +61,7 @@ jobs:
           python Code/analyze_cna_anomalies.py
         env:
           PYTHONUNBUFFERED: 1
+          CNAPULSE_WEBHOOK_URL: ${{ secrets.CNAPULSE_WEBHOOK_URL }}
 
       - name: Check for changes
         id: verify-changed-files

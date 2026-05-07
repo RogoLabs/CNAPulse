@@ -705,6 +705,60 @@ class CVEMonitor:
         with open(index_file, "w", encoding="utf-8") as f:
             json.dump({"snapshots": index}, f, indent=2)
 
+    def detect_status_changes(self, results: dict[str, Any]) -> list[dict[str, Any]]:
+        """Compare current results to previous run and detect status changes."""
+        changes: list[dict[str, Any]] = []
+        previous_file = Path("Web/anomaly_data.json")
+
+        if not previous_file.exists():
+            return changes
+
+        try:
+            with open(previous_file, "r", encoding="utf-8") as f:
+                previous = json.load(f)
+
+            prev_statuses = {c["cna_name"]: c["status"] for c in previous.get("cnas", [])}
+
+            for cna in results["cnas"]:
+                prev_status = prev_statuses.get(cna["cna_name"])
+                if prev_status and prev_status != cna["status"]:
+                    changes.append(
+                        {
+                            "cna_name": cna["cna_name"],
+                            "cna_org_name": cna.get("cna_org_name", cna["cna_name"]),
+                            "previous_status": prev_status,
+                            "new_status": cna["status"],
+                            "current_count": cna["current_count"],
+                            "baseline_avg": cna["baseline_avg"],
+                        }
+                    )
+        except (json.JSONDecodeError, KeyError):
+            pass
+
+        return changes
+
+    def send_webhook_notification(self, changes: list[dict[str, Any]]) -> None:
+        """Send status changes to webhook URL if configured."""
+        webhook_url = os.environ.get("CNAPULSE_WEBHOOK_URL")
+        if not webhook_url or not changes or not requests:
+            return
+
+        payload = {
+            "text": f"CNAPulse: {len(changes)} CNA status change(s) detected",
+            "changes": changes,
+            "generated_at": self.now.isoformat(),
+            "dashboard_url": "https://cnapulse.org",
+        }
+
+        try:
+            resp = requests.post(webhook_url, json=payload, timeout=10)
+            if resp.ok:
+                print(f"Webhook notification sent: {len(changes)} changes")
+            else:
+                print(f"Webhook notification failed: {resp.status_code}")
+        except Exception as e:
+            print(f"Webhook notification error: {e}")
+
     def run(self) -> bool:
         """Main execution flow."""
         print("=" * 80)
@@ -722,6 +776,14 @@ class CVEMonitor:
 
         # Step 3: Analyze activity
         results = self.analyze_cna_activity(cve_data)
+
+        # Detect and notify on status changes
+        changes = self.detect_status_changes(results)
+        if changes:
+            print(f"\nDetected {len(changes)} CNA status changes:")
+            for change in changes[:10]:
+                print(f"  {change['cna_name']}: {change['previous_status']} -> {change['new_status']}")
+            self.send_webhook_notification(changes)
 
         # Step 4: Generate report
         self.save_results(results)
