@@ -76,7 +76,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git add Web/anomaly_data.json
+          git add Web/anomaly_data.json Web/history/
           git commit -m "Update CNA anomaly data - $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
 
           # Try to pull and push, handling conflicts by preferring our version

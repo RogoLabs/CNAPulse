@@ -228,3 +228,43 @@ class TestCNAMetadataEnrichment:
         """Missing country should default to empty string."""
         result = monitor.get_cna_info("NonExistent", "no-match")
         assert result.get("country", "") == ""
+
+
+class TestHistoricalSnapshots:
+    def test_save_daily_snapshot(self, monitor, sample_cve_data, tmp_path, monkeypatch):
+        """Daily snapshot should contain summary stats."""
+        monkeypatch.chdir(tmp_path)
+        (tmp_path / "Web").mkdir()
+
+        results = monitor.analyze_cna_activity(sample_cve_data)
+        monitor.save_daily_snapshot(results)
+
+        history_dir = tmp_path / "Web" / "history"
+        assert history_dir.exists()
+
+        snapshot_file = history_dir / "2026-05-07.json"
+        assert snapshot_file.exists()
+
+        import json
+
+        snapshot = json.loads(snapshot_file.read_text())
+        assert "date" in snapshot
+        assert "total_cnas" in snapshot
+        assert "top_growth" in snapshot
+        assert "top_declining" in snapshot
+
+    def test_history_index_created(self, monitor, sample_cve_data, tmp_path, monkeypatch):
+        """History index should list available snapshots."""
+        monkeypatch.chdir(tmp_path)
+        (tmp_path / "Web").mkdir()
+
+        results = monitor.analyze_cna_activity(sample_cve_data)
+        monitor.save_daily_snapshot(results)
+
+        index_file = tmp_path / "Web" / "history" / "index.json"
+        assert index_file.exists()
+
+        import json
+
+        index = json.loads(index_file.read_text())
+        assert "2026-05-07" in index["snapshots"]

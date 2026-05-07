@@ -625,6 +625,47 @@ class CVEMonitor:
         print(f"  - Declining: {results['metadata']['cnas_declining']}")
         print(f"  - Inactive: {results['metadata']['cnas_inactive']}")
 
+    def save_daily_snapshot(self, results: dict[str, Any]) -> None:
+        """Save a daily snapshot with just summary stats (not full CNA data)."""
+        today = self.now.strftime("%Y-%m-%d")
+        history_dir = Path("Web/history")
+        history_dir.mkdir(parents=True, exist_ok=True)
+
+        snapshot = {
+            "date": today,
+            "generated_at": results["metadata"]["generated_at"],
+            "total_cnas": results["metadata"]["total_cnas"],
+            "cnas_growth": results["metadata"]["cnas_growth"],
+            "cnas_normal": results["metadata"]["cnas_normal"],
+            "cnas_declining": results["metadata"]["cnas_declining"],
+            "cnas_inactive": results["metadata"]["cnas_inactive"],
+            "top_growth": [
+                {"cna_name": c["cna_name"], "current_count": c["current_count"], "deviation_pct": c["deviation_pct"]}
+                for c in results["cnas"]
+                if c["status"] == "Growth"
+            ][:10],
+            "top_declining": [
+                {"cna_name": c["cna_name"], "current_count": c["current_count"], "deviation_pct": c["deviation_pct"]}
+                for c in results["cnas"]
+                if c["status"] == "Declining"
+            ][:10],
+        }
+
+        snapshot_file = history_dir / f"{today}.json"
+        with open(snapshot_file, "w", encoding="utf-8") as f:
+            json.dump(snapshot, f, indent=2)
+
+        self._update_history_index(history_dir)
+
+    def _update_history_index(self, history_dir: Path) -> None:
+        """Maintain a history index file listing all available snapshots."""
+        snapshots = sorted(history_dir.glob("2*.json"), reverse=True)
+        index = [s.stem for s in snapshots]
+
+        index_file = history_dir / "index.json"
+        with open(index_file, "w", encoding="utf-8") as f:
+            json.dump({"snapshots": index}, f, indent=2)
+
     def run(self) -> bool:
         """Main execution flow."""
         print("=" * 80)
@@ -645,6 +686,7 @@ class CVEMonitor:
 
         # Step 4: Generate report
         self.save_results(results)
+        self.save_daily_snapshot(results)
 
         print("\n" + "=" * 80)
         print("Processing complete!")
