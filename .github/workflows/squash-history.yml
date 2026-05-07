@@ -1,0 +1,52 @@
+name: Monthly History Squash
+
+on:
+  schedule:
+    # First day of each month at 02:00 UTC
+    - cron: "0 2 1 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  squash-data-commits:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Configure Git
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+
+      - name: Squash old data commits
+        run: |
+          # Find the commit from 30 days ago
+          CUTOFF_DATE=$(date -u -d '30 days ago' '+%Y-%m-%d' 2>/dev/null || date -u -v-30d '+%Y-%m-%d')
+          echo "Squashing data-only commits older than $CUTOFF_DATE"
+
+          # Count data commits older than cutoff
+          OLD_COMMITS=$(git log --oneline --before="$CUTOFF_DATE" --grep="Update CNA anomaly data" | wc -l)
+          echo "Found $OLD_COMMITS old data commits"
+
+          if [ "$OLD_COMMITS" -lt 50 ]; then
+            echo "Not enough commits to squash (need 50+). Skipping."
+            exit 0
+          fi
+
+          # Find the oldest non-data commit or the initial commit
+          BASE_COMMIT=$(git log --oneline --before="$CUTOFF_DATE" --invert-grep --grep="Update CNA anomaly data" -1 --format="%H")
+
+          if [ -z "$BASE_COMMIT" ]; then
+            echo "No base commit found. Skipping."
+            exit 0
+          fi
+
+          echo "Base commit: $BASE_COMMIT"
+          echo "This workflow is advisory - manual squash recommended for safety"
+          echo "Run: git rebase -i $BASE_COMMIT (and squash data commits)"
