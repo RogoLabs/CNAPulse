@@ -141,6 +141,36 @@ function updateMetrics(metadata) {
 }
 
 /**
+ * Generate an inline SVG sparkline from timeline data
+ */
+function generateSparkline(timeline) {
+  if (!timeline || timeline.length === 0) return "";
+
+  const width = 80;
+  const height = 24;
+  const padding = 2;
+
+  const values = timeline.map((t) => t.count);
+  const max = Math.max(...values, 1);
+
+  const points = values
+    .map((val, i) => {
+      const x = padding + (i / (values.length - 1)) * (width - 2 * padding);
+      const y = height - padding - (val / max) * (height - 2 * padding);
+      return `${x},${y}`;
+    })
+    .join(" ");
+
+  const lastPoint = values[values.length - 1];
+  const prevAvg =
+    values.slice(0, -1).reduce((a, b) => a + b, 0) /
+    Math.max(values.length - 1, 1);
+  const color = lastPoint >= prevAvg ? "#3b82f6" : "#6366f1";
+
+  return `<svg width="${width}" height="${height}" class="inline-block"><polyline points="${points}" fill="none" stroke="${color}" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
+}
+
+/**
  * Update CNA table with data
  */
 function updateCNATable(cnas) {
@@ -149,7 +179,7 @@ function updateCNATable(cnas) {
   if (!cnas || cnas.length === 0) {
     tableBody.innerHTML = `
             <tr>
-                <td colspan="6" class="px-6 py-4 text-center text-gray-500">
+                <td colspan="7" class="px-6 py-4 text-center text-gray-500">
                     No CNAs match your search criteria.
                 </td>
             </tr>
@@ -243,6 +273,7 @@ function updateCNATable(cnas) {
                 </td>
                 <td class="px-6 py-4 text-gray-900 dark:text-gray-100">${cna.baseline_avg}</td>
                 <td class="px-6 py-4 text-gray-900 dark:text-gray-100 font-semibold">${cna.current_count}</td>
+                <td class="px-6 py-4">${generateSparkline(cna.timeline_13months)}</td>
                 <td class="px-6 py-4 ${daysSinceColor}">${daysSinceText}</td>
                 <td class="px-6 py-4 text-gray-900 dark:text-gray-100 font-semibold">${deviationText}</td>
             </tr>
@@ -490,7 +521,7 @@ function showError(message) {
   const tableBody = document.getElementById("cna-table");
   tableBody.innerHTML = `
         <tr>
-            <td colspan="6" class="px-6 py-4 text-center">
+            <td colspan="7" class="px-6 py-4 text-center">
                 <div class="text-red-600 font-medium">${escapeHtml(message)}</div>
             </td>
         </tr>
