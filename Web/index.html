@@ -146,7 +146,11 @@
 
       <!-- Stats Row -->
       <div class="grid grid-cols-1 md:grid-cols-4 gap-6 mb-8 fade-in">
-        <div class="bg-white rounded-lg shadow p-6 border-l-4 border-blue-500">
+        <div
+          class="bg-white rounded-lg shadow p-6 border-l-4 border-blue-500 cursor-pointer hover:shadow-lg transition-shadow"
+          onclick="filterByStatus('Growth')"
+          id="card-growth"
+        >
           <div class="flex items-center justify-between">
             <div>
               <p class="text-sm font-medium text-gray-500">Growth</p>
@@ -170,7 +174,11 @@
           </div>
         </div>
 
-        <div class="bg-white rounded-lg shadow p-6 border-l-4 border-cyan-500">
+        <div
+          class="bg-white rounded-lg shadow p-6 border-l-4 border-cyan-500 cursor-pointer hover:shadow-lg transition-shadow"
+          onclick="filterByStatus('Normal')"
+          id="card-normal"
+        >
           <div class="flex items-center justify-between">
             <div>
               <p class="text-sm font-medium text-gray-500">Normal</p>
@@ -195,7 +203,9 @@
         </div>
 
         <div
-          class="bg-white rounded-lg shadow p-6 border-l-4 border-indigo-500"
+          class="bg-white rounded-lg shadow p-6 border-l-4 border-indigo-500 cursor-pointer hover:shadow-lg transition-shadow"
+          onclick="filterByStatus('Declining')"
+          id="card-declining"
         >
           <div class="flex items-center justify-between">
             <div>
@@ -222,7 +232,11 @@
           </div>
         </div>
 
-        <div class="bg-white rounded-lg shadow p-6 border-l-4 border-slate-400">
+        <div
+          class="bg-white rounded-lg shadow p-6 border-l-4 border-slate-400 cursor-pointer hover:shadow-lg transition-shadow"
+          onclick="filterByStatus('Inactive')"
+          id="card-inactive"
+        >
           <div class="flex items-center justify-between">
             <div>
               <p class="text-sm font-medium text-gray-500">Inactive</p>

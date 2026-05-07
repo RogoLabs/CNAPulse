@@ -7,6 +7,7 @@
 let allCNAs = [];
 let filteredCNAs = [];
 let currentSort = { column: null, direction: "asc" };
+let activeStatusFilter = null;
 
 // Load anomaly data on page load
 document.addEventListener("DOMContentLoaded", async () => {
@@ -225,29 +226,56 @@ function updateCNATable(cnas) {
 function filterAndDisplay() {
   const searchTerm = document.getElementById("cna-search").value.toLowerCase();
 
-  // Apply search filter
+  filteredCNAs = [...allCNAs];
+
+  if (activeStatusFilter) {
+    filteredCNAs = filteredCNAs.filter(
+      (cna) => cna.status === activeStatusFilter,
+    );
+  }
+
   if (searchTerm) {
-    filteredCNAs = allCNAs.filter((cna) => {
+    filteredCNAs = filteredCNAs.filter((cna) => {
       const name = (cna.cna_name || "").toLowerCase();
       const orgName = (cna.cna_org_name || "").toLowerCase();
       const assignerId = (cna.assigner_id || "").toLowerCase();
-
       return (
         name.includes(searchTerm) ||
         orgName.includes(searchTerm) ||
         assignerId.includes(searchTerm)
       );
     });
-  } else {
-    filteredCNAs = [...allCNAs];
   }
 
-  // Reapply current sort if any
   if (currentSort.column) {
     applySorting();
   }
 
   updateCNATable(filteredCNAs);
+}
+
+/**
+ * Filter table by clicking status cards
+ */
+function filterByStatus(status) {
+  if (activeStatusFilter === status) {
+    activeStatusFilter = null;
+  } else {
+    activeStatusFilter = status;
+  }
+
+  ["Growth", "Normal", "Declining", "Inactive"].forEach((s) => {
+    const card = document.getElementById(`card-${s.toLowerCase()}`);
+    if (card) {
+      if (activeStatusFilter === s) {
+        card.classList.add("ring-2", "ring-offset-2", "ring-blue-500");
+      } else {
+        card.classList.remove("ring-2", "ring-offset-2", "ring-blue-500");
+      }
+    }
+  });
+
+  filterAndDisplay();
 }
 
 /**
