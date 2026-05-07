@@ -268,3 +268,65 @@ class TestHistoricalSnapshots:
 
         index = json.loads(index_file.read_text())
         assert "2026-05-07" in index["snapshots"]
+
+
+class TestFullPipeline:
+    def test_full_run_with_mock_data(self, monitor, sample_cve_data, tmp_path, monkeypatch):
+        """Test the full analysis pipeline produces valid output."""
+        monkeypatch.chdir(tmp_path)
+        (tmp_path / "Web").mkdir()
+
+        results = monitor.analyze_cna_activity(sample_cve_data)
+
+        assert "metadata" in results
+        assert "cnas" in results
+        assert "anomalies" in results
+
+        monitor.save_results(results, str(tmp_path / "Web" / "anomaly_data.json"))
+        assert (tmp_path / "Web" / "anomaly_data.json").exists()
+
+        import json
+
+        with open(tmp_path / "Web" / "anomaly_data.json") as f:
+            loaded = json.load(f)
+        assert loaded["metadata"]["total_cnas"] == results["metadata"]["total_cnas"]
+
+    def test_save_split_results(self, monitor, sample_cve_data, tmp_path, monkeypatch):
+        """Test split file generation."""
+        monkeypatch.chdir(tmp_path)
+        (tmp_path / "Web").mkdir()
+
+        results = monitor.analyze_cna_activity(sample_cve_data)
+        monitor.save_split_results(results)
+
+        assert (tmp_path / "Web" / "summary.json").exists()
+
+        assert (tmp_path / "Web" / "cna").exists()
+        cna_files = list((tmp_path / "Web" / "cna").glob("*.json"))
+        assert len(cna_files) > 0
+
+    def test_status_change_detection(self, monitor, sample_cve_data, tmp_path, monkeypatch):
+        """Test that status changes are detected between runs."""
+        monkeypatch.chdir(tmp_path)
+        (tmp_path / "Web").mkdir()
+
+        # First run
+        results = monitor.analyze_cna_activity(sample_cve_data)
+        monitor.save_results(results, str(tmp_path / "Web" / "anomaly_data.json"))
+
+        # Modify a CNA's status for second run
+        import json
+
+        with open(tmp_path / "Web" / "anomaly_data.json") as f:
+            prev_data = json.load(f)
+
+        # Change a status manually
+        if prev_data["cnas"]:
+            prev_data["cnas"][0]["status"] = "Declining"
+            with open(tmp_path / "Web" / "anomaly_data.json", "w") as f:
+                json.dump(prev_data, f)
+
+        # Now detect changes
+        changes = monitor.detect_status_changes(results)
+        # Should detect at least one change (we forced one)
+        assert len(changes) >= 1

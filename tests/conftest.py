@@ -1,5 +1,7 @@
-import pytest
 from datetime import datetime
+
+import pytest
+
 from Code.analyze_cna_anomalies import CVEMonitor
 
 

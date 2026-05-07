@@ -714,7 +714,7 @@ class CVEMonitor:
             return changes
 
         try:
-            with open(previous_file, "r", encoding="utf-8") as f:
+            with open(previous_file, encoding="utf-8") as f:
                 previous = json.load(f)
 
             prev_statuses = {c["cna_name"]: c["status"] for c in previous.get("cnas", [])}
