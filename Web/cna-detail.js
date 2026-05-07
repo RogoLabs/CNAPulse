@@ -7,7 +7,16 @@ let chartInstance = null;
 // Get CNA name from URL parameter
 function getCNAFromURL() {
   const params = new URLSearchParams(window.location.search);
-  return params.get("cna");
+  const cna = params.get("cna");
+
+  if (!cna) return null;
+
+  // Validate: CNA names should be alphanumeric with limited special chars
+  // Max length 100, allow letters, numbers, hyphens, underscores, dots, spaces
+  if (cna.length > 100) return null;
+  if (!/^[\w\s.\-]+$/i.test(cna)) return null;
+
+  return cna;
 }
 
 // Load and display CNA data
