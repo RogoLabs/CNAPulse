@@ -50,10 +50,27 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
 
-      - name: Clone CVE data repository
+      - name: Cache CVE data repository
+        id: cache-cve
+        uses: actions/cache@v4
+        with:
+          path: cvelistV5
+          key: cvelistv5-${{ github.run_id }}
+          restore-keys: |
+            cvelistv5-
+
+      - name: Clone or update CVE data repository
         run: |
-          git clone --depth 1 https://github.com/CVEProject/cvelistV5.git cvelistV5
-          echo "CVE data cloned successfully"
+          if [ -d "cvelistV5/.git" ]; then
+            echo "Updating cached CVE data..."
+            cd cvelistV5
+            git pull --depth 1 origin main || git fetch --depth 1 origin main && git reset --hard origin/main
+            cd ..
+          else
+            echo "Fresh clone of CVE data..."
+            git clone --depth 1 https://github.com/CVEProject/cvelistV5.git cvelistV5
+          fi
+          echo "CVE data ready"
           ls -la cvelistV5/
 
       - name: Run Anomaly Analysis
