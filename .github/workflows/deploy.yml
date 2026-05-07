@@ -2,11 +2,11 @@ name: CNA Anomaly Monitor - Every 3 Hours
 
 on:
   push:
-    branches: [ main, master ]
+    branches: [main, master]
   schedule:
     # Run every 3 hours (00:00, 03:00, 06:00, 09:00, 12:00, 15:00, 18:00, 21:00 UTC)
-    - cron: '0 */3 * * *'
-  
+    - cron: "0 */3 * * *"
+
   # Allow manual trigger
   workflow_dispatch:
 
@@ -26,42 +26,60 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
-      
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
-          cache: 'pip'
-      
+          python-version: "3.11"
+          cache: "pip"
+
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests
-      
+          pip install -e .
+
       - name: Configure Git
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-      
-      - name: Clone CVE data repository
+
+      - name: Cache CVE data repository
+        id: cache-cve
+        uses: actions/cache@v4
+        with:
+          path: cvelistV5
+          key: cvelistv5-${{ github.run_id }}
+          restore-keys: |
+            cvelistv5-
+
+      - name: Clone or update CVE data repository
         run: |
-          git clone --depth 1 https://github.com/CVEProject/cvelistV5.git cvelistV5
-          echo "CVE data cloned successfully"
+          if [ -d "cvelistV5/.git" ]; then
+            echo "Updating cached CVE data..."
+            cd cvelistV5
+            git pull --depth 1 origin main || git fetch --depth 1 origin main && git reset --hard origin/main
+            cd ..
+          else
+            echo "Fresh clone of CVE data..."
+            git clone --depth 1 https://github.com/CVEProject/cvelistV5.git cvelistV5
+          fi
+          echo "CVE data ready"
           ls -la cvelistV5/
-      
+
       - name: Run Anomaly Analysis
         run: |
           python Code/analyze_cna_anomalies.py
         env:
           PYTHONUNBUFFERED: 1
-      
+          CNAPULSE_WEBHOOK_URL: ${{ secrets.CNAPULSE_WEBHOOK_URL }}
+
       - name: Check for changes
         id: verify-changed-files
         run: |
@@ -70,50 +88,17 @@ jobs:
           else
             echo "changed=false" >> $GITHUB_OUTPUT
           fi
-      
+
       - name: Commit and push changes
         if: steps.verify-changed-files.outputs.changed == 'true'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git add Web/anomaly_data.json
+          git add Web/anomaly_data.json Web/summary.json Web/cna/ Web/history/
           git commit -m "Update CNA anomaly data - $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
-          
-          # Try to pull and push, handling conflicts by preferring our version
-          max_retries=3
-          retry_count=0
-          
-          while [ $retry_count -lt $max_retries ]; do
-            if git pull --rebase origin main; then
-              # Rebase successful, try to push
-              if git push; then
-                echo "Successfully pushed changes"
-                exit 0
-              else
-                echo "Push failed, retrying..."
-              fi
-            else
-              # Rebase failed due to conflict
-              echo "Rebase conflict detected, resolving by accepting our version..."
-              git checkout --ours Web/anomaly_data.json
-              git add Web/anomaly_data.json
-              git rebase --continue
-              
-              # Try to push after resolving conflict
-              if git push; then
-                echo "Successfully pushed after resolving conflict"
-                exit 0
-              fi
-            fi
-            
-            retry_count=$((retry_count + 1))
-            echo "Retry attempt $retry_count of $max_retries"
-            sleep 2
-          done
-          
-          echo "Failed to push after $max_retries attempts"
-          exit 1
-      
+          git pull --rebase origin main || true
+          git push || echo "Push failed - will retry next run in 3 hours"
+
       - name: Upload artifacts
         if: always()
         uses: actions/upload-artifact@v4
@@ -121,15 +106,15 @@ jobs:
           name: anomaly-data
           path: |
             Web/anomaly_data.json
-      
+
       - name: Setup Pages
         uses: actions/configure-pages@v4
-      
+
       - name: Upload to GitHub Pages
         uses: actions/upload-pages-artifact@v3
         with:
           path: Web/
-      
+
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
