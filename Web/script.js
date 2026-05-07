@@ -3,6 +3,31 @@
  * Loads and displays anomaly data from JSON
  */
 
+// Dark mode
+function toggleDarkMode() {
+  const isDark = document.documentElement.classList.toggle("dark");
+  localStorage.setItem("cnapulse-dark-mode", isDark ? "dark" : "light");
+  updateDarkModeIcons();
+}
+function updateDarkModeIcons() {
+  const isDark = document.documentElement.classList.contains("dark");
+  const darkIcon = document.getElementById("dark-icon");
+  const lightIcon = document.getElementById("light-icon");
+  if (darkIcon) darkIcon.classList.toggle("hidden", isDark);
+  if (lightIcon) lightIcon.classList.toggle("hidden", !isDark);
+}
+function initDarkMode() {
+  const stored = localStorage.getItem("cnapulse-dark-mode");
+  if (
+    stored === "dark" ||
+    (!stored && window.matchMedia("(prefers-color-scheme: dark)").matches)
+  ) {
+    document.documentElement.classList.add("dark");
+  }
+  updateDarkModeIcons();
+}
+initDarkMode();
+
 // Global variables
 let allCNAs = [];
 let filteredCNAs = [];
@@ -136,7 +161,10 @@ function updateCNATable(cnas) {
   const rows = cnas
     .map((cna, index) => {
       // Simple striped table with blue-toned status badges
-      const rowBg = index % 2 === 0 ? "bg-white" : "bg-gray-50";
+      const rowBg =
+        index % 2 === 0
+          ? "bg-white dark:bg-gray-800"
+          : "bg-gray-50 dark:bg-gray-900";
 
       // Blue gradient badges for visual appeal
       let badgeColor;
@@ -171,17 +199,17 @@ function updateCNATable(cnas) {
 
       // Format days since last CVE - neutral styling
       let daysSinceText = "Unknown";
-      let daysSinceColor = "text-gray-600";
+      let daysSinceColor = "text-gray-600 dark:text-gray-400";
       if (
         cna.days_since_last_cve !== null &&
         cna.days_since_last_cve !== undefined
       ) {
         daysSinceText = cna.days_since_last_cve;
-        daysSinceColor = "text-gray-900"; // Neutral dark gray for all
+        daysSinceColor = "text-gray-900 dark:text-gray-100"; // Neutral dark gray for all
       } else if (cna.baseline_avg === 0 && cna.current_count === 0) {
         // Completely inactive CNA
         daysSinceText = "Inactive";
-        daysSinceColor = "text-gray-500 italic";
+        daysSinceColor = "text-gray-500 dark:text-gray-400 italic";
       }
 
       // Display full organization name if available, otherwise show short name
@@ -190,12 +218,12 @@ function updateCNATable(cnas) {
 
       // Make CNA name a link to detail page
       const detailUrl = `cna-detail.html?cna=${encodeURIComponent(cna.cna_name)}`;
-      const nameHtml = `<a href="${detailUrl}" class="text-gray-900 hover:text-blue-600 hover:underline font-medium">${escapeHtml(displayName)}</a>`;
+      const nameHtml = `<a href="${detailUrl}" class="text-gray-900 dark:text-gray-100 hover:text-blue-600 hover:underline font-medium">${escapeHtml(displayName)}</a>`;
 
       // Advisory link as separate small link
       let advisoryLinkHtml = "";
       if (cna.cna_advisory_url) {
-        advisoryLinkHtml = `<a href="${escapeHtml(cna.cna_advisory_url)}" target="_blank" rel="noopener noreferrer" class="text-xs text-gray-500 hover:text-blue-600 ml-2" title="Security Advisories">
+        advisoryLinkHtml = `<a href="${escapeHtml(cna.cna_advisory_url)}" target="_blank" rel="noopener noreferrer" class="text-xs text-gray-500 dark:text-gray-400 hover:text-blue-600 ml-2" title="Security Advisories">
                 <svg class="w-3 h-3 inline" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path>
                 </svg>
@@ -203,20 +231,20 @@ function updateCNATable(cnas) {
       }
 
       return `
-            <tr class="border-b ${rowBg} hover:bg-gray-100 transition-colors">
+            <tr class="border-b ${rowBg} hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors">
                 <td class="px-6 py-4">
                     <div>${nameHtml}</div>
-                    ${subtitle ? `<div class="text-sm text-gray-500">${escapeHtml(subtitle)}${advisoryLinkHtml}</div>` : advisoryLinkHtml ? `<div class="text-sm text-gray-500">${advisoryLinkHtml}</div>` : ""}
+                    ${subtitle ? `<div class="text-sm text-gray-500 dark:text-gray-400">${escapeHtml(subtitle)}${advisoryLinkHtml}</div>` : advisoryLinkHtml ? `<div class="text-sm text-gray-500 dark:text-gray-400">${advisoryLinkHtml}</div>` : ""}
                 </td>
                 <td class="px-6 py-4">
                     <span class="px-3 py-1 text-xs font-semibold rounded-full ${badgeColor}">
                         ${statusText}
                     </span>
                 </td>
-                <td class="px-6 py-4 text-gray-900">${cna.baseline_avg}</td>
-                <td class="px-6 py-4 text-gray-900 font-semibold">${cna.current_count}</td>
+                <td class="px-6 py-4 text-gray-900 dark:text-gray-100">${cna.baseline_avg}</td>
+                <td class="px-6 py-4 text-gray-900 dark:text-gray-100 font-semibold">${cna.current_count}</td>
                 <td class="px-6 py-4 ${daysSinceColor}">${daysSinceText}</td>
-                <td class="px-6 py-4 text-gray-900 font-semibold">${deviationText}</td>
+                <td class="px-6 py-4 text-gray-900 dark:text-gray-100 font-semibold">${deviationText}</td>
             </tr>
         `;
     })
