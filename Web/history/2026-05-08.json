@@ -1,10 +1,10 @@
 {
   "date": "2026-05-08",
-  "generated_at": "2026-05-08T18:35:31.526417",
+  "generated_at": "2026-05-08T21:25:52.257970",
   "total_cnas": 545,
   "cnas_growth": 42,
-  "cnas_normal": 88,
-  "cnas_declining": 252,
+  "cnas_normal": 89,
+  "cnas_declining": 251,
   "cnas_inactive": 163,
   "top_growth": [
     {
@@ -13,7 +13,17 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Acer",
+      "cna_name": "SCHUTZWERK",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Echo",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Nutanix",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -28,18 +38,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Nutanix",
+      "cna_name": "Acer",
       "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Echo",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "SCHUTZWERK",
-      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -50,7 +50,7 @@
     {
       "cna_name": "canonical",
       "current_count": 53,
-      "deviation_pct": 1192.7
+      "deviation_pct": 1322.0
     },
     {
       "cna_name": "GV",
