@@ -1,15 +1,35 @@
 {
   "date": "2026-05-09",
-  "generated_at": "2026-05-09T06:49:00.296640",
+  "generated_at": "2026-05-09T09:35:02.957749",
   "total_cnas": 545,
-  "cnas_growth": 43,
+  "cnas_growth": 44,
   "cnas_normal": 88,
-  "cnas_declining": 251,
-  "cnas_inactive": 163,
+  "cnas_declining": 249,
+  "cnas_inactive": 164,
   "top_growth": [
+    {
+      "cna_name": "securin",
+      "current_count": 7,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "FSOFT",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
     {
       "cna_name": "CIRCL",
       "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "SNOWFLAKE",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "SCHUTZWERK",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -28,29 +48,9 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "SNOWFLAKE",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "SCHUTZWERK",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "FSOFT",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "securin",
-      "current_count": 7,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "canonical",
-      "current_count": 53,
-      "deviation_pct": 1322.0
+      "current_count": 50,
+      "deviation_pct": 1150.0
     },
     {
       "cna_name": "GV",
@@ -105,9 +105,9 @@
       "deviation_pct": -54.5
     },
     {
-      "cna_name": "Microchip",
-      "current_count": 1,
-      "deviation_pct": -57.1
+      "cna_name": "Mattermost",
+      "current_count": 5,
+      "deviation_pct": -56.8
     }
   ]
 }
