@@ -1,6 +1,6 @@
 {
   "date": "2026-05-09",
-  "generated_at": "2026-05-09T04:12:32.975237",
+  "generated_at": "2026-05-09T06:49:00.296640",
   "total_cnas": 545,
   "cnas_growth": 43,
   "cnas_normal": 88,
@@ -8,13 +8,23 @@
   "cnas_inactive": 163,
   "top_growth": [
     {
+      "cna_name": "CIRCL",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "Acer",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "securin",
-      "current_count": 7,
+      "cna_name": "Echo",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Nutanix",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -28,23 +38,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "CIRCL",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Echo",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "FSOFT",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Nutanix",
-      "current_count": 1,
+      "cna_name": "securin",
+      "current_count": 7,
       "deviation_pct": 999999.0
     },
     {
@@ -87,7 +87,7 @@
     {
       "cna_name": "SamsungMobile",
       "current_count": 11,
-      "deviation_pct": -45.3
+      "deviation_pct": -39.8
     },
     {
       "cna_name": "autodesk",
