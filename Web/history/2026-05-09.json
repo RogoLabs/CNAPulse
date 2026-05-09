@@ -1,24 +1,24 @@
 {
   "date": "2026-05-09",
-  "generated_at": "2026-05-09T00:47:50.583788",
+  "generated_at": "2026-05-09T04:12:32.975237",
   "total_cnas": 545,
-  "cnas_growth": 42,
+  "cnas_growth": 43,
   "cnas_normal": 88,
-  "cnas_declining": 252,
+  "cnas_declining": 251,
   "cnas_inactive": 163,
   "top_growth": [
     {
-      "cna_name": "FSOFT",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Echo",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "Acer",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "securin",
+      "current_count": 7,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "SNOWFLAKE",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -33,12 +33,12 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "securin",
-      "current_count": 7,
+      "cna_name": "Echo",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "SNOWFLAKE",
+      "cna_name": "FSOFT",
       "current_count": 1,
       "deviation_pct": 999999.0
     },

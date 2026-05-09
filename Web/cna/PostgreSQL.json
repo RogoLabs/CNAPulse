@@ -5,11 +5,11 @@
   "cna_advisory_url": "https://www.postgresql.org/support/security/",
   "country": "Canada",
   "scope_type": "",
-  "status": "Declining",
+  "status": "Growth",
   "baseline_avg": 3.43,
-  "current_count": 0,
-  "deviation_pct": -100.0,
-  "days_since_last_cve": 72,
+  "current_count": 4,
+  "deviation_pct": 16.7,
+  "days_since_last_cve": 0,
   "std_dev": 2.99,
   "threshold_low": 1.71,
   "threshold_high": 8.57,
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 0,
+      "count": 4,
       "is_current": true
     }
   ]
