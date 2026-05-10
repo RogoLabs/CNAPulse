@@ -1,14 +1,19 @@
 {
   "date": "2026-05-10",
-  "generated_at": "2026-05-10T18:24:07.932189",
+  "generated_at": "2026-05-10T21:20:25.992166",
   "total_cnas": 545,
   "cnas_growth": 39,
-  "cnas_normal": 87,
-  "cnas_declining": 255,
+  "cnas_normal": 86,
+  "cnas_declining": 256,
   "cnas_inactive": 164,
   "top_growth": [
     {
-      "cna_name": "FSOFT",
+      "cna_name": "SCHUTZWERK",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "CIRCL",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -18,27 +23,22 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "SCHUTZWERK",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Acer",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "Nutanix",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "CIRCL",
+      "cna_name": "FSOFT",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
       "cna_name": "SNOWFLAKE",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Acer",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -50,7 +50,7 @@
     {
       "cna_name": "canonical",
       "current_count": 46,
-      "deviation_pct": 858.3
+      "deviation_pct": 780.9
     },
     {
       "cna_name": "Chrome",
@@ -92,7 +92,7 @@
     {
       "cna_name": "autodesk",
       "current_count": 3,
-      "deviation_pct": -52.2
+      "deviation_pct": -51.6
     },
     {
       "cna_name": "nvidia",
