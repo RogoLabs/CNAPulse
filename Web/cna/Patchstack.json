@@ -6,17 +6,17 @@
   "country": "Estonia",
   "scope_type": "",
   "status": "Declining",
-  "baseline_avg": 500.0,
+  "baseline_avg": 498.25,
   "current_count": 55,
   "deviation_pct": -89.0,
   "days_since_last_cve": 2,
-  "std_dev": 191.46,
-  "threshold_low": 250.0,
-  "threshold_high": 1250.0,
+  "std_dev": 190.27,
+  "threshold_low": 249.12,
+  "threshold_high": 1245.62,
   "timeline_13months": [
     {
       "month": "Days 390-360",
-      "count": 469,
+      "count": 448,
       "is_current": false
     },
     {
