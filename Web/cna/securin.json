@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://www.securin.io/discover-zero-days",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
-  "baseline_avg": 0.0,
-  "current_count": 7,
-  "deviation_pct": 999999.0,
+  "status": "Normal",
+  "baseline_avg": 2.0,
+  "current_count": 5,
+  "deviation_pct": 150.0,
   "days_since_last_cve": 5,
   "std_dev": null,
-  "threshold_low": 0.0,
-  "threshold_high": 0.0,
+  "threshold_low": 1.0,
+  "threshold_high": 5.0,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 7,
+      "count": 5,
       "is_current": true
     }
   ]
