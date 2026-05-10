@@ -5,18 +5,18 @@
   "cna_advisory_url": "https://www.netskope.com/company/security-compliance-and-assurance/security-advisories-and-disclosures",
   "country": "USA",
   "scope_type": "",
-  "status": "Normal",
-  "baseline_avg": 2.0,
+  "status": "Declining",
+  "baseline_avg": 2.33,
   "current_count": 1,
-  "deviation_pct": -50.0,
-  "days_since_last_cve": 10,
-  "std_dev": 1.41,
-  "threshold_low": 1.0,
-  "threshold_high": 5.0,
+  "deviation_pct": -57.1,
+  "days_since_last_cve": 11,
+  "std_dev": 1.53,
+  "threshold_low": 1.17,
+  "threshold_high": 5.83,
   "timeline_13months": [
     {
       "month": "Days 390-360",
-      "count": 1,
+      "count": 0,
       "is_current": false
     },
     {
