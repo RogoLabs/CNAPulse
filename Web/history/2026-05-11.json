@@ -1,10 +1,10 @@
 {
   "date": "2026-05-11",
-  "generated_at": "2026-05-11T16:02:51.504094",
+  "generated_at": "2026-05-11T18:42:53.057574",
   "total_cnas": 545,
-  "cnas_growth": 37,
-  "cnas_normal": 88,
-  "cnas_declining": 256,
+  "cnas_growth": 36,
+  "cnas_normal": 92,
+  "cnas_declining": 253,
   "cnas_inactive": 164,
   "top_growth": [
     {
@@ -18,17 +18,17 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "FSOFT",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "Acer",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Echo",
+      "cna_name": "Nutanix",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "FSOFT",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -38,7 +38,7 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Nutanix",
+      "cna_name": "Echo",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -65,11 +65,6 @@
       "deviation_pct": 23.5
     },
     {
-      "cna_name": "mongodb",
-      "current_count": 5,
-      "deviation_pct": 4.7
-    },
-    {
       "cna_name": "sap",
       "current_count": 17,
       "deviation_pct": -16.7
@@ -85,9 +80,9 @@
       "deviation_pct": -39.8
     },
     {
-      "cna_name": "autodesk",
-      "current_count": 3,
-      "deviation_pct": -51.6
+      "cna_name": "@huntr_ai",
+      "current_count": 4,
+      "deviation_pct": -44.2
     },
     {
       "cna_name": "nvidia",
@@ -100,14 +95,19 @@
       "deviation_pct": -53.8
     },
     {
-      "cna_name": "JetBrains",
-      "current_count": 3,
-      "deviation_pct": -55.6
-    },
-    {
       "cna_name": "INCIBE",
       "current_count": 17,
       "deviation_pct": -56.5
+    },
+    {
+      "cna_name": "autodesk",
+      "current_count": 3,
+      "deviation_pct": -56.5
+    },
+    {
+      "cna_name": "Netskope",
+      "current_count": 1,
+      "deviation_pct": -57.1
     }
   ]
 }
