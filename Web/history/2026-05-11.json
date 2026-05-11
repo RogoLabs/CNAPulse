@@ -1,0 +1,113 @@
+{
+  "date": "2026-05-11",
+  "generated_at": "2026-05-11T00:50:23.715062",
+  "total_cnas": 545,
+  "cnas_growth": 38,
+  "cnas_normal": 86,
+  "cnas_declining": 257,
+  "cnas_inactive": 164,
+  "top_growth": [
+    {
+      "cna_name": "SCHUTZWERK",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "FSOFT",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Nutanix",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Acer",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Echo",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "SNOWFLAKE",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "CIRCL",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "GV",
+      "current_count": 12,
+      "deviation_pct": 1100.0
+    },
+    {
+      "cna_name": "canonical",
+      "current_count": 46,
+      "deviation_pct": 780.9
+    },
+    {
+      "cna_name": "Chrome",
+      "current_count": 191,
+      "deviation_pct": 586.2
+    }
+  ],
+  "top_declining": [
+    {
+      "cna_name": "Zyxel",
+      "current_count": 3,
+      "deviation_pct": 5.9
+    },
+    {
+      "cna_name": "mongodb",
+      "current_count": 5,
+      "deviation_pct": 4.7
+    },
+    {
+      "cna_name": "sap",
+      "current_count": 17,
+      "deviation_pct": -16.7
+    },
+    {
+      "cna_name": "ASUSTOR1",
+      "current_count": 2,
+      "deviation_pct": -25.0
+    },
+    {
+      "cna_name": "tenable",
+      "current_count": 2,
+      "deviation_pct": -31.0
+    },
+    {
+      "cna_name": "SamsungMobile",
+      "current_count": 11,
+      "deviation_pct": -39.8
+    },
+    {
+      "cna_name": "autodesk",
+      "current_count": 3,
+      "deviation_pct": -51.6
+    },
+    {
+      "cna_name": "nvidia",
+      "current_count": 8,
+      "deviation_pct": -53.6
+    },
+    {
+      "cna_name": "naver",
+      "current_count": 1,
+      "deviation_pct": -53.8
+    },
+    {
+      "cna_name": "JetBrains",
+      "current_count": 3,
+      "deviation_pct": -55.6
+    }
+  ]
+}
