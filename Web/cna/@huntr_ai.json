@@ -5,10 +5,10 @@
   "cna_advisory_url": "https://huntr.com/bounties/hacktivity",
   "country": "USA",
   "scope_type": "",
-  "status": "Declining",
+  "status": "Normal",
   "baseline_avg": 7.17,
-  "current_count": 4,
-  "deviation_pct": -44.2,
+  "current_count": 5,
+  "deviation_pct": -30.2,
   "days_since_last_cve": 0,
   "std_dev": 5.42,
   "threshold_low": 3.58,
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 4,
+      "count": 5,
       "is_current": true
     }
   ]
