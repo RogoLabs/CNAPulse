@@ -1,10 +1,10 @@
 {
   "date": "2026-05-12",
-  "generated_at": "2026-05-12T15:53:02.747514",
+  "generated_at": "2026-05-12T18:42:17.166605",
   "total_cnas": 545,
-  "cnas_growth": 42,
-  "cnas_normal": 91,
-  "cnas_declining": 248,
+  "cnas_growth": 45,
+  "cnas_normal": 89,
+  "cnas_declining": 247,
   "cnas_inactive": 164,
   "top_growth": [
     {
@@ -13,17 +13,22 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Cribl",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "SCHUTZWERK",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Echo",
+      "cna_name": "Cribl",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Nutanix",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "CIRCL",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -38,12 +43,7 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "CIRCL",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Nutanix",
+      "cna_name": "Echo",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -72,7 +72,7 @@
     {
       "cna_name": "tenable",
       "current_count": 2,
-      "deviation_pct": -31.0
+      "deviation_pct": -37.9
     },
     {
       "cna_name": "SamsungMobile",
