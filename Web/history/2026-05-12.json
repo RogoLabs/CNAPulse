@@ -1,22 +1,12 @@
 {
   "date": "2026-05-12",
-  "generated_at": "2026-05-12T12:47:15.025997",
+  "generated_at": "2026-05-12T15:53:02.747514",
   "total_cnas": 545,
-  "cnas_growth": 40,
-  "cnas_normal": 93,
-  "cnas_declining": 249,
-  "cnas_inactive": 163,
+  "cnas_growth": 42,
+  "cnas_normal": 91,
+  "cnas_declining": 248,
+  "cnas_inactive": 164,
   "top_growth": [
-    {
-      "cna_name": "Acer",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "CIRCL",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
     {
       "cna_name": "FSOFT",
       "current_count": 1,
@@ -25,6 +15,11 @@
     {
       "cna_name": "Cribl",
       "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "SCHUTZWERK",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -38,8 +33,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "SCHUTZWERK",
-      "current_count": 2,
+      "cna_name": "Acer",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "CIRCL",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -95,11 +95,6 @@
       "deviation_pct": -53.8
     },
     {
-      "cna_name": "autodesk",
-      "current_count": 3,
-      "deviation_pct": -56.5
-    },
-    {
       "cna_name": "Netskope",
       "current_count": 1,
       "deviation_pct": -57.1
@@ -108,6 +103,11 @@
       "cna_name": "Microchip",
       "current_count": 1,
       "deviation_pct": -57.1
+    },
+    {
+      "cna_name": "wikimedia-foundation",
+      "current_count": 11,
+      "deviation_pct": -57.7
     }
   ]
 }
