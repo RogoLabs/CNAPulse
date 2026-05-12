@@ -2,7 +2,7 @@
   "assigner_id": "ca940d4e-fea4-4aa2-9a58-591a58b1ce21",
   "cna_name": "TR-CERT",
   "cna_org_name": "TR-CERT (Computer Emergency Response Team of the Republic of Türkiye)",
-  "cna_advisory_url": "https://www.usom.gov.tr/bildirim",
+  "cna_advisory_url": "https://siberguvenlik.gov.tr/cve-bilgilendirme",
   "country": "Türkiye",
   "scope_type": "",
   "status": "Normal",

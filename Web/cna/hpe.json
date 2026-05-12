@@ -5,11 +5,11 @@
   "cna_advisory_url": "https://support.hpe.com/portal/site/hpsc/public/kb/secBullArchive/",
   "country": "USA",
   "scope_type": "",
-  "status": "Declining",
+  "status": "Normal",
   "baseline_avg": 11.0,
-  "current_count": 0,
-  "deviation_pct": -100.0,
-  "days_since_last_cve": 35,
+  "current_count": 32,
+  "deviation_pct": 190.9,
+  "days_since_last_cve": 0,
   "std_dev": 9.12,
   "threshold_low": 5.5,
   "threshold_high": 27.5,
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 0,
+      "count": 32,
       "is_current": true
     }
   ]
