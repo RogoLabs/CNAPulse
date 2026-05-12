@@ -1,20 +1,20 @@
 {
   "date": "2026-05-12",
-  "generated_at": "2026-05-12T07:05:11.827214",
+  "generated_at": "2026-05-12T09:57:49.193392",
   "total_cnas": 545,
-  "cnas_growth": 37,
-  "cnas_normal": 94,
-  "cnas_declining": 251,
+  "cnas_growth": 40,
+  "cnas_normal": 92,
+  "cnas_declining": 250,
   "cnas_inactive": 163,
   "top_growth": [
     {
-      "cna_name": "CIRCL",
-      "current_count": 1,
+      "cna_name": "SCHUTZWERK",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "SCHUTZWERK",
-      "current_count": 2,
+      "cna_name": "Acer",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -23,7 +23,12 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Acer",
+      "cna_name": "SNOWFLAKE",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "CIRCL",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -39,11 +44,6 @@
     },
     {
       "cna_name": "Nutanix",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "SNOWFLAKE",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
