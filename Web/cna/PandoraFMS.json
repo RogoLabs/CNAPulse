@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://pandorafms.com/common-vulnerabilities-and-exposures/",
   "country": "Spain",
   "scope_type": "",
-  "status": "Growth",
-  "baseline_avg": 1.5,
-  "current_count": 13,
-  "deviation_pct": 766.7,
-  "days_since_last_cve": 0,
-  "std_dev": null,
-  "threshold_low": 0.75,
-  "threshold_high": 3.75,
+  "status": "Normal",
+  "baseline_avg": 3.67,
+  "current_count": 5,
+  "deviation_pct": 36.4,
+  "days_since_last_cve": 1,
+  "std_dev": 3.79,
+  "threshold_low": 1.83,
+  "threshold_high": 9.17,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 13,
+      "count": 5,
       "is_current": true
     }
   ]
