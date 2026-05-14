@@ -1,37 +1,37 @@
 {
-  "assigner_id": "10b61619-3869-496c-8a1e-f291b0e71e3f",
-  "cna_name": "Xerox",
-  "cna_org_name": "Xerox Corporation",
-  "cna_advisory_url": "https://security.business.xerox.com/en-us/documents/bulletins/",
-  "country": "USA",
+  "assigner_id": "b6533044-ea05-4482-8458-7bddeca0d079",
+  "cna_name": "NetMotion",
+  "cna_org_name": "NetMotion",
+  "cna_advisory_url": "",
+  "country": "",
   "scope_type": "",
-  "status": "Declining",
-  "baseline_avg": 1.67,
-  "current_count": 0,
-  "deviation_pct": -100.0,
-  "days_since_last_cve": 76,
-  "std_dev": 0.58,
-  "threshold_low": 0.83,
-  "threshold_high": 4.17,
+  "status": "Growth",
+  "baseline_avg": 3.17,
+  "current_count": 10,
+  "deviation_pct": 215.8,
+  "days_since_last_cve": 13,
+  "std_dev": 1.47,
+  "threshold_low": 1.58,
+  "threshold_high": 7.92,
   "timeline_13months": [
     {
       "month": "Days 390-360",
-      "count": 0,
+      "count": 4,
       "is_current": false
     },
     {
       "month": "Days 360-330",
-      "count": 0,
+      "count": 2,
       "is_current": false
     },
     {
       "month": "Days 330-300",
-      "count": 0,
+      "count": 4,
       "is_current": false
     },
     {
       "month": "Days 300-270",
-      "count": 2,
+      "count": 0,
       "is_current": false
     },
     {
@@ -41,17 +41,17 @@
     },
     {
       "month": "Days 240-210",
-      "count": 0,
+      "count": 4,
       "is_current": false
     },
     {
       "month": "Days 210-180",
-      "count": 0,
+      "count": 4,
       "is_current": false
     },
     {
       "month": "Days 180-150",
-      "count": 0,
+      "count": 2,
       "is_current": false
     },
     {
@@ -61,12 +61,12 @@
     },
     {
       "month": "Days 120-90",
-      "count": 0,
+      "count": 3,
       "is_current": false
     },
     {
       "month": "Days 90-60",
-      "count": 3,
+      "count": 0,
       "is_current": false
     },
     {
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 0,
+      "count": 10,
       "is_current": true
     }
   ]

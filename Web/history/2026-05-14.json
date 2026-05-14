@@ -1,29 +1,14 @@
 {
   "date": "2026-05-14",
-  "generated_at": "2026-05-14T07:07:03.415613",
-  "total_cnas": 546,
+  "generated_at": "2026-05-14T09:51:11.229124",
+  "total_cnas": 548,
   "cnas_growth": 43,
-  "cnas_normal": 97,
-  "cnas_declining": 241,
-  "cnas_inactive": 165,
+  "cnas_normal": 93,
+  "cnas_declining": 245,
+  "cnas_inactive": 167,
   "top_growth": [
     {
-      "cna_name": "Nutanix",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "SNOWFLAKE",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Echo",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Acer",
+      "cna_name": "CIRCL",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -33,12 +18,27 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "SNOWFLAKE",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "SCHUTZWERK",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "CIRCL",
+      "cna_name": "Acer",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Nutanix",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Echo",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -70,44 +70,44 @@
       "deviation_pct": -17.2
     },
     {
+      "cna_name": "TR-CERT",
+      "current_count": 20,
+      "deviation_pct": -18.7
+    },
+    {
       "cna_name": "AMD",
       "current_count": 10,
       "deviation_pct": -22.3
     },
     {
-      "cna_name": "SamsungMobile",
+      "cna_name": "hp",
+      "current_count": 3,
+      "deviation_pct": -23.1
+    },
+    {
+      "cna_name": "Zoom",
+      "current_count": 3,
+      "deviation_pct": -32.5
+    },
+    {
+      "cna_name": "intel",
+      "current_count": 25,
+      "deviation_pct": -40.5
+    },
+    {
+      "cna_name": "Samsung Mobile",
       "current_count": 9,
       "deviation_pct": -53.1
     },
     {
-      "cna_name": "nvidia",
-      "current_count": 8,
-      "deviation_pct": -53.6
+      "cna_name": "Zohocorp",
+      "current_count": 2,
+      "deviation_pct": -54.2
     },
     {
-      "cna_name": "naver",
-      "current_count": 1,
-      "deviation_pct": -53.8
-    },
-    {
-      "cna_name": "Netskope",
-      "current_count": 1,
-      "deviation_pct": -57.1
-    },
-    {
-      "cna_name": "Microchip",
-      "current_count": 1,
-      "deviation_pct": -57.1
-    },
-    {
-      "cna_name": "wikimedia-foundation",
-      "current_count": 11,
-      "deviation_pct": -57.7
-    },
-    {
-      "cna_name": "@huntr_ai",
-      "current_count": 3,
-      "deviation_pct": -59.1
+      "cna_name": "Esri",
+      "current_count": 2,
+      "deviation_pct": -55.6
     }
   ]
 }

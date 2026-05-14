@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://discuss.hashicorp.com/c/security/52",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
+  "status": "Normal",
   "baseline_avg": 2.4,
   "current_count": 9,
   "deviation_pct": 275.0,

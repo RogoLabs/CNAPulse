@@ -1,18 +1,18 @@
 {
-  "assigner_id": "ca2a266c-be2f-4d4b-92d0-47b76b1a9c4e",
+  "assigner_id": "unknown",
   "cna_name": "Perforce",
   "cna_org_name": "Perforce",
   "cna_advisory_url": "https://portal.perforce.com/s/cve-dashboard",
   "country": "USA",
   "scope_type": "",
-  "status": "Normal",
-  "baseline_avg": 1.0,
-  "current_count": 1,
+  "status": "Inactive",
+  "baseline_avg": 0.0,
+  "current_count": 0,
   "deviation_pct": 0.0,
-  "days_since_last_cve": 19,
+  "days_since_last_cve": null,
   "std_dev": null,
-  "threshold_low": 0.5,
-  "threshold_high": 2.5,
+  "threshold_low": 0.0,
+  "threshold_high": 0.0,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -21,7 +21,7 @@
     },
     {
       "month": "Days 360-330",
-      "count": 1,
+      "count": 0,
       "is_current": false
     },
     {
@@ -36,7 +36,7 @@
     },
     {
       "month": "Days 270-240",
-      "count": 1,
+      "count": 0,
       "is_current": false
     },
     {
@@ -56,7 +56,7 @@
     },
     {
       "month": "Days 150-120",
-      "count": 2,
+      "count": 0,
       "is_current": false
     },
     {
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 1,
+      "count": 0,
       "is_current": true
     }
   ]

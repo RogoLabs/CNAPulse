@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://www.intel.com/content/www/us/en/security-center/default.html",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
+  "status": "Declining",
   "baseline_avg": 42.0,
   "current_count": 25,
   "deviation_pct": -40.5,

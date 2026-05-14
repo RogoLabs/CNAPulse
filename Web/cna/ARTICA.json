@@ -1,18 +1,18 @@
 {
-  "assigner_id": "10b61619-3869-496c-8a1e-f291b0e71e3f",
-  "cna_name": "Xerox",
-  "cna_org_name": "Xerox Corporation",
-  "cna_advisory_url": "https://security.business.xerox.com/en-us/documents/bulletins/",
-  "country": "USA",
+  "assigner_id": "63375d6c-d89a-45ed-8ecc-c8c361b0e04c",
+  "cna_name": "ARTICA",
+  "cna_org_name": "ARTICA",
+  "cna_advisory_url": "",
+  "country": "",
   "scope_type": "",
-  "status": "Declining",
-  "baseline_avg": 1.67,
-  "current_count": 0,
-  "deviation_pct": -100.0,
-  "days_since_last_cve": 76,
-  "std_dev": 0.58,
-  "threshold_low": 0.83,
-  "threshold_high": 4.17,
+  "status": "Normal",
+  "baseline_avg": 3.67,
+  "current_count": 5,
+  "deviation_pct": 36.4,
+  "days_since_last_cve": 1,
+  "std_dev": 3.79,
+  "threshold_low": 1.83,
+  "threshold_high": 9.17,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -21,7 +21,7 @@
     },
     {
       "month": "Days 360-330",
-      "count": 0,
+      "count": 3,
       "is_current": false
     },
     {
@@ -31,7 +31,7 @@
     },
     {
       "month": "Days 300-270",
-      "count": 2,
+      "count": 0,
       "is_current": false
     },
     {
@@ -66,7 +66,7 @@
     },
     {
       "month": "Days 90-60",
-      "count": 3,
+      "count": 0,
       "is_current": false
     },
     {
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 0,
+      "count": 5,
       "is_current": true
     }
   ]
