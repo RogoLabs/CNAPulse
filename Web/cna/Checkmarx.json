@@ -36,12 +36,12 @@
     },
     {
       "month": "Days 270-240",
-      "count": 0,
+      "count": 3,
       "is_current": false
     },
     {
       "month": "Days 240-210",
-      "count": 3,
+      "count": 0,
       "is_current": false
     },
     {
