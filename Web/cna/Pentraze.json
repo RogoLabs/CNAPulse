@@ -1,0 +1,83 @@
+{
+  "assigner_id": "41c37e40-543d-43a2-b660-2fee83ea851a",
+  "cna_name": "Pentraze",
+  "cna_org_name": "Pentraze Cybersecurity",
+  "cna_advisory_url": "https://pentraze.com/vulnerability-reports/",
+  "country": "Dominican Republic",
+  "scope_type": "",
+  "status": "Declining",
+  "baseline_avg": 3.5,
+  "current_count": 0,
+  "deviation_pct": -100.0,
+  "days_since_last_cve": 77,
+  "std_dev": null,
+  "threshold_low": 1.75,
+  "threshold_high": 8.75,
+  "timeline_13months": [
+    {
+      "month": "Days 390-360",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 360-330",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 330-300",
+      "count": 6,
+      "is_current": false
+    },
+    {
+      "month": "Days 300-270",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 270-240",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 240-210",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 210-180",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 180-150",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 150-120",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 120-90",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 90-60",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Days 60-30",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Last 30 Days",
+      "count": 0,
+      "is_current": true
+    }
+  ]
+}

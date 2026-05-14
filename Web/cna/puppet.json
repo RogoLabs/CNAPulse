@@ -1,0 +1,83 @@
+{
+  "assigner_id": "ca2a266c-be2f-4d4b-92d0-47b76b1a9c4e",
+  "cna_name": "puppet",
+  "cna_org_name": "puppet",
+  "cna_advisory_url": "",
+  "country": "",
+  "scope_type": "",
+  "status": "Normal",
+  "baseline_avg": 1.4,
+  "current_count": 1,
+  "deviation_pct": -28.6,
+  "days_since_last_cve": 13,
+  "std_dev": 0.89,
+  "threshold_low": 0.7,
+  "threshold_high": 3.5,
+  "timeline_13months": [
+    {
+      "month": "Days 390-360",
+      "count": 3,
+      "is_current": false
+    },
+    {
+      "month": "Days 360-330",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 330-300",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Days 300-270",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 270-240",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 240-210",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Days 210-180",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 180-150",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 150-120",
+      "count": 2,
+      "is_current": false
+    },
+    {
+      "month": "Days 120-90",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 90-60",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 60-30",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Last 30 Days",
+      "count": 1,
+      "is_current": true
+    }
+  ]
+}

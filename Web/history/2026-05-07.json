@@ -1,0 +1,113 @@
+{
+  "date": "2026-05-07",
+  "generated_at": "2026-05-07T11:41:48.064049",
+  "total_cnas": 550,
+  "cnas_growth": 34,
+  "cnas_normal": 95,
+  "cnas_declining": 251,
+  "cnas_inactive": 170,
+  "top_growth": [
+    {
+      "cna_name": "FSOFT",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "SWI",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Echo",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Nutanix",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "securin",
+      "current_count": 7,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "runZero",
+      "current_count": 13,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "SCHUTZWERK",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "SNOWFLAKE",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "canonical",
+      "current_count": 53,
+      "deviation_pct": 1192.7
+    },
+    {
+      "cna_name": "GV",
+      "current_count": 12,
+      "deviation_pct": 1100.0
+    }
+  ],
+  "top_declining": [
+    {
+      "cna_name": "zte",
+      "current_count": 3,
+      "deviation_pct": 20.0
+    },
+    {
+      "cna_name": "Zyxel",
+      "current_count": 3,
+      "deviation_pct": 5.9
+    },
+    {
+      "cna_name": "adobe",
+      "current_count": 54,
+      "deviation_pct": -28.2
+    },
+    {
+      "cna_name": "tenable",
+      "current_count": 2,
+      "deviation_pct": -31.0
+    },
+    {
+      "cna_name": "mongodb",
+      "current_count": 3,
+      "deviation_pct": -37.2
+    },
+    {
+      "cna_name": "hp",
+      "current_count": 2,
+      "deviation_pct": -50.0
+    },
+    {
+      "cna_name": "GoogleCloud",
+      "current_count": 2,
+      "deviation_pct": -53.8
+    },
+    {
+      "cna_name": "Zohocorp",
+      "current_count": 2,
+      "deviation_pct": -54.2
+    },
+    {
+      "cna_name": "Mandiant",
+      "current_count": 1,
+      "deviation_pct": -54.5
+    },
+    {
+      "cna_name": "TR-CERT",
+      "current_count": 10,
+      "deviation_pct": -55.3
+    }
+  ]
+}

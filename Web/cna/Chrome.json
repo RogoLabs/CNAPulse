@@ -1,0 +1,83 @@
+{
+  "assigner_id": "ebfee0ef-53dd-4cf3-9e2a-08a5bd7a7e28",
+  "cna_name": "Chrome",
+  "cna_org_name": "Chrome",
+  "cna_advisory_url": "https://chromereleases.googleblog.com/",
+  "country": "USA",
+  "scope_type": "",
+  "status": "Growth",
+  "baseline_avg": 22.83,
+  "current_count": 124,
+  "deviation_pct": 443.1,
+  "days_since_last_cve": 8,
+  "std_dev": 24.46,
+  "threshold_low": 11.42,
+  "threshold_high": 57.08,
+  "timeline_13months": [
+    {
+      "month": "Days 390-360",
+      "count": 2,
+      "is_current": false
+    },
+    {
+      "month": "Days 360-330",
+      "count": 14,
+      "is_current": false
+    },
+    {
+      "month": "Days 330-300",
+      "count": 10,
+      "is_current": false
+    },
+    {
+      "month": "Days 300-270",
+      "count": 6,
+      "is_current": false
+    },
+    {
+      "month": "Days 270-240",
+      "count": 16,
+      "is_current": false
+    },
+    {
+      "month": "Days 240-210",
+      "count": 13,
+      "is_current": false
+    },
+    {
+      "month": "Days 210-180",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 180-150",
+      "count": 66,
+      "is_current": false
+    },
+    {
+      "month": "Days 150-120",
+      "count": 19,
+      "is_current": false
+    },
+    {
+      "month": "Days 120-90",
+      "count": 12,
+      "is_current": false
+    },
+    {
+      "month": "Days 90-60",
+      "count": 20,
+      "is_current": false
+    },
+    {
+      "month": "Days 60-30",
+      "count": 75,
+      "is_current": false
+    },
+    {
+      "month": "Last 30 Days",
+      "count": 124,
+      "is_current": true
+    }
+  ]
+}

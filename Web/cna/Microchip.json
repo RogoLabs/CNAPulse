@@ -1,0 +1,83 @@
+{
+  "assigner_id": "dc3f6da9-85b5-4a73-84a2-2ec90b40fca5",
+  "cna_name": "Microchip",
+  "cna_org_name": "Microchip Technology",
+  "cna_advisory_url": "https://microchip.com/psirt",
+  "country": "USA",
+  "scope_type": "",
+  "status": "Declining",
+  "baseline_avg": 2.33,
+  "current_count": 1,
+  "deviation_pct": -57.1,
+  "days_since_last_cve": 20,
+  "std_dev": 1.15,
+  "threshold_low": 1.17,
+  "threshold_high": 5.83,
+  "timeline_13months": [
+    {
+      "month": "Days 390-360",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 360-330",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 330-300",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 300-270",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 270-240",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 240-210",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 210-180",
+      "count": 3,
+      "is_current": false
+    },
+    {
+      "month": "Days 180-150",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 150-120",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 120-90",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 90-60",
+      "count": 3,
+      "is_current": false
+    },
+    {
+      "month": "Days 60-30",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Last 30 Days",
+      "count": 1,
+      "is_current": true
+    }
+  ]
+}

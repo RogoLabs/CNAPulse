@@ -1,0 +1,83 @@
+{
+  "assigner_id": "6dda929c-bb53-4a77-a76d-48e79601a1ce",
+  "cna_name": "intel",
+  "cna_org_name": "Intel Corporation",
+  "cna_advisory_url": "https://www.intel.com/content/www/us/en/security-center/default.html",
+  "country": "USA",
+  "scope_type": "",
+  "status": "Declining",
+  "baseline_avg": 50.2,
+  "current_count": 1,
+  "deviation_pct": -98.0,
+  "days_since_last_cve": 28,
+  "std_dev": 27.29,
+  "threshold_low": 25.1,
+  "threshold_high": 125.5,
+  "timeline_13months": [
+    {
+      "month": "Days 390-360",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 360-330",
+      "count": 77,
+      "is_current": false
+    },
+    {
+      "month": "Days 330-300",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 300-270",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 270-240",
+      "count": 66,
+      "is_current": false
+    },
+    {
+      "month": "Days 240-210",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 210-180",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 180-150",
+      "count": 63,
+      "is_current": false
+    },
+    {
+      "month": "Days 150-120",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 120-90",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 90-60",
+      "count": 35,
+      "is_current": false
+    },
+    {
+      "month": "Days 60-30",
+      "count": 10,
+      "is_current": false
+    },
+    {
+      "month": "Last 30 Days",
+      "count": 1,
+      "is_current": true
+    }
+  ]
+}

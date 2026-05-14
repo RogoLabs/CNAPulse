@@ -1,0 +1,83 @@
+{
+  "assigner_id": "50b5080a-775f-442e-83b5-926b5ca517b6",
+  "cna_name": "S21sec",
+  "cna_org_name": "S21sec Cyber Solutions by Thales",
+  "cna_advisory_url": "https://www.s21sec.com/CVElist/",
+  "country": "Spain",
+  "scope_type": "",
+  "status": "Declining",
+  "baseline_avg": 5.0,
+  "current_count": 0,
+  "deviation_pct": -100.0,
+  "days_since_last_cve": 119,
+  "std_dev": 4.0,
+  "threshold_low": 2.5,
+  "threshold_high": 12.5,
+  "timeline_13months": [
+    {
+      "month": "Days 390-360",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 360-330",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 330-300",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 300-270",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 270-240",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 240-210",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Days 210-180",
+      "count": 5,
+      "is_current": false
+    },
+    {
+      "month": "Days 180-150",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 150-120",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 120-90",
+      "count": 9,
+      "is_current": false
+    },
+    {
+      "month": "Days 90-60",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 60-30",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Last 30 Days",
+      "count": 0,
+      "is_current": true
+    }
+  ]
+}

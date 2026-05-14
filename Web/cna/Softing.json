@@ -1,0 +1,83 @@
+{
+  "assigner_id": "10de8ef9-5c89-4b17-8228-e97b74acf4bd",
+  "cna_name": "Softing",
+  "cna_org_name": "Softing",
+  "cna_advisory_url": "https://company.softing.com/psirt.html",
+  "country": "Germany",
+  "scope_type": "",
+  "status": "Declining",
+  "baseline_avg": 2.67,
+  "current_count": 0,
+  "deviation_pct": -100.0,
+  "days_since_last_cve": 41,
+  "std_dev": 2.08,
+  "threshold_low": 1.33,
+  "threshold_high": 6.67,
+  "timeline_13months": [
+    {
+      "month": "Days 390-360",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 360-330",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 330-300",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 300-270",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 270-240",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Days 240-210",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 210-180",
+      "count": 2,
+      "is_current": false
+    },
+    {
+      "month": "Days 180-150",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 150-120",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 120-90",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 90-60",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 60-30",
+      "count": 5,
+      "is_current": false
+    },
+    {
+      "month": "Last 30 Days",
+      "count": 0,
+      "is_current": true
+    }
+  ]
+}

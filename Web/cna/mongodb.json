@@ -1,0 +1,83 @@
+{
+  "assigner_id": "a39b4221-9bd0-4244-95fc-f3e2e07f1deb",
+  "cna_name": "mongodb",
+  "cna_org_name": "MongoDB, Inc.",
+  "cna_advisory_url": "https://www.mongodb.com/resources/products/mongodb-security-bulletins",
+  "country": "USA",
+  "scope_type": "",
+  "status": "Declining",
+  "baseline_avg": 4.78,
+  "current_count": 3,
+  "deviation_pct": -37.2,
+  "days_since_last_cve": 7,
+  "std_dev": 3.35,
+  "threshold_low": 2.39,
+  "threshold_high": 11.94,
+  "timeline_13months": [
+    {
+      "month": "Days 390-360",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 360-330",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 330-300",
+      "count": 4,
+      "is_current": false
+    },
+    {
+      "month": "Days 300-270",
+      "count": 5,
+      "is_current": false
+    },
+    {
+      "month": "Days 270-240",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 240-210",
+      "count": 4,
+      "is_current": false
+    },
+    {
+      "month": "Days 210-180",
+      "count": 5,
+      "is_current": false
+    },
+    {
+      "month": "Days 180-150",
+      "count": 6,
+      "is_current": false
+    },
+    {
+      "month": "Days 150-120",
+      "count": 2,
+      "is_current": false
+    },
+    {
+      "month": "Days 120-90",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Days 90-60",
+      "count": 11,
+      "is_current": false
+    },
+    {
+      "month": "Days 60-30",
+      "count": 5,
+      "is_current": false
+    },
+    {
+      "month": "Last 30 Days",
+      "count": 3,
+      "is_current": true
+    }
+  ]
+}

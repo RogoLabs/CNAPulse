@@ -1,0 +1,83 @@
+{
+  "assigner_id": "64c5ae8f-7972-4697-86a0-7ada793ac795",
+  "cna_name": "TCS-CERT",
+  "cna_org_name": "TCS-CERT (Thales Cyber Solutions Customer’s CERT)",
+  "cna_advisory_url": "https://cds.thalesgroup.com/en/tcs-cert/advisory",
+  "country": "Belgium",
+  "scope_type": "",
+  "status": "Normal",
+  "baseline_avg": 2.33,
+  "current_count": 3,
+  "deviation_pct": 28.6,
+  "days_since_last_cve": 2,
+  "std_dev": 1.53,
+  "threshold_low": 1.17,
+  "threshold_high": 5.83,
+  "timeline_13months": [
+    {
+      "month": "Days 390-360",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 360-330",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 330-300",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 300-270",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 270-240",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 240-210",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 210-180",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 180-150",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 150-120",
+      "count": 4,
+      "is_current": false
+    },
+    {
+      "month": "Days 120-90",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Days 90-60",
+      "count": 2,
+      "is_current": false
+    },
+    {
+      "month": "Days 60-30",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Last 30 Days",
+      "count": 3,
+      "is_current": true
+    }
+  ]
+}

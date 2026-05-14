@@ -1,0 +1,83 @@
+{
+  "assigner_id": "f2760a35-e0d8-4637-ac4c-cc1a2de3e282",
+  "cna_name": "NEC",
+  "cna_org_name": "NEC Corporation",
+  "cna_advisory_url": "https://jpn.nec.com/security-info/index.html",
+  "country": "Japan",
+  "scope_type": "",
+  "status": "Declining",
+  "baseline_avg": 3.0,
+  "current_count": 0,
+  "deviation_pct": -100.0,
+  "days_since_last_cve": 40,
+  "std_dev": 2.83,
+  "threshold_low": 1.5,
+  "threshold_high": 7.5,
+  "timeline_13months": [
+    {
+      "month": "Days 390-360",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 360-330",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 330-300",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 300-270",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 270-240",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 240-210",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Days 210-180",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 180-150",
+      "count": 2,
+      "is_current": false
+    },
+    {
+      "month": "Days 150-120",
+      "count": 7,
+      "is_current": false
+    },
+    {
+      "month": "Days 120-90",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 90-60",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 60-30",
+      "count": 5,
+      "is_current": false
+    },
+    {
+      "month": "Last 30 Days",
+      "count": 0,
+      "is_current": true
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "assigner_id": "759f5e80-c8e1-4224-bead-956d7b33c98b",
+  "cna_name": "Deltaww",
+  "cna_org_name": "Delta Electronics, Inc.",
+  "cna_advisory_url": "https://www.deltaww.com/en-US/Cybersecurity_Advisory",
+  "country": "Taiwan",
+  "scope_type": "",
+  "status": "Normal",
+  "baseline_avg": 4.09,
+  "current_count": 5,
+  "deviation_pct": 22.2,
+  "days_since_last_cve": 13,
+  "std_dev": 2.66,
+  "threshold_low": 2.05,
+  "threshold_high": 10.23,
+  "timeline_13months": [
+    {
+      "month": "Days 390-360",
+      "count": 6,
+      "is_current": false
+    },
+    {
+      "month": "Days 360-330",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 330-300",
+      "count": 7,
+      "is_current": false
+    },
+    {
+      "month": "Days 300-270",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 270-240",
+      "count": 8,
+      "is_current": false
+    },
+    {
+      "month": "Days 240-210",
+      "count": 5,
+      "is_current": false
+    },
+    {
+      "month": "Days 210-180",
+      "count": 6,
+      "is_current": false
+    },
+    {
+      "month": "Days 180-150",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 150-120",
+      "count": 6,
+      "is_current": false
+    },
+    {
+      "month": "Days 120-90",
+      "count": 4,
+      "is_current": false
+    },
+    {
+      "month": "Days 90-60",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 60-30",
+      "count": 3,
+      "is_current": false
+    },
+    {
+      "month": "Last 30 Days",
+      "count": 5,
+      "is_current": true
+    }
+  ]
+}

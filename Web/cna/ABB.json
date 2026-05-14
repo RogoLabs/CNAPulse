@@ -1,0 +1,83 @@
+{
+  "assigner_id": "2b718523-d88f-4f37-9bbd-300c20644bf9",
+  "cna_name": "ABB",
+  "cna_org_name": "Asea Brown Boveri Ltd. (ABB)",
+  "cna_advisory_url": "https://global.abb/group/en/technology/cyber-security/alerts-and-notifications",
+  "country": "Switzerland",
+  "scope_type": "",
+  "status": "Declining",
+  "baseline_avg": 7.9,
+  "current_count": 1,
+  "deviation_pct": -87.3,
+  "days_since_last_cve": 23,
+  "std_dev": 8.85,
+  "threshold_low": 3.95,
+  "threshold_high": 19.75,
+  "timeline_13months": [
+    {
+      "month": "Days 390-360",
+      "count": 5,
+      "is_current": false
+    },
+    {
+      "month": "Days 360-330",
+      "count": 31,
+      "is_current": false
+    },
+    {
+      "month": "Days 330-300",
+      "count": 2,
+      "is_current": false
+    },
+    {
+      "month": "Days 300-270",
+      "count": 6,
+      "is_current": false
+    },
+    {
+      "month": "Days 270-240",
+      "count": 8,
+      "is_current": false
+    },
+    {
+      "month": "Days 240-210",
+      "count": 5,
+      "is_current": false
+    },
+    {
+      "month": "Days 210-180",
+      "count": 10,
+      "is_current": false
+    },
+    {
+      "month": "Days 180-150",
+      "count": 2,
+      "is_current": false
+    },
+    {
+      "month": "Days 150-120",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 120-90",
+      "count": 7,
+      "is_current": false
+    },
+    {
+      "month": "Days 90-60",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 60-30",
+      "count": 3,
+      "is_current": false
+    },
+    {
+      "month": "Last 30 Days",
+      "count": 1,
+      "is_current": true
+    }
+  ]
+}

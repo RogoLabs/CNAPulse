@@ -1,0 +1,83 @@
+{
+  "assigner_id": "f45cbf4e-4146-4068-b7e1-655ffc2c548c",
+  "cna_name": "GoogleCloud",
+  "cna_org_name": "Google Cloud",
+  "cna_advisory_url": "https://cloud.google.com/support/bulletins",
+  "country": "USA",
+  "scope_type": "",
+  "status": "Declining",
+  "baseline_avg": 4.33,
+  "current_count": 2,
+  "deviation_pct": -53.8,
+  "days_since_last_cve": 14,
+  "std_dev": 4.72,
+  "threshold_low": 2.17,
+  "threshold_high": 10.83,
+  "timeline_13months": [
+    {
+      "month": "Days 390-360",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 360-330",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 330-300",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 300-270",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 270-240",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Days 240-210",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Days 210-180",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Days 180-150",
+      "count": 11,
+      "is_current": false
+    },
+    {
+      "month": "Days 150-120",
+      "count": 6,
+      "is_current": false
+    },
+    {
+      "month": "Days 120-90",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 90-60",
+      "count": 5,
+      "is_current": false
+    },
+    {
+      "month": "Days 60-30",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Last 30 Days",
+      "count": 2,
+      "is_current": true
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "assigner_id": "8254265b-2729-46b6-b9e3-3dfca2d5bfca",
+  "cna_name": "mitre",
+  "cna_org_name": "MITRE Corporation",
+  "cna_advisory_url": "",
+  "country": "USA",
+  "scope_type": "",
+  "status": "Normal",
+  "baseline_avg": 379.33,
+  "current_count": 428,
+  "deviation_pct": 12.8,
+  "days_since_last_cve": 1,
+  "std_dev": 84.72,
+  "threshold_low": 189.67,
+  "threshold_high": 948.33,
+  "timeline_13months": [
+    {
+      "month": "Days 390-360",
+      "count": 320,
+      "is_current": false
+    },
+    {
+      "month": "Days 360-330",
+      "count": 410,
+      "is_current": false
+    },
+    {
+      "month": "Days 330-300",
+      "count": 228,
+      "is_current": false
+    },
+    {
+      "month": "Days 300-270",
+      "count": 350,
+      "is_current": false
+    },
+    {
+      "month": "Days 270-240",
+      "count": 452,
+      "is_current": false
+    },
+    {
+      "month": "Days 240-210",
+      "count": 366,
+      "is_current": false
+    },
+    {
+      "month": "Days 210-180",
+      "count": 439,
+      "is_current": false
+    },
+    {
+      "month": "Days 180-150",
+      "count": 426,
+      "is_current": false
+    },
+    {
+      "month": "Days 150-120",
+      "count": 545,
+      "is_current": false
+    },
+    {
+      "month": "Days 120-90",
+      "count": 302,
+      "is_current": false
+    },
+    {
+      "month": "Days 90-60",
+      "count": 212,
+      "is_current": false
+    },
+    {
+      "month": "Days 60-30",
+      "count": 399,
+      "is_current": false
+    },
+    {
+      "month": "Last 30 Days",
+      "count": 428,
+      "is_current": true
+    }
+  ]
+}

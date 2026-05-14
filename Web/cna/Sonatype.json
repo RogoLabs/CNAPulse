@@ -1,0 +1,83 @@
+{
+  "assigner_id": "103e4ec9-0a87-450b-af77-479448ddef11",
+  "cna_name": "Sonatype",
+  "cna_org_name": "Sonatype Inc.",
+  "cna_advisory_url": "https://support.sonatype.com/hc/en-us/sections/203012668-Security-Advisories",
+  "country": "USA",
+  "scope_type": "",
+  "status": "Normal",
+  "baseline_avg": 1.5,
+  "current_count": 3,
+  "deviation_pct": 100.0,
+  "days_since_last_cve": 21,
+  "std_dev": 0.58,
+  "threshold_low": 0.75,
+  "threshold_high": 3.75,
+  "timeline_13months": [
+    {
+      "month": "Days 390-360",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 360-330",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 330-300",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 300-270",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 270-240",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 240-210",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 210-180",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Days 180-150",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Days 150-120",
+      "count": 2,
+      "is_current": false
+    },
+    {
+      "month": "Days 120-90",
+      "count": 2,
+      "is_current": false
+    },
+    {
+      "month": "Days 90-60",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 60-30",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Last 30 Days",
+      "count": 3,
+      "is_current": true
+    }
+  ]
+}

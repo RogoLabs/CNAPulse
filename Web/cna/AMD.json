@@ -1,0 +1,83 @@
+{
+  "assigner_id": "b58fc414-a1e4-4f92-9d70-1add41838648",
+  "cna_name": "AMD",
+  "cna_org_name": "Advanced Micro Devices Inc.",
+  "cna_advisory_url": "https://www.amd.com/en/resources/product-security.html#security",
+  "country": "USA",
+  "scope_type": "",
+  "status": "Declining",
+  "baseline_avg": 12.88,
+  "current_count": 4,
+  "deviation_pct": -68.9,
+  "days_since_last_cve": 9,
+  "std_dev": 14.3,
+  "threshold_low": 6.44,
+  "threshold_high": 32.19,
+  "timeline_13months": [
+    {
+      "month": "Days 390-360",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 360-330",
+      "count": 7,
+      "is_current": false
+    },
+    {
+      "month": "Days 330-300",
+      "count": 4,
+      "is_current": false
+    },
+    {
+      "month": "Days 300-270",
+      "count": 4,
+      "is_current": false
+    },
+    {
+      "month": "Days 270-240",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 240-210",
+      "count": 28,
+      "is_current": false
+    },
+    {
+      "month": "Days 210-180",
+      "count": 2,
+      "is_current": false
+    },
+    {
+      "month": "Days 180-150",
+      "count": 15,
+      "is_current": false
+    },
+    {
+      "month": "Days 150-120",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 120-90",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Days 90-60",
+      "count": 42,
+      "is_current": false
+    },
+    {
+      "month": "Days 60-30",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Last 30 Days",
+      "count": 4,
+      "is_current": true
+    }
+  ]
+}

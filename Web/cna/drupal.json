@@ -1,0 +1,83 @@
+{
+  "assigner_id": "2c85b837-eb8b-40ed-9d74-228c62987387",
+  "cna_name": "drupal",
+  "cna_org_name": "Drupal.org",
+  "cna_advisory_url": "https://www.drupal.org/security",
+  "country": "USA",
+  "scope_type": "",
+  "status": "Declining",
+  "baseline_avg": 14.78,
+  "current_count": 0,
+  "deviation_pct": -100.0,
+  "days_since_last_cve": 41,
+  "std_dev": 7.53,
+  "threshold_low": 7.39,
+  "threshold_high": 36.94,
+  "timeline_13months": [
+    {
+      "month": "Days 390-360",
+      "count": 13,
+      "is_current": false
+    },
+    {
+      "month": "Days 360-330",
+      "count": 16,
+      "is_current": false
+    },
+    {
+      "month": "Days 330-300",
+      "count": 21,
+      "is_current": false
+    },
+    {
+      "month": "Days 300-270",
+      "count": 7,
+      "is_current": false
+    },
+    {
+      "month": "Days 270-240",
+      "count": 6,
+      "is_current": false
+    },
+    {
+      "month": "Days 240-210",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 210-180",
+      "count": 17,
+      "is_current": false
+    },
+    {
+      "month": "Days 180-150",
+      "count": 7,
+      "is_current": false
+    },
+    {
+      "month": "Days 150-120",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 120-90",
+      "count": 14,
+      "is_current": false
+    },
+    {
+      "month": "Days 90-60",
+      "count": 7,
+      "is_current": false
+    },
+    {
+      "month": "Days 60-30",
+      "count": 25,
+      "is_current": false
+    },
+    {
+      "month": "Last 30 Days",
+      "count": 0,
+      "is_current": true
+    }
+  ]
+}

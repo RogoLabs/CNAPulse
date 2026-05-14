@@ -1,0 +1,83 @@
+{
+  "assigner_id": "23637b5d-af4c-4cf9-b8f6-deb7fd0f8423",
+  "cna_name": "SCHUTZWERK",
+  "cna_org_name": "SCHUTZWERK GmbH",
+  "cna_advisory_url": "https://www.schutzwerk.com/blog/tags/advisories/",
+  "country": "Germany",
+  "scope_type": "",
+  "status": "Growth",
+  "baseline_avg": 0.0,
+  "current_count": 2,
+  "deviation_pct": 999999.0,
+  "days_since_last_cve": 6,
+  "std_dev": null,
+  "threshold_low": 0.0,
+  "threshold_high": 0.0,
+  "timeline_13months": [
+    {
+      "month": "Days 390-360",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 360-330",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 330-300",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 300-270",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 270-240",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 240-210",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 210-180",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 180-150",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 150-120",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 120-90",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 90-60",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 60-30",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Last 30 Days",
+      "count": 2,
+      "is_current": true
+    }
+  ]
+}

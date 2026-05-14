@@ -1,0 +1,83 @@
+{
+  "assigner_id": "547ada31-17d8-4964-bc5f-1b8238ba8014",
+  "cna_name": "JetBrains",
+  "cna_org_name": "JetBrains s.r.o.",
+  "cna_advisory_url": "https://www.jetbrains.com/privacy-security/issues-fixed/",
+  "country": "Czech Republic",
+  "scope_type": "",
+  "status": "Declining",
+  "baseline_avg": 8.1,
+  "current_count": 3,
+  "deviation_pct": -63.0,
+  "days_since_last_cve": 7,
+  "std_dev": 3.9,
+  "threshold_low": 4.05,
+  "threshold_high": 20.25,
+  "timeline_13months": [
+    {
+      "month": "Days 390-360",
+      "count": 9,
+      "is_current": false
+    },
+    {
+      "month": "Days 360-330",
+      "count": 6,
+      "is_current": false
+    },
+    {
+      "month": "Days 330-300",
+      "count": 5,
+      "is_current": false
+    },
+    {
+      "month": "Days 300-270",
+      "count": 13,
+      "is_current": false
+    },
+    {
+      "month": "Days 270-240",
+      "count": 10,
+      "is_current": false
+    },
+    {
+      "month": "Days 240-210",
+      "count": 4,
+      "is_current": false
+    },
+    {
+      "month": "Days 210-180",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 180-150",
+      "count": 13,
+      "is_current": false
+    },
+    {
+      "month": "Days 150-120",
+      "count": 12,
+      "is_current": false
+    },
+    {
+      "month": "Days 120-90",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 90-60",
+      "count": 7,
+      "is_current": false
+    },
+    {
+      "month": "Days 60-30",
+      "count": 2,
+      "is_current": false
+    },
+    {
+      "month": "Last 30 Days",
+      "count": 3,
+      "is_current": true
+    }
+  ]
+}

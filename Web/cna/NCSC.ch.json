@@ -1,0 +1,83 @@
+{
+  "assigner_id": "455daabc-a392-441d-aa46-37d35189897c",
+  "cna_name": "NCSC.ch",
+  "cna_org_name": "Switzerland National Cyber Security Centre (NCSC)",
+  "cna_advisory_url": "https://www.ncsc.admin.ch/ncsc/en/home/infos-fuer/infos-it-spezialisten/themen/schwachstelle-melden/advisories.html",
+  "country": "Switzerland",
+  "scope_type": "",
+  "status": "Normal",
+  "baseline_avg": 5.36,
+  "current_count": 3,
+  "deviation_pct": -44.1,
+  "days_since_last_cve": 6,
+  "std_dev": 4.65,
+  "threshold_low": 2.68,
+  "threshold_high": 13.41,
+  "timeline_13months": [
+    {
+      "month": "Days 390-360",
+      "count": 2,
+      "is_current": false
+    },
+    {
+      "month": "Days 360-330",
+      "count": 6,
+      "is_current": false
+    },
+    {
+      "month": "Days 330-300",
+      "count": 2,
+      "is_current": false
+    },
+    {
+      "month": "Days 300-270",
+      "count": 2,
+      "is_current": false
+    },
+    {
+      "month": "Days 270-240",
+      "count": 4,
+      "is_current": false
+    },
+    {
+      "month": "Days 240-210",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Days 210-180",
+      "count": 7,
+      "is_current": false
+    },
+    {
+      "month": "Days 180-150",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 150-120",
+      "count": 2,
+      "is_current": false
+    },
+    {
+      "month": "Days 120-90",
+      "count": 6,
+      "is_current": false
+    },
+    {
+      "month": "Days 90-60",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Days 60-30",
+      "count": 10,
+      "is_current": false
+    },
+    {
+      "month": "Last 30 Days",
+      "count": 3,
+      "is_current": true
+    }
+  ]
+}

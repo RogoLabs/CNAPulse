@@ -1,0 +1,83 @@
+{
+  "assigner_id": "83238938-5644-45f0-9007-c0392bcf6222",
+  "cna_name": "Google_Devices",
+  "cna_org_name": "Google Devices",
+  "cna_advisory_url": "https://support.google.com/product-documentation/topic/12974021?hl=en&amp;ref_topic=10123615&amp;sjid=5419128013624043298-NA",
+  "country": "USA",
+  "scope_type": "",
+  "status": "Declining",
+  "baseline_avg": 13.8,
+  "current_count": 0,
+  "deviation_pct": -100.0,
+  "days_since_last_cve": 57,
+  "std_dev": 10.43,
+  "threshold_low": 6.9,
+  "threshold_high": 34.5,
+  "timeline_13months": [
+    {
+      "month": "Days 390-360",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 360-330",
+      "count": 3,
+      "is_current": false
+    },
+    {
+      "month": "Days 330-300",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 300-270",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 270-240",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 240-210",
+      "count": 23,
+      "is_current": false
+    },
+    {
+      "month": "Days 210-180",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 180-150",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 150-120",
+      "count": 22,
+      "is_current": false
+    },
+    {
+      "month": "Days 120-90",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Days 90-60",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Days 60-30",
+      "count": 19,
+      "is_current": false
+    },
+    {
+      "month": "Last 30 Days",
+      "count": 0,
+      "is_current": true
+    }
+  ]
+}

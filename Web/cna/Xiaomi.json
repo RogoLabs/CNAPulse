@@ -1,0 +1,83 @@
+{
+  "assigner_id": "b57733aa-7326-4f07-8e09-0be8e0df1909",
+  "cna_name": "Xiaomi",
+  "cna_org_name": "Xiaomi Technology Co., Ltd.",
+  "cna_advisory_url": "https://trust.mi.com/misrc/bulletins",
+  "country": "China",
+  "scope_type": "",
+  "status": "Declining",
+  "baseline_avg": 1.0,
+  "current_count": 0,
+  "deviation_pct": -100.0,
+  "days_since_last_cve": 318,
+  "std_dev": null,
+  "threshold_low": 0.5,
+  "threshold_high": 2.5,
+  "timeline_13months": [
+    {
+      "month": "Days 390-360",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 360-330",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 330-300",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Days 300-270",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 270-240",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 240-210",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 210-180",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 180-150",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 150-120",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 120-90",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 90-60",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 60-30",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Last 30 Days",
+      "count": 0,
+      "is_current": true
+    }
+  ]
+}

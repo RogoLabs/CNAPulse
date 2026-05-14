@@ -1,0 +1,83 @@
+{
+  "assigner_id": "0fc0942c-577d-436f-ae8e-945763c79b02",
+  "cna_name": "Zohocorp",
+  "cna_org_name": "Zohocorp",
+  "cna_advisory_url": "https://www.manageengine.com/security/advisory/",
+  "country": "India",
+  "scope_type": "",
+  "status": "Declining",
+  "baseline_avg": 4.36,
+  "current_count": 2,
+  "deviation_pct": -54.2,
+  "days_since_last_cve": 20,
+  "std_dev": 3.96,
+  "threshold_low": 2.18,
+  "threshold_high": 10.91,
+  "timeline_13months": [
+    {
+      "month": "Days 390-360",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 360-330",
+      "count": 7,
+      "is_current": false
+    },
+    {
+      "month": "Days 330-300",
+      "count": 7,
+      "is_current": false
+    },
+    {
+      "month": "Days 300-270",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Days 270-240",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Days 240-210",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Days 210-180",
+      "count": 9,
+      "is_current": false
+    },
+    {
+      "month": "Days 180-150",
+      "count": 7,
+      "is_current": false
+    },
+    {
+      "month": "Days 150-120",
+      "count": 2,
+      "is_current": false
+    },
+    {
+      "month": "Days 120-90",
+      "count": 4,
+      "is_current": false
+    },
+    {
+      "month": "Days 90-60",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Days 60-30",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Last 30 Days",
+      "count": 2,
+      "is_current": true
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "assigner_id": "21595511-bba5-4825-b968-b78d1f9984a3",
+  "cna_name": "Patchstack",
+  "cna_org_name": "Patchstack",
+  "cna_advisory_url": "https://patchstack.com/database/",
+  "country": "Estonia",
+  "scope_type": "",
+  "status": "Declining",
+  "baseline_avg": 486.25,
+  "current_count": 210,
+  "deviation_pct": -56.8,
+  "days_since_last_cve": 2,
+  "std_dev": 233.79,
+  "threshold_low": 243.12,
+  "threshold_high": 1215.62,
+  "timeline_13months": [
+    {
+      "month": "Days 390-360",
+      "count": 470,
+      "is_current": false
+    },
+    {
+      "month": "Days 360-330",
+      "count": 505,
+      "is_current": false
+    },
+    {
+      "month": "Days 330-300",
+      "count": 580,
+      "is_current": false
+    },
+    {
+      "month": "Days 300-270",
+      "count": 171,
+      "is_current": false
+    },
+    {
+      "month": "Days 270-240",
+      "count": 413,
+      "is_current": false
+    },
+    {
+      "month": "Days 240-210",
+      "count": 598,
+      "is_current": false
+    },
+    {
+      "month": "Days 210-180",
+      "count": 365,
+      "is_current": false
+    },
+    {
+      "month": "Days 180-150",
+      "count": 219,
+      "is_current": false
+    },
+    {
+      "month": "Days 150-120",
+      "count": 865,
+      "is_current": false
+    },
+    {
+      "month": "Days 120-90",
+      "count": 557,
+      "is_current": false
+    },
+    {
+      "month": "Days 90-60",
+      "count": 385,
+      "is_current": false
+    },
+    {
+      "month": "Days 60-30",
+      "count": 699,
+      "is_current": false
+    },
+    {
+      "month": "Last 30 Days",
+      "count": 210,
+      "is_current": true
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "assigner_id": "1af790b2-7ee1-4545-860a-a788eba489b5",
+  "cna_name": "VulDB",
+  "cna_org_name": "VulDB",
+  "cna_advisory_url": "https://vuldb.com/?cna.recent",
+  "country": "Switzerland",
+  "scope_type": "",
+  "status": "Normal",
+  "baseline_avg": 533.67,
+  "current_count": 735,
+  "deviation_pct": 37.7,
+  "days_since_last_cve": 0,
+  "std_dev": 162.15,
+  "threshold_low": 266.83,
+  "threshold_high": 1334.17,
+  "timeline_13months": [
+    {
+      "month": "Days 390-360",
+      "count": 271,
+      "is_current": false
+    },
+    {
+      "month": "Days 360-330",
+      "count": 635,
+      "is_current": false
+    },
+    {
+      "month": "Days 330-300",
+      "count": 784,
+      "is_current": false
+    },
+    {
+      "month": "Days 300-270",
+      "count": 640,
+      "is_current": false
+    },
+    {
+      "month": "Days 270-240",
+      "count": 621,
+      "is_current": false
+    },
+    {
+      "month": "Days 240-210",
+      "count": 628,
+      "is_current": false
+    },
+    {
+      "month": "Days 210-180",
+      "count": 428,
+      "is_current": false
+    },
+    {
+      "month": "Days 180-150",
+      "count": 265,
+      "is_current": false
+    },
+    {
+      "month": "Days 150-120",
+      "count": 485,
+      "is_current": false
+    },
+    {
+      "month": "Days 120-90",
+      "count": 310,
+      "is_current": false
+    },
+    {
+      "month": "Days 90-60",
+      "count": 506,
+      "is_current": false
+    },
+    {
+      "month": "Days 60-30",
+      "count": 613,
+      "is_current": false
+    },
+    {
+      "month": "Last 30 Days",
+      "count": 735,
+      "is_current": true
+    }
+  ]
+}

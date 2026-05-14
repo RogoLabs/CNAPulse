@@ -1,0 +1,83 @@
+{
+  "assigner_id": "6ff30186-7fb7-4ad9-be33-533e7b05e586",
+  "cna_name": "Joomla",
+  "cna_org_name": "Joomla! Project",
+  "cna_advisory_url": "https://developer.joomla.org/security-centre.html",
+  "country": "USA",
+  "scope_type": "",
+  "status": "Normal",
+  "baseline_avg": 4.55,
+  "current_count": 1,
+  "deviation_pct": -78.0,
+  "days_since_last_cve": 25,
+  "std_dev": 4.16,
+  "threshold_low": 2.27,
+  "threshold_high": 11.36,
+  "timeline_13months": [
+    {
+      "month": "Days 390-360",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Days 360-330",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 330-300",
+      "count": 10,
+      "is_current": false
+    },
+    {
+      "month": "Days 300-270",
+      "count": 16,
+      "is_current": false
+    },
+    {
+      "month": "Days 270-240",
+      "count": 5,
+      "is_current": false
+    },
+    {
+      "month": "Days 240-210",
+      "count": 2,
+      "is_current": false
+    },
+    {
+      "month": "Days 210-180",
+      "count": 2,
+      "is_current": false
+    },
+    {
+      "month": "Days 180-150",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 150-120",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 120-90",
+      "count": 5,
+      "is_current": false
+    },
+    {
+      "month": "Days 90-60",
+      "count": 2,
+      "is_current": false
+    },
+    {
+      "month": "Days 60-30",
+      "count": 1,
+      "is_current": false
+    },
+    {
+      "month": "Last 30 Days",
+      "count": 1,
+      "is_current": true
+    }
+  ]
+}
