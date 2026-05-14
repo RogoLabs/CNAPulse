@@ -1,18 +1,18 @@
 {
-  "assigner_id": "unknown",
+  "assigner_id": "63375d6c-d89a-45ed-8ecc-c8c361b0e04c",
   "cna_name": "PandoraFMS",
   "cna_org_name": "Pandora FMS",
   "cna_advisory_url": "https://pandorafms.com/common-vulnerabilities-and-exposures/",
   "country": "Spain",
   "scope_type": "",
-  "status": "Inactive",
-  "baseline_avg": 0.0,
-  "current_count": 0,
-  "deviation_pct": 0.0,
-  "days_since_last_cve": null,
-  "std_dev": null,
-  "threshold_low": 0.0,
-  "threshold_high": 0.0,
+  "status": "Normal",
+  "baseline_avg": 3.67,
+  "current_count": 5,
+  "deviation_pct": 36.4,
+  "days_since_last_cve": 1,
+  "std_dev": 3.79,
+  "threshold_low": 1.83,
+  "threshold_high": 9.17,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -21,7 +21,7 @@
     },
     {
       "month": "Days 360-330",
-      "count": 0,
+      "count": 3,
       "is_current": false
     },
     {
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 0,
+      "count": 5,
       "is_current": true
     }
   ]

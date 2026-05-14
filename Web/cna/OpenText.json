@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://knowledge.opentext.com/knowledge/llisapi.dll/open/alerts",
   "country": "USA",
   "scope_type": "",
-  "status": "Normal",
+  "status": "Declining",
   "baseline_avg": 4.1,
   "current_count": 1,
   "deviation_pct": -75.6,

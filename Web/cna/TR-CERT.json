@@ -5,12 +5,12 @@
   "cna_advisory_url": "https://siberguvenlik.gov.tr/cve-bilgilendirme",
   "country": "Türkiye",
   "scope_type": "",
-  "status": "Declining",
+  "status": "Normal",
   "baseline_avg": 24.6,
-  "current_count": 20,
-  "deviation_pct": -18.7,
-  "days_since_last_cve": 1,
-  "std_dev": 15.64,
+  "current_count": 22,
+  "deviation_pct": -10.6,
+  "days_since_last_cve": 0,
+  "std_dev": 15.15,
   "threshold_low": 12.3,
   "threshold_high": 61.5,
   "timeline_13months": [
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 20,
+      "count": 22,
       "is_current": true
     }
   ]

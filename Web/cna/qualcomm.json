@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://www.qualcomm.com/company/product-security/bulletins",
   "country": "USA",
   "scope_type": "",
-  "status": "Declining",
+  "status": "Normal",
   "baseline_avg": 23.2,
   "current_count": 10,
   "deviation_pct": -56.9,

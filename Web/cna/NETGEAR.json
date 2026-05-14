@@ -1,18 +1,18 @@
 {
-  "assigner_id": "a2826606-91e7-4eb6-899e-8484bd4575d5",
+  "assigner_id": "unknown",
   "cna_name": "NETGEAR",
   "cna_org_name": "NETGEAR",
   "cna_advisory_url": "https://www.netgear.com/about/security/",
   "country": "USA",
   "scope_type": "",
-  "status": "Declining",
-  "baseline_avg": 4.33,
+  "status": "Inactive",
+  "baseline_avg": 0.0,
   "current_count": 0,
-  "deviation_pct": -100.0,
-  "days_since_last_cve": 120,
-  "std_dev": 1.53,
-  "threshold_low": 2.17,
-  "threshold_high": 10.83,
+  "deviation_pct": 0.0,
+  "days_since_last_cve": null,
+  "std_dev": null,
+  "threshold_low": 0.0,
+  "threshold_high": 0.0,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -51,17 +51,17 @@
     },
     {
       "month": "Days 180-150",
-      "count": 4,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Days 150-120",
-      "count": 3,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Days 120-90",
-      "count": 6,
+      "count": 0,
       "is_current": false
     },
     {
