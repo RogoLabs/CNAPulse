@@ -1,10 +1,10 @@
 {
   "date": "2026-05-14",
-  "generated_at": "2026-05-14T00:52:06.412451",
+  "generated_at": "2026-05-14T04:23:15.247193",
   "total_cnas": 546,
   "cnas_growth": 43,
-  "cnas_normal": 97,
-  "cnas_declining": 241,
+  "cnas_normal": 96,
+  "cnas_declining": 242,
   "cnas_inactive": 165,
   "top_growth": [
     {
@@ -15,6 +15,16 @@
     {
       "cna_name": "Acer",
       "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Nutanix",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Cribl",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -30,16 +40,6 @@
     {
       "cna_name": "Echo",
       "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Nutanix",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Cribl",
-      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
