@@ -1,6 +1,6 @@
 {
   "date": "2026-05-14",
-  "generated_at": "2026-05-14T18:42:15.685964",
+  "generated_at": "2026-05-14T21:30:01.535516",
   "total_cnas": 546,
   "cnas_growth": 40,
   "cnas_normal": 100,
@@ -8,22 +8,12 @@
   "cnas_inactive": 165,
   "top_growth": [
     {
-      "cna_name": "CIRCL",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "SCHUTZWERK",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Echo",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Nutanix",
+      "cna_name": "Acer",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -33,7 +23,12 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Acer",
+      "cna_name": "Nutanix",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Echo",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -43,19 +38,24 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "CIRCL",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "GV",
       "current_count": 12,
       "deviation_pct": 1100.0
     },
     {
+      "cna_name": "Chrome",
+      "current_count": 270,
+      "deviation_pct": 875.9
+    },
+    {
       "cna_name": "canonical",
       "current_count": 46,
       "deviation_pct": 780.9
-    },
-    {
-      "cna_name": "PostgreSQL",
-      "current_count": 23,
-      "deviation_pct": 700.0
     }
   ],
   "top_declining": [
@@ -78,6 +78,11 @@
       "cna_name": "naver",
       "current_count": 1,
       "deviation_pct": -53.8
+    },
+    {
+      "cna_name": "Silabs",
+      "current_count": 1,
+      "deviation_pct": -55.0
     },
     {
       "cna_name": "Netskope",
@@ -103,11 +108,6 @@
       "cna_name": "RTI",
       "current_count": 1,
       "deviation_pct": -60.0
-    },
-    {
-      "cna_name": "Mandiant",
-      "current_count": 1,
-      "deviation_pct": -63.6
     }
   ]
 }
