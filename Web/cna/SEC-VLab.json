@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://sec-consult.com/vulnerability-lab/",
   "country": "Austria",
   "scope_type": "",
-  "status": "Declining",
+  "status": "Normal",
   "baseline_avg": 7.25,
   "current_count": 2,
   "deviation_pct": -72.4,

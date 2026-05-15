@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://www.oracle.com/security-alerts/",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
+  "status": "Normal",
   "baseline_avg": 37.83,
   "current_count": 108,
   "deviation_pct": 185.5,

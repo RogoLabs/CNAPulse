@@ -5,10 +5,10 @@
   "cna_advisory_url": "https://www.amd.com/en/resources/product-security.html#security",
   "country": "USA",
   "scope_type": "",
-  "status": "Declining",
+  "status": "Normal",
   "baseline_avg": 12.88,
-  "current_count": 13,
-  "deviation_pct": 1.0,
+  "current_count": 52,
+  "deviation_pct": 303.9,
   "days_since_last_cve": 0,
   "std_dev": 14.13,
   "threshold_low": 6.44,
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 13,
+      "count": 52,
       "is_current": true
     }
   ]
