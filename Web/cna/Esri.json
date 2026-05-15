@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://trust.arcgis.com/en/",
   "country": "USA",
   "scope_type": "",
-  "status": "Declining",
+  "status": "Normal",
   "baseline_avg": 4.5,
   "current_count": 2,
   "deviation_pct": -55.6,

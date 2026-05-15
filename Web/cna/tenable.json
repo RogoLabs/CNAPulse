@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://www.tenable.com/security",
   "country": "USA",
   "scope_type": "",
-  "status": "Declining",
+  "status": "Normal",
   "baseline_avg": 3.0,
   "current_count": 3,
   "deviation_pct": 0.0,

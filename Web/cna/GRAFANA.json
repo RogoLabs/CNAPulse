@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://grafana.com/security/security-advisories/",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
+  "status": "Normal",
   "baseline_avg": 2.8,
   "current_count": 15,
   "deviation_pct": 435.7,
