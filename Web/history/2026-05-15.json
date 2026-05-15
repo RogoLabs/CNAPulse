@@ -1,15 +1,15 @@
 {
   "date": "2026-05-15",
-  "generated_at": "2026-05-15T15:46:13.066379",
+  "generated_at": "2026-05-15T18:38:19.231292",
   "total_cnas": 548,
   "cnas_growth": 37,
-  "cnas_normal": 97,
-  "cnas_declining": 247,
+  "cnas_normal": 94,
+  "cnas_declining": 250,
   "cnas_inactive": 167,
   "top_growth": [
     {
-      "cna_name": "Cribl",
-      "current_count": 3,
+      "cna_name": "Echo",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -18,12 +18,12 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "CIRCL",
+      "cna_name": "Nutanix",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Acer",
+      "cna_name": "CIRCL",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -33,12 +33,12 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Echo",
-      "current_count": 1,
+      "cna_name": "Cribl",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Nutanix",
+      "cna_name": "Acer",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -70,14 +70,14 @@
       "deviation_pct": -17.2
     },
     {
+      "cna_name": "schneider",
+      "current_count": 4,
+      "deviation_pct": -25.9
+    },
+    {
       "cna_name": "Zoom",
       "current_count": 3,
       "deviation_pct": -32.5
-    },
-    {
-      "cna_name": "schneider",
-      "current_count": 4,
-      "deviation_pct": -33.3
     },
     {
       "cna_name": "intel",
@@ -88,6 +88,11 @@
       "cna_name": "@huntrdev",
       "current_count": 4,
       "deviation_pct": -45.5
+    },
+    {
+      "cna_name": "cisco",
+      "current_count": 16,
+      "deviation_pct": -45.9
     },
     {
       "cna_name": "Samsung Mobile",
@@ -103,11 +108,6 @@
       "cna_name": "qualcomm",
       "current_count": 10,
       "deviation_pct": -56.9
-    },
-    {
-      "cna_name": "Netskope",
-      "current_count": 1,
-      "deviation_pct": -57.1
     }
   ]
 }
