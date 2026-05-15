@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://www.mozilla.org/en-US/security/advisories/",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
+  "status": "Normal",
   "baseline_avg": 23.42,
   "current_count": 57,
   "deviation_pct": 143.4,
@@ -46,7 +46,7 @@
     },
     {
       "month": "Days 210-180",
-      "count": 15,
+      "count": 16,
       "is_current": false
     },
     {
@@ -66,7 +66,7 @@
     },
     {
       "month": "Days 90-60",
-      "count": 54,
+      "count": 51,
       "is_current": false
     },
     {

@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://www.oracle.com/security-alerts/",
   "country": "USA",
   "scope_type": "",
-  "status": "Normal",
+  "status": "Growth",
   "baseline_avg": 37.83,
   "current_count": 108,
   "deviation_pct": 185.5,
@@ -46,7 +46,7 @@
     },
     {
       "month": "Days 210-180",
-      "count": 78,
+      "count": 0,
       "is_current": false
     },
     {
@@ -66,7 +66,7 @@
     },
     {
       "month": "Days 90-60",
-      "count": 0,
+      "count": 3,
       "is_current": false
     },
     {

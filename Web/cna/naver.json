@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://cve.naver.com/",
   "country": "South Korea",
   "scope_type": "",
-  "status": "Declining",
+  "status": "Normal",
   "baseline_avg": 2.17,
   "current_count": 1,
   "deviation_pct": -53.8,
@@ -46,12 +46,12 @@
     },
     {
       "month": "Days 210-180",
-      "count": 3,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Days 180-150",
-      "count": 0,
+      "count": 2,
       "is_current": false
     },
     {

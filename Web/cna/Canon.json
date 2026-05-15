@@ -6,13 +6,13 @@
   "country": "Japan",
   "scope_type": "",
   "status": "Declining",
-  "baseline_avg": 3.5,
+  "baseline_avg": 2.8,
   "current_count": 1,
-  "deviation_pct": -71.4,
-  "days_since_last_cve": 20,
-  "std_dev": 2.52,
-  "threshold_low": 1.75,
-  "threshold_high": 8.75,
+  "deviation_pct": -64.3,
+  "days_since_last_cve": 21,
+  "std_dev": 2.49,
+  "threshold_low": 1.4,
+  "threshold_high": 7.0,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -66,7 +66,7 @@
     },
     {
       "month": "Days 90-60",
-      "count": 1,
+      "count": 0,
       "is_current": false
     },
     {

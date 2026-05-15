@@ -1,0 +1,113 @@
+{
+  "date": "2026-05-15",
+  "generated_at": "2026-05-15T00:49:11.860196",
+  "total_cnas": 548,
+  "cnas_growth": 41,
+  "cnas_normal": 94,
+  "cnas_declining": 246,
+  "cnas_inactive": 167,
+  "top_growth": [
+    {
+      "cna_name": "Acer",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Nutanix",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "SCHUTZWERK",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "SNOWFLAKE",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "CIRCL",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Cribl",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Echo",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "GV",
+      "current_count": 12,
+      "deviation_pct": 1100.0
+    },
+    {
+      "cna_name": "Chrome",
+      "current_count": 270,
+      "deviation_pct": 875.9
+    },
+    {
+      "cna_name": "canonical",
+      "current_count": 46,
+      "deviation_pct": 780.9
+    }
+  ],
+  "top_declining": [
+    {
+      "cna_name": "AMD",
+      "current_count": 13,
+      "deviation_pct": 1.0
+    },
+    {
+      "cna_name": "tenable",
+      "current_count": 3,
+      "deviation_pct": 0.0
+    },
+    {
+      "cna_name": "Axis",
+      "current_count": 4,
+      "deviation_pct": -17.2
+    },
+    {
+      "cna_name": "hp",
+      "current_count": 3,
+      "deviation_pct": -23.1
+    },
+    {
+      "cna_name": "Zoom",
+      "current_count": 3,
+      "deviation_pct": -32.5
+    },
+    {
+      "cna_name": "intel",
+      "current_count": 25,
+      "deviation_pct": -40.5
+    },
+    {
+      "cna_name": "schneider",
+      "current_count": 4,
+      "deviation_pct": -40.7
+    },
+    {
+      "cna_name": "Samsung Mobile",
+      "current_count": 9,
+      "deviation_pct": -53.1
+    },
+    {
+      "cna_name": "Silabs",
+      "current_count": 1,
+      "deviation_pct": -55.0
+    },
+    {
+      "cna_name": "Esri",
+      "current_count": 2,
+      "deviation_pct": -55.6
+    }
+  ]
+}

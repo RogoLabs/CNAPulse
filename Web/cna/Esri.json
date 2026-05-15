@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://trust.arcgis.com/en/",
   "country": "USA",
   "scope_type": "",
-  "status": "Normal",
+  "status": "Declining",
   "baseline_avg": 4.5,
   "current_count": 2,
   "deviation_pct": -55.6,
@@ -46,12 +46,12 @@
     },
     {
       "month": "Days 210-180",
-      "count": 1,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Days 180-150",
-      "count": 0,
+      "count": 10,
       "is_current": false
     },
     {

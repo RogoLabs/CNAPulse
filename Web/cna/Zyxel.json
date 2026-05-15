@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://www.zyxel.com/support/security_advisories.shtml",
   "country": "Taiwan",
   "scope_type": "",
-  "status": "Normal",
+  "status": "Growth",
   "baseline_avg": 2.83,
   "current_count": 7,
   "deviation_pct": 147.1,
@@ -51,7 +51,7 @@
     },
     {
       "month": "Days 180-150",
-      "count": 2,
+      "count": 0,
       "is_current": false
     },
     {
@@ -66,7 +66,7 @@
     },
     {
       "month": "Days 90-60",
-      "count": 8,
+      "count": 0,
       "is_current": false
     },
     {

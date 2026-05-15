@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://knowledge.opentext.com/knowledge/llisapi.dll/open/alerts",
   "country": "USA",
   "scope_type": "",
-  "status": "Declining",
+  "status": "Normal",
   "baseline_avg": 4.1,
   "current_count": 1,
   "deviation_pct": -75.6,
@@ -46,12 +46,12 @@
     },
     {
       "month": "Days 210-180",
-      "count": 6,
+      "count": 1,
       "is_current": false
     },
     {
       "month": "Days 180-150",
-      "count": 1,
+      "count": 0,
       "is_current": false
     },
     {

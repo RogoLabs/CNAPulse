@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://www.se.com/ww/en/work/support/cybersecurity/security-notifications.jsp",
   "country": "France",
   "scope_type": "",
-  "status": "Normal",
+  "status": "Declining",
   "baseline_avg": 6.75,
   "current_count": 4,
   "deviation_pct": -40.7,
@@ -46,12 +46,12 @@
     },
     {
       "month": "Days 210-180",
-      "count": 0,
+      "count": 3,
       "is_current": false
     },
     {
       "month": "Days 180-150",
-      "count": 3,
+      "count": 0,
       "is_current": false
     },
     {
@@ -66,7 +66,7 @@
     },
     {
       "month": "Days 90-60",
-      "count": 2,
+      "count": 6,
       "is_current": false
     },
     {

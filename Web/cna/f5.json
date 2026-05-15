@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://my.f5.com/manage/s/new-updated-articles#sort=%40f5_updated_published_date%20descending&amp;f:@f5_document_type=[Security%20Advisory]&amp;periodFilter=4&amp;dateField=0",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
+  "status": "Normal",
   "baseline_avg": 10.71,
   "current_count": 51,
   "deviation_pct": 376.0,
@@ -46,12 +46,12 @@
     },
     {
       "month": "Days 210-180",
-      "count": 44,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Days 180-150",
-      "count": 0,
+      "count": 1,
       "is_current": false
     },
     {
