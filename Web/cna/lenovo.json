@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://support.lenovo.com/us/en/product_security/home",
   "country": "USA",
   "scope_type": "",
-  "status": "Normal",
-  "baseline_avg": 6.22,
-  "current_count": 7,
-  "deviation_pct": 12.5,
+  "status": "Declining",
+  "baseline_avg": 6.1,
+  "current_count": 2,
+  "deviation_pct": -67.2,
   "days_since_last_cve": 1,
-  "std_dev": 2.54,
-  "threshold_low": 3.11,
-  "threshold_high": 15.56,
+  "std_dev": 2.42,
+  "threshold_low": 3.05,
+  "threshold_high": 15.25,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 7,
+      "count": 2,
       "is_current": true
     }
   ]
