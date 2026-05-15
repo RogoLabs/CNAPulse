@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://www.mozilla.org/en-US/security/advisories/",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
+  "status": "Normal",
   "baseline_avg": 23.42,
   "current_count": 57,
   "deviation_pct": 143.4,
