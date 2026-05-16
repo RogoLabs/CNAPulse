@@ -1,25 +1,25 @@
 {
   "date": "2026-05-16",
-  "generated_at": "2026-05-16T18:23:48.599801",
+  "generated_at": "2026-05-16T21:20:41.700963",
   "total_cnas": 548,
-  "cnas_growth": 36,
+  "cnas_growth": 35,
   "cnas_normal": 94,
-  "cnas_declining": 249,
+  "cnas_declining": 250,
   "cnas_inactive": 169,
   "top_growth": [
+    {
+      "cna_name": "Nutanix",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
     {
       "cna_name": "Cribl",
       "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "CIRCL",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "SNOWFLAKE",
-      "current_count": 1,
+      "cna_name": "SCHUTZWERK",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -33,13 +33,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Nutanix",
+      "cna_name": "CIRCL",
       "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "SCHUTZWERK",
-      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -56,6 +51,11 @@
       "cna_name": "PostgreSQL",
       "current_count": 23,
       "deviation_pct": 700.0
+    },
+    {
+      "cna_name": "Chrome",
+      "current_count": 239,
+      "deviation_pct": 690.1
     }
   ],
   "top_declining": [
