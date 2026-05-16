@@ -6,13 +6,13 @@
   "country": "Finland",
   "scope_type": "",
   "status": "Growth",
-  "baseline_avg": 2.6,
-  "current_count": 7,
-  "deviation_pct": 169.2,
-  "days_since_last_cve": 18,
-  "std_dev": 2.07,
-  "threshold_low": 1.3,
-  "threshold_high": 6.5,
+  "baseline_avg": 2.33,
+  "current_count": 6,
+  "deviation_pct": 157.1,
+  "days_since_last_cve": 19,
+  "std_dev": 1.97,
+  "threshold_low": 1.17,
+  "threshold_high": 5.83,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -71,12 +71,12 @@
     },
     {
       "month": "Days 60-30",
-      "count": 0,
+      "count": 1,
       "is_current": false
     },
     {
       "month": "Last 30 Days",
-      "count": 7,
+      "count": 6,
       "is_current": true
     }
   ]
