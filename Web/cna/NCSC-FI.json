@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuudet",
   "country": "Finland",
   "scope_type": "",
-  "status": "Growth",
-  "baseline_avg": 2.33,
-  "current_count": 6,
-  "deviation_pct": 157.1,
+  "status": "Normal",
+  "baseline_avg": 3.0,
+  "current_count": 2,
+  "deviation_pct": -33.3,
   "days_since_last_cve": 19,
-  "std_dev": 1.97,
-  "threshold_low": 1.17,
-  "threshold_high": 5.83,
+  "std_dev": 2.1,
+  "threshold_low": 1.5,
+  "threshold_high": 7.5,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -71,12 +71,12 @@
     },
     {
       "month": "Days 60-30",
-      "count": 1,
+      "count": 5,
       "is_current": false
     },
     {
       "month": "Last 30 Days",
-      "count": 6,
+      "count": 2,
       "is_current": true
     }
   ]
