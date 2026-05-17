@@ -1,6 +1,6 @@
 {
   "date": "2026-05-17",
-  "generated_at": "2026-05-17T04:28:10.018733",
+  "generated_at": "2026-05-17T07:03:44.280527",
   "total_cnas": 548,
   "cnas_growth": 33,
   "cnas_normal": 97,
@@ -8,18 +8,8 @@
   "cnas_inactive": 169,
   "top_growth": [
     {
-      "cna_name": "Cribl",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "SCHUTZWERK",
       "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Nutanix",
-      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -28,12 +18,22 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "Echo",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Cribl",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "Acer",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Echo",
+      "cna_name": "Nutanix",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -100,14 +100,14 @@
       "deviation_pct": -48.8
     },
     {
+      "cna_name": "qualcomm",
+      "current_count": 10,
+      "deviation_pct": -52.6
+    },
+    {
       "cna_name": "Esri",
       "current_count": 2,
       "deviation_pct": -55.6
-    },
-    {
-      "cna_name": "qualcomm",
-      "current_count": 10,
-      "deviation_pct": -56.9
     }
   ]
 }
