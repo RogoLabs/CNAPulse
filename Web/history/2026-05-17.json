@@ -1,29 +1,24 @@
 {
   "date": "2026-05-17",
-  "generated_at": "2026-05-17T15:26:39.162962",
+  "generated_at": "2026-05-17T18:27:00.665809",
   "total_cnas": 548,
-  "cnas_growth": 31,
-  "cnas_normal": 98,
-  "cnas_declining": 250,
+  "cnas_growth": 30,
+  "cnas_normal": 100,
+  "cnas_declining": 249,
   "cnas_inactive": 169,
   "top_growth": [
     {
-      "cna_name": "SCHUTZWERK",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "CIRCL",
+      "cna_name": "Nutanix",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Cribl",
-      "current_count": 3,
+      "cna_name": "Acer",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Acer",
+      "cna_name": "CIRCL",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -33,8 +28,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Nutanix",
-      "current_count": 1,
+      "cna_name": "Cribl",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "SCHUTZWERK",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -75,11 +75,6 @@
       "deviation_pct": -32.5
     },
     {
-      "cna_name": "ConnectWise",
-      "current_count": 1,
-      "deviation_pct": -40.0
-    },
-    {
       "cna_name": "intel",
       "current_count": 25,
       "deviation_pct": -40.5
@@ -108,6 +103,11 @@
       "cna_name": "Netskope",
       "current_count": 1,
       "deviation_pct": -57.1
+    },
+    {
+      "cna_name": "RTI",
+      "current_count": 1,
+      "deviation_pct": -60.0
     }
   ]
 }
