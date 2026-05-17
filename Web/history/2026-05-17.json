@@ -1,24 +1,19 @@
 {
   "date": "2026-05-17",
-  "generated_at": "2026-05-17T12:25:38.923616",
+  "generated_at": "2026-05-17T15:26:39.162962",
   "total_cnas": 548,
   "cnas_growth": 31,
-  "cnas_normal": 97,
-  "cnas_declining": 251,
+  "cnas_normal": 98,
+  "cnas_declining": 250,
   "cnas_inactive": 169,
   "top_growth": [
     {
-      "cna_name": "Acer",
-      "current_count": 1,
+      "cna_name": "SCHUTZWERK",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
       "cna_name": "CIRCL",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Nutanix",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -28,13 +23,18 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "Acer",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "Echo",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "SCHUTZWERK",
-      "current_count": 2,
+      "cna_name": "Nutanix",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -70,11 +70,6 @@
       "deviation_pct": -17.2
     },
     {
-      "cna_name": "schneider",
-      "current_count": 4,
-      "deviation_pct": -25.9
-    },
-    {
       "cna_name": "Zoom",
       "current_count": 3,
       "deviation_pct": -32.5
@@ -108,6 +103,11 @@
       "cna_name": "Esri",
       "current_count": 2,
       "deviation_pct": -55.6
+    },
+    {
+      "cna_name": "Netskope",
+      "current_count": 1,
+      "deviation_pct": -57.1
     }
   ]
 }
