@@ -1,19 +1,14 @@
 {
   "date": "2026-05-18",
-  "generated_at": "2026-05-18T13:21:32.409609",
+  "generated_at": "2026-05-18T16:11:17.062384",
   "total_cnas": 548,
   "cnas_growth": 31,
-  "cnas_normal": 102,
-  "cnas_declining": 246,
+  "cnas_normal": 103,
+  "cnas_declining": 245,
   "cnas_inactive": 169,
   "top_growth": [
     {
-      "cna_name": "Echo",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "CIRCL",
+      "cna_name": "Acer",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -23,17 +18,22 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "Nutanix",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "Cribl",
       "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Acer",
+      "cna_name": "CIRCL",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Nutanix",
+      "cna_name": "Echo",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -59,11 +59,6 @@
     }
   ],
   "top_declining": [
-    {
-      "cna_name": "tenable",
-      "current_count": 3,
-      "deviation_pct": 0.0
-    },
     {
       "cna_name": "Zoom",
       "current_count": 3,
@@ -107,6 +102,11 @@
     {
       "cna_name": "bcorg",
       "current_count": 1,
+      "deviation_pct": -63.6
+    },
+    {
+      "cna_name": "ASR",
+      "current_count": 2,
       "deviation_pct": -63.6
     }
   ]
