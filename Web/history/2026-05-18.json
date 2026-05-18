@@ -1,6 +1,6 @@
 {
   "date": "2026-05-18",
-  "generated_at": "2026-05-18T18:42:16.863920",
+  "generated_at": "2026-05-18T21:30:53.749837",
   "total_cnas": 548,
   "cnas_growth": 32,
   "cnas_normal": 103,
@@ -13,13 +13,18 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "SCHUTZWERK",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "CIRCL",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "SCHUTZWERK",
-      "current_count": 2,
+      "cna_name": "Acer",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -30,11 +35,6 @@
     {
       "cna_name": "Cribl",
       "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Acer",
-      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -60,6 +60,11 @@
   ],
   "top_declining": [
     {
+      "cna_name": "@huntrdev",
+      "current_count": 5,
+      "deviation_pct": -31.8
+    },
+    {
       "cna_name": "Zoom",
       "current_count": 3,
       "deviation_pct": -32.5
@@ -70,9 +75,9 @@
       "deviation_pct": -40.5
     },
     {
-      "cna_name": "@huntrdev",
-      "current_count": 4,
-      "deviation_pct": -45.5
+      "cna_name": "Esri",
+      "current_count": 2,
+      "deviation_pct": -48.1
     },
     {
       "cna_name": "Samsung Mobile",
@@ -83,11 +88,6 @@
       "cna_name": "qualcomm",
       "current_count": 10,
       "deviation_pct": -52.6
-    },
-    {
-      "cna_name": "Esri",
-      "current_count": 2,
-      "deviation_pct": -55.6
     },
     {
       "cna_name": "Netskope",
