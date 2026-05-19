@@ -1,10 +1,10 @@
 {
   "date": "2026-05-19",
-  "generated_at": "2026-05-19T07:20:09.184915",
+  "generated_at": "2026-05-19T10:20:32.546052",
   "total_cnas": 548,
-  "cnas_growth": 32,
-  "cnas_normal": 103,
-  "cnas_declining": 244,
+  "cnas_growth": 33,
+  "cnas_normal": 105,
+  "cnas_declining": 241,
   "cnas_inactive": 169,
   "top_growth": [
     {
@@ -18,17 +18,17 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "Nutanix",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "SCHUTZWERK",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
       "cna_name": "Echo",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Nutanix",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -59,11 +59,6 @@
     }
   ],
   "top_declining": [
-    {
-      "cna_name": "@huntrdev",
-      "current_count": 5,
-      "deviation_pct": -31.8
-    },
     {
       "cna_name": "Zoom",
       "current_count": 3,
@@ -108,6 +103,11 @@
       "cna_name": "WPScan",
       "current_count": 14,
       "deviation_pct": -60.8
+    },
+    {
+      "cna_name": "ASR",
+      "current_count": 2,
+      "deviation_pct": -63.6
     }
   ]
 }

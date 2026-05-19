@@ -5,11 +5,11 @@
   "cna_advisory_url": "http://support.zte.com.cn/support/news/NewsMain.aspx",
   "country": "China",
   "scope_type": "",
-  "status": "Normal",
+  "status": "Growth",
   "baseline_avg": 2.12,
-  "current_count": 5,
-  "deviation_pct": 135.3,
-  "days_since_last_cve": 11,
+  "current_count": 6,
+  "deviation_pct": 182.4,
+  "days_since_last_cve": 0,
   "std_dev": 2.03,
   "threshold_low": 1.06,
   "threshold_high": 5.31,
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 5,
+      "count": 6,
       "is_current": true
     }
   ]
