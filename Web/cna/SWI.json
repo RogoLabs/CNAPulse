@@ -1,9 +1,9 @@
 {
   "assigner_id": "747bec18-acd0-4d99-a5c8-5e366c66ab7e",
   "cna_name": "SWI",
-  "cna_org_name": "Sierra Wireless Inc.",
-  "cna_advisory_url": "https://www.sierrawireless.com/company/iot-device-security/security-bulletins/",
-  "country": "Canada",
+  "cna_org_name": "SWI",
+  "cna_advisory_url": "",
+  "country": "",
   "scope_type": "",
   "status": "Declining",
   "baseline_avg": 3.0,
