@@ -5,11 +5,11 @@
   "cna_advisory_url": "https://xenbits.xen.org/xsa/",
   "country": "UK",
   "scope_type": "",
-  "status": "Declining",
+  "status": "Normal",
   "baseline_avg": 2.8,
-  "current_count": 0,
-  "deviation_pct": -100.0,
-  "days_since_last_cve": 57,
+  "current_count": 2,
+  "deviation_pct": -28.6,
+  "days_since_last_cve": 0,
   "std_dev": 1.3,
   "threshold_low": 1.4,
   "threshold_high": 7.0,
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 0,
+      "count": 2,
       "is_current": true
     }
   ]

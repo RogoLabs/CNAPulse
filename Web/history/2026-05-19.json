@@ -1,22 +1,12 @@
 {
   "date": "2026-05-19",
-  "generated_at": "2026-05-19T13:13:22.715112",
+  "generated_at": "2026-05-19T16:09:05.340367",
   "total_cnas": 548,
-  "cnas_growth": 35,
+  "cnas_growth": 37,
   "cnas_normal": 104,
-  "cnas_declining": 240,
+  "cnas_declining": 238,
   "cnas_inactive": 169,
   "top_growth": [
-    {
-      "cna_name": "Nutanix",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Echo",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
     {
       "cna_name": "SCHUTZWERK",
       "current_count": 2,
@@ -25,6 +15,16 @@
     {
       "cna_name": "Cribl",
       "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Nutanix",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Echo",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -70,6 +70,11 @@
       "deviation_pct": -40.5
     },
     {
+      "cna_name": "lenovo",
+      "current_count": 3,
+      "deviation_pct": -45.9
+    },
+    {
       "cna_name": "Esri",
       "current_count": 2,
       "deviation_pct": -48.1
@@ -103,11 +108,6 @@
       "cna_name": "WPScan",
       "current_count": 14,
       "deviation_pct": -60.8
-    },
-    {
-      "cna_name": "ASR",
-      "current_count": 2,
-      "deviation_pct": -63.6
     }
   ]
 }
