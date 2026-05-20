@@ -1,24 +1,14 @@
 {
   "date": "2026-05-20",
-  "generated_at": "2026-05-20T18:53:16.126871",
+  "generated_at": "2026-05-20T21:37:41.043383",
   "total_cnas": 550,
   "cnas_growth": 41,
-  "cnas_normal": 102,
-  "cnas_declining": 236,
+  "cnas_normal": 103,
+  "cnas_declining": 235,
   "cnas_inactive": 171,
   "top_growth": [
     {
-      "cna_name": "Cribl",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Echo",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Nutanix",
+      "cna_name": "Acer",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -28,13 +18,23 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Acer",
-      "current_count": 1,
+      "cna_name": "Cribl",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
       "cna_name": "CIRCL",
-      "current_count": 2,
+      "current_count": 4,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Nutanix",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Echo",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -53,9 +53,9 @@
       "deviation_pct": 743.8
     },
     {
-      "cna_name": "PostgreSQL",
-      "current_count": 23,
-      "deviation_pct": 700.0
+      "cna_name": "Chrome",
+      "current_count": 255,
+      "deviation_pct": 743.0
     }
   ],
   "top_declining": [
@@ -80,7 +80,7 @@
       "deviation_pct": -52.6
     },
     {
-      "cna_name": "Esri",
+      "cna_name": "Altium",
       "current_count": 2,
       "deviation_pct": -55.6
     },
