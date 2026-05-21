@@ -1,9 +1,9 @@
 {
   "date": "2026-05-21",
-  "generated_at": "2026-05-21T18:43:21.797796",
+  "generated_at": "2026-05-21T21:35:04.723005",
   "total_cnas": 550,
-  "cnas_growth": 45,
-  "cnas_normal": 100,
+  "cnas_growth": 47,
+  "cnas_normal": 98,
   "cnas_declining": 234,
   "cnas_inactive": 171,
   "top_growth": [
@@ -13,13 +13,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "SCHUTZWERK",
-      "current_count": 2,
+      "cna_name": "CIRCL",
+      "current_count": 4,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Nutanix",
-      "current_count": 1,
+      "cna_name": "SCHUTZWERK",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -28,13 +28,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "CIRCL",
-      "current_count": 4,
+      "cna_name": "Cribl",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Cribl",
-      "current_count": 3,
+      "cna_name": "Nutanix",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -80,6 +80,11 @@
       "deviation_pct": -48.8
     },
     {
+      "cna_name": "Esri",
+      "current_count": 2,
+      "deviation_pct": -51.7
+    },
+    {
       "cna_name": "qualcomm",
       "current_count": 10,
       "deviation_pct": -52.6
@@ -103,11 +108,6 @@
       "cna_name": "Honeywell",
       "current_count": 2,
       "deviation_pct": -57.9
-    },
-    {
-      "cna_name": "RTI",
-      "current_count": 1,
-      "deviation_pct": -60.0
     }
   ]
 }
