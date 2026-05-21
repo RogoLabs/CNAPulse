@@ -5,11 +5,11 @@
   "cna_advisory_url": "https://www.connectwise.com/company/trust/security-bulletins",
   "country": "USA",
   "scope_type": "",
-  "status": "Declining",
+  "status": "Normal",
   "baseline_avg": 1.43,
-  "current_count": 0,
-  "deviation_pct": -100.0,
-  "days_since_last_cve": 30,
+  "current_count": 1,
+  "deviation_pct": -30.0,
+  "days_since_last_cve": 0,
   "std_dev": 0.53,
   "threshold_low": 0.71,
   "threshold_high": 3.57,
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 0,
+      "count": 1,
       "is_current": true
     }
   ]

@@ -5,11 +5,11 @@
   "cna_advisory_url": "https://success.trendmicro.com/vulnerability-response#report",
   "country": "Japan",
   "scope_type": "",
-  "status": "Declining",
+  "status": "Normal",
   "baseline_avg": 9.25,
-  "current_count": 0,
-  "deviation_pct": -100.0,
-  "days_since_last_cve": 133,
+  "current_count": 16,
+  "deviation_pct": 73.0,
+  "days_since_last_cve": 0,
   "std_dev": 12.53,
   "threshold_low": 4.62,
   "threshold_high": 23.12,
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 0,
+      "count": 16,
       "is_current": true
     }
   ]
