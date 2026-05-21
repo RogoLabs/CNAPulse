@@ -1,0 +1,113 @@
+{
+  "date": "2026-05-21",
+  "generated_at": "2026-05-21T00:54:56.442591",
+  "total_cnas": 550,
+  "cnas_growth": 41,
+  "cnas_normal": 103,
+  "cnas_declining": 235,
+  "cnas_inactive": 171,
+  "top_growth": [
+    {
+      "cna_name": "Cribl",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Acer",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Echo",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Nutanix",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "CIRCL",
+      "current_count": 4,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "SCHUTZWERK",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "GV",
+      "current_count": 12,
+      "deviation_pct": 1100.0
+    },
+    {
+      "cna_name": "NLnet Labs",
+      "current_count": 11,
+      "deviation_pct": 1000.0
+    },
+    {
+      "cna_name": "canonical",
+      "current_count": 45,
+      "deviation_pct": 743.8
+    },
+    {
+      "cna_name": "Chrome",
+      "current_count": 255,
+      "deviation_pct": 743.0
+    }
+  ],
+  "top_declining": [
+    {
+      "cna_name": "Zoom",
+      "current_count": 3,
+      "deviation_pct": -32.5
+    },
+    {
+      "cna_name": "intel",
+      "current_count": 25,
+      "deviation_pct": -40.5
+    },
+    {
+      "cna_name": "Samsung Mobile",
+      "current_count": 9,
+      "deviation_pct": -48.8
+    },
+    {
+      "cna_name": "qualcomm",
+      "current_count": 10,
+      "deviation_pct": -52.6
+    },
+    {
+      "cna_name": "Altium",
+      "current_count": 2,
+      "deviation_pct": -55.6
+    },
+    {
+      "cna_name": "Netskope",
+      "current_count": 1,
+      "deviation_pct": -57.1
+    },
+    {
+      "cna_name": "wikimedia-foundation",
+      "current_count": 11,
+      "deviation_pct": -57.7
+    },
+    {
+      "cna_name": "WPScan",
+      "current_count": 15,
+      "deviation_pct": -58.0
+    },
+    {
+      "cna_name": "RTI",
+      "current_count": 1,
+      "deviation_pct": -60.0
+    },
+    {
+      "cna_name": "ASR",
+      "current_count": 2,
+      "deviation_pct": -63.6
+    }
+  ]
+}
