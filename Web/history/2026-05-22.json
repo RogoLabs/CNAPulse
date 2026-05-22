@@ -1,20 +1,20 @@
 {
   "date": "2026-05-22",
-  "generated_at": "2026-05-22T07:20:31.959381",
+  "generated_at": "2026-05-22T10:07:57.587122",
   "total_cnas": 550,
-  "cnas_growth": 49,
+  "cnas_growth": 48,
   "cnas_normal": 95,
-  "cnas_declining": 236,
+  "cnas_declining": 237,
   "cnas_inactive": 170,
   "top_growth": [
     {
-      "cna_name": "9front",
-      "current_count": 2,
+      "cna_name": "Echo",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Nutanix",
-      "current_count": 1,
+      "cna_name": "SCHUTZWERK",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -28,18 +28,18 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "CIRCL",
-      "current_count": 4,
+      "cna_name": "9front",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Echo",
+      "cna_name": "Nutanix",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "SCHUTZWERK",
-      "current_count": 2,
+      "cna_name": "CIRCL",
+      "current_count": 4,
       "deviation_pct": 999999.0
     },
     {
