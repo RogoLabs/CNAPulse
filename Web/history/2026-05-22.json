@@ -1,25 +1,25 @@
 {
   "date": "2026-05-22",
-  "generated_at": "2026-05-22T00:52:49.382213",
+  "generated_at": "2026-05-22T04:29:49.097981",
   "total_cnas": 550,
-  "cnas_growth": 47,
-  "cnas_normal": 98,
-  "cnas_declining": 234,
-  "cnas_inactive": 171,
+  "cnas_growth": 49,
+  "cnas_normal": 96,
+  "cnas_declining": 235,
+  "cnas_inactive": 170,
   "top_growth": [
-    {
-      "cna_name": "Nutanix",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Echo",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
     {
       "cna_name": "CIRCL",
       "current_count": 4,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "SCHUTZWERK",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Nutanix",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -28,13 +28,18 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Cribl",
-      "current_count": 3,
+      "cna_name": "9front",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "SCHUTZWERK",
-      "current_count": 2,
+      "cna_name": "Echo",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Cribl",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -51,11 +56,6 @@
       "cna_name": "NLnet Labs",
       "current_count": 11,
       "deviation_pct": 1000.0
-    },
-    {
-      "cna_name": "ConcreteCMS",
-      "current_count": 41,
-      "deviation_pct": 925.0
     }
   ],
   "top_declining": [
