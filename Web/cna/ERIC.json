@@ -6,13 +6,13 @@
   "country": "Sweden",
   "scope_type": "",
   "status": "Declining",
-  "baseline_avg": 3.2,
-  "current_count": 1,
-  "deviation_pct": -68.8,
-  "days_since_last_cve": 29,
-  "std_dev": 1.92,
-  "threshold_low": 1.6,
-  "threshold_high": 8.0,
+  "baseline_avg": 2.83,
+  "current_count": 0,
+  "deviation_pct": -100.0,
+  "days_since_last_cve": 30,
+  "std_dev": 1.72,
+  "threshold_low": 1.42,
+  "threshold_high": 7.08,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -71,12 +71,12 @@
     },
     {
       "month": "Days 60-30",
-      "count": 1,
+      "count": 2,
       "is_current": false
     },
     {
       "month": "Last 30 Days",
-      "count": 1,
+      "count": 0,
       "is_current": true
     }
   ]
