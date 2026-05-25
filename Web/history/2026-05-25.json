@@ -1,22 +1,12 @@
 {
   "date": "2026-05-25",
-  "generated_at": "2026-05-25T10:36:54.778964",
+  "generated_at": "2026-05-25T13:15:47.163775",
   "total_cnas": 550,
-  "cnas_growth": 47,
-  "cnas_normal": 95,
+  "cnas_growth": 46,
+  "cnas_normal": 96,
   "cnas_declining": 238,
   "cnas_inactive": 170,
   "top_growth": [
-    {
-      "cna_name": "Cribl",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Echo",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
     {
       "cna_name": "9front",
       "current_count": 2,
@@ -28,13 +18,23 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "CIRCL",
-      "current_count": 4,
+      "cna_name": "Echo",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
       "cna_name": "SCHUTZWERK",
       "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Cribl",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "CIRCL",
+      "current_count": 4,
       "deviation_pct": 999999.0
     },
     {
