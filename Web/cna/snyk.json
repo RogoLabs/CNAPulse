@@ -6,13 +6,13 @@
   "country": "UK",
   "scope_type": "",
   "status": "Normal",
-  "baseline_avg": 3.33,
-  "current_count": 6,
-  "deviation_pct": 80.0,
-  "days_since_last_cve": 5,
-  "std_dev": 3.03,
-  "threshold_low": 1.67,
-  "threshold_high": 8.33,
+  "baseline_avg": 3.73,
+  "current_count": 5,
+  "deviation_pct": 34.1,
+  "days_since_last_cve": 6,
+  "std_dev": 2.69,
+  "threshold_low": 1.86,
+  "threshold_high": 9.32,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -71,12 +71,12 @@
     },
     {
       "month": "Days 60-30",
-      "count": 1,
+      "count": 2,
       "is_current": false
     },
     {
       "month": "Last 30 Days",
-      "count": 6,
+      "count": 5,
       "is_current": true
     }
   ]
