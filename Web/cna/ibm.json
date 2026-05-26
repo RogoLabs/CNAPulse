@@ -5,18 +5,18 @@
   "cna_advisory_url": "https://www.ibm.com/support/pages/bulletin/",
   "country": "USA",
   "scope_type": "",
-  "status": "Declining",
-  "baseline_avg": 44.67,
-  "current_count": 14,
-  "deviation_pct": -68.7,
-  "days_since_last_cve": 25,
+  "status": "Normal",
+  "baseline_avg": 44.58,
+  "current_count": 34,
+  "deviation_pct": -23.7,
+  "days_since_last_cve": 0,
   "std_dev": 15.97,
-  "threshold_low": 22.33,
-  "threshold_high": 111.67,
+  "threshold_low": 22.29,
+  "threshold_high": 111.46,
   "timeline_13months": [
     {
       "month": "Days 390-360",
-      "count": 45,
+      "count": 44,
       "is_current": false
     },
     {
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 14,
+      "count": 34,
       "is_current": true
     }
   ]

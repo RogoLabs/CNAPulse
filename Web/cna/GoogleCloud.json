@@ -5,11 +5,11 @@
   "cna_advisory_url": "https://cloud.google.com/support/bulletins",
   "country": "USA",
   "scope_type": "",
-  "status": "Normal",
+  "status": "Growth",
   "baseline_avg": 3.5,
-  "current_count": 2,
-  "deviation_pct": -42.9,
-  "days_since_last_cve": 11,
+  "current_count": 3,
+  "deviation_pct": -14.3,
+  "days_since_last_cve": 0,
   "std_dev": 3.51,
   "threshold_low": 1.75,
   "threshold_high": 8.75,
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 2,
+      "count": 3,
       "is_current": true
     }
   ]
