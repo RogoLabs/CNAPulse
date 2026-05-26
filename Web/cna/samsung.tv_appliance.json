@@ -6,13 +6,13 @@
   "country": "South Korea",
   "scope_type": "",
   "status": "Normal",
-  "baseline_avg": 12.5,
+  "baseline_avg": 10.0,
   "current_count": 11,
-  "deviation_pct": -12.0,
+  "deviation_pct": 10.0,
   "days_since_last_cve": 6,
-  "std_dev": 12.82,
-  "threshold_low": 6.25,
-  "threshold_high": 31.25,
+  "std_dev": 10.32,
+  "threshold_low": 5.0,
+  "threshold_high": 25.0,
   "timeline_13months": [
     {
       "month": "Days 390-360",
