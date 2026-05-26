@@ -1,20 +1,20 @@
 {
   "date": "2026-05-26",
-  "generated_at": "2026-05-26T13:06:33.122630",
+  "generated_at": "2026-05-26T16:20:58.542308",
   "total_cnas": 550,
-  "cnas_growth": 45,
-  "cnas_normal": 98,
-  "cnas_declining": 237,
+  "cnas_growth": 47,
+  "cnas_normal": 97,
+  "cnas_declining": 236,
   "cnas_inactive": 170,
   "top_growth": [
     {
-      "cna_name": "Echo",
-      "current_count": 1,
+      "cna_name": "Acer",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "SCHUTZWERK",
-      "current_count": 2,
+      "cna_name": "Echo",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -23,8 +23,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Acer",
-      "current_count": 3,
+      "cna_name": "SCHUTZWERK",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -60,6 +60,16 @@
   ],
   "top_declining": [
     {
+      "cna_name": "facebook",
+      "current_count": 3,
+      "deviation_pct": 20.0
+    },
+    {
+      "cna_name": "icscert",
+      "current_count": 23,
+      "deviation_pct": -27.4
+    },
+    {
       "cna_name": "Zoom",
       "current_count": 3,
       "deviation_pct": -32.5
@@ -90,24 +100,14 @@
       "deviation_pct": -51.7
     },
     {
-      "cna_name": "Netskope",
-      "current_count": 1,
-      "deviation_pct": -57.1
-    },
-    {
-      "cna_name": "wikimedia-foundation",
-      "current_count": 11,
-      "deviation_pct": -57.7
-    },
-    {
-      "cna_name": "Honeywell",
+      "cna_name": "Hitachi Energy",
       "current_count": 2,
-      "deviation_pct": -57.9
+      "deviation_pct": -55.6
     },
     {
-      "cna_name": "RTI",
-      "current_count": 1,
-      "deviation_pct": -60.0
+      "cna_name": "Zohocorp",
+      "current_count": 2,
+      "deviation_pct": -56.0
     }
   ]
 }
