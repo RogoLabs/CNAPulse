@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://support.lenovo.com/us/en/product_security/home",
   "country": "USA",
   "scope_type": "",
-  "status": "Normal",
+  "status": "Declining",
   "baseline_avg": 5.27,
   "current_count": 3,
   "deviation_pct": -43.1,

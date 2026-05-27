@@ -1,18 +1,18 @@
 {
-  "assigner_id": "8cad7728-009c-4a3d-a95e-ca62e6ff8a0b",
+  "assigner_id": "unknown",
   "cna_name": "BlackDuck",
   "cna_org_name": "Black Duck Software, Inc.",
   "cna_advisory_url": "https://www.blackduck.com/blog/category.cyrc.html#1",
   "country": "USA",
   "scope_type": "",
-  "status": "Declining",
-  "baseline_avg": 1.0,
+  "status": "Inactive",
+  "baseline_avg": 0.0,
   "current_count": 0,
-  "deviation_pct": -100.0,
-  "days_since_last_cve": 60,
+  "deviation_pct": 0.0,
+  "days_since_last_cve": null,
   "std_dev": null,
-  "threshold_low": 0.5,
-  "threshold_high": 2.5,
+  "threshold_low": 0.0,
+  "threshold_high": 0.0,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -46,7 +46,7 @@
     },
     {
       "month": "Days 210-180",
-      "count": 1,
+      "count": 0,
       "is_current": false
     },
     {
@@ -66,7 +66,7 @@
     },
     {
       "month": "Days 90-60",
-      "count": 1,
+      "count": 0,
       "is_current": false
     },
     {

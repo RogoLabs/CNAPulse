@@ -6,13 +6,13 @@
   "country": "Singapore",
   "scope_type": "",
   "status": "Normal",
-  "baseline_avg": 3.0,
-  "current_count": 2,
-  "deviation_pct": -33.3,
+  "baseline_avg": 3.17,
+  "current_count": 1,
+  "deviation_pct": -68.4,
   "days_since_last_cve": 14,
-  "std_dev": 2.68,
-  "threshold_low": 1.5,
-  "threshold_high": 7.5,
+  "std_dev": 2.64,
+  "threshold_low": 1.58,
+  "threshold_high": 7.92,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -71,12 +71,12 @@
     },
     {
       "month": "Days 60-30",
-      "count": 2,
+      "count": 3,
       "is_current": false
     },
     {
       "month": "Last 30 Days",
-      "count": 2,
+      "count": 1,
       "is_current": true
     }
   ]

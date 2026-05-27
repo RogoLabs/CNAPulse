@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://www.ncsc.admin.ch/ncsc/en/home/infos-fuer/infos-it-spezialisten/themen/schwachstelle-melden/advisories.html",
   "country": "Switzerland",
   "scope_type": "",
-  "status": "Growth",
+  "status": "Normal",
   "baseline_avg": 5.36,
   "current_count": 12,
   "deviation_pct": 123.7,
