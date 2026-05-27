@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://cert.pl/cve/",
   "country": "Poland",
   "scope_type": "",
-  "status": "Normal",
+  "status": "Growth",
   "baseline_avg": 16.75,
   "current_count": 33,
   "deviation_pct": 97.0,

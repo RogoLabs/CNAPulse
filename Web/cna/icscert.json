@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://cisa.gov/icsa",
   "country": "USA",
   "scope_type": "",
-  "status": "Declining",
+  "status": "Normal",
   "baseline_avg": 31.17,
   "current_count": 24,
   "deviation_pct": -23.0,
