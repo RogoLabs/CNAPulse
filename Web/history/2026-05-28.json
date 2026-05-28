@@ -1,6 +1,6 @@
 {
   "date": "2026-05-28",
-  "generated_at": "2026-05-28T13:21:31.253001",
+  "generated_at": "2026-05-28T16:28:50.168790",
   "total_cnas": 544,
   "cnas_growth": 50,
   "cnas_normal": 88,
@@ -8,27 +8,7 @@
   "cnas_inactive": 163,
   "top_growth": [
     {
-      "cna_name": "Acer",
-      "current_count": 4,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "9front",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "Echo",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "CIRCL",
-      "current_count": 6,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "OCD",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -38,8 +18,28 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "Acer",
+      "current_count": 4,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OCD",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "9front",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "SCHUTZWERK",
       "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "CIRCL",
+      "current_count": 6,
       "deviation_pct": 999999.0
     },
     {
@@ -63,6 +63,11 @@
       "cna_name": "WatchGuard",
       "current_count": 5,
       "deviation_pct": 25.0
+    },
+    {
+      "cna_name": "hp",
+      "current_count": 3,
+      "deviation_pct": -26.8
     },
     {
       "cna_name": "adobe",
@@ -103,11 +108,6 @@
       "cna_name": "Acronis",
       "current_count": 3,
       "deviation_pct": -48.8
-    },
-    {
-      "cna_name": "Esri",
-      "current_count": 2,
-      "deviation_pct": -51.7
     }
   ]
 }
