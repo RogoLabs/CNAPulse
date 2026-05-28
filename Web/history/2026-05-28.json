@@ -1,25 +1,15 @@
 {
   "date": "2026-05-28",
-  "generated_at": "2026-05-28T07:27:28.631514",
-  "total_cnas": 544,
-  "cnas_growth": 49,
-  "cnas_normal": 90,
-  "cnas_declining": 241,
-  "cnas_inactive": 164,
+  "generated_at": "2026-05-28T10:30:23.042214",
+  "total_cnas": 550,
+  "cnas_growth": 45,
+  "cnas_normal": 98,
+  "cnas_declining": 237,
+  "cnas_inactive": 170,
   "top_growth": [
     {
-      "cna_name": "Acer",
-      "current_count": 4,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Nutanix",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "CIRCL",
-      "current_count": 5,
+      "cna_name": "SCHUTZWERK",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -28,8 +18,18 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "Acer",
+      "current_count": 4,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "Cribl",
       "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Nutanix",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -38,14 +38,14 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "SCHUTZWERK",
-      "current_count": 2,
+      "cna_name": "CIRCL",
+      "current_count": 6,
       "deviation_pct": 999999.0
     },
     {
       "cna_name": "securin",
-      "current_count": 38,
-      "deviation_pct": 1800.0
+      "current_count": 40,
+      "deviation_pct": 1900.0
     },
     {
       "cna_name": "NLnet Labs",
@@ -60,14 +60,14 @@
   ],
   "top_declining": [
     {
-      "cna_name": "WatchGuard",
-      "current_count": 5,
-      "deviation_pct": 25.0
+      "cna_name": "facebook",
+      "current_count": 3,
+      "deviation_pct": 20.0
     },
     {
-      "cna_name": "adobe",
-      "current_count": 51,
-      "deviation_pct": -30.5
+      "cna_name": "autodesk",
+      "current_count": 5,
+      "deviation_pct": -30.8
     },
     {
       "cna_name": "Zoom",
@@ -75,28 +75,23 @@
       "deviation_pct": -32.5
     },
     {
-      "cna_name": "M-Files Corporation",
-      "current_count": 1,
-      "deviation_pct": -33.3
-    },
-    {
-      "cna_name": "icscert",
-      "current_count": 19,
-      "deviation_pct": -39.8
-    },
-    {
       "cna_name": "intel",
       "current_count": 25,
       "deviation_pct": -40.5
     },
     {
-      "cna_name": "SamsungMobile",
-      "current_count": 9,
-      "deviation_pct": -48.8
+      "cna_name": "lenovo",
+      "current_count": 3,
+      "deviation_pct": -43.1
     },
     {
-      "cna_name": "Acronis",
-      "current_count": 3,
+      "cna_name": "qualcomm",
+      "current_count": 10,
+      "deviation_pct": -48.3
+    },
+    {
+      "cna_name": "Samsung Mobile",
+      "current_count": 9,
       "deviation_pct": -48.8
     },
     {
@@ -108,6 +103,11 @@
       "cna_name": "Honeywell",
       "current_count": 2,
       "deviation_pct": -55.6
+    },
+    {
+      "cna_name": "Zohocorp",
+      "current_count": 2,
+      "deviation_pct": -56.0
     }
   ]
 }

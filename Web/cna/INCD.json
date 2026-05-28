@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://www.gov.il/en/departments/faq/cve_advisories",
   "country": "Israel",
   "scope_type": "",
-  "status": "Declining",
+  "status": "Normal",
   "baseline_avg": 5.17,
   "current_count": 2,
   "deviation_pct": -61.3,
