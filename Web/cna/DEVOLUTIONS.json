@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://devolutions.net/security/advisories/",
   "country": "Canada",
   "scope_type": "",
-  "status": "Growth",
-  "baseline_avg": 4.89,
-  "current_count": 15,
-  "deviation_pct": 206.8,
+  "status": "Normal",
+  "baseline_avg": 5.0,
+  "current_count": 14,
+  "deviation_pct": 180.0,
   "days_since_last_cve": 5,
-  "std_dev": 2.37,
-  "threshold_low": 2.44,
-  "threshold_high": 12.22,
+  "std_dev": 2.5,
+  "threshold_low": 2.5,
+  "threshold_high": 12.5,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -71,12 +71,12 @@
     },
     {
       "month": "Days 60-30",
-      "count": 7,
+      "count": 8,
       "is_current": false
     },
     {
       "month": "Last 30 Days",
-      "count": 15,
+      "count": 14,
       "is_current": true
     }
   ]

@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://aws.amazon.com/security/security-bulletins",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
+  "status": "Normal",
   "baseline_avg": 5.18,
   "current_count": 15,
   "deviation_pct": 189.5,
