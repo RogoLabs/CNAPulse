@@ -1,20 +1,20 @@
 {
   "date": "2026-05-28",
-  "generated_at": "2026-05-28T00:49:27.703145",
+  "generated_at": "2026-05-28T04:31:27.954905",
   "total_cnas": 544,
   "cnas_growth": 49,
-  "cnas_normal": 93,
-  "cnas_declining": 238,
+  "cnas_normal": 91,
+  "cnas_declining": 240,
   "cnas_inactive": 164,
   "top_growth": [
     {
-      "cna_name": "Echo",
-      "current_count": 1,
+      "cna_name": "Cribl",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Nutanix",
-      "current_count": 1,
+      "cna_name": "Acer",
+      "current_count": 4,
       "deviation_pct": 999999.0
     },
     {
@@ -23,23 +23,23 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "CIRCL",
+      "current_count": 4,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Echo",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "9front",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Cribl",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Acer",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "CIRCL",
-      "current_count": 4,
+      "cna_name": "Nutanix",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -80,6 +80,11 @@
       "deviation_pct": -33.3
     },
     {
+      "cna_name": "icscert",
+      "current_count": 19,
+      "deviation_pct": -39.8
+    },
+    {
       "cna_name": "intel",
       "current_count": 25,
       "deviation_pct": -40.5
@@ -101,11 +106,6 @@
     },
     {
       "cna_name": "Honeywell",
-      "current_count": 2,
-      "deviation_pct": -55.6
-    },
-    {
-      "cna_name": "Hitachi Energy",
       "current_count": 2,
       "deviation_pct": -55.6
     }
