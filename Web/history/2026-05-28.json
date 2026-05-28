@@ -1,0 +1,113 @@
+{
+  "date": "2026-05-28",
+  "generated_at": "2026-05-28T00:49:27.703145",
+  "total_cnas": 544,
+  "cnas_growth": 49,
+  "cnas_normal": 93,
+  "cnas_declining": 238,
+  "cnas_inactive": 164,
+  "top_growth": [
+    {
+      "cna_name": "Echo",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Nutanix",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "SCHUTZWERK",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "9front",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Cribl",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Acer",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "CIRCL",
+      "current_count": 4,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "securin",
+      "current_count": 38,
+      "deviation_pct": 1800.0
+    },
+    {
+      "cna_name": "NLnet Labs",
+      "current_count": 11,
+      "deviation_pct": 1000.0
+    },
+    {
+      "cna_name": "ConcreteCMS",
+      "current_count": 44,
+      "deviation_pct": 1000.0
+    }
+  ],
+  "top_declining": [
+    {
+      "cna_name": "WatchGuard",
+      "current_count": 5,
+      "deviation_pct": 25.0
+    },
+    {
+      "cna_name": "adobe",
+      "current_count": 51,
+      "deviation_pct": -30.5
+    },
+    {
+      "cna_name": "Zoom",
+      "current_count": 3,
+      "deviation_pct": -32.5
+    },
+    {
+      "cna_name": "M-Files Corporation",
+      "current_count": 1,
+      "deviation_pct": -33.3
+    },
+    {
+      "cna_name": "intel",
+      "current_count": 25,
+      "deviation_pct": -40.5
+    },
+    {
+      "cna_name": "SamsungMobile",
+      "current_count": 9,
+      "deviation_pct": -48.8
+    },
+    {
+      "cna_name": "Acronis",
+      "current_count": 3,
+      "deviation_pct": -48.8
+    },
+    {
+      "cna_name": "Esri",
+      "current_count": 2,
+      "deviation_pct": -51.7
+    },
+    {
+      "cna_name": "Honeywell",
+      "current_count": 2,
+      "deviation_pct": -55.6
+    },
+    {
+      "cna_name": "Hitachi Energy",
+      "current_count": 2,
+      "deviation_pct": -55.6
+    }
+  ]
+}
