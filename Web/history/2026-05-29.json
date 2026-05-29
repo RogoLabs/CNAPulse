@@ -1,6 +1,6 @@
 {
   "date": "2026-05-29",
-  "generated_at": "2026-05-29T18:57:16.312020",
+  "generated_at": "2026-05-29T21:37:45.981355",
   "total_cnas": 544,
   "cnas_growth": 52,
   "cnas_normal": 93,
@@ -8,23 +8,8 @@
   "cnas_inactive": 162,
   "top_growth": [
     {
-      "cna_name": "SCHUTZWERK",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "CIRCL",
-      "current_count": 6,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Cribl",
+      "cna_name": "Tigera",
       "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Echo",
-      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -33,18 +18,33 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "OCD",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Echo",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Cribl",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "9front",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Tigera",
-      "current_count": 3,
+      "cna_name": "SCHUTZWERK",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "OCD",
-      "current_count": 1,
+      "cna_name": "CIRCL",
+      "current_count": 6,
       "deviation_pct": 999999.0
     },
     {
@@ -85,6 +85,11 @@
       "deviation_pct": -33.3
     },
     {
+      "cna_name": "TPLink",
+      "current_count": 6,
+      "deviation_pct": -38.9
+    },
+    {
       "cna_name": "intel",
       "current_count": 25,
       "deviation_pct": -40.5
@@ -93,11 +98,6 @@
       "cna_name": "oracle",
       "current_count": 32,
       "deviation_pct": -41.3
-    },
-    {
-      "cna_name": "TPLink",
-      "current_count": 5,
-      "deviation_pct": -49.1
     },
     {
       "cna_name": "wikimedia-foundation",
