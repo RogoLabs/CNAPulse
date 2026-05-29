@@ -1,15 +1,25 @@
 {
   "date": "2026-05-29",
-  "generated_at": "2026-05-29T10:23:37.236508",
+  "generated_at": "2026-05-29T13:12:56.587784",
   "total_cnas": 544,
-  "cnas_growth": 52,
-  "cnas_normal": 91,
-  "cnas_declining": 239,
+  "cnas_growth": 53,
+  "cnas_normal": 92,
+  "cnas_declining": 237,
   "cnas_inactive": 162,
   "top_growth": [
     {
-      "cna_name": "OCD",
+      "cna_name": "SCHUTZWERK",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Echo",
       "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "9front",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -18,8 +28,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Echo",
-      "current_count": 1,
+      "cna_name": "Tigera",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -33,18 +43,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "9front",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "SCHUTZWERK",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Tigera",
-      "current_count": 3,
+      "cna_name": "OCD",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
