@@ -5,10 +5,10 @@
   "cna_advisory_url": "https://cisa.gov/icsa",
   "country": "USA",
   "scope_type": "",
-  "status": "Declining",
+  "status": "Normal",
   "baseline_avg": 31.75,
-  "current_count": 20,
-  "deviation_pct": -37.0,
+  "current_count": 29,
+  "deviation_pct": -8.7,
   "days_since_last_cve": 0,
   "std_dev": 15.05,
   "threshold_low": 15.88,
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 20,
+      "count": 29,
       "is_current": true
     }
   ]
