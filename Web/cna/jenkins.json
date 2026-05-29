@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://jenkins.io/security/advisories/",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
-  "baseline_avg": 9.88,
-  "current_count": 20,
-  "deviation_pct": 102.5,
-  "days_since_last_cve": 1,
-  "std_dev": 10.38,
-  "threshold_low": 4.94,
-  "threshold_high": 24.69,
+  "status": "Normal",
+  "baseline_avg": 9.56,
+  "current_count": 13,
+  "deviation_pct": 36.0,
+  "days_since_last_cve": 2,
+  "std_dev": 9.76,
+  "threshold_low": 4.78,
+  "threshold_high": 23.89,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -71,12 +71,12 @@
     },
     {
       "month": "Days 60-30",
-      "count": 0,
+      "count": 7,
       "is_current": false
     },
     {
       "month": "Last 30 Days",
-      "count": 20,
+      "count": 13,
       "is_current": true
     }
   ]
