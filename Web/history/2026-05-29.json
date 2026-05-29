@@ -1,12 +1,27 @@
 {
   "date": "2026-05-29",
-  "generated_at": "2026-05-29T04:32:51.214671",
+  "generated_at": "2026-05-29T07:27:25.891287",
   "total_cnas": 544,
-  "cnas_growth": 53,
+  "cnas_growth": 52,
   "cnas_normal": 90,
-  "cnas_declining": 239,
+  "cnas_declining": 240,
   "cnas_inactive": 162,
   "top_growth": [
+    {
+      "cna_name": "Acer",
+      "current_count": 4,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OCD",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "9front",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
     {
       "cna_name": "SCHUTZWERK",
       "current_count": 2,
@@ -18,33 +33,18 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Cribl",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "OCD",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "Echo",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Acer",
-      "current_count": 4,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "9front",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "CIRCL",
       "current_count": 6,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Cribl",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -105,8 +105,8 @@
       "deviation_pct": -41.3
     },
     {
-      "cna_name": "SamsungMobile",
-      "current_count": 9,
+      "cna_name": "Acronis",
+      "current_count": 3,
       "deviation_pct": -48.8
     }
   ]
