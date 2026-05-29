@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://www.cert-in.org.in/",
   "country": "India",
   "scope_type": "",
-  "status": "Normal",
-  "baseline_avg": 4.0,
-  "current_count": 7,
-  "deviation_pct": 75.0,
-  "days_since_last_cve": 3,
-  "std_dev": 1.22,
-  "threshold_low": 2.0,
-  "threshold_high": 10.0,
+  "status": "Declining",
+  "baseline_avg": 5.2,
+  "current_count": 1,
+  "deviation_pct": -80.8,
+  "days_since_last_cve": 4,
+  "std_dev": 3.42,
+  "threshold_low": 2.6,
+  "threshold_high": 13.0,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -71,12 +71,12 @@
     },
     {
       "month": "Days 60-30",
-      "count": 5,
+      "count": 11,
       "is_current": false
     },
     {
       "month": "Last 30 Days",
-      "count": 7,
+      "count": 1,
       "is_current": true
     }
   ]
