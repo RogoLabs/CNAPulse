@@ -6,13 +6,13 @@
   "country": "Türkiye",
   "scope_type": "",
   "status": "Normal",
-  "baseline_avg": 20.5,
-  "current_count": 29,
-  "deviation_pct": 41.5,
-  "days_since_last_cve": 8,
-  "std_dev": 18.94,
-  "threshold_low": 10.25,
-  "threshold_high": 51.25,
+  "baseline_avg": 20.75,
+  "current_count": 26,
+  "deviation_pct": 25.3,
+  "days_since_last_cve": 9,
+  "std_dev": 18.15,
+  "threshold_low": 10.38,
+  "threshold_high": 51.88,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -71,12 +71,12 @@
     },
     {
       "month": "Days 60-30",
-      "count": 5,
+      "count": 8,
       "is_current": false
     },
     {
       "month": "Last 30 Days",
-      "count": 29,
+      "count": 26,
       "is_current": true
     }
   ]
