@@ -6,13 +6,13 @@
   "country": "UK",
   "scope_type": "",
   "status": "Normal",
-  "baseline_avg": 2.4,
+  "baseline_avg": 2.67,
   "current_count": 3,
-  "deviation_pct": 25.0,
+  "deviation_pct": 12.5,
   "days_since_last_cve": 28,
-  "std_dev": 1.26,
-  "threshold_low": 1.2,
-  "threshold_high": 6.0,
+  "std_dev": 1.22,
+  "threshold_low": 1.33,
+  "threshold_high": 6.67,
   "timeline_13months": [
     {
       "month": "Days 390-360",
