@@ -1,20 +1,15 @@
 {
   "date": "2026-05-30",
-  "generated_at": "2026-05-30T07:06:40.785142",
+  "generated_at": "2026-05-30T09:41:06.057309",
   "total_cnas": 544,
-  "cnas_growth": 50,
-  "cnas_normal": 96,
+  "cnas_growth": 49,
+  "cnas_normal": 97,
   "cnas_declining": 236,
   "cnas_inactive": 162,
   "top_growth": [
     {
-      "cna_name": "Tigera",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "SCHUTZWERK",
-      "current_count": 2,
+      "cna_name": "CIRCL",
+      "current_count": 6,
       "deviation_pct": 999999.0
     },
     {
@@ -23,17 +18,17 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "9front",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "OCD",
-      "current_count": 1,
+      "cna_name": "Tigera",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
       "cna_name": "Echo",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OCD",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -43,8 +38,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "CIRCL",
-      "current_count": 6,
+      "cna_name": "9front",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -55,6 +50,11 @@
     {
       "cna_name": "NLnet Labs",
       "current_count": 11,
+      "deviation_pct": 1000.0
+    },
+    {
+      "cna_name": "ConcreteCMS",
+      "current_count": 44,
       "deviation_pct": 1000.0
     }
   ],
