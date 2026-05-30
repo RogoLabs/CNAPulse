@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://www.absolute.com/platform/security-information/vulnerability-archive/",
   "country": "USA",
   "scope_type": "",
-  "status": "Normal",
-  "baseline_avg": 3.17,
-  "current_count": 10,
-  "deviation_pct": 215.8,
-  "days_since_last_cve": 29,
-  "std_dev": 0.98,
-  "threshold_low": 1.58,
-  "threshold_high": 7.92,
+  "status": "Declining",
+  "baseline_avg": 4.14,
+  "current_count": 0,
+  "deviation_pct": -100.0,
+  "days_since_last_cve": 30,
+  "std_dev": 2.73,
+  "threshold_low": 2.07,
+  "threshold_high": 10.36,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -71,12 +71,12 @@
     },
     {
       "month": "Days 60-30",
-      "count": 0,
+      "count": 10,
       "is_current": false
     },
     {
       "month": "Last 30 Days",
-      "count": 10,
+      "count": 0,
       "is_current": true
     }
   ]
