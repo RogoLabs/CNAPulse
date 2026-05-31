@@ -5,18 +5,18 @@
   "cna_advisory_url": "https://www.crestron.com/Security/Security_Advisories",
   "country": "USA",
   "scope_type": "",
-  "status": "Declining",
-  "baseline_avg": 2.33,
+  "status": "Normal",
+  "baseline_avg": 1.33,
   "current_count": 1,
-  "deviation_pct": -57.1,
+  "deviation_pct": -25.0,
   "days_since_last_cve": 26,
-  "std_dev": 1.53,
-  "threshold_low": 1.17,
-  "threshold_high": 5.83,
+  "std_dev": 0.58,
+  "threshold_low": 0.67,
+  "threshold_high": 3.33,
   "timeline_13months": [
     {
       "month": "Days 390-360",
-      "count": 4,
+      "count": 1,
       "is_current": false
     },
     {
