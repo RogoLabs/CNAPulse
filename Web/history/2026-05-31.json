@@ -1,15 +1,30 @@
 {
   "date": "2026-05-31",
-  "generated_at": "2026-05-31T15:32:03.179652",
+  "generated_at": "2026-05-31T18:29:47.440892",
   "total_cnas": 544,
-  "cnas_growth": 50,
-  "cnas_normal": 95,
+  "cnas_growth": 49,
+  "cnas_normal": 96,
   "cnas_declining": 237,
   "cnas_inactive": 162,
   "top_growth": [
     {
-      "cna_name": "Acer",
-      "current_count": 11,
+      "cna_name": "Echo",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Cribl",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "CIRCL",
+      "current_count": 6,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "9front",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -23,23 +38,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Echo",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Cribl",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "9front",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "CIRCL",
-      "current_count": 6,
+      "cna_name": "Acer",
+      "current_count": 11,
       "deviation_pct": 999999.0
     },
     {
@@ -96,18 +96,18 @@
     },
     {
       "cna_name": "oracle",
-      "current_count": 32,
-      "deviation_pct": -41.3
-    },
-    {
-      "cna_name": "qualcomm",
-      "current_count": 10,
-      "deviation_pct": -44.2
+      "current_count": 30,
+      "deviation_pct": -45.3
     },
     {
       "cna_name": "wikimedia-foundation",
       "current_count": 11,
       "deviation_pct": -49.2
+    },
+    {
+      "cna_name": "Esri",
+      "current_count": 2,
+      "deviation_pct": -51.7
     }
   ]
 }
