@@ -1,15 +1,15 @@
 {
   "date": "2026-06-01",
-  "generated_at": "2026-06-01T14:08:13.581803",
+  "generated_at": "2026-06-01T16:54:52.400976",
   "total_cnas": 544,
   "cnas_growth": 49,
-  "cnas_normal": 97,
-  "cnas_declining": 236,
+  "cnas_normal": 96,
+  "cnas_declining": 237,
   "cnas_inactive": 162,
   "top_growth": [
     {
-      "cna_name": "9front",
-      "current_count": 2,
+      "cna_name": "Echo",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -18,13 +18,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "CIRCL",
-      "current_count": 6,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Echo",
-      "current_count": 1,
+      "cna_name": "9front",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -35,6 +30,11 @@
     {
       "cna_name": "OCD",
       "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "CIRCL",
+      "current_count": 6,
       "deviation_pct": 999999.0
     },
     {
