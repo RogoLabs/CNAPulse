@@ -5,18 +5,18 @@
   "cna_advisory_url": "https://my.f5.com/manage/s/new-updated-articles#sort=%40f5_updated_published_date%20descending&amp;f:@f5_document_type=[Security%20Advisory]&amp;periodFilter=4&amp;dateField=0",
   "country": "USA",
   "scope_type": "",
-  "status": "Normal",
-  "baseline_avg": 12.5,
+  "status": "Growth",
+  "baseline_avg": 12.6,
   "current_count": 53,
-  "deviation_pct": 324.0,
+  "deviation_pct": 320.6,
   "days_since_last_cve": 10,
-  "std_dev": 15.82,
-  "threshold_low": 6.25,
-  "threshold_high": 31.25,
+  "std_dev": 17.69,
+  "threshold_low": 6.3,
+  "threshold_high": 31.5,
   "timeline_13months": [
     {
       "month": "Days 390-360",
-      "count": 12,
+      "count": 0,
       "is_current": false
     },
     {

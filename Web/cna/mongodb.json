@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://www.mongodb.com/resources/products/mongodb-security-bulletins",
   "country": "USA",
   "scope_type": "",
-  "status": "Normal",
+  "status": "Growth",
   "baseline_avg": 4.6,
   "current_count": 13,
   "deviation_pct": 182.6,
