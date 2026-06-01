@@ -1,20 +1,20 @@
 {
   "date": "2026-06-01",
-  "generated_at": "2026-06-01T01:00:09.288165",
+  "generated_at": "2026-06-01T04:36:48.901913",
   "total_cnas": 544,
-  "cnas_growth": 47,
-  "cnas_normal": 99,
+  "cnas_growth": 48,
+  "cnas_normal": 98,
   "cnas_declining": 236,
   "cnas_inactive": 162,
   "top_growth": [
     {
-      "cna_name": "Acer",
-      "current_count": 11,
+      "cna_name": "9front",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "9front",
-      "current_count": 2,
+      "cna_name": "Cribl",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -23,22 +23,22 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Echo",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Tigera",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "CIRCL",
       "current_count": 6,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Cribl",
+      "cna_name": "Echo",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Acer",
+      "current_count": 11,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Tigera",
       "current_count": 3,
       "deviation_pct": 999999.0
     },
