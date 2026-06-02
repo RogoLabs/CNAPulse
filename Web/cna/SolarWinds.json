@@ -5,11 +5,11 @@
   "cna_advisory_url": "https://www.solarwinds.com/trust-center/security-advisories",
   "country": "USA",
   "scope_type": "",
-  "status": "Declining",
+  "status": "Normal",
   "baseline_avg": 2.6,
-  "current_count": 0,
-  "deviation_pct": -100.0,
-  "days_since_last_cve": 68,
+  "current_count": 1,
+  "deviation_pct": -61.5,
+  "days_since_last_cve": 0,
   "std_dev": 1.78,
   "threshold_low": 1.3,
   "threshold_high": 6.5,
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 0,
+      "count": 1,
       "is_current": true
     }
   ]
