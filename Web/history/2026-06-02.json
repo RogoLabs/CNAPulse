@@ -1,15 +1,20 @@
 {
   "date": "2026-06-02",
-  "generated_at": "2026-06-02T07:45:57.157418",
+  "generated_at": "2026-06-02T10:36:43.734199",
   "total_cnas": 544,
   "cnas_growth": 51,
-  "cnas_normal": 95,
-  "cnas_declining": 236,
+  "cnas_normal": 96,
+  "cnas_declining": 235,
   "cnas_inactive": 162,
   "top_growth": [
     {
-      "cna_name": "Cribl",
+      "cna_name": "Tigera",
       "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "CIRCL",
+      "current_count": 6,
       "deviation_pct": 999999.0
     },
     {
@@ -18,8 +23,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Tigera",
-      "current_count": 3,
+      "cna_name": "9front",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -28,13 +33,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "9front",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "CIRCL",
-      "current_count": 6,
+      "cna_name": "Cribl",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
