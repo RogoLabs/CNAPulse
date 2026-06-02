@@ -1,6 +1,6 @@
 {
   "date": "2026-06-02",
-  "generated_at": "2026-06-02T16:33:47.259018",
+  "generated_at": "2026-06-02T19:19:54.724021",
   "total_cnas": 544,
   "cnas_growth": 53,
   "cnas_normal": 95,
@@ -9,21 +9,6 @@
   "top_growth": [
     {
       "cna_name": "OCD",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "9front",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "CIRCL",
-      "current_count": 7,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Echo",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -38,8 +23,23 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "Echo",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "CIRCL",
+      "current_count": 7,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "Cribl",
       "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "9front",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -70,6 +70,11 @@
       "deviation_pct": 25.0
     },
     {
+      "cna_name": "TPLink",
+      "current_count": 7,
+      "deviation_pct": -28.7
+    },
+    {
       "cna_name": "adobe",
       "current_count": 51,
       "deviation_pct": -30.5
@@ -93,11 +98,6 @@
       "cna_name": "Hitachi Energy",
       "current_count": 2,
       "deviation_pct": -33.3
-    },
-    {
-      "cna_name": "TPLink",
-      "current_count": 6,
-      "deviation_pct": -38.9
     },
     {
       "cna_name": "intel",
