@@ -1,32 +1,12 @@
 {
   "date": "2026-06-02",
-  "generated_at": "2026-06-02T13:24:05.647241",
+  "generated_at": "2026-06-02T16:33:47.259018",
   "total_cnas": 544,
-  "cnas_growth": 51,
+  "cnas_growth": 53,
   "cnas_normal": 95,
-  "cnas_declining": 236,
+  "cnas_declining": 234,
   "cnas_inactive": 162,
   "top_growth": [
-    {
-      "cna_name": "Tigera",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Echo",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Cribl",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Acer",
-      "current_count": 11,
-      "deviation_pct": 999999.0
-    },
     {
       "cna_name": "OCD",
       "current_count": 1,
@@ -39,7 +19,27 @@
     },
     {
       "cna_name": "CIRCL",
-      "current_count": 6,
+      "current_count": 7,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Echo",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Acer",
+      "current_count": 11,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Tigera",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Cribl",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -62,7 +62,7 @@
     {
       "cna_name": "google_android",
       "current_count": 62,
-      "deviation_pct": 74.6
+      "deviation_pct": 52.8
     },
     {
       "cna_name": "WatchGuard",

@@ -7,8 +7,8 @@
   "scope_type": "",
   "status": "Growth",
   "baseline_avg": 268.0,
-  "current_count": 519,
-  "deviation_pct": 93.7,
+  "current_count": 522,
+  "deviation_pct": 94.8,
   "days_since_last_cve": 0,
   "std_dev": 230.87,
   "threshold_low": 134.0,
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 519,
+      "count": 522,
       "is_current": true
     }
   ]
