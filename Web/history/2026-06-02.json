@@ -1,10 +1,10 @@
 {
   "date": "2026-06-02",
-  "generated_at": "2026-06-02T10:36:43.734199",
+  "generated_at": "2026-06-02T13:24:05.647241",
   "total_cnas": 544,
   "cnas_growth": 51,
-  "cnas_normal": 96,
-  "cnas_declining": 235,
+  "cnas_normal": 95,
+  "cnas_declining": 236,
   "cnas_inactive": 162,
   "top_growth": [
     {
@@ -13,8 +13,18 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "CIRCL",
-      "current_count": 6,
+      "cna_name": "Echo",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Cribl",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Acer",
+      "current_count": 11,
       "deviation_pct": 999999.0
     },
     {
@@ -28,18 +38,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Acer",
-      "current_count": 11,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Cribl",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Echo",
-      "current_count": 1,
+      "cna_name": "CIRCL",
+      "current_count": 6,
       "deviation_pct": 999999.0
     },
     {
