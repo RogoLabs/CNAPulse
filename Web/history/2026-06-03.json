@@ -1,34 +1,24 @@
 {
   "date": "2026-06-03",
-  "generated_at": "2026-06-03T16:36:48.189950",
+  "generated_at": "2026-06-03T19:25:21.988791",
   "total_cnas": 550,
-  "cnas_growth": 53,
-  "cnas_normal": 95,
+  "cnas_growth": 51,
+  "cnas_normal": 97,
   "cnas_declining": 234,
   "cnas_inactive": 168,
   "top_growth": [
+    {
+      "cna_name": "Cribl",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
     {
       "cna_name": "OCD",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "CIRCL",
-      "current_count": 7,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Acer",
-      "current_count": 11,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "Tigera",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Cribl",
       "current_count": 3,
       "deviation_pct": 999999.0
     },
@@ -38,18 +28,28 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "Acer",
+      "current_count": 11,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "ThinkstAppliedResearch",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "NLnet Labs",
-      "current_count": 11,
-      "deviation_pct": 1000.0
+      "cna_name": "CIRCL",
+      "current_count": 7,
+      "deviation_pct": 999999.0
     },
     {
       "cna_name": "ConcreteCMS",
-      "current_count": 44,
+      "current_count": 45,
+      "deviation_pct": 1025.0
+    },
+    {
+      "cna_name": "NLnet Labs",
+      "current_count": 11,
       "deviation_pct": 1000.0
     },
     {
@@ -61,8 +61,8 @@
   "top_declining": [
     {
       "cna_name": "google_android",
-      "current_count": 62,
-      "deviation_pct": 52.8
+      "current_count": 61,
+      "deviation_pct": 49.8
     },
     {
       "cna_name": "WatchGuard",
