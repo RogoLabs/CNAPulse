@@ -1,22 +1,22 @@
 {
-  "assigner_id": "dbd8429d-f261-4b1e-94cc-ae3132817e2e",
-  "cna_name": "NLOK",
-  "cna_org_name": "NLOK",
-  "cna_advisory_url": "",
-  "country": "",
+  "assigner_id": "0f2be0ad-3469-4e56-b38f-4eb96719b425",
+  "cna_name": "ThinkstAppliedResearch",
+  "cna_org_name": "Thinkst Applied Research",
+  "cna_advisory_url": "https://canary.tools/security-advisories",
+  "country": "South Africa",
   "scope_type": "",
-  "status": "Declining",
-  "baseline_avg": 2.67,
-  "current_count": 0,
-  "deviation_pct": -100.0,
-  "days_since_last_cve": 184,
-  "std_dev": 2.89,
-  "threshold_low": 1.33,
-  "threshold_high": 6.67,
+  "status": "Growth",
+  "baseline_avg": 0.0,
+  "current_count": 1,
+  "deviation_pct": 999999.0,
+  "days_since_last_cve": 0,
+  "std_dev": null,
+  "threshold_low": 0.0,
+  "threshold_high": 0.0,
   "timeline_13months": [
     {
       "month": "Days 390-360",
-      "count": 1,
+      "count": 0,
       "is_current": false
     },
     {
@@ -36,7 +36,7 @@
     },
     {
       "month": "Days 270-240",
-      "count": 1,
+      "count": 0,
       "is_current": false
     },
     {
@@ -46,12 +46,12 @@
     },
     {
       "month": "Days 210-180",
-      "count": 2,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Days 180-150",
-      "count": 4,
+      "count": 0,
       "is_current": false
     },
     {
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 0,
+      "count": 1,
       "is_current": true
     }
   ]

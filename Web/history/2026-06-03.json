@@ -1,15 +1,15 @@
 {
   "date": "2026-06-03",
-  "generated_at": "2026-06-03T13:45:10.565245",
-  "total_cnas": 544,
-  "cnas_growth": 52,
-  "cnas_normal": 96,
-  "cnas_declining": 233,
-  "cnas_inactive": 163,
+  "generated_at": "2026-06-03T16:36:48.189950",
+  "total_cnas": 550,
+  "cnas_growth": 53,
+  "cnas_normal": 95,
+  "cnas_declining": 234,
+  "cnas_inactive": 168,
   "top_growth": [
     {
-      "cna_name": "9front",
-      "current_count": 2,
+      "cna_name": "OCD",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -18,8 +18,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Cribl",
-      "current_count": 3,
+      "cna_name": "Acer",
+      "current_count": 11,
       "deviation_pct": 999999.0
     },
     {
@@ -28,19 +28,19 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Acer",
-      "current_count": 11,
+      "cna_name": "Cribl",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "OCD",
+      "cna_name": "9front",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "ThinkstAppliedResearch",
       "current_count": 1,
       "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "securin",
-      "current_count": 40,
-      "deviation_pct": 1900.0
     },
     {
       "cna_name": "NLnet Labs",
@@ -72,7 +72,7 @@
     {
       "cna_name": "rapid7",
       "current_count": 4,
-      "deviation_pct": 0.0
+      "deviation_pct": 11.1
     },
     {
       "cna_name": "autodesk",

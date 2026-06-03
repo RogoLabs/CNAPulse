@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://cds.thalesgroup.com/en/tcs-cert/advisory",
   "country": "Belgium",
   "scope_type": "",
-  "status": "Normal",
-  "baseline_avg": 2.33,
-  "current_count": 3,
-  "deviation_pct": 28.6,
-  "days_since_last_cve": 29,
-  "std_dev": 1.53,
-  "threshold_low": 1.17,
-  "threshold_high": 5.83,
+  "status": "Declining",
+  "baseline_avg": 2.5,
+  "current_count": 0,
+  "deviation_pct": -100.0,
+  "days_since_last_cve": 30,
+  "std_dev": 1.29,
+  "threshold_low": 1.25,
+  "threshold_high": 6.25,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 3,
+      "count": 0,
       "is_current": true
     }
   ]
