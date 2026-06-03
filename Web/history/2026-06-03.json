@@ -1,22 +1,12 @@
 {
   "date": "2026-06-03",
-  "generated_at": "2026-06-03T07:49:29.894572",
+  "generated_at": "2026-06-03T10:37:49.966805",
   "total_cnas": 544,
-  "cnas_growth": 54,
-  "cnas_normal": 94,
+  "cnas_growth": 53,
+  "cnas_normal": 95,
   "cnas_declining": 234,
   "cnas_inactive": 162,
   "top_growth": [
-    {
-      "cna_name": "Tigera",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "OCD",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
     {
       "cna_name": "Acer",
       "current_count": 11,
@@ -28,18 +18,28 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Echo",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "CIRCL",
       "current_count": 7,
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "Echo",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "9front",
       "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Tigera",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OCD",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -95,6 +95,11 @@
       "deviation_pct": -32.5
     },
     {
+      "cna_name": "ABB",
+      "current_count": 5,
+      "deviation_pct": -33.3
+    },
+    {
       "cna_name": "M-Files Corporation",
       "current_count": 1,
       "deviation_pct": -33.3
@@ -102,11 +107,6 @@
     {
       "cna_name": "OpenVPN",
       "current_count": 1,
-      "deviation_pct": -33.3
-    },
-    {
-      "cna_name": "Hitachi Energy",
-      "current_count": 2,
       "deviation_pct": -33.3
     }
   ]
