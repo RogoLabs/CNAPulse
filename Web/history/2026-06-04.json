@@ -1,30 +1,15 @@
 {
   "date": "2026-06-04",
-  "generated_at": "2026-06-04T07:44:54.652849",
+  "generated_at": "2026-06-04T10:21:28.006040",
   "total_cnas": 550,
   "cnas_growth": 50,
-  "cnas_normal": 97,
-  "cnas_declining": 235,
+  "cnas_normal": 98,
+  "cnas_declining": 234,
   "cnas_inactive": 168,
   "top_growth": [
     {
-      "cna_name": "OCD",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Tigera",
+      "cna_name": "Cribl",
       "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "CIRCL",
-      "current_count": 7,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "ThinkstAppliedResearch",
-      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -33,13 +18,28 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Cribl",
+      "cna_name": "Tigera",
       "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
       "cna_name": "Acer",
-      "current_count": 26,
+      "current_count": 37,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "ThinkstAppliedResearch",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OCD",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "CIRCL",
+      "current_count": 7,
       "deviation_pct": 999999.0
     },
     {
