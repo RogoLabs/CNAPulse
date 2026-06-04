@@ -1,15 +1,15 @@
 {
   "date": "2026-06-04",
-  "generated_at": "2026-06-04T13:12:21.544150",
+  "generated_at": "2026-06-04T16:11:07.236900",
   "total_cnas": 550,
-  "cnas_growth": 48,
-  "cnas_normal": 103,
-  "cnas_declining": 231,
+  "cnas_growth": 46,
+  "cnas_normal": 102,
+  "cnas_declining": 234,
   "cnas_inactive": 168,
   "top_growth": [
     {
-      "cna_name": "Tigera",
-      "current_count": 3,
+      "cna_name": "Acer",
+      "current_count": 37,
       "deviation_pct": 999999.0
     },
     {
@@ -18,13 +18,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "9front",
-      "current_count": 2,
+      "cna_name": "CIRCL",
+      "current_count": 15,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "CIRCL",
-      "current_count": 7,
+      "cna_name": "Tigera",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -38,8 +38,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Acer",
-      "current_count": 37,
+      "cna_name": "9front",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
