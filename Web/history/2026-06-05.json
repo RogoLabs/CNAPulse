@@ -1,15 +1,15 @@
 {
   "date": "2026-06-05",
-  "generated_at": "2026-06-05T00:57:15.121385",
+  "generated_at": "2026-06-05T04:33:33.565407",
   "total_cnas": 550,
-  "cnas_growth": 48,
-  "cnas_normal": 102,
-  "cnas_declining": 232,
-  "cnas_inactive": 168,
+  "cnas_growth": 50,
+  "cnas_normal": 100,
+  "cnas_declining": 233,
+  "cnas_inactive": 167,
   "top_growth": [
     {
-      "cna_name": "Cribl",
-      "current_count": 3,
+      "cna_name": "9front",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -18,18 +18,18 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "OAI",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "CIRCL",
       "current_count": 15,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "ThinkstAppliedResearch",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "9front",
-      "current_count": 2,
+      "cna_name": "Tigera",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -38,8 +38,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Tigera",
+      "cna_name": "Cribl",
       "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "ThinkstAppliedResearch",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -51,11 +56,6 @@
       "cna_name": "ConcreteCMS",
       "current_count": 45,
       "deviation_pct": 1025.0
-    },
-    {
-      "cna_name": "NLnet Labs",
-      "current_count": 11,
-      "deviation_pct": 1000.0
     }
   ],
   "top_declining": [
@@ -68,11 +68,6 @@
       "cna_name": "WatchGuard",
       "current_count": 5,
       "deviation_pct": 42.9
-    },
-    {
-      "cna_name": "rapid7",
-      "current_count": 4,
-      "deviation_pct": 11.1
     },
     {
       "cna_name": "GoogleCloud",
@@ -107,6 +102,11 @@
     {
       "cna_name": "OpenVPN",
       "current_count": 1,
+      "deviation_pct": -33.3
+    },
+    {
+      "cna_name": "Hitachi Energy",
+      "current_count": 2,
       "deviation_pct": -33.3
     }
   ]
