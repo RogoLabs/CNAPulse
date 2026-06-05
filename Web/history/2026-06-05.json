@@ -1,6 +1,6 @@
 {
   "date": "2026-06-05",
-  "generated_at": "2026-06-05T16:01:30.690944",
+  "generated_at": "2026-06-05T18:44:39.795049",
   "total_cnas": 550,
   "cnas_growth": 50,
   "cnas_normal": 103,
@@ -18,28 +18,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Cribl",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Tigera",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "OCD",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "linqi",
+      "cna_name": "Cribl",
       "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "9front",
-      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -53,9 +38,24 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "linqi",
+      "current_count": 4,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Tigera",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "9front",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "Chrome",
-      "current_count": 800,
-      "deviation_pct": 2355.2
+      "current_count": 673,
+      "deviation_pct": 1459.1
     }
   ],
   "top_declining": [
@@ -65,24 +65,24 @@
       "deviation_pct": 49.8
     },
     {
+      "cna_name": "TPLink",
+      "current_count": 8,
+      "deviation_pct": -18.5
+    },
+    {
       "cna_name": "GoogleCloud",
       "current_count": 3,
       "deviation_pct": -25.0
     },
     {
-      "cna_name": "Zoom",
-      "current_count": 3,
-      "deviation_pct": -25.0
-    },
-    {
-      "cna_name": "TPLink",
-      "current_count": 7,
-      "deviation_pct": -28.7
-    },
-    {
       "cna_name": "adobe",
       "current_count": 51,
       "deviation_pct": -30.5
+    },
+    {
+      "cna_name": "Zoom",
+      "current_count": 3,
+      "deviation_pct": -32.5
     },
     {
       "cna_name": "ABB",
