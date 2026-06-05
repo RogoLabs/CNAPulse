@@ -1,30 +1,25 @@
 {
   "date": "2026-06-05",
-  "generated_at": "2026-06-05T13:08:31.102638",
+  "generated_at": "2026-06-05T16:01:30.690944",
   "total_cnas": 550,
-  "cnas_growth": 51,
-  "cnas_normal": 102,
+  "cnas_growth": 50,
+  "cnas_normal": 103,
   "cnas_declining": 231,
   "cnas_inactive": 166,
   "top_growth": [
-    {
-      "cna_name": "Cribl",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
     {
       "cna_name": "OAI",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "9front",
-      "current_count": 2,
+      "cna_name": "ThinkstAppliedResearch",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "CIRCL",
-      "current_count": 15,
+      "cna_name": "Cribl",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -38,13 +33,18 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "ThinkstAppliedResearch",
-      "current_count": 1,
+      "cna_name": "linqi",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "linqi",
-      "current_count": 3,
+      "cna_name": "9front",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "CIRCL",
+      "current_count": 15,
       "deviation_pct": 999999.0
     },
     {
@@ -65,12 +65,12 @@
       "deviation_pct": 49.8
     },
     {
-      "cna_name": "WatchGuard",
-      "current_count": 5,
-      "deviation_pct": 42.9
+      "cna_name": "GoogleCloud",
+      "current_count": 3,
+      "deviation_pct": -25.0
     },
     {
-      "cna_name": "GoogleCloud",
+      "cna_name": "Zoom",
       "current_count": 3,
       "deviation_pct": -25.0
     },
@@ -83,11 +83,6 @@
       "cna_name": "adobe",
       "current_count": 51,
       "deviation_pct": -30.5
-    },
-    {
-      "cna_name": "Zoom",
-      "current_count": 3,
-      "deviation_pct": -32.5
     },
     {
       "cna_name": "ABB",
@@ -108,6 +103,11 @@
       "cna_name": "Hitachi Energy",
       "current_count": 2,
       "deviation_pct": -33.3
+    },
+    {
+      "cna_name": "Acronis",
+      "current_count": 4,
+      "deviation_pct": -36.4
     }
   ]
 }
