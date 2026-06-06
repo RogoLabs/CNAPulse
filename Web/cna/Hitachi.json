@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://www.hitachi.com/hirt/security/security.html",
   "country": "Japan",
   "scope_type": "",
-  "status": "Normal",
-  "baseline_avg": 3.2,
-  "current_count": 3,
-  "deviation_pct": -6.3,
+  "status": "Declining",
+  "baseline_avg": 3.6,
+  "current_count": 1,
+  "deviation_pct": -72.2,
   "days_since_last_cve": 11,
-  "std_dev": 2.39,
-  "threshold_low": 1.6,
-  "threshold_high": 8.0,
+  "std_dev": 2.07,
+  "threshold_low": 1.8,
+  "threshold_high": 9.0,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 3,
+      "count": 1,
       "is_current": true
     }
   ]

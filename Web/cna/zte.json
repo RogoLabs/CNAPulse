@@ -5,14 +5,14 @@
   "cna_advisory_url": "http://support.zte.com.cn/support/news/NewsMain.aspx",
   "country": "China",
   "scope_type": "",
-  "status": "Growth",
-  "baseline_avg": 2.33,
-  "current_count": 8,
-  "deviation_pct": 242.9,
-  "days_since_last_cve": 9,
-  "std_dev": 1.97,
-  "threshold_low": 1.17,
-  "threshold_high": 5.83,
+  "status": "Normal",
+  "baseline_avg": 2.5,
+  "current_count": 7,
+  "deviation_pct": 180.0,
+  "days_since_last_cve": 10,
+  "std_dev": 2.35,
+  "threshold_low": 1.25,
+  "threshold_high": 6.25,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 8,
+      "count": 7,
       "is_current": true
     }
   ]
