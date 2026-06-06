@@ -1,40 +1,15 @@
 {
   "date": "2026-06-06",
-  "generated_at": "2026-06-06T15:31:45.547113",
+  "generated_at": "2026-06-06T18:32:26.168068",
   "total_cnas": 550,
   "cnas_growth": 52,
-  "cnas_normal": 100,
-  "cnas_declining": 232,
+  "cnas_normal": 99,
+  "cnas_declining": 233,
   "cnas_inactive": 166,
   "top_growth": [
     {
-      "cna_name": "Tigera",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "ThinkstAppliedResearch",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Cribl",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "OCD",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "linqi",
       "current_count": 4,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "9front",
-      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -43,8 +18,33 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "9front",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "ThinkstAppliedResearch",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "Acer",
       "current_count": 37,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OCD",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Tigera",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Cribl",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -62,12 +62,22 @@
     {
       "cna_name": "google_android",
       "current_count": 61,
-      "deviation_pct": 49.8
+      "deviation_pct": 28.4
+    },
+    {
+      "cna_name": "ivanti",
+      "current_count": 9,
+      "deviation_pct": 25.0
     },
     {
       "cna_name": "GoogleCloud",
       "current_count": 3,
       "deviation_pct": -25.0
+    },
+    {
+      "cna_name": "ABB",
+      "current_count": 5,
+      "deviation_pct": -26.7
     },
     {
       "cna_name": "adobe",
@@ -78,11 +88,6 @@
       "cna_name": "Zoom",
       "current_count": 3,
       "deviation_pct": -32.5
-    },
-    {
-      "cna_name": "ABB",
-      "current_count": 5,
-      "deviation_pct": -33.3
     },
     {
       "cna_name": "M-Files Corporation",
@@ -103,11 +108,6 @@
       "cna_name": "Acronis",
       "current_count": 4,
       "deviation_pct": -36.4
-    },
-    {
-      "cna_name": "intel",
-      "current_count": 25,
-      "deviation_pct": -40.5
     }
   ]
 }
