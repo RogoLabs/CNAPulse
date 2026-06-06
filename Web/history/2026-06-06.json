@@ -1,9 +1,9 @@
 {
   "date": "2026-06-06",
-  "generated_at": "2026-06-06T18:32:26.168068",
+  "generated_at": "2026-06-06T21:26:53.325109",
   "total_cnas": 550,
-  "cnas_growth": 52,
-  "cnas_normal": 99,
+  "cnas_growth": 51,
+  "cnas_normal": 100,
   "cnas_declining": 233,
   "cnas_inactive": 166,
   "top_growth": [
@@ -23,13 +23,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "ThinkstAppliedResearch",
-      "current_count": 1,
+      "cna_name": "Acer",
+      "current_count": 37,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Acer",
-      "current_count": 37,
+      "cna_name": "Tigera",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -38,8 +38,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Tigera",
-      "current_count": 3,
+      "cna_name": "ThinkstAppliedResearch",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
