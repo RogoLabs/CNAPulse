@@ -1,0 +1,113 @@
+{
+  "date": "2026-06-06",
+  "generated_at": "2026-06-06T00:54:14.779499",
+  "total_cnas": 550,
+  "cnas_growth": 49,
+  "cnas_normal": 105,
+  "cnas_declining": 230,
+  "cnas_inactive": 166,
+  "top_growth": [
+    {
+      "cna_name": "Tigera",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "linqi",
+      "current_count": 4,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Acer",
+      "current_count": 37,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "ThinkstAppliedResearch",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Cribl",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OCD",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OAI",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "9front",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "CIRCL",
+      "current_count": 15,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Chrome",
+      "current_count": 673,
+      "deviation_pct": 1459.1
+    }
+  ],
+  "top_declining": [
+    {
+      "cna_name": "google_android",
+      "current_count": 61,
+      "deviation_pct": 49.8
+    },
+    {
+      "cna_name": "TPLink",
+      "current_count": 13,
+      "deviation_pct": 32.4
+    },
+    {
+      "cna_name": "GoogleCloud",
+      "current_count": 3,
+      "deviation_pct": -25.0
+    },
+    {
+      "cna_name": "adobe",
+      "current_count": 51,
+      "deviation_pct": -30.5
+    },
+    {
+      "cna_name": "Zoom",
+      "current_count": 3,
+      "deviation_pct": -32.5
+    },
+    {
+      "cna_name": "ABB",
+      "current_count": 5,
+      "deviation_pct": -33.3
+    },
+    {
+      "cna_name": "M-Files Corporation",
+      "current_count": 1,
+      "deviation_pct": -33.3
+    },
+    {
+      "cna_name": "OpenVPN",
+      "current_count": 1,
+      "deviation_pct": -33.3
+    },
+    {
+      "cna_name": "Hitachi Energy",
+      "current_count": 2,
+      "deviation_pct": -33.3
+    },
+    {
+      "cna_name": "Acronis",
+      "current_count": 4,
+      "deviation_pct": -36.4
+    }
+  ]
+}
