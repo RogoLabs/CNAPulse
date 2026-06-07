@@ -1,25 +1,15 @@
 {
   "date": "2026-06-07",
-  "generated_at": "2026-06-07T12:39:23.748246",
+  "generated_at": "2026-06-07T15:34:24.249423",
   "total_cnas": 550,
-  "cnas_growth": 47,
-  "cnas_normal": 101,
-  "cnas_declining": 236,
-  "cnas_inactive": 166,
+  "cnas_growth": 46,
+  "cnas_normal": 103,
+  "cnas_declining": 234,
+  "cnas_inactive": 167,
   "top_growth": [
     {
-      "cna_name": "OAI",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Tigera",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "9front",
-      "current_count": 2,
+      "cna_name": "linqi",
+      "current_count": 4,
       "deviation_pct": 999999.0
     },
     {
@@ -28,8 +18,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "linqi",
-      "current_count": 4,
+      "cna_name": "Tigera",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -40,6 +30,16 @@
     {
       "cna_name": "OCD",
       "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OAI",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "9front",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -60,14 +60,14 @@
   ],
   "top_declining": [
     {
+      "cna_name": "ivanti",
+      "current_count": 9,
+      "deviation_pct": 28.6
+    },
+    {
       "cna_name": "google_android",
       "current_count": 61,
       "deviation_pct": 28.4
-    },
-    {
-      "cna_name": "ivanti",
-      "current_count": 9,
-      "deviation_pct": 25.0
     },
     {
       "cna_name": "GoogleCloud",
