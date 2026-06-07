@@ -1,12 +1,22 @@
 {
   "date": "2026-06-07",
-  "generated_at": "2026-06-07T00:59:28.186451",
+  "generated_at": "2026-06-07T04:34:28.510445",
   "total_cnas": 550,
-  "cnas_growth": 50,
-  "cnas_normal": 101,
+  "cnas_growth": 48,
+  "cnas_normal": 103,
   "cnas_declining": 233,
   "cnas_inactive": 166,
   "top_growth": [
+    {
+      "cna_name": "linqi",
+      "current_count": 4,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OAI",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
     {
       "cna_name": "ThinkstAppliedResearch",
       "current_count": 1,
@@ -23,8 +33,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "OAI",
-      "current_count": 1,
+      "cna_name": "Acer",
+      "current_count": 37,
       "deviation_pct": 999999.0
     },
     {
@@ -33,18 +43,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Acer",
-      "current_count": 37,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "Cribl",
       "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "linqi",
-      "current_count": 4,
       "deviation_pct": 999999.0
     },
     {
