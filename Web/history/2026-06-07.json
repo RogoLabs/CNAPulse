@@ -1,11 +1,11 @@
 {
   "date": "2026-06-07",
-  "generated_at": "2026-06-07T15:34:24.249423",
+  "generated_at": "2026-06-07T18:32:36.482923",
   "total_cnas": 550,
   "cnas_growth": 46,
   "cnas_normal": 103,
-  "cnas_declining": 234,
-  "cnas_inactive": 167,
+  "cnas_declining": 233,
+  "cnas_inactive": 168,
   "top_growth": [
     {
       "cna_name": "linqi",
@@ -13,7 +13,12 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "ThinkstAppliedResearch",
+      "cna_name": "OAI",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OCD",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -28,12 +33,7 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "OCD",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "OAI",
+      "cna_name": "ThinkstAppliedResearch",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -60,14 +60,14 @@
   ],
   "top_declining": [
     {
-      "cna_name": "ivanti",
-      "current_count": 9,
-      "deviation_pct": 28.6
-    },
-    {
       "cna_name": "google_android",
       "current_count": 61,
       "deviation_pct": 28.4
+    },
+    {
+      "cna_name": "ivanti",
+      "current_count": 9,
+      "deviation_pct": 19.1
     },
     {
       "cna_name": "GoogleCloud",
@@ -82,7 +82,7 @@
     {
       "cna_name": "adobe",
       "current_count": 51,
-      "deviation_pct": -30.5
+      "deviation_pct": -29.1
     },
     {
       "cna_name": "M-Files Corporation",
