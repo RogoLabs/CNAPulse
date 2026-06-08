@@ -1,6 +1,6 @@
 {
   "date": "2026-06-08",
-  "generated_at": "2026-06-08T13:34:19.434470",
+  "generated_at": "2026-06-08T16:26:13.573842",
   "total_cnas": 550,
   "cnas_growth": 47,
   "cnas_normal": 103,
@@ -8,13 +8,8 @@
   "cnas_inactive": 168,
   "top_growth": [
     {
-      "cna_name": "Cribl",
+      "cna_name": "Tigera",
       "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "OCD",
-      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -23,17 +18,22 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Tigera",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "ThinkstAppliedResearch",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "Cribl",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "OAI",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OCD",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -53,9 +53,9 @@
       "deviation_pct": 1459.1
     },
     {
-      "cna_name": "CIRCL",
-      "current_count": 14,
-      "deviation_pct": 1300.0
+      "cna_name": "NLnet Labs",
+      "current_count": 15,
+      "deviation_pct": 1400.0
     }
   ],
   "top_declining": [
@@ -65,9 +65,9 @@
       "deviation_pct": 28.4
     },
     {
-      "cna_name": "ivanti",
-      "current_count": 9,
-      "deviation_pct": 19.1
+      "cna_name": "drupal",
+      "current_count": 14,
+      "deviation_pct": 5.0
     },
     {
       "cna_name": "GoogleCloud",
