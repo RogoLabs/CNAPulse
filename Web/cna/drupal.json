@@ -5,18 +5,18 @@
   "cna_advisory_url": "https://www.drupal.org/security",
   "country": "USA",
   "scope_type": "",
-  "status": "Declining",
-  "baseline_avg": 13.33,
+  "status": "Normal",
+  "baseline_avg": 12.22,
   "current_count": 14,
-  "deviation_pct": 5.0,
+  "deviation_pct": 14.5,
   "days_since_last_cve": 10,
-  "std_dev": 9.12,
-  "threshold_low": 6.67,
-  "threshold_high": 33.33,
+  "std_dev": 7.43,
+  "threshold_low": 6.11,
+  "threshold_high": 30.56,
   "timeline_13months": [
     {
       "month": "Days 390-360",
-      "count": 16,
+      "count": 6,
       "is_current": false
     },
     {

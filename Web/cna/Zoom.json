@@ -5,18 +5,18 @@
   "cna_advisory_url": "https://zoom.us/trust/security/security-bulletin",
   "country": "USA",
   "scope_type": "",
-  "status": "Declining",
-  "baseline_avg": 5.0,
+  "status": "Normal",
+  "baseline_avg": 4.57,
   "current_count": 3,
-  "deviation_pct": -40.0,
-  "days_since_last_cve": 25,
-  "std_dev": 3.3,
-  "threshold_low": 2.5,
-  "threshold_high": 12.5,
+  "deviation_pct": -34.4,
+  "days_since_last_cve": 26,
+  "std_dev": 3.31,
+  "threshold_low": 2.29,
+  "threshold_high": 11.43,
   "timeline_13months": [
     {
       "month": "Days 390-360",
-      "count": 8,
+      "count": 0,
       "is_current": false
     },
     {
