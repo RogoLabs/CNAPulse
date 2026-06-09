@@ -1,12 +1,27 @@
 {
   "date": "2026-06-09",
-  "generated_at": "2026-06-09T16:03:08.152086",
+  "generated_at": "2026-06-09T18:48:56.575881",
   "total_cnas": 550,
-  "cnas_growth": 46,
+  "cnas_growth": 50,
   "cnas_normal": 107,
-  "cnas_declining": 228,
+  "cnas_declining": 224,
   "cnas_inactive": 169,
   "top_growth": [
+    {
+      "cna_name": "OCD",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "linqi",
+      "current_count": 4,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "9front",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
     {
       "cna_name": "OAI",
       "current_count": 1,
@@ -18,28 +33,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "OCD",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Cribl",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "linqi",
-      "current_count": 4,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "Tigera",
       "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "9front",
-      "current_count": 2,
+      "cna_name": "Cribl",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -72,11 +72,6 @@
     {
       "cna_name": "ABB",
       "current_count": 5,
-      "deviation_pct": -26.7
-    },
-    {
-      "cna_name": "adobe",
-      "current_count": 51,
       "deviation_pct": -33.3
     },
     {
@@ -108,6 +103,11 @@
       "cna_name": "Esri",
       "current_count": 2,
       "deviation_pct": -51.7
+    },
+    {
+      "cna_name": "oracle",
+      "current_count": 26,
+      "deviation_pct": -53.2
     }
   ]
 }

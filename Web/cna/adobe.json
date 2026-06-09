@@ -5,12 +5,12 @@
   "cna_advisory_url": "https://helpx.adobe.com/security.html",
   "country": "USA",
   "scope_type": "",
-  "status": "Declining",
+  "status": "Normal",
   "baseline_avg": 76.45,
-  "current_count": 51,
-  "deviation_pct": -33.3,
-  "days_since_last_cve": 27,
-  "std_dev": 77.72,
+  "current_count": 126,
+  "deviation_pct": 64.8,
+  "days_since_last_cve": 0,
+  "std_dev": 75.4,
   "threshold_low": 38.23,
   "threshold_high": 191.14,
   "timeline_13months": [
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 51,
+      "count": 126,
       "is_current": true
     }
   ]

@@ -5,11 +5,11 @@
   "cna_advisory_url": "https://www.openssl.org/news/vulnerabilities.html",
   "country": "USA",
   "scope_type": "",
-  "status": "Declining",
+  "status": "Growth",
   "baseline_avg": 6.0,
-  "current_count": 0,
-  "deviation_pct": -100.0,
-  "days_since_last_cve": 62,
+  "current_count": 18,
+  "deviation_pct": 200.0,
+  "days_since_last_cve": 0,
   "std_dev": 4.97,
   "threshold_low": 3.0,
   "threshold_high": 15.0,
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 0,
+      "count": 18,
       "is_current": true
     }
   ]
