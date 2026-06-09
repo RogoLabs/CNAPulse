@@ -1,0 +1,113 @@
+{
+  "date": "2026-06-09",
+  "generated_at": "2026-06-09T00:52:51.749086",
+  "total_cnas": 550,
+  "cnas_growth": 46,
+  "cnas_normal": 107,
+  "cnas_declining": 229,
+  "cnas_inactive": 168,
+  "top_growth": [
+    {
+      "cna_name": "Tigera",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "linqi",
+      "current_count": 4,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OAI",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "ThinkstAppliedResearch",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Cribl",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OCD",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "9front",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Acer",
+      "current_count": 36,
+      "deviation_pct": 3500.0
+    },
+    {
+      "cna_name": "Chrome",
+      "current_count": 747,
+      "deviation_pct": 1633.8
+    },
+    {
+      "cna_name": "NLnet Labs",
+      "current_count": 15,
+      "deviation_pct": 1400.0
+    }
+  ],
+  "top_declining": [
+    {
+      "cna_name": "google_android",
+      "current_count": 61,
+      "deviation_pct": 28.4
+    },
+    {
+      "cna_name": "GoogleCloud",
+      "current_count": 3,
+      "deviation_pct": -25.0
+    },
+    {
+      "cna_name": "ABB",
+      "current_count": 5,
+      "deviation_pct": -26.7
+    },
+    {
+      "cna_name": "adobe",
+      "current_count": 51,
+      "deviation_pct": -33.3
+    },
+    {
+      "cna_name": "M-Files Corporation",
+      "current_count": 1,
+      "deviation_pct": -33.3
+    },
+    {
+      "cna_name": "Hitachi Energy",
+      "current_count": 2,
+      "deviation_pct": -33.3
+    },
+    {
+      "cna_name": "Acronis",
+      "current_count": 4,
+      "deviation_pct": -36.4
+    },
+    {
+      "cna_name": "Zohocorp",
+      "current_count": 2,
+      "deviation_pct": -50.0
+    },
+    {
+      "cna_name": "Esri",
+      "current_count": 2,
+      "deviation_pct": -51.7
+    },
+    {
+      "cna_name": "oracle",
+      "current_count": 26,
+      "deviation_pct": -53.2
+    }
+  ]
+}
