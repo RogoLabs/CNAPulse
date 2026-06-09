@@ -1,15 +1,20 @@
 {
   "date": "2026-06-09",
-  "generated_at": "2026-06-09T13:06:22.284983",
+  "generated_at": "2026-06-09T16:03:08.152086",
   "total_cnas": 550,
-  "cnas_growth": 45,
-  "cnas_normal": 108,
+  "cnas_growth": 46,
+  "cnas_normal": 107,
   "cnas_declining": 228,
   "cnas_inactive": 169,
   "top_growth": [
     {
-      "cna_name": "Tigera",
-      "current_count": 3,
+      "cna_name": "OAI",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "ThinkstAppliedResearch",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -18,28 +23,23 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "linqi",
-      "current_count": 4,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "OAI",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "9front",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "Cribl",
       "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "ThinkstAppliedResearch",
-      "current_count": 1,
+      "cna_name": "linqi",
+      "current_count": 4,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Tigera",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "9front",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -105,9 +105,9 @@
       "deviation_pct": -48.7
     },
     {
-      "cna_name": "Zohocorp",
+      "cna_name": "Esri",
       "current_count": 2,
-      "deviation_pct": -50.0
+      "deviation_pct": -51.7
     }
   ]
 }
