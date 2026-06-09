@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://www.php.net/ChangeLog-8.php",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
-  "baseline_avg": 3.0,
-  "current_count": 10,
-  "deviation_pct": 233.3,
+  "status": "Declining",
+  "baseline_avg": 4.67,
+  "current_count": 2,
+  "deviation_pct": -57.1,
   "days_since_last_cve": 29,
-  "std_dev": null,
-  "threshold_low": 1.5,
-  "threshold_high": 7.5,
+  "std_dev": 2.89,
+  "threshold_low": 2.33,
+  "threshold_high": 11.67,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 10,
+      "count": 2,
       "is_current": true
     }
   ]

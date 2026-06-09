@@ -1,15 +1,25 @@
 {
   "date": "2026-06-09",
-  "generated_at": "2026-06-09T00:52:51.749086",
+  "generated_at": "2026-06-09T04:29:08.931510",
   "total_cnas": 550,
-  "cnas_growth": 46,
+  "cnas_growth": 45,
   "cnas_normal": 107,
-  "cnas_declining": 229,
+  "cnas_declining": 230,
   "cnas_inactive": 168,
   "top_growth": [
     {
+      "cna_name": "Cribl",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "Tigera",
       "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OCD",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -23,23 +33,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "ThinkstAppliedResearch",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Cribl",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "OCD",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "9front",
       "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "ThinkstAppliedResearch",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -95,6 +95,11 @@
       "deviation_pct": -36.4
     },
     {
+      "cna_name": "rapid7",
+      "current_count": 2,
+      "deviation_pct": -48.7
+    },
+    {
       "cna_name": "Zohocorp",
       "current_count": 2,
       "deviation_pct": -50.0
@@ -103,11 +108,6 @@
       "cna_name": "Esri",
       "current_count": 2,
       "deviation_pct": -51.7
-    },
-    {
-      "cna_name": "oracle",
-      "current_count": 26,
-      "deviation_pct": -53.2
     }
   ]
 }
