@@ -1,6 +1,6 @@
 {
   "date": "2026-06-10",
-  "generated_at": "2026-06-10T10:28:57.719503",
+  "generated_at": "2026-06-10T13:16:49.596676",
   "total_cnas": 549,
   "cnas_growth": 50,
   "cnas_normal": 111,
@@ -28,13 +28,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Tigera",
-      "current_count": 3,
+      "cna_name": "ThinkstAppliedResearch",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "ThinkstAppliedResearch",
-      "current_count": 1,
+      "cna_name": "Tigera",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
