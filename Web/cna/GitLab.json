@@ -5,11 +5,11 @@
   "cna_advisory_url": "https://gitlab.com/gitlab-org/cves",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
+  "status": "Normal",
   "baseline_avg": 22.33,
-  "current_count": 33,
-  "deviation_pct": 47.8,
-  "days_since_last_cve": 1,
+  "current_count": 34,
+  "deviation_pct": 52.2,
+  "days_since_last_cve": 0,
   "std_dev": 14.18,
   "threshold_low": 11.17,
   "threshold_high": 55.83,
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 33,
+      "count": 34,
       "is_current": true
     }
   ]
