@@ -1,6 +1,6 @@
 {
   "date": "2026-06-10",
-  "generated_at": "2026-06-10T18:58:41.258712",
+  "generated_at": "2026-06-10T21:43:51.053195",
   "total_cnas": 549,
   "cnas_growth": 49,
   "cnas_normal": 110,
@@ -8,32 +8,7 @@
   "cnas_inactive": 168,
   "top_growth": [
     {
-      "cna_name": "OCD",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Cribl",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "OAI",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Tigera",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "ThinkstAppliedResearch",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "9front",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
@@ -43,14 +18,39 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "Tigera",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "9front",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OAI",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Cribl",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OCD",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "Acer",
       "current_count": 36,
       "deviation_pct": 3500.0
     },
     {
       "cna_name": "Chrome",
-      "current_count": 747,
-      "deviation_pct": 1633.8
+      "current_count": 748,
+      "deviation_pct": 1636.2
     },
     {
       "cna_name": "NLnet Labs",
@@ -63,6 +63,11 @@
       "cna_name": "google_android",
       "current_count": 61,
       "deviation_pct": 28.4
+    },
+    {
+      "cna_name": "M-Files Corporation",
+      "current_count": 1,
+      "deviation_pct": -22.2
     },
     {
       "cna_name": "autodesk",
@@ -80,19 +85,9 @@
       "deviation_pct": -33.3
     },
     {
-      "cna_name": "M-Files Corporation",
-      "current_count": 1,
-      "deviation_pct": -33.3
-    },
-    {
       "cna_name": "Hitachi Energy",
       "current_count": 2,
       "deviation_pct": -33.3
-    },
-    {
-      "cna_name": "symantec",
-      "current_count": 1,
-      "deviation_pct": -36.4
     },
     {
       "cna_name": "Acronis",
@@ -108,6 +103,11 @@
       "cna_name": "Arm",
       "current_count": 1,
       "deviation_pct": -45.5
+    },
+    {
+      "cna_name": "rapid7",
+      "current_count": 2,
+      "deviation_pct": -48.7
     }
   ]
 }
