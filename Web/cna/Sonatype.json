@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://support.sonatype.com/hc/en-us/sections/203012668-Security-Advisories",
   "country": "USA",
   "scope_type": "",
-  "status": "Normal",
-  "baseline_avg": 1.5,
-  "current_count": 2,
-  "deviation_pct": 33.3,
-  "days_since_last_cve": 29,
-  "std_dev": 0.55,
-  "threshold_low": 0.75,
-  "threshold_high": 3.75,
+  "status": "Declining",
+  "baseline_avg": 1.83,
+  "current_count": 0,
+  "deviation_pct": -100.0,
+  "days_since_last_cve": 30,
+  "std_dev": 0.75,
+  "threshold_low": 0.92,
+  "threshold_high": 4.58,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 2,
+      "count": 0,
       "is_current": true
     }
   ]
