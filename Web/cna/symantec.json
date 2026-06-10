@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://support.broadcom.com/security-advisory/security-advisories-list.html",
   "country": "USA",
   "scope_type": "",
-  "status": "Normal",
+  "status": "Declining",
   "baseline_avg": 1.57,
   "current_count": 1,
   "deviation_pct": -36.4,

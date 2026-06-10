@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://www.kb.cert.org/vuls/bypublished/desc/",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
+  "status": "Normal",
   "baseline_avg": 7.58,
   "current_count": 36,
   "deviation_pct": 374.7,
