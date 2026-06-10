@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://docs.zephyrproject.org/latest/security/vulnerabilities.html",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
-  "baseline_avg": 2.0,
-  "current_count": 8,
-  "deviation_pct": 300.0,
-  "days_since_last_cve": 0,
-  "std_dev": 1.31,
-  "threshold_low": 1.0,
-  "threshold_high": 5.0,
+  "status": "Normal",
+  "baseline_avg": 1.89,
+  "current_count": 7,
+  "deviation_pct": 270.6,
+  "days_since_last_cve": 1,
+  "std_dev": 1.27,
+  "threshold_low": 0.94,
+  "threshold_high": 4.72,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 8,
+      "count": 7,
       "is_current": true
     }
   ]

@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://wiki.qt.io/List_of_known_vulnerabilities_in_Qt_products",
   "country": "Finland",
   "scope_type": "",
-  "status": "Normal",
+  "status": "Declining",
   "baseline_avg": 1.83,
   "current_count": 1,
   "deviation_pct": -45.5,
