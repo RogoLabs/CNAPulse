@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://global.abb/group/en/technology/cyber-security/alerts-and-notifications",
   "country": "Switzerland",
   "scope_type": "",
-  "status": "Declining",
+  "status": "Normal",
   "baseline_avg": 7.5,
   "current_count": 6,
   "deviation_pct": -20.0,

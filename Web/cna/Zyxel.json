@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://www.zyxel.com/support/security_advisories.shtml",
   "country": "Taiwan",
   "scope_type": "",
-  "status": "Declining",
+  "status": "Normal",
   "baseline_avg": 3.5,
   "current_count": 3,
   "deviation_pct": -14.3,
