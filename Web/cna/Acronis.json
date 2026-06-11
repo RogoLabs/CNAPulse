@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://security-advisory.acronis.com/advisories",
   "country": "Switzerland",
   "scope_type": "",
-  "status": "Normal",
+  "status": "Declining",
   "baseline_avg": 6.29,
   "current_count": 4,
   "deviation_pct": -36.4,
