@@ -6,13 +6,13 @@
   "country": "Singapore",
   "scope_type": "",
   "status": "Declining",
-  "baseline_avg": 3.8,
+  "baseline_avg": 4.75,
   "current_count": 1,
-  "deviation_pct": -73.7,
+  "deviation_pct": -78.9,
   "days_since_last_cve": 29,
-  "std_dev": 2.59,
-  "threshold_low": 1.9,
-  "threshold_high": 9.5,
+  "std_dev": 4.92,
+  "threshold_low": 2.38,
+  "threshold_high": 11.88,
   "timeline_13months": [
     {
       "month": "Days 390-360",
