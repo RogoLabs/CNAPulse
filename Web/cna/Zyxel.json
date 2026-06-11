@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://www.zyxel.com/support/security_advisories.shtml",
   "country": "Taiwan",
   "scope_type": "",
-  "status": "Normal",
-  "baseline_avg": 2.43,
-  "current_count": 7,
-  "deviation_pct": 188.2,
-  "days_since_last_cve": 8,
-  "std_dev": 2.15,
-  "threshold_low": 1.21,
-  "threshold_high": 6.07,
+  "status": "Growth",
+  "baseline_avg": 3.0,
+  "current_count": 3,
+  "deviation_pct": 0.0,
+  "days_since_last_cve": 9,
+  "std_dev": 2.77,
+  "threshold_low": 1.5,
+  "threshold_high": 7.5,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 7,
+      "count": 3,
       "is_current": true
     }
   ]

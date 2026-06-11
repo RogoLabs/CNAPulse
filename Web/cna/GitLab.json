@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://gitlab.com/gitlab-org/cves",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
+  "status": "Normal",
   "baseline_avg": 22.33,
   "current_count": 34,
   "deviation_pct": 52.2,

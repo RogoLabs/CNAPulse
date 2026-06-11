@@ -1,24 +1,14 @@
 {
   "date": "2026-06-11",
-  "generated_at": "2026-06-11T00:58:21.557150",
-  "total_cnas": 549,
-  "cnas_growth": 49,
-  "cnas_normal": 110,
-  "cnas_declining": 222,
-  "cnas_inactive": 168,
+  "generated_at": "2026-06-11T04:34:25.008941",
+  "total_cnas": 551,
+  "cnas_growth": 52,
+  "cnas_normal": 111,
+  "cnas_declining": 218,
+  "cnas_inactive": 170,
   "top_growth": [
     {
-      "cna_name": "ThinkstAppliedResearch",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "9front",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "OAI",
+      "cna_name": "OCD",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -28,7 +18,7 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "OCD",
+      "cna_name": "OAI",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -38,8 +28,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Cribl",
-      "current_count": 3,
+      "cna_name": "9front",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "ThinkstAppliedResearch",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -56,6 +51,11 @@
       "cna_name": "NLnet Labs",
       "current_count": 16,
       "deviation_pct": 1500.0
+    },
+    {
+      "cna_name": "CIRCL",
+      "current_count": 16,
+      "deviation_pct": 1500.0
     }
   ],
   "top_declining": [
@@ -65,9 +65,9 @@
       "deviation_pct": 28.4
     },
     {
-      "cna_name": "M-Files Corporation",
-      "current_count": 1,
-      "deviation_pct": -22.2
+      "cna_name": "hp",
+      "current_count": 3,
+      "deviation_pct": -21.4
     },
     {
       "cna_name": "autodesk",
@@ -75,39 +75,39 @@
       "deviation_pct": -23.1
     },
     {
-      "cna_name": "GoogleCloud",
-      "current_count": 3,
-      "deviation_pct": -25.0
-    },
-    {
-      "cna_name": "ABB",
+      "cna_name": "schneider",
       "current_count": 5,
-      "deviation_pct": -33.3
+      "deviation_pct": -32.7
     },
     {
-      "cna_name": "Hitachi Energy",
+      "cna_name": "Zoom",
+      "current_count": 3,
+      "deviation_pct": -34.4
+    },
+    {
+      "cna_name": "oracle",
+      "current_count": 27,
+      "deviation_pct": -51.4
+    },
+    {
+      "cna_name": "Zohocorp",
       "current_count": 2,
-      "deviation_pct": -33.3
+      "deviation_pct": -54.2
     },
     {
-      "cna_name": "Acronis",
-      "current_count": 4,
-      "deviation_pct": -36.4
-    },
-    {
-      "cna_name": "SEC-VLab",
-      "current_count": 4,
-      "deviation_pct": -40.0
-    },
-    {
-      "cna_name": "Arm",
-      "current_count": 1,
-      "deviation_pct": -45.5
-    },
-    {
-      "cna_name": "rapid7",
+      "cna_name": "Honeywell",
       "current_count": 2,
-      "deviation_pct": -48.7
+      "deviation_pct": -55.6
+    },
+    {
+      "cna_name": "cisa-cg",
+      "current_count": 4,
+      "deviation_pct": -57.0
+    },
+    {
+      "cna_name": "CyberDanube",
+      "current_count": 2,
+      "deviation_pct": -60.0
     }
   ]
 }
