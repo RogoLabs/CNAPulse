@@ -6,13 +6,13 @@
   "country": "China",
   "scope_type": "",
   "status": "Normal",
-  "baseline_avg": 24.11,
+  "baseline_avg": 21.7,
   "current_count": 27,
-  "deviation_pct": 12.0,
+  "deviation_pct": 24.4,
   "days_since_last_cve": 2,
-  "std_dev": 14.16,
-  "threshold_low": 12.06,
-  "threshold_high": 60.28,
+  "std_dev": 15.11,
+  "threshold_low": 10.85,
+  "threshold_high": 54.25,
   "timeline_13months": [
     {
       "month": "Days 390-360",

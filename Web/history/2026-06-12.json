@@ -1,19 +1,14 @@
 {
   "date": "2026-06-12",
-  "generated_at": "2026-06-12T01:01:57.890282",
+  "generated_at": "2026-06-12T04:34:37.190423",
   "total_cnas": 551,
   "cnas_growth": 48,
-  "cnas_normal": 107,
-  "cnas_declining": 227,
+  "cnas_normal": 108,
+  "cnas_declining": 226,
   "cnas_inactive": 169,
   "top_growth": [
     {
-      "cna_name": "linqi",
-      "current_count": 4,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "OAI",
+      "cna_name": "OCD",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -28,13 +23,18 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Tigera",
-      "current_count": 3,
+      "cna_name": "OAI",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "OCD",
-      "current_count": 1,
+      "cna_name": "linqi",
+      "current_count": 4,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Tigera",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
