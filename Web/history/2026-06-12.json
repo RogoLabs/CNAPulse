@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "generated_at": "2026-06-12T07:44:14.870720",
+  "generated_at": "2026-06-12T10:34:34.510308",
   "total_cnas": 551,
   "cnas_growth": 47,
   "cnas_normal": 108,
@@ -8,8 +8,8 @@
   "cnas_inactive": 169,
   "top_growth": [
     {
-      "cna_name": "Kong",
-      "current_count": 1,
+      "cna_name": "Tigera",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -28,18 +28,18 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Tigera",
-      "current_count": 3,
+      "cna_name": "ThinkstAppliedResearch",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Kong",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
       "cna_name": "OAI",
       "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "ThinkstAppliedResearch",
-      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -100,14 +100,14 @@
       "deviation_pct": -51.4
     },
     {
-      "cna_name": "siemens",
-      "current_count": 7,
-      "deviation_pct": -52.5
-    },
-    {
       "cna_name": "Zohocorp",
       "current_count": 2,
       "deviation_pct": -54.2
+    },
+    {
+      "cna_name": "Supermicro",
+      "current_count": 1,
+      "deviation_pct": -55.6
     }
   ]
 }
