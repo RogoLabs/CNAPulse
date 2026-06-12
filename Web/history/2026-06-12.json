@@ -1,0 +1,113 @@
+{
+  "date": "2026-06-12",
+  "generated_at": "2026-06-12T01:01:57.890282",
+  "total_cnas": 551,
+  "cnas_growth": 48,
+  "cnas_normal": 107,
+  "cnas_declining": 227,
+  "cnas_inactive": 169,
+  "top_growth": [
+    {
+      "cna_name": "linqi",
+      "current_count": 4,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OAI",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "9front",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Kong",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Tigera",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OCD",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "ThinkstAppliedResearch",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Acer",
+      "current_count": 36,
+      "deviation_pct": 3500.0
+    },
+    {
+      "cna_name": "CIRCL",
+      "current_count": 19,
+      "deviation_pct": 1800.0
+    },
+    {
+      "cna_name": "Chrome",
+      "current_count": 776,
+      "deviation_pct": 1701.2
+    }
+  ],
+  "top_declining": [
+    {
+      "cna_name": "google_android",
+      "current_count": 61,
+      "deviation_pct": 28.4
+    },
+    {
+      "cna_name": "XEN",
+      "current_count": 2,
+      "deviation_pct": -14.3
+    },
+    {
+      "cna_name": "hp",
+      "current_count": 3,
+      "deviation_pct": -21.4
+    },
+    {
+      "cna_name": "autodesk",
+      "current_count": 5,
+      "deviation_pct": -30.8
+    },
+    {
+      "cna_name": "ivanti",
+      "current_count": 5,
+      "deviation_pct": -33.3
+    },
+    {
+      "cna_name": "Zoom",
+      "current_count": 3,
+      "deviation_pct": -34.4
+    },
+    {
+      "cna_name": "oracle",
+      "current_count": 27,
+      "deviation_pct": -51.4
+    },
+    {
+      "cna_name": "siemens",
+      "current_count": 7,
+      "deviation_pct": -52.5
+    },
+    {
+      "cna_name": "Zohocorp",
+      "current_count": 2,
+      "deviation_pct": -54.2
+    },
+    {
+      "cna_name": "Supermicro",
+      "current_count": 1,
+      "deviation_pct": -55.6
+    }
+  ]
+}
