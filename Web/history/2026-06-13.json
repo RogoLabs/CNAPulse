@@ -1,32 +1,12 @@
 {
   "date": "2026-06-13",
-  "generated_at": "2026-06-13T18:34:43.605146",
+  "generated_at": "2026-06-13T21:31:36.322250",
   "total_cnas": 550,
   "cnas_growth": 49,
-  "cnas_normal": 107,
-  "cnas_declining": 226,
+  "cnas_normal": 106,
+  "cnas_declining": 227,
   "cnas_inactive": 168,
   "top_growth": [
-    {
-      "cna_name": "OCD",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "OAI",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Tigera",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "9front",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
     {
       "cna_name": "linqi",
       "current_count": 4,
@@ -38,8 +18,28 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "9front",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Tigera",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OCD",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "ThinkstAppliedResearch",
       "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OAI",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -53,9 +53,9 @@
       "deviation_pct": 3000.0
     },
     {
-      "cna_name": "Chrome",
-      "current_count": 776,
-      "deviation_pct": 1701.2
+      "cna_name": "NLnet Labs",
+      "current_count": 16,
+      "deviation_pct": 1500.0
     }
   ],
   "top_declining": [
@@ -63,6 +63,11 @@
       "cna_name": "google_android",
       "current_count": 61,
       "deviation_pct": 28.4
+    },
+    {
+      "cna_name": "Silabs",
+      "current_count": 2,
+      "deviation_pct": -10.0
     },
     {
       "cna_name": "hp",
@@ -103,11 +108,6 @@
       "cna_name": "Honeywell",
       "current_count": 2,
       "deviation_pct": -55.6
-    },
-    {
-      "cna_name": "cisa-cg",
-      "current_count": 4,
-      "deviation_pct": -57.0
     }
   ]
 }
