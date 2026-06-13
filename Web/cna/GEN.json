@@ -1,18 +1,18 @@
 {
-  "assigner_id": "unknown",
+  "assigner_id": "dbd8429d-f261-4b1e-94cc-ae3132817e2e",
   "cna_name": "GEN",
   "cna_org_name": "Gen Digital Inc.",
   "cna_advisory_url": "https://www.gendigital.com/us/en/contact-us/security-advisories/",
   "country": "USA",
   "scope_type": "",
-  "status": "Inactive",
-  "baseline_avg": 0.0,
-  "current_count": 0,
-  "deviation_pct": 0.0,
-  "days_since_last_cve": null,
-  "std_dev": null,
-  "threshold_low": 0.0,
-  "threshold_high": 0.0,
+  "status": "Growth",
+  "baseline_avg": 2.0,
+  "current_count": 17,
+  "deviation_pct": 750.0,
+  "days_since_last_cve": 0,
+  "std_dev": 1.41,
+  "threshold_low": 1.0,
+  "threshold_high": 5.0,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -31,7 +31,7 @@
     },
     {
       "month": "Days 300-270",
-      "count": 0,
+      "count": 1,
       "is_current": false
     },
     {
@@ -46,12 +46,12 @@
     },
     {
       "month": "Days 210-180",
-      "count": 0,
+      "count": 2,
       "is_current": false
     },
     {
       "month": "Days 180-150",
-      "count": 0,
+      "count": 4,
       "is_current": false
     },
     {
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 0,
+      "count": 17,
       "is_current": true
     }
   ]
