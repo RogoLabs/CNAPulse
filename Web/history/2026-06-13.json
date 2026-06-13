@@ -1,6 +1,6 @@
 {
   "date": "2026-06-13",
-  "generated_at": "2026-06-13T12:42:46.224177",
+  "generated_at": "2026-06-13T15:37:02.406195",
   "total_cnas": 550,
   "cnas_growth": 50,
   "cnas_normal": 106,
@@ -23,13 +23,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "9front",
-      "current_count": 2,
+      "cna_name": "OAI",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Tigera",
-      "current_count": 3,
+      "cna_name": "9front",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -38,8 +38,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "OAI",
-      "current_count": 1,
+      "cna_name": "Tigera",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -77,12 +77,7 @@
     {
       "cna_name": "autodesk",
       "current_count": 5,
-      "deviation_pct": -30.8
-    },
-    {
-      "cna_name": "ivanti",
-      "current_count": 5,
-      "deviation_pct": -33.3
+      "deviation_pct": -23.1
     },
     {
       "cna_name": "siemens",
@@ -108,6 +103,11 @@
       "cna_name": "Honeywell",
       "current_count": 2,
       "deviation_pct": -55.6
+    },
+    {
+      "cna_name": "cisa-cg",
+      "current_count": 4,
+      "deviation_pct": -57.0
     }
   ]
 }
