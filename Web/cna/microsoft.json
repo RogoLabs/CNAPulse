@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://www.microsoft.com/en-us/msrc/technical-security-notifications",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
-  "baseline_avg": 111.42,
-  "current_count": 231,
-  "deviation_pct": 107.3,
-  "days_since_last_cve": 3,
-  "std_dev": 74.6,
-  "threshold_low": 55.71,
-  "threshold_high": 278.54,
+  "status": "Normal",
+  "baseline_avg": 111.58,
+  "current_count": 229,
+  "deviation_pct": 105.2,
+  "days_since_last_cve": 4,
+  "std_dev": 43.13,
+  "threshold_low": 55.79,
+  "threshold_high": 278.96,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 231,
+      "count": 229,
       "is_current": true
     }
   ]
