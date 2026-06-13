@@ -1,6 +1,6 @@
 {
   "date": "2026-06-13",
-  "generated_at": "2026-06-13T10:02:44.195838",
+  "generated_at": "2026-06-13T12:42:46.224177",
   "total_cnas": 550,
   "cnas_growth": 50,
   "cnas_normal": 106,
@@ -8,22 +8,17 @@
   "cnas_inactive": 168,
   "top_growth": [
     {
-      "cna_name": "OCD",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "ThinkstAppliedResearch",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Tigera",
-      "current_count": 3,
+      "cna_name": "linqi",
+      "current_count": 4,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "OAI",
+      "cna_name": "Kong",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -33,13 +28,18 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Kong",
+      "cna_name": "Tigera",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OCD",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "linqi",
-      "current_count": 4,
+      "cna_name": "OAI",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -90,14 +90,14 @@
       "deviation_pct": -48.1
     },
     {
+      "cna_name": "Zohocorp",
+      "current_count": 2,
+      "deviation_pct": -50.0
+    },
+    {
       "cna_name": "oracle",
       "current_count": 27,
       "deviation_pct": -51.4
-    },
-    {
-      "cna_name": "Zohocorp",
-      "current_count": 2,
-      "deviation_pct": -54.2
     },
     {
       "cna_name": "Supermicro",
