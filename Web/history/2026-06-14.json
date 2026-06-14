@@ -1,25 +1,20 @@
 {
   "date": "2026-06-14",
-  "generated_at": "2026-06-14T04:34:55.493268",
+  "generated_at": "2026-06-14T10:12:32.767611",
   "total_cnas": 550,
   "cnas_growth": 49,
-  "cnas_normal": 103,
-  "cnas_declining": 230,
+  "cnas_normal": 102,
+  "cnas_declining": 231,
   "cnas_inactive": 168,
   "top_growth": [
-    {
-      "cna_name": "Tigera",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
     {
       "cna_name": "Kong",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "OAI",
-      "current_count": 1,
+      "cna_name": "9front",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -28,8 +23,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "9front",
-      "current_count": 2,
+      "cna_name": "OAI",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -40,6 +35,11 @@
     {
       "cna_name": "linqi",
       "current_count": 4,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Tigera",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
