@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://sec-consult.com/vulnerability-lab/",
   "country": "Austria",
   "scope_type": "",
-  "status": "Normal",
-  "baseline_avg": 6.67,
-  "current_count": 4,
-  "deviation_pct": -40.0,
-  "days_since_last_cve": 4,
-  "std_dev": 7.19,
-  "threshold_low": 3.33,
-  "threshold_high": 16.67,
+  "status": "Growth",
+  "baseline_avg": 5.89,
+  "current_count": 14,
+  "deviation_pct": 137.7,
+  "days_since_last_cve": 0,
+  "std_dev": 7.29,
+  "threshold_low": 2.94,
+  "threshold_high": 14.72,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 4,
+      "count": 14,
       "is_current": true
     }
   ]
