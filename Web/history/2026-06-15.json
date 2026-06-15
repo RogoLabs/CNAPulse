@@ -1,10 +1,10 @@
 {
   "date": "2026-06-15",
-  "generated_at": "2026-06-15T04:36:31.242852",
+  "generated_at": "2026-06-15T08:08:53.456503",
   "total_cnas": 550,
   "cnas_growth": 49,
-  "cnas_normal": 102,
-  "cnas_declining": 230,
+  "cnas_normal": 101,
+  "cnas_declining": 231,
   "cnas_inactive": 169,
   "top_growth": [
     {
@@ -13,22 +13,7 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "ThinkstAppliedResearch",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Tigera",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "OAI",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "OCD",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -38,8 +23,23 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "OCD",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "linqi",
       "current_count": 4,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Tigera",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "ThinkstAppliedResearch",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
