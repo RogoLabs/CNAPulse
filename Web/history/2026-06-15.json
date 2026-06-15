@@ -1,0 +1,113 @@
+{
+  "date": "2026-06-15",
+  "generated_at": "2026-06-15T01:03:06.522590",
+  "total_cnas": 550,
+  "cnas_growth": 49,
+  "cnas_normal": 102,
+  "cnas_declining": 230,
+  "cnas_inactive": 169,
+  "top_growth": [
+    {
+      "cna_name": "OAI",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Tigera",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OCD",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Kong",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "linqi",
+      "current_count": 4,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "ThinkstAppliedResearch",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "9front",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Acer",
+      "current_count": 36,
+      "deviation_pct": 3500.0
+    },
+    {
+      "cna_name": "CIRCL",
+      "current_count": 31,
+      "deviation_pct": 3000.0
+    },
+    {
+      "cna_name": "NLnet Labs",
+      "current_count": 16,
+      "deviation_pct": 1500.0
+    }
+  ],
+  "top_declining": [
+    {
+      "cna_name": "google_android",
+      "current_count": 61,
+      "deviation_pct": 28.4
+    },
+    {
+      "cna_name": "hp",
+      "current_count": 3,
+      "deviation_pct": -21.4
+    },
+    {
+      "cna_name": "Zoom",
+      "current_count": 3,
+      "deviation_pct": -22.9
+    },
+    {
+      "cna_name": "autodesk",
+      "current_count": 5,
+      "deviation_pct": -23.1
+    },
+    {
+      "cna_name": "oracle",
+      "current_count": 27,
+      "deviation_pct": -43.2
+    },
+    {
+      "cna_name": "GoogleCloud",
+      "current_count": 2,
+      "deviation_pct": -46.7
+    },
+    {
+      "cna_name": "siemens",
+      "current_count": 7,
+      "deviation_pct": -48.1
+    },
+    {
+      "cna_name": "Zohocorp",
+      "current_count": 2,
+      "deviation_pct": -50.0
+    },
+    {
+      "cna_name": "Silabs",
+      "current_count": 1,
+      "deviation_pct": -52.4
+    },
+    {
+      "cna_name": "Moxa",
+      "current_count": 1,
+      "deviation_pct": -52.9
+    }
+  ]
+}
