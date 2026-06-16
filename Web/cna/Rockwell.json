@@ -5,11 +5,11 @@
   "cna_advisory_url": "https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/54102",
   "country": "USA",
   "scope_type": "",
-  "status": "Declining",
+  "status": "Normal",
   "baseline_avg": 8.43,
-  "current_count": 0,
-  "deviation_pct": -100.0,
-  "days_since_last_cve": 146,
+  "current_count": 7,
+  "deviation_pct": -16.9,
+  "days_since_last_cve": 0,
   "std_dev": 4.5,
   "threshold_low": 4.21,
   "threshold_high": 21.07,
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 0,
+      "count": 7,
       "is_current": true
     }
   ]

@@ -6,13 +6,13 @@
   "country": "Israel",
   "scope_type": "",
   "status": "Declining",
-  "baseline_avg": 4.71,
+  "baseline_avg": 5.17,
   "current_count": 0,
   "deviation_pct": -100.0,
   "days_since_last_cve": 32,
-  "std_dev": 2.21,
-  "threshold_low": 2.36,
-  "threshold_high": 11.79,
+  "std_dev": 2.04,
+  "threshold_low": 2.58,
+  "threshold_high": 12.92,
   "timeline_13months": [
     {
       "month": "Days 390-360",

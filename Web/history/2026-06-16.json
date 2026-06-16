@@ -1,15 +1,15 @@
 {
   "date": "2026-06-16",
-  "generated_at": "2026-06-16T13:54:28.004956",
+  "generated_at": "2026-06-16T16:36:14.143934",
   "total_cnas": 550,
-  "cnas_growth": 55,
+  "cnas_growth": 56,
   "cnas_normal": 102,
-  "cnas_declining": 224,
+  "cnas_declining": 223,
   "cnas_inactive": 169,
   "top_growth": [
     {
-      "cna_name": "linqi",
-      "current_count": 4,
+      "cna_name": "OCD",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -23,13 +23,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "OAI",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Tigera",
-      "current_count": 3,
+      "cna_name": "linqi",
+      "current_count": 4,
       "deviation_pct": 999999.0
     },
     {
@@ -38,8 +33,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "OCD",
+      "cna_name": "OAI",
       "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Tigera",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -80,6 +80,11 @@
       "deviation_pct": -23.1
     },
     {
+      "cna_name": "suse",
+      "current_count": 4,
+      "deviation_pct": -25.9
+    },
+    {
       "cna_name": "oracle",
       "current_count": 27,
       "deviation_pct": -35.1
@@ -103,11 +108,6 @@
       "cna_name": "Zohocorp",
       "current_count": 2,
       "deviation_pct": -51.1
-    },
-    {
-      "cna_name": "Silabs",
-      "current_count": 1,
-      "deviation_pct": -52.4
     }
   ]
 }
