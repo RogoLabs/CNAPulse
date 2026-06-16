@@ -1,15 +1,15 @@
 {
   "date": "2026-06-16",
-  "generated_at": "2026-06-16T08:05:00.413346",
+  "generated_at": "2026-06-16T10:40:24.984460",
   "total_cnas": 550,
-  "cnas_growth": 53,
+  "cnas_growth": 54,
   "cnas_normal": 102,
-  "cnas_declining": 226,
+  "cnas_declining": 225,
   "cnas_inactive": 169,
   "top_growth": [
     {
-      "cna_name": "9front",
-      "current_count": 2,
+      "cna_name": "OCD",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -18,7 +18,17 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "Tigera",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "ThinkstAppliedResearch",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "9front",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
@@ -28,18 +38,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "OCD",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "OAI",
       "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Tigera",
-      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -100,14 +100,14 @@
       "deviation_pct": -48.1
     },
     {
+      "cna_name": "Zohocorp",
+      "current_count": 2,
+      "deviation_pct": -51.1
+    },
+    {
       "cna_name": "Silabs",
       "current_count": 1,
       "deviation_pct": -52.4
-    },
-    {
-      "cna_name": "AMD",
-      "current_count": 7,
-      "deviation_pct": -52.7
     }
   ]
 }
