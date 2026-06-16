@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://www.nokia.com/about-us/security-and-privacy/product-security-advisory/",
   "country": "Finland",
   "scope_type": "",
-  "status": "Declining",
-  "baseline_avg": 3.17,
-  "current_count": 0,
-  "deviation_pct": -100.0,
-  "days_since_last_cve": 69,
-  "std_dev": 2.48,
-  "threshold_low": 1.58,
-  "threshold_high": 7.92,
+  "status": "Normal",
+  "baseline_avg": 3.8,
+  "current_count": 2,
+  "deviation_pct": -47.4,
+  "days_since_last_cve": 0,
+  "std_dev": 4.09,
+  "threshold_low": 1.9,
+  "threshold_high": 9.5,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 0,
+      "count": 2,
       "is_current": true
     }
   ]
