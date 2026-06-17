@@ -5,11 +5,11 @@
   "cna_advisory_url": "https://community.rti.com/static/documentation/connext-dds/current/doc/vulnerabilities/#",
   "country": "USA",
   "scope_type": "",
-  "status": "Declining",
+  "status": "Growth",
   "baseline_avg": 2.0,
-  "current_count": 0,
-  "deviation_pct": -100.0,
-  "days_since_last_cve": 48,
+  "current_count": 8,
+  "deviation_pct": 300.0,
+  "days_since_last_cve": 0,
   "std_dev": 1.41,
   "threshold_low": 1.0,
   "threshold_high": 5.0,
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 0,
+      "count": 8,
       "is_current": true
     }
   ]
