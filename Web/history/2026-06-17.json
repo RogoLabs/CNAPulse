@@ -1,10 +1,10 @@
 {
   "date": "2026-06-17",
-  "generated_at": "2026-06-17T01:02:05.134689",
+  "generated_at": "2026-06-17T04:35:05.671568",
   "total_cnas": 552,
   "cnas_growth": 58,
-  "cnas_normal": 103,
-  "cnas_declining": 220,
+  "cnas_normal": 104,
+  "cnas_declining": 219,
   "cnas_inactive": 171,
   "top_growth": [
     {
@@ -23,12 +23,7 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "OCD",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "OAI",
+      "cna_name": "Kong",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -38,7 +33,12 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Kong",
+      "cna_name": "OAI",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OCD",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
