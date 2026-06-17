@@ -1,6 +1,6 @@
 {
   "date": "2026-06-17",
-  "generated_at": "2026-06-17T13:22:26.631525",
+  "generated_at": "2026-06-17T16:19:37.030814",
   "total_cnas": 552,
   "cnas_growth": 58,
   "cnas_normal": 105,
@@ -8,8 +8,8 @@
   "cnas_inactive": 171,
   "top_growth": [
     {
-      "cna_name": "linqi",
-      "current_count": 4,
+      "cna_name": "ThinkstAppliedResearch",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -18,7 +18,12 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "ThinkstAppliedResearch",
+      "cna_name": "linqi",
+      "current_count": 4,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "9front",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
@@ -28,18 +33,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "OAI",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "9front",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "Tigera",
       "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OAI",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -92,7 +92,7 @@
     {
       "cna_name": "siemens",
       "current_count": 7,
-      "deviation_pct": -48.1
+      "deviation_pct": -47.5
     },
     {
       "cna_name": "Silabs",
