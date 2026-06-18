@@ -1,19 +1,29 @@
 {
   "date": "2026-06-18",
-  "generated_at": "2026-06-18T04:34:39.992235",
+  "generated_at": "2026-06-18T07:48:19.280632",
   "total_cnas": 552,
-  "cnas_growth": 62,
-  "cnas_normal": 102,
+  "cnas_growth": 61,
+  "cnas_normal": 103,
   "cnas_declining": 217,
   "cnas_inactive": 171,
   "top_growth": [
     {
-      "cna_name": "9front",
-      "current_count": 2,
+      "cna_name": "Tigera",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Kong",
+      "cna_name": "linqi",
+      "current_count": 4,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OAI",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OCD",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -23,23 +33,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "OCD",
+      "cna_name": "9front",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Kong",
       "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "OAI",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "linqi",
-      "current_count": 4,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Tigera",
-      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -61,8 +61,8 @@
   "top_declining": [
     {
       "cna_name": "google_android",
-      "current_count": 79,
-      "deviation_pct": 94.0
+      "current_count": 80,
+      "deviation_pct": 96.5
     },
     {
       "cna_name": "autodesk",
