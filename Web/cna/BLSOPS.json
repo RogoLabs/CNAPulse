@@ -5,11 +5,11 @@
   "cna_advisory_url": "https://www.blacklanternsecurity.com/advisories/",
   "country": "USA",
   "scope_type": "",
-  "status": "Normal",
+  "status": "Growth",
   "baseline_avg": 1.8,
-  "current_count": 1,
-  "deviation_pct": -44.4,
-  "days_since_last_cve": 13,
+  "current_count": 5,
+  "deviation_pct": 177.8,
+  "days_since_last_cve": 0,
   "std_dev": 1.3,
   "threshold_low": 0.9,
   "threshold_high": 4.5,
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 1,
+      "count": 5,
       "is_current": true
     }
   ]

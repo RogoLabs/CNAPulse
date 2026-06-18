@@ -5,11 +5,11 @@
   "cna_advisory_url": "https://www.ptc.com/en/about/trust-center/advisory-center",
   "country": "USA",
   "scope_type": "",
-  "status": "Declining",
+  "status": "Normal",
   "baseline_avg": 1.0,
-  "current_count": 0,
-  "deviation_pct": -100.0,
-  "days_since_last_cve": 86,
+  "current_count": 1,
+  "deviation_pct": 0.0,
+  "days_since_last_cve": 0,
   "std_dev": null,
   "threshold_low": 0.5,
   "threshold_high": 2.5,
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 0,
+      "count": 1,
       "is_current": true
     }
   ]
