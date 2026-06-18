@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://www.mozilla.org/en-US/security/advisories/",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
-  "baseline_avg": 26.25,
-  "current_count": 82,
-  "deviation_pct": 212.4,
-  "days_since_last_cve": 1,
-  "std_dev": 18.28,
-  "threshold_low": 13.12,
-  "threshold_high": 65.62,
+  "status": "Normal",
+  "baseline_avg": 28.83,
+  "current_count": 51,
+  "deviation_pct": 76.9,
+  "days_since_last_cve": 2,
+  "std_dev": 24.24,
+  "threshold_low": 14.42,
+  "threshold_high": 72.08,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -71,12 +71,12 @@
     },
     {
       "month": "Days 60-30",
-      "count": 10,
+      "count": 41,
       "is_current": false
     },
     {
       "month": "Last 30 Days",
-      "count": 82,
+      "count": 51,
       "is_current": true
     }
   ]
