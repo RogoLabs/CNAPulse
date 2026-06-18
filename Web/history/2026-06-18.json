@@ -1,9 +1,9 @@
 {
   "date": "2026-06-18",
-  "generated_at": "2026-06-18T18:53:16.475004",
+  "generated_at": "2026-06-18T21:45:08.979190",
   "total_cnas": 552,
-  "cnas_growth": 57,
-  "cnas_normal": 108,
+  "cnas_growth": 56,
+  "cnas_normal": 109,
   "cnas_declining": 216,
   "cnas_inactive": 171,
   "top_growth": [
@@ -13,7 +13,17 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Kong",
+      "cna_name": "ThinkstAppliedResearch",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OCD",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OAI",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -23,22 +33,12 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "OCD",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "ThinkstAppliedResearch",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "9front",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "OAI",
+      "cna_name": "Kong",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -67,7 +67,7 @@
     {
       "cna_name": "autodesk",
       "current_count": 6,
-      "deviation_pct": -7.7
+      "deviation_pct": -16.9
     },
     {
       "cna_name": "Zoom",
@@ -90,11 +90,6 @@
       "deviation_pct": -52.4
     },
     {
-      "cna_name": "AMD",
-      "current_count": 7,
-      "deviation_pct": -52.7
-    },
-    {
       "cna_name": "GoogleCloud",
       "current_count": 2,
       "deviation_pct": -53.3
@@ -103,6 +98,11 @@
       "cna_name": "Zohocorp",
       "current_count": 2,
       "deviation_pct": -53.5
+    },
+    {
+      "cna_name": "AMD",
+      "current_count": 6,
+      "deviation_pct": -59.7
     },
     {
       "cna_name": "yandex",
