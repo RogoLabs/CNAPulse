@@ -1,9 +1,9 @@
 {
   "date": "2026-06-19",
-  "generated_at": "2026-06-19T16:02:58.011248",
+  "generated_at": "2026-06-19T18:42:02.126410",
   "total_cnas": 552,
-  "cnas_growth": 56,
-  "cnas_normal": 111,
+  "cnas_growth": 57,
+  "cnas_normal": 110,
   "cnas_declining": 214,
   "cnas_inactive": 171,
   "top_growth": [
@@ -13,7 +13,7 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Kong",
+      "cna_name": "OAI",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -23,12 +23,12 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "linqi",
-      "current_count": 4,
+      "cna_name": "OCD",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "OAI",
+      "cna_name": "Kong",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -38,8 +38,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "OCD",
-      "current_count": 1,
+      "cna_name": "linqi",
+      "current_count": 4,
       "deviation_pct": 999999.0
     },
     {
@@ -48,14 +48,14 @@
       "deviation_pct": 3500.0
     },
     {
-      "cna_name": "CIRCL",
-      "current_count": 31,
-      "deviation_pct": 1450.0
-    },
-    {
       "cna_name": "Chrome",
       "current_count": 730,
       "deviation_pct": 1369.8
+    },
+    {
+      "cna_name": "ConcreteCMS",
+      "current_count": 46,
+      "deviation_pct": 1050.0
     }
   ],
   "top_declining": [
@@ -70,6 +70,11 @@
       "deviation_pct": -4.3
     },
     {
+      "cna_name": "fedora",
+      "current_count": 6,
+      "deviation_pct": -7.7
+    },
+    {
       "cna_name": "autodesk",
       "current_count": 6,
       "deviation_pct": -16.9
@@ -78,11 +83,6 @@
       "cna_name": "Zoom",
       "current_count": 3,
       "deviation_pct": -22.9
-    },
-    {
-      "cna_name": "fedora",
-      "current_count": 4,
-      "deviation_pct": -38.5
     },
     {
       "cna_name": "siemens",
@@ -100,14 +100,14 @@
       "deviation_pct": -53.5
     },
     {
-      "cna_name": "drupal",
-      "current_count": 5,
-      "deviation_pct": -55.8
-    },
-    {
       "cna_name": "AMD",
       "current_count": 6,
       "deviation_pct": -59.7
+    },
+    {
+      "cna_name": "yandex",
+      "current_count": 1,
+      "deviation_pct": -60.0
     }
   ]
 }

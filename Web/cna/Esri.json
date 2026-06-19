@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://trust.arcgis.com/en/",
   "country": "USA",
   "scope_type": "",
-  "status": "Normal",
-  "baseline_avg": 4.14,
-  "current_count": 2,
-  "deviation_pct": -51.7,
-  "days_since_last_cve": 29,
-  "std_dev": 3.93,
-  "threshold_low": 2.07,
-  "threshold_high": 10.36,
+  "status": "Declining",
+  "baseline_avg": 4.43,
+  "current_count": 0,
+  "deviation_pct": -100.0,
+  "days_since_last_cve": 30,
+  "std_dev": 3.82,
+  "threshold_low": 2.21,
+  "threshold_high": 11.07,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -71,12 +71,12 @@
     },
     {
       "month": "Days 60-30",
-      "count": 0,
+      "count": 2,
       "is_current": false
     },
     {
       "month": "Last 30 Days",
-      "count": 2,
+      "count": 0,
       "is_current": true
     }
   ]
