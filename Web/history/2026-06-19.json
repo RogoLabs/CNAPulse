@@ -1,6 +1,6 @@
 {
   "date": "2026-06-19",
-  "generated_at": "2026-06-19T18:42:02.126410",
+  "generated_at": "2026-06-19T21:28:58.593636",
   "total_cnas": 552,
   "cnas_growth": 57,
   "cnas_normal": 110,
@@ -8,13 +8,18 @@
   "cnas_inactive": 171,
   "top_growth": [
     {
-      "cna_name": "Tigera",
-      "current_count": 3,
+      "cna_name": "9front",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "OAI",
+      "cna_name": "Kong",
       "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "linqi",
+      "current_count": 4,
       "deviation_pct": 999999.0
     },
     {
@@ -28,18 +33,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Kong",
+      "cna_name": "Tigera",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OAI",
       "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "9front",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "linqi",
-      "current_count": 4,
       "deviation_pct": 999999.0
     },
     {
@@ -49,8 +49,8 @@
     },
     {
       "cna_name": "Chrome",
-      "current_count": 730,
-      "deviation_pct": 1369.8
+      "current_count": 714,
+      "deviation_pct": 1300.0
     },
     {
       "cna_name": "ConcreteCMS",
@@ -90,6 +90,11 @@
       "deviation_pct": -47.5
     },
     {
+      "cna_name": "hp",
+      "current_count": 2,
+      "deviation_pct": -50.0
+    },
+    {
       "cna_name": "Silabs",
       "current_count": 1,
       "deviation_pct": -52.4
@@ -102,12 +107,7 @@
     {
       "cna_name": "AMD",
       "current_count": 6,
-      "deviation_pct": -59.7
-    },
-    {
-      "cna_name": "yandex",
-      "current_count": 1,
-      "deviation_pct": -60.0
+      "deviation_pct": -55.7
     }
   ]
 }
