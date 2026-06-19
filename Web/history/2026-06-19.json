@@ -1,29 +1,24 @@
 {
   "date": "2026-06-19",
-  "generated_at": "2026-06-19T07:58:52.984029",
+  "generated_at": "2026-06-19T10:34:58.736883",
   "total_cnas": 552,
-  "cnas_growth": 56,
-  "cnas_normal": 111,
-  "cnas_declining": 214,
+  "cnas_growth": 55,
+  "cnas_normal": 114,
+  "cnas_declining": 212,
   "cnas_inactive": 171,
   "top_growth": [
     {
-      "cna_name": "Kong",
+      "cna_name": "OAI",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "9front",
-      "current_count": 2,
+      "cna_name": "Tigera",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "ThinkstAppliedResearch",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "OAI",
+      "cna_name": "Kong",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -33,13 +28,18 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "linqi",
-      "current_count": 4,
+      "cna_name": "ThinkstAppliedResearch",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Tigera",
-      "current_count": 3,
+      "cna_name": "9front",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "linqi",
+      "current_count": 4,
       "deviation_pct": 999999.0
     },
     {
@@ -49,13 +49,13 @@
     },
     {
       "cna_name": "CIRCL",
-      "current_count": 31,
-      "deviation_pct": 3000.0
+      "current_count": 32,
+      "deviation_pct": 3100.0
     },
     {
-      "cna_name": "NLnet Labs",
-      "current_count": 16,
-      "deviation_pct": 1500.0
+      "cna_name": "Chrome",
+      "current_count": 730,
+      "deviation_pct": 1369.8
     }
   ],
   "top_declining": [
@@ -90,11 +90,6 @@
       "deviation_pct": -52.4
     },
     {
-      "cna_name": "GoogleCloud",
-      "current_count": 2,
-      "deviation_pct": -53.3
-    },
-    {
       "cna_name": "Zohocorp",
       "current_count": 2,
       "deviation_pct": -53.5
@@ -108,6 +103,11 @@
       "cna_name": "AMD",
       "current_count": 6,
       "deviation_pct": -59.7
+    },
+    {
+      "cna_name": "yandex",
+      "current_count": 1,
+      "deviation_pct": -60.0
     }
   ]
 }
