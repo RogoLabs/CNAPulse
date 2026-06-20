@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://success.trendmicro.com/vulnerability-response#report",
   "country": "Japan",
   "scope_type": "",
-  "status": "Normal",
-  "baseline_avg": 9.25,
-  "current_count": 16,
-  "deviation_pct": 73.0,
-  "days_since_last_cve": 29,
-  "std_dev": 12.53,
-  "threshold_low": 4.62,
-  "threshold_high": 23.12,
+  "status": "Declining",
+  "baseline_avg": 10.6,
+  "current_count": 0,
+  "deviation_pct": -100.0,
+  "days_since_last_cve": 30,
+  "std_dev": 11.26,
+  "threshold_low": 5.3,
+  "threshold_high": 26.5,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -71,12 +71,12 @@
     },
     {
       "month": "Days 60-30",
-      "count": 0,
+      "count": 16,
       "is_current": false
     },
     {
       "month": "Last 30 Days",
-      "count": 16,
+      "count": 0,
       "is_current": true
     }
   ]

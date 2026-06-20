@@ -1,30 +1,20 @@
 {
   "date": "2026-06-20",
-  "generated_at": "2026-06-20T12:42:42.453055",
+  "generated_at": "2026-06-20T15:37:37.641928",
   "total_cnas": 552,
-  "cnas_growth": 54,
-  "cnas_normal": 110,
+  "cnas_growth": 53,
+  "cnas_normal": 111,
   "cnas_declining": 217,
   "cnas_inactive": 171,
   "top_growth": [
-    {
-      "cna_name": "9front",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Kong",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
     {
       "cna_name": "Tigera",
       "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "OCD",
-      "current_count": 1,
+      "cna_name": "ThinkstAppliedResearch",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -33,12 +23,22 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "Kong",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "OAI",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "ThinkstAppliedResearch",
+      "cna_name": "OCD",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "9front",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
@@ -75,14 +75,14 @@
       "deviation_pct": -7.7
     },
     {
-      "cna_name": "autodesk",
-      "current_count": 6,
-      "deviation_pct": -16.9
-    },
-    {
       "cna_name": "Zoom",
       "current_count": 3,
       "deviation_pct": -22.9
+    },
+    {
+      "cna_name": "autodesk",
+      "current_count": 6,
+      "deviation_pct": -26.2
     },
     {
       "cna_name": "siemens",
@@ -95,14 +95,14 @@
       "deviation_pct": -50.0
     },
     {
-      "cna_name": "Silabs",
-      "current_count": 1,
-      "deviation_pct": -52.4
-    },
-    {
       "cna_name": "AMD",
       "current_count": 6,
       "deviation_pct": -55.7
+    },
+    {
+      "cna_name": "Silabs",
+      "current_count": 1,
+      "deviation_pct": -57.1
     },
     {
       "cna_name": "yandex",
