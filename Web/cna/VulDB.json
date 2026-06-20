@@ -6,13 +6,13 @@
   "country": "Switzerland",
   "scope_type": "",
   "status": "Normal",
-  "baseline_avg": 544.0,
+  "baseline_avg": 543.5,
   "current_count": 626,
-  "deviation_pct": 15.1,
+  "deviation_pct": 15.2,
   "days_since_last_cve": 2,
-  "std_dev": 145.94,
-  "threshold_low": 272.0,
-  "threshold_high": 1360.0,
+  "std_dev": 146.25,
+  "threshold_low": 271.75,
+  "threshold_high": 1358.75,
   "timeline_13months": [
     {
       "month": "Days 390-360",
