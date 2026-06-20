@@ -1,6 +1,6 @@
 {
   "date": "2026-06-20",
-  "generated_at": "2026-06-20T10:04:42.630665",
+  "generated_at": "2026-06-20T12:42:42.453055",
   "total_cnas": 552,
   "cnas_growth": 54,
   "cnas_normal": 110,
@@ -8,12 +8,12 @@
   "cnas_inactive": 171,
   "top_growth": [
     {
-      "cna_name": "linqi",
-      "current_count": 4,
+      "cna_name": "9front",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "OCD",
+      "cna_name": "Kong",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -23,8 +23,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "9front",
-      "current_count": 2,
+      "cna_name": "OCD",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "linqi",
+      "current_count": 4,
       "deviation_pct": 999999.0
     },
     {
@@ -35,11 +40,6 @@
     {
       "cna_name": "ThinkstAppliedResearch",
       "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Kong",
-      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -100,14 +100,14 @@
       "deviation_pct": -52.4
     },
     {
-      "cna_name": "Zohocorp",
-      "current_count": 2,
-      "deviation_pct": -53.5
-    },
-    {
       "cna_name": "AMD",
       "current_count": 6,
       "deviation_pct": -55.7
+    },
+    {
+      "cna_name": "yandex",
+      "current_count": 1,
+      "deviation_pct": -60.0
     }
   ]
 }
