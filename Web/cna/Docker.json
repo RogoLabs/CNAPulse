@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://docs.docker.com/security/",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
-  "baseline_avg": 1.14,
-  "current_count": 6,
-  "deviation_pct": 425.0,
+  "status": "Normal",
+  "baseline_avg": 1.12,
+  "current_count": 5,
+  "deviation_pct": 344.4,
   "days_since_last_cve": 3,
-  "std_dev": 0.38,
-  "threshold_low": 0.57,
-  "threshold_high": 2.86,
+  "std_dev": 0.35,
+  "threshold_low": 0.56,
+  "threshold_high": 2.81,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -71,12 +71,12 @@
     },
     {
       "month": "Days 60-30",
-      "count": 0,
+      "count": 1,
       "is_current": false
     },
     {
       "month": "Last 30 Days",
-      "count": 6,
+      "count": 5,
       "is_current": true
     }
   ]

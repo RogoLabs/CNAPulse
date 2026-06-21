@@ -1,19 +1,29 @@
 {
   "date": "2026-06-21",
-  "generated_at": "2026-06-21T15:38:13.056171",
+  "generated_at": "2026-06-21T18:36:46.467766",
   "total_cnas": 552,
-  "cnas_growth": 51,
-  "cnas_normal": 109,
+  "cnas_growth": 49,
+  "cnas_normal": 111,
   "cnas_declining": 221,
   "cnas_inactive": 171,
   "top_growth": [
+    {
+      "cna_name": "OCD",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "linqi",
+      "current_count": 4,
+      "deviation_pct": 999999.0
+    },
     {
       "cna_name": "Tigera",
       "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "OCD",
+      "cna_name": "Kong",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -28,16 +38,6 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Kong",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "linqi",
-      "current_count": 4,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "Acer",
       "current_count": 36,
       "deviation_pct": 3500.0
@@ -45,7 +45,7 @@
     {
       "cna_name": "Chrome",
       "current_count": 714,
-      "deviation_pct": 1300.0
+      "deviation_pct": 1183.3
     },
     {
       "cna_name": "vmware",
@@ -67,7 +67,7 @@
     {
       "cna_name": "cisa-cg",
       "current_count": 9,
-      "deviation_pct": -4.3
+      "deviation_pct": -3.2
     },
     {
       "cna_name": "fedora",
@@ -75,19 +75,19 @@
       "deviation_pct": -7.7
     },
     {
+      "cna_name": "autodesk",
+      "current_count": 6,
+      "deviation_pct": -16.9
+    },
+    {
       "cna_name": "Mattermost",
-      "current_count": 12,
-      "deviation_pct": -11.1
+      "current_count": 11,
+      "deviation_pct": -19.0
     },
     {
       "cna_name": "Zoom",
       "current_count": 3,
       "deviation_pct": -22.9
-    },
-    {
-      "cna_name": "autodesk",
-      "current_count": 6,
-      "deviation_pct": -26.2
     },
     {
       "cna_name": "siemens",
