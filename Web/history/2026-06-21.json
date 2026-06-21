@@ -1,20 +1,15 @@
 {
   "date": "2026-06-21",
-  "generated_at": "2026-06-21T10:17:40.670777",
+  "generated_at": "2026-06-21T12:46:25.864784",
   "total_cnas": 552,
   "cnas_growth": 51,
-  "cnas_normal": 110,
-  "cnas_declining": 220,
+  "cnas_normal": 109,
+  "cnas_declining": 221,
   "cnas_inactive": 171,
   "top_growth": [
     {
-      "cna_name": "Kong",
+      "cna_name": "OAI",
       "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Tigera",
-      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -28,12 +23,17 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "OAI",
-      "current_count": 1,
+      "cna_name": "Tigera",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
       "cna_name": "OCD",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Kong",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -75,6 +75,11 @@
       "deviation_pct": -7.7
     },
     {
+      "cna_name": "Mattermost",
+      "current_count": 12,
+      "deviation_pct": -11.1
+    },
+    {
       "cna_name": "Zoom",
       "current_count": 3,
       "deviation_pct": -22.9
@@ -103,11 +108,6 @@
       "cna_name": "AMD",
       "current_count": 6,
       "deviation_pct": -55.7
-    },
-    {
-      "cna_name": "yandex",
-      "current_count": 1,
-      "deviation_pct": -60.0
     }
   ]
 }
