@@ -1,15 +1,15 @@
 {
   "date": "2026-06-22",
-  "generated_at": "2026-06-22T11:00:00.950500",
+  "generated_at": "2026-06-22T13:58:00.572323",
   "total_cnas": 552,
-  "cnas_growth": 51,
+  "cnas_growth": 52,
   "cnas_normal": 112,
-  "cnas_declining": 218,
+  "cnas_declining": 217,
   "cnas_inactive": 171,
   "top_growth": [
     {
-      "cna_name": "OAI",
-      "current_count": 1,
+      "cna_name": "ThinkstAppliedResearch",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -18,23 +18,23 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "OAI",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "OCD",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "ThinkstAppliedResearch",
-      "current_count": 2,
+      "cna_name": "Kong",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
       "cna_name": "linqi",
       "current_count": 4,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Kong",
-      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -48,14 +48,14 @@
       "deviation_pct": 1200.3
     },
     {
+      "cna_name": "CIRCL",
+      "current_count": 37,
+      "deviation_pct": 825.0
+    },
+    {
       "cna_name": "vmware",
       "current_count": 89,
       "deviation_pct": 817.5
-    },
-    {
-      "cna_name": "GEN",
-      "current_count": 17,
-      "deviation_pct": 750.0
     }
   ],
   "top_declining": [
@@ -78,11 +78,6 @@
       "cna_name": "autodesk",
       "current_count": 6,
       "deviation_pct": -16.9
-    },
-    {
-      "cna_name": "Mattermost",
-      "current_count": 11,
-      "deviation_pct": -19.0
     },
     {
       "cna_name": "Zoom",
@@ -108,6 +103,11 @@
       "cna_name": "AMD",
       "current_count": 6,
       "deviation_pct": -55.7
+    },
+    {
+      "cna_name": "INCIBE",
+      "current_count": 15,
+      "deviation_pct": -56.3
     }
   ]
 }
