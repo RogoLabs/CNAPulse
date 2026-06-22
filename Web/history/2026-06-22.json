@@ -1,19 +1,14 @@
 {
   "date": "2026-06-22",
-  "generated_at": "2026-06-22T13:58:00.572323",
+  "generated_at": "2026-06-22T16:36:24.462998",
   "total_cnas": 552,
-  "cnas_growth": 52,
-  "cnas_normal": 112,
+  "cnas_growth": 53,
+  "cnas_normal": 111,
   "cnas_declining": 217,
   "cnas_inactive": 171,
   "top_growth": [
     {
       "cna_name": "ThinkstAppliedResearch",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Tigera",
       "current_count": 3,
       "deviation_pct": 999999.0
     },
@@ -25,6 +20,11 @@
     {
       "cna_name": "OCD",
       "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Tigera",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
