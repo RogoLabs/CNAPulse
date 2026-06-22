@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://vulncheck.com/advisories",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
-  "baseline_avg": 298.17,
-  "current_count": 562,
-  "deviation_pct": 88.5,
+  "status": "Normal",
+  "baseline_avg": 299.75,
+  "current_count": 543,
+  "deviation_pct": 81.2,
   "days_since_last_cve": 0,
-  "std_dev": 220.7,
-  "threshold_low": 149.08,
-  "threshold_high": 745.42,
+  "std_dev": 220.89,
+  "threshold_low": 149.88,
+  "threshold_high": 749.38,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -71,12 +71,12 @@
     },
     {
       "month": "Days 60-30",
-      "count": 365,
+      "count": 384,
       "is_current": false
     },
     {
       "month": "Last 30 Days",
-      "count": 562,
+      "count": 543,
       "is_current": true
     }
   ]
