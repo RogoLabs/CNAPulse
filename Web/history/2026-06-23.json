@@ -1,12 +1,17 @@
 {
   "date": "2026-06-23",
-  "generated_at": "2026-06-23T10:18:11.822770",
+  "generated_at": "2026-06-23T13:04:35.772533",
   "total_cnas": 552,
   "cnas_growth": 53,
   "cnas_normal": 116,
   "cnas_declining": 212,
   "cnas_inactive": 171,
   "top_growth": [
+    {
+      "cna_name": "OAI",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
     {
       "cna_name": "ThinkstAppliedResearch",
       "current_count": 3,
@@ -18,12 +23,7 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "OAI",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "tlt_net",
+      "cna_name": "OCD",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -38,7 +38,7 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "OCD",
+      "cna_name": "tlt_net",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
