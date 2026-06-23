@@ -1,32 +1,32 @@
 {
-  "assigner_id": "271b6943-45a9-4f3a-ab4e-976f3fa05b5a",
-  "cna_name": "elastic",
-  "cna_org_name": "Elastic",
-  "cna_advisory_url": "https://www.elastic.co/community/security",
-  "country": "Netherlands",
+  "assigner_id": "unknown",
+  "cna_name": "Verizon",
+  "cna_org_name": "Verizon",
+  "cna_advisory_url": "https://github.com/Verizon/cve",
+  "country": "USA",
   "scope_type": "",
-  "status": "Growth",
-  "baseline_avg": 5.0,
-  "current_count": 10,
-  "deviation_pct": 100.0,
-  "days_since_last_cve": 26,
-  "std_dev": 4.03,
-  "threshold_low": 2.5,
-  "threshold_high": 12.5,
+  "status": "Inactive",
+  "baseline_avg": 0.0,
+  "current_count": 0,
+  "deviation_pct": 0.0,
+  "days_since_last_cve": null,
+  "std_dev": null,
+  "threshold_low": 0.0,
+  "threshold_high": 0.0,
   "timeline_13months": [
     {
       "month": "Days 390-360",
-      "count": 2,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Days 360-330",
-      "count": 2,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Days 330-300",
-      "count": 1,
+      "count": 0,
       "is_current": false
     },
     {
@@ -36,37 +36,37 @@
     },
     {
       "month": "Days 270-240",
-      "count": 6,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Days 240-210",
-      "count": 3,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Days 210-180",
-      "count": 13,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Days 180-150",
-      "count": 6,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Days 150-120",
-      "count": 6,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Days 120-90",
-      "count": 4,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Days 90-60",
-      "count": 7,
+      "count": 0,
       "is_current": false
     },
     {
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 10,
+      "count": 0,
       "is_current": true
     }
   ]
