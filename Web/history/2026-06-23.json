@@ -1,10 +1,10 @@
 {
   "date": "2026-06-23",
-  "generated_at": "2026-06-23T07:22:06.755253",
+  "generated_at": "2026-06-23T10:18:11.822770",
   "total_cnas": 552,
-  "cnas_growth": 52,
+  "cnas_growth": 53,
   "cnas_normal": 116,
-  "cnas_declining": 213,
+  "cnas_declining": 212,
   "cnas_inactive": 171,
   "top_growth": [
     {
@@ -13,13 +13,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "linqi",
-      "current_count": 4,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Tigera",
-      "current_count": 3,
+      "cna_name": "Kong",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -28,8 +23,18 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Kong",
+      "cna_name": "tlt_net",
       "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Tigera",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "linqi",
+      "current_count": 4,
       "deviation_pct": 999999.0
     },
     {
@@ -51,11 +56,6 @@
       "cna_name": "CIRCL",
       "current_count": 37,
       "deviation_pct": 825.0
-    },
-    {
-      "cna_name": "vmware",
-      "current_count": 89,
-      "deviation_pct": 817.5
     }
   ],
   "top_declining": [
