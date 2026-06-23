@@ -1,6 +1,6 @@
 {
   "date": "2026-06-23",
-  "generated_at": "2026-06-23T04:27:08.493128",
+  "generated_at": "2026-06-23T07:22:06.755253",
   "total_cnas": 552,
   "cnas_growth": 52,
   "cnas_normal": 116,
@@ -8,13 +8,13 @@
   "cnas_inactive": 171,
   "top_growth": [
     {
-      "cna_name": "Kong",
-      "current_count": 1,
+      "cna_name": "ThinkstAppliedResearch",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "ThinkstAppliedResearch",
-      "current_count": 3,
+      "cna_name": "linqi",
+      "current_count": 4,
       "deviation_pct": 999999.0
     },
     {
@@ -28,8 +28,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "linqi",
-      "current_count": 4,
+      "cna_name": "Kong",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
