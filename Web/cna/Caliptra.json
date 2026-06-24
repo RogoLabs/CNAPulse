@@ -1,15 +1,15 @@
 {
-  "assigner_id": "unknown",
+  "assigner_id": "b01ddd03-5ef6-483b-b2c5-acba77f1a554",
   "cna_name": "Caliptra",
   "cna_org_name": "Caliptra Project",
   "cna_advisory_url": "https://github.com/chipsalliance/Caliptra/security/advisories",
   "country": "USA",
   "scope_type": "",
-  "status": "Inactive",
+  "status": "Growth",
   "baseline_avg": 0.0,
-  "current_count": 0,
-  "deviation_pct": 0.0,
-  "days_since_last_cve": null,
+  "current_count": 2,
+  "deviation_pct": 999999.0,
+  "days_since_last_cve": 0,
   "std_dev": null,
   "threshold_low": 0.0,
   "threshold_high": 0.0,
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 0,
+      "count": 2,
       "is_current": true
     }
   ]
