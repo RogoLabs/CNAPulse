@@ -1,34 +1,19 @@
 {
   "date": "2026-06-24",
-  "generated_at": "2026-06-24T00:50:27.571846",
+  "generated_at": "2026-06-24T04:29:01.434569",
   "total_cnas": 554,
   "cnas_growth": 56,
-  "cnas_normal": 115,
-  "cnas_declining": 211,
+  "cnas_normal": 114,
+  "cnas_declining": 212,
   "cnas_inactive": 172,
   "top_growth": [
     {
-      "cna_name": "Caliptra",
-      "current_count": 2,
+      "cna_name": "Tigera",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
       "cna_name": "Kong",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "OCD",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "linqi",
-      "current_count": 4,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "tlt_net",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -38,19 +23,34 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "linqi",
+      "current_count": 4,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Caliptra",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "ThinkstAppliedResearch",
       "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Tigera",
-      "current_count": 3,
+      "cna_name": "tlt_net",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OCD",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
       "cna_name": "Acer",
-      "current_count": 36,
-      "deviation_pct": 3500.0
+      "current_count": 35,
+      "deviation_pct": 1650.0
     },
     {
       "cna_name": "Chrome",
