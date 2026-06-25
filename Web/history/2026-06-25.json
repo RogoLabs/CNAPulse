@@ -1,15 +1,20 @@
 {
   "date": "2026-06-25",
-  "generated_at": "2026-06-25T04:28:50.516470",
+  "generated_at": "2026-06-25T07:18:01.981238",
   "total_cnas": 554,
   "cnas_growth": 59,
-  "cnas_normal": 118,
-  "cnas_declining": 207,
+  "cnas_normal": 117,
+  "cnas_declining": 208,
   "cnas_inactive": 170,
   "top_growth": [
     {
-      "cna_name": "ThinkstAppliedResearch",
-      "current_count": 4,
+      "cna_name": "Tigera",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Secur0",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -23,13 +28,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "OCD",
+      "cna_name": "Kong",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Tigera",
-      "current_count": 3,
+      "cna_name": "ThinkstAppliedResearch",
+      "current_count": 4,
       "deviation_pct": 999999.0
     },
     {
@@ -38,23 +43,18 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Kong",
+      "cna_name": "OAI",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OCD",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
       "cna_name": "Caliptra",
       "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Secur0",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "OAI",
-      "current_count": 1,
       "deviation_pct": 999999.0
     }
   ],
@@ -95,6 +95,11 @@
       "deviation_pct": -56.3
     },
     {
+      "cna_name": "Hitachi",
+      "current_count": 1,
+      "deviation_pct": -58.3
+    },
+    {
       "cna_name": "AMD",
       "current_count": 6,
       "deviation_pct": -59.7
@@ -103,11 +108,6 @@
       "cna_name": "CyberDanube",
       "current_count": 2,
       "deviation_pct": -60.0
-    },
-    {
-      "cna_name": "PRJBLK",
-      "current_count": 1,
-      "deviation_pct": -62.5
     }
   ]
 }
