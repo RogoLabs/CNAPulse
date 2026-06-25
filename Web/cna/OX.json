@@ -5,10 +5,10 @@
   "cna_advisory_url": "https://documentation.open-xchange.com/appsuite/security/advisories/",
   "country": "Germany",
   "scope_type": "",
-  "status": "Normal",
+  "status": "Growth",
   "baseline_avg": 8.12,
-  "current_count": 1,
-  "deviation_pct": -87.7,
+  "current_count": 14,
+  "deviation_pct": 72.3,
   "days_since_last_cve": 0,
   "std_dev": 9.3,
   "threshold_low": 4.06,
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 1,
+      "count": 14,
       "is_current": true
     }
   ]
