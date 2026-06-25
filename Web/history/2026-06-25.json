@@ -1,15 +1,15 @@
 {
   "date": "2026-06-25",
-  "generated_at": "2026-06-25T07:18:01.981238",
+  "generated_at": "2026-06-25T10:06:46.759880",
   "total_cnas": 554,
-  "cnas_growth": 59,
-  "cnas_normal": 117,
+  "cnas_growth": 58,
+  "cnas_normal": 118,
   "cnas_declining": 208,
   "cnas_inactive": 170,
   "top_growth": [
     {
-      "cna_name": "Tigera",
-      "current_count": 3,
+      "cna_name": "OAI",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -18,12 +18,7 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "tlt_net",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "linqi",
+      "cna_name": "ThinkstAppliedResearch",
       "current_count": 4,
       "deviation_pct": 999999.0
     },
@@ -33,17 +28,12 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "ThinkstAppliedResearch",
-      "current_count": 4,
+      "cna_name": "Tigera",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
       "cna_name": "STAR_Labs",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "OAI",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -53,8 +43,18 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "tlt_net",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "Caliptra",
       "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "linqi",
+      "current_count": 4,
       "deviation_pct": 999999.0
     }
   ],
@@ -80,11 +80,6 @@
       "deviation_pct": -47.5
     },
     {
-      "cna_name": "Silabs",
-      "current_count": 1,
-      "deviation_pct": -52.4
-    },
-    {
       "cna_name": "zdi",
       "current_count": 23,
       "deviation_pct": -54.4
@@ -93,6 +88,11 @@
       "cna_name": "INCIBE",
       "current_count": 15,
       "deviation_pct": -56.3
+    },
+    {
+      "cna_name": "Silabs",
+      "current_count": 1,
+      "deviation_pct": -57.1
     },
     {
       "cna_name": "Hitachi",

@@ -6,13 +6,13 @@
   "country": "Estonia",
   "scope_type": "",
   "status": "Normal",
-  "baseline_avg": 427.5,
-  "current_count": 616,
-  "deviation_pct": 44.1,
-  "days_since_last_cve": 0,
-  "std_dev": 230.91,
-  "threshold_low": 213.75,
-  "threshold_high": 1068.75,
+  "baseline_avg": 427.92,
+  "current_count": 611,
+  "deviation_pct": 42.8,
+  "days_since_last_cve": 1,
+  "std_dev": 230.22,
+  "threshold_low": 213.96,
+  "threshold_high": 1069.79,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -71,12 +71,12 @@
     },
     {
       "month": "Days 60-30",
-      "count": 61,
+      "count": 66,
       "is_current": false
     },
     {
       "month": "Last 30 Days",
-      "count": 616,
+      "count": 611,
       "is_current": true
     }
   ]
