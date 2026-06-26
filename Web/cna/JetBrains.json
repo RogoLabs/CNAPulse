@@ -5,11 +5,11 @@
   "cna_advisory_url": "https://www.jetbrains.com/privacy-security/issues-fixed/",
   "country": "Czech Republic",
   "scope_type": "",
-  "status": "Normal",
+  "status": "Growth",
   "baseline_avg": 7.0,
-  "current_count": 25,
-  "deviation_pct": 257.1,
-  "days_since_last_cve": 7,
+  "current_count": 32,
+  "deviation_pct": 357.1,
+  "days_since_last_cve": 0,
   "std_dev": 4.64,
   "threshold_low": 3.5,
   "threshold_high": 17.5,
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 25,
+      "count": 32,
       "is_current": true
     }
   ]
