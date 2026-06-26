@@ -1,39 +1,19 @@
 {
   "date": "2026-06-26",
-  "generated_at": "2026-06-26T18:42:08.283265",
+  "generated_at": "2026-06-26T21:33:33.052505",
   "total_cnas": 554,
   "cnas_growth": 62,
-  "cnas_normal": 111,
-  "cnas_declining": 211,
+  "cnas_normal": 112,
+  "cnas_declining": 210,
   "cnas_inactive": 170,
   "top_growth": [
-    {
-      "cna_name": "Caliptra",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Kong",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "linqi",
-      "current_count": 4,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "tlt_net",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
     {
       "cna_name": "OCD",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "STAR_Labs",
+      "cna_name": "tlt_net",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -48,13 +28,33 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "ThinkstAppliedResearch",
+      "current_count": 4,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "linqi",
+      "current_count": 4,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "Secur0",
       "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "ThinkstAppliedResearch",
-      "current_count": 4,
+      "cna_name": "Caliptra",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "STAR_Labs",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Kong",
+      "current_count": 1,
       "deviation_pct": 999999.0
     }
   ],
@@ -75,19 +75,14 @@
       "deviation_pct": -25.0
     },
     {
-      "cna_name": "AMD",
-      "current_count": 8,
-      "deviation_pct": -46.3
-    },
-    {
       "cna_name": "siemens",
       "current_count": 7,
       "deviation_pct": -47.5
     },
     {
-      "cna_name": "zdi",
-      "current_count": 23,
-      "deviation_pct": -54.4
+      "cna_name": "AMD",
+      "current_count": 8,
+      "deviation_pct": -51.7
     },
     {
       "cna_name": "INCIBE",
@@ -108,6 +103,11 @@
       "cna_name": "PRJBLK",
       "current_count": 1,
       "deviation_pct": -62.5
+    },
+    {
+      "cna_name": "JFROG",
+      "current_count": 1,
+      "deviation_pct": -65.2
     }
   ]
 }
