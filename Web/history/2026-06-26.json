@@ -1,9 +1,9 @@
 {
   "date": "2026-06-26",
-  "generated_at": "2026-06-26T15:49:34.569528",
+  "generated_at": "2026-06-26T18:42:08.283265",
   "total_cnas": 554,
-  "cnas_growth": 60,
-  "cnas_normal": 113,
+  "cnas_growth": 62,
+  "cnas_normal": 111,
   "cnas_declining": 211,
   "cnas_inactive": 170,
   "top_growth": [
@@ -13,23 +13,23 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "linqi",
-      "current_count": 4,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "OAI",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "Kong",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Secur0",
-      "current_count": 3,
+      "cna_name": "linqi",
+      "current_count": 4,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "tlt_net",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OCD",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -38,7 +38,7 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "tlt_net",
+      "cna_name": "OAI",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -48,8 +48,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "OCD",
-      "current_count": 1,
+      "cna_name": "Secur0",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -75,6 +75,11 @@
       "deviation_pct": -25.0
     },
     {
+      "cna_name": "AMD",
+      "current_count": 8,
+      "deviation_pct": -46.3
+    },
+    {
       "cna_name": "siemens",
       "current_count": 7,
       "deviation_pct": -47.5
@@ -93,11 +98,6 @@
       "cna_name": "Hitachi",
       "current_count": 1,
       "deviation_pct": -58.3
-    },
-    {
-      "cna_name": "AMD",
-      "current_count": 6,
-      "deviation_pct": -59.7
     },
     {
       "cna_name": "CyberDanube",
