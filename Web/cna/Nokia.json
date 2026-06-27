@@ -6,13 +6,13 @@
   "country": "Finland",
   "scope_type": "",
   "status": "Normal",
-  "baseline_avg": 3.8,
+  "baseline_avg": 3.17,
   "current_count": 2,
-  "deviation_pct": -47.4,
+  "deviation_pct": -36.8,
   "days_since_last_cve": 11,
-  "std_dev": 4.09,
-  "threshold_low": 1.9,
-  "threshold_high": 9.5,
+  "std_dev": 2.48,
+  "threshold_low": 1.58,
+  "threshold_high": 7.92,
   "timeline_13months": [
     {
       "month": "Days 390-360",

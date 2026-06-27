@@ -1,15 +1,20 @@
 {
   "date": "2026-06-27",
-  "generated_at": "2026-06-27T07:11:04.593878",
+  "generated_at": "2026-06-27T09:47:09.955573",
   "total_cnas": 554,
   "cnas_growth": 62,
-  "cnas_normal": 112,
-  "cnas_declining": 210,
+  "cnas_normal": 113,
+  "cnas_declining": 209,
   "cnas_inactive": 170,
   "top_growth": [
     {
-      "cna_name": "OAI",
-      "current_count": 1,
+      "cna_name": "Caliptra",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "linqi",
+      "current_count": 4,
       "deviation_pct": 999999.0
     },
     {
@@ -23,12 +28,12 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "OCD",
+      "cna_name": "OAI",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "STAR_Labs",
+      "cna_name": "OCD",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -38,18 +43,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "linqi",
-      "current_count": 4,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Caliptra",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "Tigera",
       "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "STAR_Labs",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
