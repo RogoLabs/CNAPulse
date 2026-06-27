@@ -1,0 +1,113 @@
+{
+  "date": "2026-06-27",
+  "generated_at": "2026-06-27T00:53:42.436022",
+  "total_cnas": 554,
+  "cnas_growth": 62,
+  "cnas_normal": 112,
+  "cnas_declining": 210,
+  "cnas_inactive": 170,
+  "top_growth": [
+    {
+      "cna_name": "Kong",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OCD",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "linqi",
+      "current_count": 4,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Tigera",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "tlt_net",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Secur0",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OAI",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "STAR_Labs",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Caliptra",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "ThinkstAppliedResearch",
+      "current_count": 4,
+      "deviation_pct": 999999.0
+    }
+  ],
+  "top_declining": [
+    {
+      "cna_name": "fedora",
+      "current_count": 6,
+      "deviation_pct": -7.7
+    },
+    {
+      "cna_name": "Zoom",
+      "current_count": 3,
+      "deviation_pct": -22.9
+    },
+    {
+      "cna_name": "hp",
+      "current_count": 3,
+      "deviation_pct": -25.0
+    },
+    {
+      "cna_name": "siemens",
+      "current_count": 7,
+      "deviation_pct": -47.5
+    },
+    {
+      "cna_name": "AMD",
+      "current_count": 8,
+      "deviation_pct": -51.7
+    },
+    {
+      "cna_name": "INCIBE",
+      "current_count": 15,
+      "deviation_pct": -56.3
+    },
+    {
+      "cna_name": "Hitachi",
+      "current_count": 1,
+      "deviation_pct": -58.3
+    },
+    {
+      "cna_name": "CyberDanube",
+      "current_count": 2,
+      "deviation_pct": -60.0
+    },
+    {
+      "cna_name": "PRJBLK",
+      "current_count": 1,
+      "deviation_pct": -62.5
+    },
+    {
+      "cna_name": "JFROG",
+      "current_count": 1,
+      "deviation_pct": -65.2
+    }
+  ]
+}
