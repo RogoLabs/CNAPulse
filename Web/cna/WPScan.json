@@ -5,18 +5,18 @@
   "cna_advisory_url": "https://wpscan.com/wordpresses",
   "country": "France",
   "scope_type": "",
-  "status": "Normal",
-  "baseline_avg": 17.67,
+  "status": "Growth",
+  "baseline_avg": 17.42,
   "current_count": 48,
-  "deviation_pct": 171.7,
-  "days_since_last_cve": 0,
-  "std_dev": 4.62,
-  "threshold_low": 8.83,
-  "threshold_high": 44.17,
+  "deviation_pct": 175.6,
+  "days_since_last_cve": 1,
+  "std_dev": 4.52,
+  "threshold_low": 8.71,
+  "threshold_high": 43.54,
   "timeline_13months": [
     {
       "month": "Days 390-360",
-      "count": 22,
+      "count": 19,
       "is_current": false
     },
     {
