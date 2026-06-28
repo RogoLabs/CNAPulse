@@ -1,39 +1,19 @@
 {
   "date": "2026-06-28",
-  "generated_at": "2026-06-28T18:29:54.820625",
+  "generated_at": "2026-06-28T21:27:32.740935",
   "total_cnas": 554,
-  "cnas_growth": 54,
-  "cnas_normal": 113,
-  "cnas_declining": 217,
+  "cnas_growth": 55,
+  "cnas_normal": 110,
+  "cnas_declining": 219,
   "cnas_inactive": 170,
   "top_growth": [
     {
-      "cna_name": "Secur0",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "linqi",
-      "current_count": 4,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "ThinkstAppliedResearch",
-      "current_count": 4,
+      "cna_name": "tlt_net",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
       "cna_name": "STAR_Labs",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Kong",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "OAI",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -43,7 +23,27 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "tlt_net",
+      "cna_name": "linqi",
+      "current_count": 4,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Kong",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Secur0",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "ThinkstAppliedResearch",
+      "current_count": 4,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OAI",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -59,6 +59,11 @@
     }
   ],
   "top_declining": [
+    {
+      "cna_name": "cisa-cg",
+      "current_count": 10,
+      "deviation_pct": 8.7
+    },
     {
       "cna_name": "fedora",
       "current_count": 6,
@@ -103,11 +108,6 @@
       "cna_name": "JFROG",
       "current_count": 1,
       "deviation_pct": -65.2
-    },
-    {
-      "cna_name": "Supermicro",
-      "current_count": 1,
-      "deviation_pct": -66.7
     }
   ]
 }
