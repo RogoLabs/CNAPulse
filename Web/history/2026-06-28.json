@@ -1,10 +1,10 @@
 {
   "date": "2026-06-28",
-  "generated_at": "2026-06-28T07:27:23.628905",
+  "generated_at": "2026-06-28T10:02:45.447789",
   "total_cnas": 554,
-  "cnas_growth": 57,
-  "cnas_normal": 113,
-  "cnas_declining": 214,
+  "cnas_growth": 55,
+  "cnas_normal": 114,
+  "cnas_declining": 215,
   "cnas_inactive": 170,
   "top_growth": [
     {
@@ -18,18 +18,18 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "OAI",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Kong",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "Secur0",
       "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "ThinkstAppliedResearch",
+      "current_count": 4,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OAI",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -43,8 +43,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "ThinkstAppliedResearch",
-      "current_count": 4,
+      "cna_name": "Kong",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
