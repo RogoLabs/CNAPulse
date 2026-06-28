@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://www.asrg.io/security-advisories/",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
-  "baseline_avg": 5.0,
-  "current_count": 5,
-  "deviation_pct": 0.0,
-  "days_since_last_cve": 2,
-  "std_dev": 5.33,
-  "threshold_low": 2.5,
-  "threshold_high": 12.5,
+  "status": "Normal",
+  "baseline_avg": 5.67,
+  "current_count": 1,
+  "deviation_pct": -82.4,
+  "days_since_last_cve": 3,
+  "std_dev": 5.28,
+  "threshold_low": 2.83,
+  "threshold_high": 14.17,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -71,12 +71,12 @@
     },
     {
       "month": "Days 60-30",
-      "count": 3,
+      "count": 7,
       "is_current": false
     },
     {
       "month": "Last 30 Days",
-      "count": 5,
+      "count": 1,
       "is_current": true
     }
   ]
