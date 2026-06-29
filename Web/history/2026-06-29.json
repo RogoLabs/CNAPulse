@@ -1,34 +1,19 @@
 {
   "date": "2026-06-29",
-  "generated_at": "2026-06-29T04:35:34.671650",
+  "generated_at": "2026-06-29T07:52:16.308488",
   "total_cnas": 554,
   "cnas_growth": 55,
-  "cnas_normal": 110,
-  "cnas_declining": 219,
+  "cnas_normal": 111,
+  "cnas_declining": 218,
   "cnas_inactive": 170,
   "top_growth": [
     {
-      "cna_name": "Kong",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "linqi",
-      "current_count": 4,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "ThinkstAppliedResearch",
-      "current_count": 4,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "STAR_Labs",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "tlt_net",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Kong",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -38,8 +23,18 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "linqi",
+      "current_count": 4,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "Caliptra",
       "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "ThinkstAppliedResearch",
+      "current_count": 4,
       "deviation_pct": 999999.0
     },
     {
@@ -48,14 +43,19 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "zephyr",
-      "current_count": 22,
-      "deviation_pct": 826.3
+      "cna_name": "STAR_Labs",
+      "current_count": 1,
+      "deviation_pct": 999999.0
     },
     {
       "cna_name": "vmware",
       "current_count": 87,
       "deviation_pct": 778.8
+    },
+    {
+      "cna_name": "Chrome",
+      "current_count": 584,
+      "deviation_pct": 753.1
     }
   ],
   "top_declining": [
@@ -90,11 +90,6 @@
       "deviation_pct": -51.7
     },
     {
-      "cna_name": "Hitachi",
-      "current_count": 1,
-      "deviation_pct": -58.3
-    },
-    {
       "cna_name": "INCIBE",
       "current_count": 13,
       "deviation_pct": -62.3
@@ -108,6 +103,11 @@
       "cna_name": "JFROG",
       "current_count": 1,
       "deviation_pct": -65.2
+    },
+    {
+      "cna_name": "Supermicro",
+      "current_count": 1,
+      "deviation_pct": -66.7
     }
   ]
 }
