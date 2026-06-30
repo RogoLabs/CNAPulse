@@ -2,7 +2,7 @@
   "assigner_id": "5a6e4751-2f3f-4070-9419-94fb35b644e8",
   "cna_name": "CIRCL",
   "cna_org_name": "Computer Incident Response Center Luxembourg (CIRCL)",
-  "cna_advisory_url": "https://vulnerability.circl.lu/recent#gna-1",
+  "cna_advisory_url": "https://vulnerability.circl.lu/search?assigner=CIRCL",
   "country": "Luxembourg",
   "scope_type": "",
   "status": "Growth",

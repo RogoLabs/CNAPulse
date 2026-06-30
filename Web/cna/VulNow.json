@@ -1,27 +1,27 @@
 {
-  "assigner_id": "eb103674-0d28-4225-80f8-39fb86215de0",
-  "cna_name": "hpe",
-  "cna_org_name": "Hewlett Packard Enterprise (HPE)",
-  "cna_advisory_url": "https://support.hpe.com/portal/site/hpsc/public/kb/secBullArchive/",
-  "country": "USA",
+  "assigner_id": "unknown",
+  "cna_name": "VulNow",
+  "cna_org_name": "VulNow",
+  "cna_advisory_url": "https://vul.now/precve",
+  "country": "Netherlands",
   "scope_type": "",
-  "status": "Declining",
-  "baseline_avg": 11.82,
+  "status": "Inactive",
+  "baseline_avg": 0.0,
   "current_count": 0,
-  "deviation_pct": -100.0,
-  "days_since_last_cve": 49,
-  "std_dev": 9.41,
-  "threshold_low": 5.91,
-  "threshold_high": 29.55,
+  "deviation_pct": 0.0,
+  "days_since_last_cve": null,
+  "std_dev": null,
+  "threshold_low": 0.0,
+  "threshold_high": 0.0,
   "timeline_13months": [
     {
       "month": "Days 390-360",
-      "count": 2,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Days 360-330",
-      "count": 18,
+      "count": 0,
       "is_current": false
     },
     {
@@ -31,47 +31,47 @@
     },
     {
       "month": "Days 300-270",
-      "count": 10,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Days 270-240",
-      "count": 18,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Days 240-210",
-      "count": 9,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Days 210-180",
-      "count": 1,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Days 180-150",
-      "count": 22,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Days 150-120",
-      "count": 5,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Days 120-90",
-      "count": 12,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Days 90-60",
-      "count": 1,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Days 60-30",
-      "count": 32,
+      "count": 0,
       "is_current": false
     },
     {
