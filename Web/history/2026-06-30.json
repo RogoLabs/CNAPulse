@@ -1,34 +1,14 @@
 {
   "date": "2026-06-30",
-  "generated_at": "2026-06-30T12:47:06.601940",
+  "generated_at": "2026-06-30T15:54:38.148537",
   "total_cnas": 554,
-  "cnas_growth": 61,
-  "cnas_normal": 109,
-  "cnas_declining": 214,
-  "cnas_inactive": 170,
+  "cnas_growth": 63,
+  "cnas_normal": 110,
+  "cnas_declining": 212,
+  "cnas_inactive": 169,
   "top_growth": [
     {
-      "cna_name": "linqi",
-      "current_count": 4,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "OAI",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "ThinkstAppliedResearch",
-      "current_count": 4,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Kong",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "tlt_net",
+      "cna_name": "STAR_Labs",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -38,12 +18,12 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Caliptra",
-      "current_count": 2,
+      "cna_name": "OAI",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "STAR_Labs",
+      "cna_name": "openGauss",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -53,9 +33,29 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "zephyr",
-      "current_count": 25,
-      "deviation_pct": 900.0
+      "cna_name": "linqi",
+      "current_count": 4,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "ThinkstAppliedResearch",
+      "current_count": 4,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Caliptra",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "tlt_net",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Kong",
+      "current_count": 1,
+      "deviation_pct": 999999.0
     }
   ],
   "top_declining": [
@@ -90,11 +90,6 @@
       "deviation_pct": -38.5
     },
     {
-      "cna_name": "siemens",
-      "current_count": 7,
-      "deviation_pct": -47.5
-    },
-    {
       "cna_name": "AMD",
       "current_count": 8,
       "deviation_pct": -51.7
@@ -108,6 +103,11 @@
       "cna_name": "jpcert",
       "current_count": 10,
       "deviation_pct": -57.3
+    },
+    {
+      "cna_name": "Honeywell",
+      "current_count": 1,
+      "deviation_pct": -60.0
     }
   ]
 }

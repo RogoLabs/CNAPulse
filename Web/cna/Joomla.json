@@ -5,18 +5,18 @@
   "cna_advisory_url": "https://developer.joomla.org/security-centre.html",
   "country": "USA",
   "scope_type": "",
-  "status": "Normal",
-  "baseline_avg": 7.0,
+  "status": "Growth",
+  "baseline_avg": 6.6,
   "current_count": 14,
-  "deviation_pct": 100.0,
-  "days_since_last_cve": 0,
-  "std_dev": 6.67,
-  "threshold_low": 3.5,
-  "threshold_high": 17.5,
+  "deviation_pct": 112.1,
+  "days_since_last_cve": 1,
+  "std_dev": 6.65,
+  "threshold_low": 3.3,
+  "threshold_high": 16.5,
   "timeline_13months": [
     {
       "month": "Days 390-360",
-      "count": 9,
+      "count": 5,
       "is_current": false
     },
     {
