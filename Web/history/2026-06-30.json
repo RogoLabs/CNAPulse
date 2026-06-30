@@ -1,6 +1,6 @@
 {
   "date": "2026-06-30",
-  "generated_at": "2026-06-30T00:54:57.692247",
+  "generated_at": "2026-06-30T04:28:43.393222",
   "total_cnas": 554,
   "cnas_growth": 57,
   "cnas_normal": 112,
@@ -13,12 +13,7 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "tlt_net",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "STAR_Labs",
+      "cna_name": "Kong",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -33,18 +28,23 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Kong",
+      "cna_name": "STAR_Labs",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Caliptra",
-      "current_count": 2,
+      "cna_name": "tlt_net",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
       "cna_name": "ThinkstAppliedResearch",
       "current_count": 4,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Caliptra",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
