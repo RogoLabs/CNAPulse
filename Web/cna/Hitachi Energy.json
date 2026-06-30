@@ -5,11 +5,11 @@
   "cna_advisory_url": "",
   "country": "",
   "scope_type": "",
-  "status": "Declining",
+  "status": "Normal",
   "baseline_avg": 3.0,
-  "current_count": 0,
-  "deviation_pct": -100.0,
-  "days_since_last_cve": 34,
+  "current_count": 1,
+  "deviation_pct": -66.7,
+  "days_since_last_cve": 0,
   "std_dev": 2.28,
   "threshold_low": 1.5,
   "threshold_high": 7.5,
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 0,
+      "count": 1,
       "is_current": true
     }
   ]

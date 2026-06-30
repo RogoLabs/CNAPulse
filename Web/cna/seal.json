@@ -1,15 +1,15 @@
 {
-  "assigner_id": "unknown",
+  "assigner_id": "22e2d327-25fe-45d7-9f0c-dcd23b7108df",
   "cna_name": "seal",
   "cna_org_name": "Seal Security",
   "cna_advisory_url": "https://app.sealsecurity.io/repository",
   "country": "USA",
   "scope_type": "",
-  "status": "Inactive",
+  "status": "Growth",
   "baseline_avg": 0.0,
-  "current_count": 0,
-  "deviation_pct": 0.0,
-  "days_since_last_cve": null,
+  "current_count": 2,
+  "deviation_pct": 999999.0,
+  "days_since_last_cve": 0,
   "std_dev": null,
   "threshold_low": 0.0,
   "threshold_high": 0.0,
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 0,
+      "count": 2,
       "is_current": true
     }
   ]
