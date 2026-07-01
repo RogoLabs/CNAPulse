@@ -1,0 +1,113 @@
+{
+  "date": "2026-07-01",
+  "generated_at": "2026-07-01T00:57:34.821372",
+  "total_cnas": 555,
+  "cnas_growth": 63,
+  "cnas_normal": 111,
+  "cnas_declining": 211,
+  "cnas_inactive": 170,
+  "top_growth": [
+    {
+      "cna_name": "ThinkstAppliedResearch",
+      "current_count": 4,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "tlt_net",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Caliptra",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "seal",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "openGauss",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OAI",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "linqi",
+      "current_count": 4,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "STAR_Labs",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Kong",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Secur0",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    }
+  ],
+  "top_declining": [
+    {
+      "cna_name": "cisa-cg",
+      "current_count": 10,
+      "deviation_pct": 8.7
+    },
+    {
+      "cna_name": "hp",
+      "current_count": 4,
+      "deviation_pct": 2.3
+    },
+    {
+      "cna_name": "fedora",
+      "current_count": 6,
+      "deviation_pct": -7.7
+    },
+    {
+      "cna_name": "3DS",
+      "current_count": 3,
+      "deviation_pct": -10.0
+    },
+    {
+      "cna_name": "Zoom",
+      "current_count": 3,
+      "deviation_pct": -22.9
+    },
+    {
+      "cna_name": "Deltaww",
+      "current_count": 3,
+      "deviation_pct": -38.5
+    },
+    {
+      "cna_name": "AMD",
+      "current_count": 8,
+      "deviation_pct": -51.7
+    },
+    {
+      "cna_name": "INCIBE",
+      "current_count": 15,
+      "deviation_pct": -56.5
+    },
+    {
+      "cna_name": "jpcert",
+      "current_count": 10,
+      "deviation_pct": -57.3
+    },
+    {
+      "cna_name": "Honeywell",
+      "current_count": 1,
+      "deviation_pct": -60.0
+    }
+  ]
+}
