@@ -1,19 +1,24 @@
 {
   "date": "2026-07-01",
-  "generated_at": "2026-07-01T18:44:16.802584",
+  "generated_at": "2026-07-01T21:35:23.673353",
   "total_cnas": 555,
   "cnas_growth": 60,
-  "cnas_normal": 120,
-  "cnas_declining": 204,
+  "cnas_normal": 118,
+  "cnas_declining": 206,
   "cnas_inactive": 171,
   "top_growth": [
     {
-      "cna_name": "OAI",
-      "current_count": 1,
+      "cna_name": "seal",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
       "cna_name": "STAR_Labs",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "openGauss",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -23,23 +28,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Kong",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "tlt_net",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "linqi",
       "current_count": 4,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "seal",
-      "current_count": 2,
+      "cna_name": "OAI",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -48,7 +43,7 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "openGauss",
+      "cna_name": "Kong",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -56,18 +51,28 @@
       "cna_name": "ThinkstAppliedResearch",
       "current_count": 4,
       "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "tlt_net",
+      "current_count": 1,
+      "deviation_pct": 999999.0
     }
   ],
   "top_declining": [
     {
       "cna_name": "cisa-cg",
-      "current_count": 10,
-      "deviation_pct": 8.7
+      "current_count": 9,
+      "deviation_pct": -3.2
     },
     {
       "cna_name": "fedora",
       "current_count": 6,
       "deviation_pct": -7.7
+    },
+    {
+      "cna_name": "hp",
+      "current_count": 4,
+      "deviation_pct": -9.1
     },
     {
       "cna_name": "Zoom",
@@ -80,14 +85,19 @@
       "deviation_pct": -37.5
     },
     {
-      "cna_name": "AMD",
-      "current_count": 8,
-      "deviation_pct": -51.7
+      "cna_name": "google_android",
+      "current_count": 19,
+      "deviation_pct": -50.6
     },
     {
       "cna_name": "INCIBE",
       "current_count": 15,
       "deviation_pct": -55.7
+    },
+    {
+      "cna_name": "AMD",
+      "current_count": 7,
+      "deviation_pct": -58.0
     },
     {
       "cna_name": "Honeywell",
@@ -98,16 +108,6 @@
       "cna_name": "jpcert",
       "current_count": 9,
       "deviation_pct": -61.7
-    },
-    {
-      "cna_name": "PRJBLK",
-      "current_count": 1,
-      "deviation_pct": -62.5
-    },
-    {
-      "cna_name": "JFROG",
-      "current_count": 1,
-      "deviation_pct": -65.2
     }
   ]
 }
