@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://airbus-seclab.github.io/",
   "country": "Netherlands",
   "scope_type": "",
-  "status": "Declining",
-  "baseline_avg": 4.0,
-  "current_count": 1,
-  "deviation_pct": -75.0,
-  "days_since_last_cve": 29,
-  "std_dev": 5.2,
-  "threshold_low": 2.0,
-  "threshold_high": 10.0,
+  "status": "Normal",
+  "baseline_avg": 3.25,
+  "current_count": 3,
+  "deviation_pct": -7.7,
+  "days_since_last_cve": 0,
+  "std_dev": 4.5,
+  "threshold_low": 1.62,
+  "threshold_high": 8.12,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 1,
+      "count": 3,
       "is_current": true
     }
   ]

@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://cert.pl/cve/",
   "country": "Poland",
   "scope_type": "",
-  "status": "Growth",
-  "baseline_avg": 18.25,
-  "current_count": 47,
-  "deviation_pct": 157.5,
+  "status": "Normal",
+  "baseline_avg": 18.83,
+  "current_count": 40,
+  "deviation_pct": 112.4,
   "days_since_last_cve": 0,
-  "std_dev": 10.31,
-  "threshold_low": 9.12,
-  "threshold_high": 45.62,
+  "std_dev": 11.42,
+  "threshold_low": 9.42,
+  "threshold_high": 47.08,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 47,
+      "count": 40,
       "is_current": true
     }
   ]
