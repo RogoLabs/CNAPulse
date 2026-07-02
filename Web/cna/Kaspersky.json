@@ -6,13 +6,13 @@
   "country": "Russia",
   "scope_type": "",
   "status": "Declining",
-  "baseline_avg": 1.33,
+  "baseline_avg": 1.0,
   "current_count": 0,
   "deviation_pct": -100.0,
-  "days_since_last_cve": 47,
-  "std_dev": 0.58,
-  "threshold_low": 0.67,
-  "threshold_high": 3.33,
+  "days_since_last_cve": 48,
+  "std_dev": null,
+  "threshold_low": 0.5,
+  "threshold_high": 2.5,
   "timeline_13months": [
     {
       "month": "Days 390-360",

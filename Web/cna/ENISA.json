@@ -5,11 +5,11 @@
   "cna_advisory_url": "https://github.com/enisaeu/CNW/tree/main/advisories",
   "country": "Greece",
   "scope_type": "",
-  "status": "Declining",
+  "status": "Normal",
   "baseline_avg": 7.67,
-  "current_count": 2,
-  "deviation_pct": -73.9,
-  "days_since_last_cve": 15,
+  "current_count": 4,
+  "deviation_pct": -47.8,
+  "days_since_last_cve": 0,
   "std_dev": 4.63,
   "threshold_low": 3.83,
   "threshold_high": 19.17,
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 2,
+      "count": 4,
       "is_current": true
     }
   ]
