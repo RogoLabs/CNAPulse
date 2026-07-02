@@ -5,10 +5,10 @@
   "cna_advisory_url": "https://www.seagate.com/support/security/",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
+  "status": "Normal",
   "baseline_avg": 1.0,
-  "current_count": 3,
-  "deviation_pct": 200.0,
+  "current_count": 2,
+  "deviation_pct": 100.0,
   "days_since_last_cve": 29,
   "std_dev": null,
   "threshold_low": 0.5,
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 3,
+      "count": 2,
       "is_current": true
     }
   ]
