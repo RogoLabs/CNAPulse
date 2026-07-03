@@ -5,11 +5,11 @@
   "cna_advisory_url": "https://about.gitea.com/security/",
   "country": "China",
   "scope_type": "",
-  "status": "Declining",
+  "status": "Growth",
   "baseline_avg": 9.0,
-  "current_count": 0,
-  "deviation_pct": -100.0,
-  "days_since_last_cve": 161,
+  "current_count": 40,
+  "deviation_pct": 344.4,
+  "days_since_last_cve": 0,
   "std_dev": null,
   "threshold_low": 4.5,
   "threshold_high": 22.5,
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 0,
+      "count": 40,
       "is_current": true
     }
   ]
