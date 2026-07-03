@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://global.abb/group/en/technology/cyber-security/alerts-and-notifications",
   "country": "Switzerland",
   "scope_type": "",
-  "status": "Normal",
-  "baseline_avg": 4.5,
-  "current_count": 5,
-  "deviation_pct": 11.1,
+  "status": "Declining",
+  "baseline_avg": 4.8,
+  "current_count": 2,
+  "deviation_pct": -58.3,
   "days_since_last_cve": 9,
-  "std_dev": 3.03,
-  "threshold_low": 2.25,
-  "threshold_high": 11.25,
+  "std_dev": 2.9,
+  "threshold_low": 2.4,
+  "threshold_high": 12.0,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 5,
+      "count": 2,
       "is_current": true
     }
   ]
