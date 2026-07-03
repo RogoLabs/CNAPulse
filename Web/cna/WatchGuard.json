@@ -5,12 +5,12 @@
   "cna_advisory_url": "https://www.watchguard.com/wgrd-psirt/advisories",
   "country": "USA",
   "scope_type": "",
-  "status": "Declining",
+  "status": "Growth",
   "baseline_avg": 3.88,
-  "current_count": 0,
-  "deviation_pct": -100.0,
-  "days_since_last_cve": 57,
-  "std_dev": 3.48,
+  "current_count": 17,
+  "deviation_pct": 338.7,
+  "days_since_last_cve": 0,
+  "std_dev": 3.91,
   "threshold_low": 1.94,
   "threshold_high": 9.69,
   "timeline_13months": [
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 0,
+      "count": 17,
       "is_current": true
     }
   ]
