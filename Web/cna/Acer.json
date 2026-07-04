@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://www.acer.com/us-en/support/security-advisory",
   "country": "Taiwan",
   "scope_type": "",
-  "status": "Normal",
-  "baseline_avg": 21.0,
-  "current_count": 16,
-  "deviation_pct": -23.8,
-  "days_since_last_cve": 29,
+  "status": "Declining",
+  "baseline_avg": 37.0,
+  "current_count": 0,
+  "deviation_pct": -100.0,
+  "days_since_last_cve": 30,
   "std_dev": null,
-  "threshold_low": 10.5,
-  "threshold_high": 52.5,
+  "threshold_low": 18.5,
+  "threshold_high": 92.5,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 16,
+      "count": 0,
       "is_current": true
     }
   ]
