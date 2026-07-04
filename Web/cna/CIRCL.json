@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://vulnerability.circl.lu/search?assigner=CIRCL",
   "country": "Luxembourg",
   "scope_type": "",
-  "status": "Growth",
-  "baseline_avg": 11.0,
-  "current_count": 30,
-  "deviation_pct": 172.7,
+  "status": "Normal",
+  "baseline_avg": 15.0,
+  "current_count": 26,
+  "deviation_pct": 73.3,
   "days_since_last_cve": 12,
   "std_dev": null,
-  "threshold_low": 5.5,
-  "threshold_high": 27.5,
+  "threshold_low": 7.5,
+  "threshold_high": 37.5,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 30,
+      "count": 26,
       "is_current": true
     }
   ]
