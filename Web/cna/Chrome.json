@@ -6,13 +6,13 @@
   "country": "USA",
   "scope_type": "",
   "status": "Growth",
-  "baseline_avg": 68.45,
-  "current_count": 1018,
-  "deviation_pct": 1387.1,
-  "days_since_last_cve": 2,
-  "std_dev": 108.74,
-  "threshold_low": 34.23,
-  "threshold_high": 171.14,
+  "baseline_avg": 98.33,
+  "current_count": 591,
+  "deviation_pct": 501.0,
+  "days_since_last_cve": 3,
+  "std_dev": 224.13,
+  "threshold_low": 49.17,
+  "threshold_high": 245.83,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 1018,
+      "count": 591,
       "is_current": true
     }
   ]
