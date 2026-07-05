@@ -5,18 +5,18 @@
   "cna_advisory_url": "https://docs.herodevs.com/advisories",
   "country": "USA",
   "scope_type": "",
-  "status": "Declining",
-  "baseline_avg": 2.2,
+  "status": "Normal",
+  "baseline_avg": 2.0,
   "current_count": 1,
-  "deviation_pct": -54.5,
-  "days_since_last_cve": 10,
-  "std_dev": 1.1,
-  "threshold_low": 1.1,
-  "threshold_high": 5.5,
+  "deviation_pct": -50.0,
+  "days_since_last_cve": 11,
+  "std_dev": 1.22,
+  "threshold_low": 1.0,
+  "threshold_high": 5.0,
   "timeline_13months": [
     {
       "month": "Days 390-360",
-      "count": 1,
+      "count": 0,
       "is_current": false
     },
     {
