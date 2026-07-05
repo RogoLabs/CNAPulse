@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://teltonika-networks.com/support/security-center",
   "country": "Lithuania",
   "scope_type": "",
-  "status": "Growth",
-  "baseline_avg": 0.0,
-  "current_count": 1,
-  "deviation_pct": 999999.0,
-  "days_since_last_cve": 29,
+  "status": "Declining",
+  "baseline_avg": 1.0,
+  "current_count": 0,
+  "deviation_pct": -100.0,
+  "days_since_last_cve": 30,
   "std_dev": null,
-  "threshold_low": 0.0,
-  "threshold_high": 0.0,
+  "threshold_low": 0.5,
+  "threshold_high": 2.5,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 1,
+      "count": 0,
       "is_current": true
     }
   ]

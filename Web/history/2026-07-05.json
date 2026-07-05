@@ -1,20 +1,15 @@
 {
   "date": "2026-07-05",
-  "generated_at": "2026-07-05T08:53:12.495639",
+  "generated_at": "2026-07-05T11:04:25.372659",
   "total_cnas": 555,
-  "cnas_growth": 55,
+  "cnas_growth": 53,
   "cnas_normal": 112,
-  "cnas_declining": 218,
+  "cnas_declining": 220,
   "cnas_inactive": 170,
   "top_growth": [
     {
-      "cna_name": "STAR_Labs",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "tlt_net",
-      "current_count": 1,
+      "cna_name": "Secur0",
+      "current_count": 4,
       "deviation_pct": 999999.0
     },
     {
@@ -23,8 +18,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "linqi",
-      "current_count": 4,
+      "cna_name": "STAR_Labs",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -33,18 +28,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Caliptra",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "libreswan",
       "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Secur0",
-      "current_count": 4,
       "deviation_pct": 999999.0
     },
     {
@@ -56,6 +41,21 @@
       "cna_name": "seal",
       "current_count": 2,
       "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Caliptra",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "zephyr",
+      "current_count": 28,
+      "deviation_pct": 918.2
+    },
+    {
+      "cna_name": "rami.io",
+      "current_count": 15,
+      "deviation_pct": 800.0
     }
   ],
   "top_declining": [
@@ -97,7 +97,7 @@
     {
       "cna_name": "INCIBE",
       "current_count": 15,
-      "deviation_pct": -55.2
+      "deviation_pct": -54.2
     },
     {
       "cna_name": "google_android",
