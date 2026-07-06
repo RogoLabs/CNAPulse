@@ -1,40 +1,15 @@
 {
   "date": "2026-07-06",
-  "generated_at": "2026-07-06T03:34:05.384151",
+  "generated_at": "2026-07-06T10:22:30.107010",
   "total_cnas": 555,
-  "cnas_growth": 50,
-  "cnas_normal": 113,
-  "cnas_declining": 222,
+  "cnas_growth": 51,
+  "cnas_normal": 114,
+  "cnas_declining": 220,
   "cnas_inactive": 170,
   "top_growth": [
     {
-      "cna_name": "openGauss",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "BombadilSystems",
       "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Caliptra",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Kong",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "libreswan",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "STAR_Labs",
-      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -45,6 +20,31 @@
     {
       "cna_name": "Secur0",
       "current_count": 4,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "STAR_Labs",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Kong",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Caliptra",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "libreswan",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "openGauss",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -70,6 +70,11 @@
       "deviation_pct": -9.1
     },
     {
+      "cna_name": "ABB",
+      "current_count": 4,
+      "deviation_pct": -16.7
+    },
+    {
       "cna_name": "Zoom",
       "current_count": 3,
       "deviation_pct": -22.9
@@ -77,17 +82,7 @@
     {
       "cna_name": "3DS",
       "current_count": 2,
-      "deviation_pct": -37.5
-    },
-    {
-      "cna_name": "WSO2",
-      "current_count": 3,
-      "deviation_pct": -47.5
-    },
-    {
-      "cna_name": "siemens",
-      "current_count": 7,
-      "deviation_pct": -50.3
+      "deviation_pct": -43.7
     },
     {
       "cna_name": "HCL",
@@ -96,8 +91,13 @@
     },
     {
       "cna_name": "INCIBE",
-      "current_count": 15,
-      "deviation_pct": -54.2
+      "current_count": 16,
+      "deviation_pct": -51.1
+    },
+    {
+      "cna_name": "siemens",
+      "current_count": 7,
+      "deviation_pct": -54.5
     },
     {
       "cna_name": "ivanti",
