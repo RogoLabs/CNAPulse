@@ -1,14 +1,14 @@
 {
   "date": "2026-07-06",
-  "generated_at": "2026-07-06T15:33:19.839233",
+  "generated_at": "2026-07-06T19:58:02.385361",
   "total_cnas": 555,
-  "cnas_growth": 54,
-  "cnas_normal": 110,
-  "cnas_declining": 221,
-  "cnas_inactive": 170,
+  "cnas_growth": 55,
+  "cnas_normal": 113,
+  "cnas_declining": 218,
+  "cnas_inactive": 169,
   "top_growth": [
     {
-      "cna_name": "seal",
+      "cna_name": "BombadilSystems",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
@@ -18,13 +18,23 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "openGauss",
+      "cna_name": "STAR_Labs",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "STAR_Labs",
+      "cna_name": "seal",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Ciena",
       "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Caliptra",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -38,24 +48,14 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "BombadilSystems",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Caliptra",
-      "current_count": 2,
+      "cna_name": "openGauss",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
       "cna_name": "zephyr",
       "current_count": 30,
       "deviation_pct": 1127.3
-    },
-    {
-      "cna_name": "rami.io",
-      "current_count": 15,
-      "deviation_pct": 800.0
     }
   ],
   "top_declining": [
@@ -68,11 +68,6 @@
       "cna_name": "hp",
       "current_count": 4,
       "deviation_pct": -9.1
-    },
-    {
-      "cna_name": "ABB",
-      "current_count": 4,
-      "deviation_pct": -16.7
     },
     {
       "cna_name": "Rockwell",
@@ -90,14 +85,19 @@
       "deviation_pct": -43.7
     },
     {
+      "cna_name": "INCIBE",
+      "current_count": 17,
+      "deviation_pct": -48.1
+    },
+    {
       "cna_name": "HCL",
       "current_count": 8,
       "deviation_pct": -50.3
     },
     {
-      "cna_name": "INCIBE",
-      "current_count": 16,
-      "deviation_pct": -51.1
+      "cna_name": "Esri",
+      "current_count": 2,
+      "deviation_pct": -53.3
     },
     {
       "cna_name": "siemens",
@@ -105,9 +105,9 @@
       "deviation_pct": -54.5
     },
     {
-      "cna_name": "ivanti",
-      "current_count": 3,
-      "deviation_pct": -55.4
+      "cna_name": "AMD",
+      "current_count": 7,
+      "deviation_pct": -57.1
     }
   ]
 }
