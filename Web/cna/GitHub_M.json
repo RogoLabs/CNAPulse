@@ -7,10 +7,10 @@
   "scope_type": "",
   "status": "Normal",
   "baseline_avg": 631.75,
-  "current_count": 1108,
-  "deviation_pct": 75.4,
+  "current_count": 1118,
+  "deviation_pct": 77.0,
   "days_since_last_cve": 0,
-  "std_dev": 506.48,
+  "std_dev": 504.18,
   "threshold_low": 315.88,
   "threshold_high": 1579.38,
   "timeline_13months": [
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 1108,
+      "count": 1118,
       "is_current": true
     }
   ]
