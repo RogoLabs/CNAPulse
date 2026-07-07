@@ -5,18 +5,18 @@
   "cna_advisory_url": "https://aws.amazon.com/security/security-bulletins",
   "country": "USA",
   "scope_type": "",
-  "status": "Normal",
-  "baseline_avg": 6.08,
+  "status": "Growth",
+  "baseline_avg": 6.55,
   "current_count": 15,
-  "deviation_pct": 146.6,
+  "deviation_pct": 129.2,
   "days_since_last_cve": 0,
-  "std_dev": 5.3,
-  "threshold_low": 3.04,
-  "threshold_high": 15.21,
+  "std_dev": 5.37,
+  "threshold_low": 3.27,
+  "threshold_high": 16.36,
   "timeline_13months": [
     {
       "month": "Days 390-360",
-      "count": 1,
+      "count": 0,
       "is_current": false
     },
     {
