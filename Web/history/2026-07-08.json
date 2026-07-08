@@ -1,20 +1,15 @@
 {
   "date": "2026-07-08",
-  "generated_at": "2026-07-08T11:04:55.797520",
+  "generated_at": "2026-07-08T14:07:52.524661",
   "total_cnas": 557,
-  "cnas_growth": 60,
-  "cnas_normal": 112,
-  "cnas_declining": 214,
+  "cnas_growth": 62,
+  "cnas_normal": 109,
+  "cnas_declining": 215,
   "cnas_inactive": 171,
   "top_growth": [
     {
-      "cna_name": "openGauss",
+      "cna_name": "STAR_Labs",
       "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "BombadilSystems",
-      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -23,12 +18,7 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Ciena",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Kong",
+      "cna_name": "seal",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
@@ -38,17 +28,27 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "seal",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "STAR_Labs",
+      "cna_name": "openGauss",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "Ciena",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "BombadilSystems",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "Caliptra",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Kong",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
@@ -100,14 +100,14 @@
       "deviation_pct": -31.4
     },
     {
-      "cna_name": "INCIBE",
-      "current_count": 17,
-      "deviation_pct": -48.1
-    },
-    {
       "cna_name": "jpcert",
       "current_count": 12,
       "deviation_pct": -48.2
+    },
+    {
+      "cna_name": "siemens",
+      "current_count": 7,
+      "deviation_pct": -49.7
     }
   ]
 }
