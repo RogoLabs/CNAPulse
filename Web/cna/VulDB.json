@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://vuldb.com/?cna.recent",
   "country": "Switzerland",
   "scope_type": "",
-  "status": "Normal",
-  "baseline_avg": 552.92,
-  "current_count": 346,
-  "deviation_pct": -37.4,
+  "status": "Declining",
+  "baseline_avg": 553.83,
+  "current_count": 335,
+  "deviation_pct": -39.5,
   "days_since_last_cve": 0,
-  "std_dev": 160.99,
-  "threshold_low": 276.46,
-  "threshold_high": 1382.29,
+  "std_dev": 162.27,
+  "threshold_low": 276.92,
+  "threshold_high": 1384.58,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 346,
+      "count": 335,
       "is_current": true
     }
   ]
