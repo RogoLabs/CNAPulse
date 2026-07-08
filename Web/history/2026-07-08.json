@@ -1,10 +1,10 @@
 {
   "date": "2026-07-08",
-  "generated_at": "2026-07-08T05:52:08.861530",
+  "generated_at": "2026-07-08T08:28:41.206288",
   "total_cnas": 557,
-  "cnas_growth": 61,
+  "cnas_growth": 62,
   "cnas_normal": 110,
-  "cnas_declining": 215,
+  "cnas_declining": 214,
   "cnas_inactive": 171,
   "top_growth": [
     {
@@ -13,17 +13,12 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "libreswan",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "STAR_Labs",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "seal",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Kong",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
@@ -43,13 +38,18 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Kong",
-      "current_count": 2,
+      "cna_name": "Secur0",
+      "current_count": 4,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Secur0",
-      "current_count": 4,
+      "cna_name": "libreswan",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "STAR_Labs",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -59,6 +59,11 @@
     }
   ],
   "top_declining": [
+    {
+      "cna_name": "fedora",
+      "current_count": 6,
+      "deviation_pct": 7.7
+    },
     {
       "cna_name": "schneider",
       "current_count": 6,
@@ -70,14 +75,14 @@
       "deviation_pct": -6.7
     },
     {
-      "cna_name": "fedora",
-      "current_count": 6,
-      "deviation_pct": -7.7
-    },
-    {
       "cna_name": "hp",
       "current_count": 4,
       "deviation_pct": -9.1
+    },
+    {
+      "cna_name": "3DS",
+      "current_count": 3,
+      "deviation_pct": -15.6
     },
     {
       "cna_name": "Rockwell",
@@ -95,11 +100,6 @@
       "deviation_pct": -31.4
     },
     {
-      "cna_name": "3DS",
-      "current_count": 2,
-      "deviation_pct": -43.7
-    },
-    {
       "cna_name": "INCIBE",
       "current_count": 17,
       "deviation_pct": -48.1
@@ -107,7 +107,7 @@
     {
       "cna_name": "jpcert",
       "current_count": 12,
-      "deviation_pct": -48.8
+      "deviation_pct": -48.2
     }
   ]
 }

@@ -5,11 +5,11 @@
   "cna_advisory_url": "https://www.foxit.com/support/security.html",
   "country": "USA",
   "scope_type": "",
-  "status": "Declining",
+  "status": "Growth",
   "baseline_avg": 8.5,
-  "current_count": 1,
-  "deviation_pct": -88.2,
-  "days_since_last_cve": 22,
+  "current_count": 29,
+  "deviation_pct": 241.2,
+  "days_since_last_cve": 0,
   "std_dev": 4.93,
   "threshold_low": 4.25,
   "threshold_high": 21.25,
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 1,
+      "count": 29,
       "is_current": true
     }
   ]
