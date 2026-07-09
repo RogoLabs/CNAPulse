@@ -6,13 +6,13 @@
   "country": "Poland",
   "scope_type": "",
   "status": "Growth",
-  "baseline_avg": 19.25,
-  "current_count": 45,
-  "deviation_pct": 133.8,
-  "days_since_last_cve": 6,
-  "std_dev": 12.34,
-  "threshold_low": 9.62,
-  "threshold_high": 48.12,
+  "baseline_avg": 19.58,
+  "current_count": 44,
+  "deviation_pct": 124.7,
+  "days_since_last_cve": 0,
+  "std_dev": 13.06,
+  "threshold_low": 9.79,
+  "threshold_high": 48.96,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 45,
+      "count": 44,
       "is_current": true
     }
   ]
