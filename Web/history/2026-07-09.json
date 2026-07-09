@@ -1,19 +1,29 @@
 {
   "date": "2026-07-09",
-  "generated_at": "2026-07-09T19:46:35.430991",
+  "generated_at": "2026-07-09T22:22:58.472310",
   "total_cnas": 557,
-  "cnas_growth": 56,
+  "cnas_growth": 57,
   "cnas_normal": 109,
-  "cnas_declining": 221,
+  "cnas_declining": 220,
   "cnas_inactive": 171,
   "top_growth": [
     {
-      "cna_name": "BombadilSystems",
+      "cna_name": "seal",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "seal",
+      "cna_name": "libreswan",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "STAR_Labs",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "BombadilSystems",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
@@ -28,27 +38,17 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Kong",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "libreswan",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Ciena",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "openGauss",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "STAR_Labs",
+      "cna_name": "Kong",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Ciena",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -105,9 +105,9 @@
       "deviation_pct": -31.4
     },
     {
-      "cna_name": "VulDB",
-      "current_count": 337,
-      "deviation_pct": -39.2
+      "cna_name": "snyk",
+      "current_count": 2,
+      "deviation_pct": -48.9
     }
   ]
 }
