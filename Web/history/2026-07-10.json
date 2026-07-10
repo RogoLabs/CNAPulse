@@ -1,0 +1,113 @@
+{
+  "date": "2026-07-10",
+  "generated_at": "2026-07-10T03:20:35.177086",
+  "total_cnas": 557,
+  "cnas_growth": 57,
+  "cnas_normal": 107,
+  "cnas_declining": 222,
+  "cnas_inactive": 171,
+  "top_growth": [
+    {
+      "cna_name": "Caliptra",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "libreswan",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Kong",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "STAR_Labs",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "BombadilSystems",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "openGauss",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "seal",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Ciena",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Secur0",
+      "current_count": 4,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "zephyr",
+      "current_count": 29,
+      "deviation_pct": 987.5
+    }
+  ],
+  "top_declining": [
+    {
+      "cna_name": "hp",
+      "current_count": 6,
+      "deviation_pct": 36.4
+    },
+    {
+      "cna_name": "Nozomi",
+      "current_count": 8,
+      "deviation_pct": 12.3
+    },
+    {
+      "cna_name": "fedora",
+      "current_count": 6,
+      "deviation_pct": 7.7
+    },
+    {
+      "cna_name": "Esri",
+      "current_count": 4,
+      "deviation_pct": -6.7
+    },
+    {
+      "cna_name": "3DS",
+      "current_count": 3,
+      "deviation_pct": -15.6
+    },
+    {
+      "cna_name": "ABB",
+      "current_count": 4,
+      "deviation_pct": -16.7
+    },
+    {
+      "cna_name": "Rockwell",
+      "current_count": 7,
+      "deviation_pct": -16.9
+    },
+    {
+      "cna_name": "schneider",
+      "current_count": 5,
+      "deviation_pct": -25.5
+    },
+    {
+      "cna_name": "Zoom",
+      "current_count": 3,
+      "deviation_pct": -31.4
+    },
+    {
+      "cna_name": "snyk",
+      "current_count": 2,
+      "deviation_pct": -48.9
+    }
+  ]
+}
