@@ -6,13 +6,13 @@
   "country": "Luxembourg",
   "scope_type": "",
   "status": "Growth",
-  "baseline_avg": 8.5,
-  "current_count": 29,
-  "deviation_pct": 241.2,
+  "baseline_avg": 9.0,
+  "current_count": 28,
+  "deviation_pct": 211.1,
   "days_since_last_cve": 1,
   "std_dev": null,
-  "threshold_low": 4.25,
-  "threshold_high": 21.25,
+  "threshold_low": 4.5,
+  "threshold_high": 22.5,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 29,
+      "count": 28,
       "is_current": true
     }
   ]
