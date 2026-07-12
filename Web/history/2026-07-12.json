@@ -1,24 +1,29 @@
 {
   "date": "2026-07-12",
-  "generated_at": "2026-07-12T19:06:30.102459",
+  "generated_at": "2026-07-12T21:51:21.901864",
   "total_cnas": 557,
-  "cnas_growth": 53,
+  "cnas_growth": 54,
   "cnas_normal": 107,
-  "cnas_declining": 226,
+  "cnas_declining": 225,
   "cnas_inactive": 171,
   "top_growth": [
+    {
+      "cna_name": "openGauss",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
     {
       "cna_name": "Ciena",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "seal",
-      "current_count": 2,
+      "cna_name": "libreswan",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Caliptra",
+      "cna_name": "BombadilSystems",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
@@ -28,23 +33,18 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "openGauss",
-      "current_count": 1,
+      "cna_name": "Caliptra",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "BombadilSystems",
+      "cna_name": "seal",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
       "cna_name": "Secur0",
       "current_count": 4,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "libreswan",
-      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -63,11 +63,6 @@
       "cna_name": "Nozomi",
       "current_count": 8,
       "deviation_pct": 12.3
-    },
-    {
-      "cna_name": "fedora",
-      "current_count": 6,
-      "deviation_pct": 7.7
     },
     {
       "cna_name": "Esri",
@@ -108,6 +103,11 @@
       "cna_name": "f5",
       "current_count": 6,
       "deviation_pct": -58.6
+    },
+    {
+      "cna_name": "Honeywell",
+      "current_count": 1,
+      "deviation_pct": -60.0
     }
   ]
 }
