@@ -1,15 +1,35 @@
 {
   "date": "2026-07-12",
-  "generated_at": "2026-07-12T08:30:14.377744",
+  "generated_at": "2026-07-12T10:28:45.664584",
   "total_cnas": 557,
   "cnas_growth": 55,
-  "cnas_normal": 107,
-  "cnas_declining": 224,
+  "cnas_normal": 106,
+  "cnas_declining": 225,
   "cnas_inactive": 171,
   "top_growth": [
     {
+      "cna_name": "seal",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "BombadilSystems",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "Secur0",
       "current_count": 4,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Ciena",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Caliptra",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -23,27 +43,7 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "BombadilSystems",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "STAR_Labs",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "seal",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Caliptra",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Ciena",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -102,7 +102,7 @@
     {
       "cna_name": "INCIBE",
       "current_count": 16,
-      "deviation_pct": -50.8
+      "deviation_pct": -50.6
     },
     {
       "cna_name": "arcinfo",
