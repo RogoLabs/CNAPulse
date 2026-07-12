@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://cisa.gov/icsa",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
-  "baseline_avg": 31.92,
-  "current_count": 55,
-  "deviation_pct": 72.3,
+  "status": "Normal",
+  "baseline_avg": 32.08,
+  "current_count": 53,
+  "deviation_pct": 65.2,
   "days_since_last_cve": 1,
-  "std_dev": 18.65,
-  "threshold_low": 15.96,
-  "threshold_high": 79.79,
+  "std_dev": 18.56,
+  "threshold_low": 16.04,
+  "threshold_high": 80.21,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 55,
+      "count": 53,
       "is_current": true
     }
   ]
