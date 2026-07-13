@@ -1,40 +1,15 @@
 {
   "date": "2026-07-13",
-  "generated_at": "2026-07-13T17:13:04.579511",
+  "generated_at": "2026-07-13T19:23:41.626048",
   "total_cnas": 557,
   "cnas_growth": 53,
-  "cnas_normal": 109,
-  "cnas_declining": 223,
+  "cnas_normal": 110,
+  "cnas_declining": 222,
   "cnas_inactive": 172,
   "top_growth": [
     {
-      "cna_name": "openGauss",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Ciena",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "libreswan",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "seal",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "Caliptra",
       "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "STAR_Labs",
-      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -45,6 +20,31 @@
     {
       "cna_name": "Secur0",
       "current_count": 4,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "seal",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "STAR_Labs",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "libreswan",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "openGauss",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Ciena",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
