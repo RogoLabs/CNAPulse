@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://cpl.thalesgroup.com/software-monetization/security-updates",
   "country": "France",
   "scope_type": "",
-  "status": "Declining",
-  "baseline_avg": 1.2,
-  "current_count": 0,
-  "deviation_pct": -100.0,
-  "days_since_last_cve": 66,
-  "std_dev": 0.45,
-  "threshold_low": 0.6,
-  "threshold_high": 3.0,
+  "status": "Normal",
+  "baseline_avg": 1.5,
+  "current_count": 1,
+  "deviation_pct": -33.3,
+  "days_since_last_cve": 0,
+  "std_dev": 0.58,
+  "threshold_low": 0.75,
+  "threshold_high": 3.75,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 0,
+      "count": 1,
       "is_current": true
     }
   ]
