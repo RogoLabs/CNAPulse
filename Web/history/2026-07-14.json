@@ -1,25 +1,15 @@
 {
   "date": "2026-07-14",
-  "generated_at": "2026-07-14T16:15:19.569982",
+  "generated_at": "2026-07-14T19:20:32.186046",
   "total_cnas": 557,
-  "cnas_growth": 53,
+  "cnas_growth": 56,
   "cnas_normal": 120,
-  "cnas_declining": 213,
+  "cnas_declining": 210,
   "cnas_inactive": 171,
   "top_growth": [
     {
-      "cna_name": "seal",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "Caliptra",
       "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Spotfire",
-      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -28,8 +18,28 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "BombadilSystems",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "openGauss",
       "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Spotfire",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "libreswan",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "seal",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -40,16 +50,6 @@
     {
       "cna_name": "STAR_Labs",
       "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "libreswan",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "BombadilSystems",
-      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -67,7 +67,7 @@
     {
       "cna_name": "schneider",
       "current_count": 5,
-      "deviation_pct": -4.3
+      "deviation_pct": 6.4
     },
     {
       "cna_name": "Esri",
