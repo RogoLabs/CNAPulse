@@ -1,34 +1,14 @@
 {
   "date": "2026-07-15",
-  "generated_at": "2026-07-15T13:43:40.344084",
-  "total_cnas": 557,
-  "cnas_growth": 57,
-  "cnas_normal": 118,
+  "generated_at": "2026-07-15T16:22:16.389718",
+  "total_cnas": 559,
+  "cnas_growth": 56,
+  "cnas_normal": 119,
   "cnas_declining": 211,
-  "cnas_inactive": 171,
+  "cnas_inactive": 173,
   "top_growth": [
     {
-      "cna_name": "Ciena",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "BombadilSystems",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "STAR_Labs",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Spotfire",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "openGauss",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -38,13 +18,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Secur0",
-      "current_count": 6,
+      "cna_name": "Spotfire",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "seal",
-      "current_count": 2,
+      "cna_name": "Ciena",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -53,9 +33,29 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "Secur0",
+      "current_count": 6,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "openGauss",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "BombadilSystems",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "seal",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "zephyr",
-      "current_count": 40,
-      "deviation_pct": 1400.0
+      "current_count": 39,
+      "deviation_pct": 1304.0
     }
   ],
   "top_declining": [
@@ -68,6 +68,11 @@
       "cna_name": "schneider",
       "current_count": 5,
       "deviation_pct": 6.4
+    },
+    {
+      "cna_name": "f5",
+      "current_count": 14,
+      "deviation_pct": -3.4
     },
     {
       "cna_name": "Esri",
@@ -103,11 +108,6 @@
       "cna_name": "jpcert",
       "current_count": 12,
       "deviation_pct": -48.2
-    },
-    {
-      "cna_name": "snyk",
-      "current_count": 2,
-      "deviation_pct": -48.9
     }
   ]
 }

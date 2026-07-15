@@ -1,18 +1,18 @@
 {
-  "assigner_id": "1e3a9e0f-5156-4bf8-b8a3-cc311bfc0f4a",
-  "cna_name": "sba-research",
-  "cna_org_name": "SBA Research gGmbH",
-  "cna_advisory_url": "https://github.com/sbaresearch/advisories",
-  "country": "Austria",
+  "assigner_id": "unknown",
+  "cna_name": "tuxcare",
+  "cna_org_name": "Tuxcare Inc.",
+  "cna_advisory_url": "https://tuxcare.com/cve-tracker/",
+  "country": "USA",
   "scope_type": "",
-  "status": "Normal",
-  "baseline_avg": 1.25,
-  "current_count": 1,
-  "deviation_pct": -20.0,
-  "days_since_last_cve": 14,
-  "std_dev": 0.5,
-  "threshold_low": 0.62,
-  "threshold_high": 3.12,
+  "status": "Inactive",
+  "baseline_avg": 0.0,
+  "current_count": 0,
+  "deviation_pct": 0.0,
+  "days_since_last_cve": null,
+  "std_dev": null,
+  "threshold_low": 0.0,
+  "threshold_high": 0.0,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -56,7 +56,7 @@
     },
     {
       "month": "Days 150-120",
-      "count": 2,
+      "count": 0,
       "is_current": false
     },
     {
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 1,
+      "count": 0,
       "is_current": true
     }
   ]
