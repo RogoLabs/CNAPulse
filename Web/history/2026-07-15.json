@@ -1,15 +1,15 @@
 {
   "date": "2026-07-15",
-  "generated_at": "2026-07-15T05:31:55.197355",
+  "generated_at": "2026-07-15T08:10:27.399701",
   "total_cnas": 557,
   "cnas_growth": 58,
-  "cnas_normal": 116,
-  "cnas_declining": 212,
+  "cnas_normal": 117,
+  "cnas_declining": 211,
   "cnas_inactive": 171,
   "top_growth": [
     {
-      "cna_name": "BombadilSystems",
-      "current_count": 2,
+      "cna_name": "Spotfire",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -18,13 +18,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Spotfire",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "libreswan",
-      "current_count": 3,
+      "cna_name": "Caliptra",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -33,7 +28,7 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "openGauss",
+      "cna_name": "STAR_Labs",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -43,13 +38,18 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "STAR_Labs",
-      "current_count": 1,
+      "cna_name": "BombadilSystems",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Caliptra",
-      "current_count": 2,
+      "cna_name": "libreswan",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "openGauss",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -85,11 +85,6 @@
       "deviation_pct": -25.0
     },
     {
-      "cna_name": "jpcert",
-      "current_count": 13,
-      "deviation_pct": -43.7
-    },
-    {
       "cna_name": "sonicwall",
       "current_count": 2,
       "deviation_pct": -44.0
@@ -103,6 +98,11 @@
       "cna_name": "INCIBE",
       "current_count": 17,
       "deviation_pct": -48.0
+    },
+    {
+      "cna_name": "jpcert",
+      "current_count": 12,
+      "deviation_pct": -48.2
     },
     {
       "cna_name": "snyk",
