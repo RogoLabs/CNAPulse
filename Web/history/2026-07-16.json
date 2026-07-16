@@ -1,15 +1,15 @@
 {
   "date": "2026-07-16",
-  "generated_at": "2026-07-16T08:13:55.751555",
+  "generated_at": "2026-07-16T11:00:38.141102",
   "total_cnas": 559,
-  "cnas_growth": 58,
-  "cnas_normal": 115,
+  "cnas_growth": 59,
+  "cnas_normal": 114,
   "cnas_declining": 213,
   "cnas_inactive": 173,
   "top_growth": [
     {
-      "cna_name": "openGauss",
-      "current_count": 1,
+      "cna_name": "Ciena",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -18,12 +18,27 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Spotfire",
+      "cna_name": "openGauss",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
       "cna_name": "STAR_Labs",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "BombadilSystems",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Caliptra",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Spotfire",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -35,21 +50,6 @@
     {
       "cna_name": "libreswan",
       "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Ciena",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Caliptra",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "BombadilSystems",
-      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -85,11 +85,6 @@
       "deviation_pct": -12.5
     },
     {
-      "cna_name": "sonicwall",
-      "current_count": 2,
-      "deviation_pct": -44.0
-    },
-    {
       "cna_name": "zdi",
       "current_count": 26,
       "deviation_pct": -46.5
@@ -108,6 +103,11 @@
       "cna_name": "fedora",
       "current_count": 3,
       "deviation_pct": -51.2
+    },
+    {
+      "cna_name": "sonicwall",
+      "current_count": 2,
+      "deviation_pct": -52.0
     }
   ]
 }
