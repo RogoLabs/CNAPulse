@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://support.google.com/product-documentation/topic/12974021?hl=en&amp;ref_topic=10123615&amp;sjid=5419128013624043298-NA",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
-  "baseline_avg": 13.2,
-  "current_count": 39,
-  "deviation_pct": 195.5,
-  "days_since_last_cve": 29,
-  "std_dev": 11.23,
-  "threshold_low": 6.6,
-  "threshold_high": 33.0,
+  "status": "Declining",
+  "baseline_avg": 17.5,
+  "current_count": 0,
+  "deviation_pct": -100.0,
+  "days_since_last_cve": 30,
+  "std_dev": 14.56,
+  "threshold_low": 8.75,
+  "threshold_high": 43.75,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -71,12 +71,12 @@
     },
     {
       "month": "Days 60-30",
-      "count": 0,
+      "count": 39,
       "is_current": false
     },
     {
       "month": "Last 30 Days",
-      "count": 39,
+      "count": 0,
       "is_current": true
     }
   ]
