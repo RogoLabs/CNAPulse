@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://www.postgresql.org/support/security/",
   "country": "Canada",
   "scope_type": "",
-  "status": "Normal",
+  "status": "Growth",
   "baseline_avg": 5.75,
   "current_count": 8,
   "deviation_pct": 39.1,

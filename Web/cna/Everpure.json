@@ -1,18 +1,18 @@
 {
-  "assigner_id": "3895c224-4e1d-482a-adb3-fa64795683ac",
+  "assigner_id": "unknown",
   "cna_name": "Everpure",
   "cna_org_name": "Everpure, Inc.",
   "cna_advisory_url": "https://support.purestorage.com/bundle/m_security_bulletins/page/Pure_Security/topics/concept/c_security_bulletins.html",
   "country": "USA",
   "scope_type": "",
-  "status": "Declining",
-  "baseline_avg": 1.67,
+  "status": "Inactive",
+  "baseline_avg": 0.0,
   "current_count": 0,
-  "deviation_pct": -100.0,
-  "days_since_last_cve": 36,
-  "std_dev": 0.58,
-  "threshold_low": 0.83,
-  "threshold_high": 4.17,
+  "deviation_pct": 0.0,
+  "days_since_last_cve": null,
+  "std_dev": null,
+  "threshold_low": 0.0,
+  "threshold_high": 0.0,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -41,7 +41,7 @@
     },
     {
       "month": "Days 240-210",
-      "count": 1,
+      "count": 0,
       "is_current": false
     },
     {
@@ -61,7 +61,7 @@
     },
     {
       "month": "Days 120-90",
-      "count": 2,
+      "count": 0,
       "is_current": false
     },
     {
@@ -71,7 +71,7 @@
     },
     {
       "month": "Days 60-30",
-      "count": 2,
+      "count": 0,
       "is_current": false
     },
     {

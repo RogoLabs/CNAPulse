@@ -5,14 +5,14 @@
   "cna_advisory_url": "",
   "country": "",
   "scope_type": "",
-  "status": "Normal",
-  "baseline_avg": 3.17,
-  "current_count": 10,
-  "deviation_pct": 215.8,
-  "days_since_last_cve": 27,
-  "std_dev": 0.98,
-  "threshold_low": 1.58,
-  "threshold_high": 7.92,
+  "status": "Growth",
+  "baseline_avg": 4.6,
+  "current_count": 12,
+  "deviation_pct": 160.9,
+  "days_since_last_cve": 0,
+  "std_dev": 3.13,
+  "threshold_low": 2.3,
+  "threshold_high": 11.5,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -21,32 +21,32 @@
     },
     {
       "month": "Days 360-330",
-      "count": 2,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Days 330-300",
-      "count": 4,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Days 300-270",
-      "count": 0,
-      "is_current": false
-    },
-    {
-      "month": "Days 270-240",
-      "count": 0,
-      "is_current": false
-    },
-    {
-      "month": "Days 240-210",
       "count": 4,
       "is_current": false
     },
     {
-      "month": "Days 210-180",
+      "month": "Days 270-240",
       "count": 2,
+      "is_current": false
+    },
+    {
+      "month": "Days 240-210",
+      "count": 0,
+      "is_current": false
+    },
+    {
+      "month": "Days 210-180",
+      "count": 3,
       "is_current": false
     },
     {
@@ -56,12 +56,12 @@
     },
     {
       "month": "Days 150-120",
-      "count": 3,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Days 120-90",
-      "count": 0,
+      "count": 10,
       "is_current": false
     },
     {
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 10,
+      "count": 12,
       "is_current": true
     }
   ]

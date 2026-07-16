@@ -5,58 +5,58 @@
   "cna_advisory_url": "",
   "country": "",
   "scope_type": "",
-  "status": "Declining",
-  "baseline_avg": 17.58,
-  "current_count": 9,
-  "deviation_pct": -48.8,
-  "days_since_last_cve": 15,
-  "std_dev": 9.66,
-  "threshold_low": 8.79,
-  "threshold_high": 43.96,
+  "status": "Normal",
+  "baseline_avg": 16.0,
+  "current_count": 18,
+  "deviation_pct": 12.5,
+  "days_since_last_cve": 6,
+  "std_dev": 8.92,
+  "threshold_low": 8.0,
+  "threshold_high": 40.0,
   "timeline_13months": [
     {
       "month": "Days 390-360",
-      "count": 30,
-      "is_current": false
-    },
-    {
-      "month": "Days 360-330",
-      "count": 13,
-      "is_current": false
-    },
-    {
-      "month": "Days 330-300",
       "count": 15,
       "is_current": false
     },
     {
-      "month": "Days 300-270",
+      "month": "Days 360-330",
       "count": 16,
       "is_current": false
     },
     {
-      "month": "Days 270-240",
+      "month": "Days 330-300",
       "count": 40,
       "is_current": false
     },
     {
-      "month": "Days 240-210",
+      "month": "Days 300-270",
       "count": 26,
       "is_current": false
     },
     {
-      "month": "Days 210-180",
+      "month": "Days 270-240",
       "count": 8,
       "is_current": false
     },
     {
-      "month": "Days 180-150",
+      "month": "Days 240-210",
       "count": 16,
       "is_current": false
     },
     {
-      "month": "Days 150-120",
+      "month": "Days 210-180",
       "count": 9,
+      "is_current": false
+    },
+    {
+      "month": "Days 180-150",
+      "count": 11,
+      "is_current": false
+    },
+    {
+      "month": "Days 150-120",
+      "count": 17,
       "is_current": false
     },
     {
@@ -66,17 +66,17 @@
     },
     {
       "month": "Days 90-60",
-      "count": 17,
+      "count": 8,
       "is_current": false
     },
     {
       "month": "Days 60-30",
-      "count": 10,
+      "count": 15,
       "is_current": false
     },
     {
       "month": "Last 30 Days",
-      "count": 9,
+      "count": 18,
       "is_current": true
     }
   ]

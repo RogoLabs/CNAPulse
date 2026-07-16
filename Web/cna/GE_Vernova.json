@@ -1,18 +1,18 @@
 {
-  "assigner_id": "2cf0fb33-79e2-44e0-beb8-826cc5ce3250",
+  "assigner_id": "unknown",
   "cna_name": "GE_Vernova",
   "cna_org_name": "GE Vernova",
   "cna_advisory_url": "https://www.gevernova.com/gas-power/products/digital-and-controls/cybersecurity/security-advisories",
   "country": "USA",
   "scope_type": "",
-  "status": "Declining",
-  "baseline_avg": 1.67,
+  "status": "Inactive",
+  "baseline_avg": 0.0,
   "current_count": 0,
-  "deviation_pct": -100.0,
-  "days_since_last_cve": 155,
-  "std_dev": 0.58,
-  "threshold_low": 0.83,
-  "threshold_high": 4.17,
+  "deviation_pct": 0.0,
+  "days_since_last_cve": null,
+  "std_dev": null,
+  "threshold_low": 0.0,
+  "threshold_high": 0.0,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -26,7 +26,7 @@
     },
     {
       "month": "Days 330-300",
-      "count": 1,
+      "count": 0,
       "is_current": false
     },
     {
@@ -36,7 +36,7 @@
     },
     {
       "month": "Days 270-240",
-      "count": 2,
+      "count": 0,
       "is_current": false
     },
     {
@@ -51,7 +51,7 @@
     },
     {
       "month": "Days 180-150",
-      "count": 2,
+      "count": 0,
       "is_current": false
     },
     {

@@ -6,13 +6,13 @@
   "country": "Austria",
   "scope_type": "",
   "status": "Normal",
-  "baseline_avg": 7.22,
-  "current_count": 4,
-  "deviation_pct": -44.6,
+  "baseline_avg": 7.33,
+  "current_count": 3,
+  "deviation_pct": -59.1,
   "days_since_last_cve": 28,
-  "std_dev": 7.58,
-  "threshold_low": 3.61,
-  "threshold_high": 18.06,
+  "std_dev": 7.7,
+  "threshold_low": 3.67,
+  "threshold_high": 18.33,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -71,12 +71,12 @@
     },
     {
       "month": "Days 60-30",
-      "count": 14,
+      "count": 15,
       "is_current": false
     },
     {
       "month": "Last 30 Days",
-      "count": 4,
+      "count": 3,
       "is_current": true
     }
   ]

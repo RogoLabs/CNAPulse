@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://github.com/enisaeu/CNW/tree/main/advisories",
   "country": "Greece",
   "scope_type": "",
-  "status": "Normal",
+  "status": "Declining",
   "baseline_avg": 7.67,
   "current_count": 4,
   "deviation_pct": -47.8,

@@ -1,18 +1,18 @@
 {
-  "assigner_id": "30aa36b7-a224-4bc9-b7d3-abea20aa4887",
-  "cna_name": "CODRA",
-  "cna_org_name": "CODRA",
-  "cna_advisory_url": "https://my.codra.net/en-gb/csirt",
-  "country": "France",
+  "assigner_id": "2b565742-f273-46f9-b583-07c1fcdea31a",
+  "cna_name": "hillstone",
+  "cna_org_name": "Hillstone Networks Inc.",
+  "cna_advisory_url": "https://www.hillstonenet.com.cn/support-and-training/psirt/",
+  "country": "China",
   "scope_type": "",
   "status": "Declining",
-  "baseline_avg": 2.0,
+  "baseline_avg": 1.0,
   "current_count": 0,
   "deviation_pct": -100.0,
-  "days_since_last_cve": 113,
+  "days_since_last_cve": 162,
   "std_dev": null,
-  "threshold_low": 1.0,
-  "threshold_high": 5.0,
+  "threshold_low": 0.5,
+  "threshold_high": 2.5,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -51,12 +51,12 @@
     },
     {
       "month": "Days 180-150",
-      "count": 0,
+      "count": 1,
       "is_current": false
     },
     {
       "month": "Days 150-120",
-      "count": 2,
+      "count": 0,
       "is_current": false
     },
     {
