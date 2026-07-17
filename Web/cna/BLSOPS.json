@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://www.blacklanternsecurity.com/advisories/",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
-  "baseline_avg": 1.6,
-  "current_count": 6,
-  "deviation_pct": 275.0,
+  "status": "Normal",
+  "baseline_avg": 2.4,
+  "current_count": 2,
+  "deviation_pct": -16.7,
   "days_since_last_cve": 9,
-  "std_dev": 1.34,
-  "threshold_low": 0.8,
-  "threshold_high": 4.0,
+  "std_dev": 1.95,
+  "threshold_low": 1.2,
+  "threshold_high": 6.0,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -71,12 +71,12 @@
     },
     {
       "month": "Days 60-30",
-      "count": 1,
+      "count": 5,
       "is_current": false
     },
     {
       "month": "Last 30 Days",
-      "count": 6,
+      "count": 2,
       "is_current": true
     }
   ]
