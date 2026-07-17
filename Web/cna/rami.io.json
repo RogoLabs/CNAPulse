@@ -6,13 +6,13 @@
   "country": "Germany",
   "scope_type": "",
   "status": "Growth",
-  "baseline_avg": 2.2,
+  "baseline_avg": 2.75,
   "current_count": 14,
-  "deviation_pct": 536.4,
+  "deviation_pct": 409.1,
   "days_since_last_cve": 15,
-  "std_dev": 0.84,
-  "threshold_low": 1.1,
-  "threshold_high": 5.5,
+  "std_dev": 0.5,
+  "threshold_low": 1.38,
+  "threshold_high": 6.88,
   "timeline_13months": [
     {
       "month": "Days 390-360",
