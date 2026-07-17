@@ -5,11 +5,11 @@
   "cna_advisory_url": "https://enterprise.github.com/releases",
   "country": "USA",
   "scope_type": "",
-  "status": "Normal",
+  "status": "Growth",
   "baseline_avg": 3.25,
-  "current_count": 4,
-  "deviation_pct": 23.1,
-  "days_since_last_cve": 15,
+  "current_count": 7,
+  "deviation_pct": 115.4,
+  "days_since_last_cve": 0,
   "std_dev": 3.37,
   "threshold_low": 1.62,
   "threshold_high": 8.12,
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 4,
+      "count": 7,
       "is_current": true
     }
   ]
