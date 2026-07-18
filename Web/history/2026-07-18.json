@@ -1,14 +1,24 @@
 {
   "date": "2026-07-18",
-  "generated_at": "2026-07-18T02:29:55.347564",
+  "generated_at": "2026-07-18T05:26:50.147814",
   "total_cnas": 571,
-  "cnas_growth": 63,
-  "cnas_normal": 104,
+  "cnas_growth": 62,
+  "cnas_normal": 105,
   "cnas_declining": 220,
   "cnas_inactive": 184,
   "top_growth": [
     {
-      "cna_name": "Caliptra",
+      "cna_name": "STAR_Labs",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "BombadilSystems",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "illumos",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
@@ -18,28 +28,13 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "Caliptra",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "Spotfire",
       "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "illumos",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "seal",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "openGauss",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "BombadilSystems",
-      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -53,8 +48,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "STAR_Labs",
+      "cna_name": "openGauss",
       "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "seal",
+      "current_count": 2,
       "deviation_pct": 999999.0
     }
   ],
