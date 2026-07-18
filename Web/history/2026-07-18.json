@@ -1,6 +1,6 @@
 {
   "date": "2026-07-18",
-  "generated_at": "2026-07-18T05:26:50.147814",
+  "generated_at": "2026-07-18T07:50:17.794977",
   "total_cnas": 571,
   "cnas_growth": 62,
   "cnas_normal": 105,
@@ -8,8 +8,8 @@
   "cnas_inactive": 184,
   "top_growth": [
     {
-      "cna_name": "STAR_Labs",
-      "current_count": 1,
+      "cna_name": "Caliptra",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -18,28 +18,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "illumos",
+      "cna_name": "seal",
       "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Ciena",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Caliptra",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Spotfire",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "libreswan",
-      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -48,13 +28,33 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "openGauss",
+      "cna_name": "STAR_Labs",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "seal",
+      "cna_name": "Spotfire",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Ciena",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "illumos",
       "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "libreswan",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "openGauss",
+      "current_count": 1,
       "deviation_pct": 999999.0
     }
   ],
@@ -73,11 +73,6 @@
       "cna_name": "NCSC.ch",
       "current_count": 5,
       "deviation_pct": -16.7
-    },
-    {
-      "cna_name": "samsung.tv_appliance",
-      "current_count": 7,
-      "deviation_pct": -38.2
     },
     {
       "cna_name": "HeroDevs",
@@ -108,6 +103,11 @@
       "cna_name": "zdi",
       "current_count": 26,
       "deviation_pct": -51.9
+    },
+    {
+      "cna_name": "sonicwall",
+      "current_count": 2,
+      "deviation_pct": -52.0
     }
   ]
 }
