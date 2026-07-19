@@ -1,9 +1,9 @@
 {
   "date": "2026-07-19",
-  "generated_at": "2026-07-19T19:06:36.367678",
+  "generated_at": "2026-07-19T21:53:34.388231",
   "total_cnas": 571,
-  "cnas_growth": 58,
-  "cnas_normal": 101,
+  "cnas_growth": 57,
+  "cnas_normal": 102,
   "cnas_declining": 227,
   "cnas_inactive": 185,
   "top_growth": [
@@ -13,7 +13,7 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "STAR_Labs",
+      "cna_name": "openGauss",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -23,17 +23,17 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "illumos",
-      "current_count": 2,
+      "cna_name": "Ciena",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "seal",
-      "current_count": 2,
+      "cna_name": "STAR_Labs",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "openGauss",
+      "cna_name": "Spotfire",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -48,13 +48,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Ciena",
-      "current_count": 3,
+      "cna_name": "seal",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Spotfire",
-      "current_count": 1,
+      "cna_name": "illumos",
+      "current_count": 2,
       "deviation_pct": 999999.0
     }
   ],
