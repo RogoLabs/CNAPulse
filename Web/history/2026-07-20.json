@@ -1,0 +1,113 @@
+{
+  "date": "2026-07-20",
+  "generated_at": "2026-07-20T02:58:02.064701",
+  "total_cnas": 571,
+  "cnas_growth": 58,
+  "cnas_normal": 101,
+  "cnas_declining": 227,
+  "cnas_inactive": 185,
+  "top_growth": [
+    {
+      "cna_name": "openGauss",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "illumos",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "BombadilSystems",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Caliptra",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Spotfire",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "seal",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Secur0",
+      "current_count": 7,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "libreswan",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "STAR_Labs",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Ciena",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    }
+  ],
+  "top_declining": [
+    {
+      "cna_name": "Zoom",
+      "current_count": 4,
+      "deviation_pct": 5.3
+    },
+    {
+      "cna_name": "Esri",
+      "current_count": 4,
+      "deviation_pct": -20.0
+    },
+    {
+      "cna_name": "HeroDevs",
+      "current_count": 1,
+      "deviation_pct": -30.0
+    },
+    {
+      "cna_name": "huawei",
+      "current_count": 11,
+      "deviation_pct": -48.1
+    },
+    {
+      "cna_name": "microfocus",
+      "current_count": 2,
+      "deviation_pct": -50.0
+    },
+    {
+      "cna_name": "zdi",
+      "current_count": 26,
+      "deviation_pct": -51.9
+    },
+    {
+      "cna_name": "jpcert",
+      "current_count": 11,
+      "deviation_pct": -52.2
+    },
+    {
+      "cna_name": "f5",
+      "current_count": 8,
+      "deviation_pct": -54.1
+    },
+    {
+      "cna_name": "Hitachi Energy",
+      "current_count": 1,
+      "deviation_pct": -54.5
+    },
+    {
+      "cna_name": "arcinfo",
+      "current_count": 2,
+      "deviation_pct": -55.6
+    }
+  ]
+}
