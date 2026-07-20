@@ -1,30 +1,15 @@
 {
   "date": "2026-07-20",
-  "generated_at": "2026-07-20T06:19:49.491779",
+  "generated_at": "2026-07-20T11:45:49.236534",
   "total_cnas": 571,
   "cnas_growth": 58,
-  "cnas_normal": 101,
-  "cnas_declining": 227,
+  "cnas_normal": 102,
+  "cnas_declining": 226,
   "cnas_inactive": 185,
   "top_growth": [
     {
-      "cna_name": "seal",
+      "cna_name": "Caliptra",
       "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "illumos",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Secur0",
-      "current_count": 7,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "STAR_Labs",
-      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -38,13 +23,28 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Caliptra",
+      "cna_name": "Ciena",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "seal",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "BombadilSystems",
+      "cna_name": "Secur0",
+      "current_count": 7,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "illumos",
       "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "STAR_Labs",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -53,8 +53,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Ciena",
-      "current_count": 3,
+      "cna_name": "BombadilSystems",
+      "current_count": 2,
       "deviation_pct": 999999.0
     }
   ],
@@ -85,14 +85,14 @@
       "deviation_pct": -50.0
     },
     {
+      "cna_name": "jpcert",
+      "current_count": 11,
+      "deviation_pct": -51.8
+    },
+    {
       "cna_name": "zdi",
       "current_count": 26,
       "deviation_pct": -51.9
-    },
-    {
-      "cna_name": "jpcert",
-      "current_count": 11,
-      "deviation_pct": -52.0
     },
     {
       "cna_name": "f5",
