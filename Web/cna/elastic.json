@@ -6,13 +6,13 @@
   "country": "Netherlands",
   "scope_type": "",
   "status": "Normal",
-  "baseline_avg": 5.36,
+  "baseline_avg": 5.8,
   "current_count": 9,
-  "deviation_pct": 67.8,
+  "deviation_pct": 55.2,
   "days_since_last_cve": 18,
-  "std_dev": 4.2,
-  "threshold_low": 2.68,
-  "threshold_high": 13.41,
+  "std_dev": 4.16,
+  "threshold_low": 2.9,
+  "threshold_high": 14.5,
   "timeline_13months": [
     {
       "month": "Days 390-360",
