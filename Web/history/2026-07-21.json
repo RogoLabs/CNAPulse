@@ -1,9 +1,9 @@
 {
   "date": "2026-07-21",
-  "generated_at": "2026-07-21T05:51:26.559673",
+  "generated_at": "2026-07-21T08:29:12.435865",
   "total_cnas": 571,
-  "cnas_growth": 58,
-  "cnas_normal": 108,
+  "cnas_growth": 59,
+  "cnas_normal": 107,
   "cnas_declining": 220,
   "cnas_inactive": 185,
   "top_growth": [
@@ -23,17 +23,17 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "openGauss",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Secur0",
-      "current_count": 8,
+      "cna_name": "seal",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
       "cna_name": "Spotfire",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "openGauss",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -43,18 +43,18 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "seal",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Caliptra",
-      "current_count": 2,
+      "cna_name": "Secur0",
+      "current_count": 8,
       "deviation_pct": 999999.0
     },
     {
       "cna_name": "STAR_Labs",
       "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Caliptra",
+      "current_count": 2,
       "deviation_pct": 999999.0
     }
   ],
@@ -75,9 +75,14 @@
       "deviation_pct": -40.0
     },
     {
+      "cna_name": "Tribe29",
+      "current_count": 2,
+      "deviation_pct": -44.4
+    },
+    {
       "cna_name": "jpcert",
       "current_count": 12,
-      "deviation_pct": -47.4
+      "deviation_pct": -47.1
     },
     {
       "cna_name": "zdi",
@@ -103,11 +108,6 @@
       "cna_name": "Hitachi Energy",
       "current_count": 1,
       "deviation_pct": -54.5
-    },
-    {
-      "cna_name": "arcinfo",
-      "current_count": 2,
-      "deviation_pct": -55.6
     }
   ]
 }
