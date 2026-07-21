@@ -1,27 +1,27 @@
 {
-  "assigner_id": "e51fbebd-6053-4e49-959f-1b94eeb69a2c",
-  "cna_name": "eclipse",
-  "cna_org_name": "Eclipse Foundation",
-  "cna_advisory_url": "https://www.eclipse.org/security/known.php",
-  "country": "Belgium",
+  "assigner_id": "unknown",
+  "cna_name": "AISLE",
+  "cna_org_name": "AISLE Incorporated",
+  "cna_advisory_url": "https://aisle.com/cve-discoveries",
+  "country": "Netherlands",
   "scope_type": "",
-  "status": "Growth",
-  "baseline_avg": 5.45,
-  "current_count": 22,
-  "deviation_pct": 303.3,
-  "days_since_last_cve": 0,
-  "std_dev": 6.35,
-  "threshold_low": 2.73,
-  "threshold_high": 13.64,
+  "status": "Inactive",
+  "baseline_avg": 0.0,
+  "current_count": 0,
+  "deviation_pct": 0.0,
+  "days_since_last_cve": null,
+  "std_dev": null,
+  "threshold_low": 0.0,
+  "threshold_high": 0.0,
   "timeline_13months": [
     {
       "month": "Days 390-360",
-      "count": 7,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Days 360-330",
-      "count": 1,
+      "count": 0,
       "is_current": false
     },
     {
@@ -31,22 +31,22 @@
     },
     {
       "month": "Days 300-270",
-      "count": 23,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Days 270-240",
-      "count": 1,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Days 240-210",
-      "count": 2,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Days 210-180",
-      "count": 6,
+      "count": 0,
       "is_current": false
     },
     {
@@ -56,27 +56,27 @@
     },
     {
       "month": "Days 150-120",
-      "count": 4,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Days 120-90",
-      "count": 3,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Days 90-60",
-      "count": 6,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Days 60-30",
-      "count": 6,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Last 30 Days",
-      "count": 22,
+      "count": 0,
       "is_current": true
     }
   ]
