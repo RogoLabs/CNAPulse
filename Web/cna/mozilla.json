@@ -5,11 +5,11 @@
   "cna_advisory_url": "https://www.mozilla.org/en-US/security/advisories/",
   "country": "USA",
   "scope_type": "",
-  "status": "Declining",
+  "status": "Normal",
   "baseline_avg": 30.58,
-  "current_count": 7,
-  "deviation_pct": -77.1,
-  "days_since_last_cve": 6,
+  "current_count": 71,
+  "deviation_pct": 132.2,
+  "days_since_last_cve": 0,
   "std_dev": 25.96,
   "threshold_low": 15.29,
   "threshold_high": 76.46,
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 7,
+      "count": 71,
       "is_current": true
     }
   ]
