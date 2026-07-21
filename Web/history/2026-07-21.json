@@ -1,11 +1,11 @@
 {
   "date": "2026-07-21",
-  "generated_at": "2026-07-21T19:22:28.871443",
+  "generated_at": "2026-07-21T22:03:57.102812",
   "total_cnas": 574,
-  "cnas_growth": 61,
-  "cnas_normal": 107,
-  "cnas_declining": 218,
-  "cnas_inactive": 188,
+  "cnas_growth": 63,
+  "cnas_normal": 108,
+  "cnas_declining": 214,
+  "cnas_inactive": 189,
   "top_growth": [
     {
       "cna_name": "Secur0",
@@ -13,18 +13,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "openGauss",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "libreswan",
+      "cna_name": "Ciena",
       "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "STAR_Labs",
-      "current_count": 1,
+      "cna_name": "illumos",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -38,18 +33,23 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "openGauss",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "STAR_Labs",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "libreswan",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "seal",
       "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "illumos",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Ciena",
-      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -80,6 +80,11 @@
       "deviation_pct": -40.0
     },
     {
+      "cna_name": "zdi",
+      "current_count": 26,
+      "deviation_pct": -41.7
+    },
+    {
       "cna_name": "Tribe29",
       "current_count": 2,
       "deviation_pct": -44.4
@@ -93,11 +98,6 @@
       "cna_name": "jpcert",
       "current_count": 12,
       "deviation_pct": -47.1
-    },
-    {
-      "cna_name": "zdi",
-      "current_count": 26,
-      "deviation_pct": -47.5
     },
     {
       "cna_name": "huawei",
