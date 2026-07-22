@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://www.asrg.io/security-advisories/",
   "country": "USA",
   "scope_type": "",
-  "status": "Normal",
+  "status": "Declining",
   "baseline_avg": 5.33,
   "current_count": 1,
   "deviation_pct": -81.2,

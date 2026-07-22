@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://lore.kernel.org/linux-cve-announce/",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
+  "status": "Normal",
   "baseline_avg": 446.25,
   "current_count": 895,
   "deviation_pct": 100.6,
