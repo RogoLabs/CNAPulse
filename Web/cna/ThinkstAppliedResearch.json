@@ -6,13 +6,13 @@
   "country": "South Africa",
   "scope_type": "",
   "status": "Normal",
-  "baseline_avg": 2.0,
+  "baseline_avg": 3.0,
   "current_count": 2,
-  "deviation_pct": 0.0,
-  "days_since_last_cve": 27,
+  "deviation_pct": -33.3,
+  "days_since_last_cve": 0,
   "std_dev": null,
-  "threshold_low": 1.0,
-  "threshold_high": 5.0,
+  "threshold_low": 1.5,
+  "threshold_high": 7.5,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -71,7 +71,7 @@
     },
     {
       "month": "Days 60-30",
-      "count": 2,
+      "count": 3,
       "is_current": false
     },
     {
