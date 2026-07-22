@@ -1,50 +1,20 @@
 {
   "date": "2026-07-22",
-  "generated_at": "2026-07-22T08:29:46.956352",
+  "generated_at": "2026-07-22T11:10:32.990533",
   "total_cnas": 574,
   "cnas_growth": 64,
-  "cnas_normal": 106,
-  "cnas_declining": 215,
+  "cnas_normal": 107,
+  "cnas_declining": 214,
   "cnas_inactive": 189,
   "top_growth": [
-    {
-      "cna_name": "BombadilSystems",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Spotfire",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "STAR_Labs",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
     {
       "cna_name": "libreswan",
       "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Caliptra",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "openGauss",
+      "cna_name": "STAR_Labs",
       "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Ciena",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "illumos",
-      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -55,6 +25,36 @@
     {
       "cna_name": "Secur0",
       "current_count": 8,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Caliptra",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Spotfire",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "openGauss",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "BombadilSystems",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Ciena",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "illumos",
+      "current_count": 2,
       "deviation_pct": 999999.0
     }
   ],
@@ -90,11 +90,6 @@
       "deviation_pct": -44.4
     },
     {
-      "cna_name": "NCSC.ch",
-      "current_count": 3,
-      "deviation_pct": -47.1
-    },
-    {
       "cna_name": "huawei",
       "current_count": 11,
       "deviation_pct": -48.1
@@ -108,6 +103,11 @@
       "cna_name": "f5",
       "current_count": 8,
       "deviation_pct": -54.1
+    },
+    {
+      "cna_name": "Hitachi Energy",
+      "current_count": 1,
+      "deviation_pct": -54.5
     }
   ]
 }
