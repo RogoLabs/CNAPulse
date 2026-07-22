@@ -1,22 +1,22 @@
 {
-  "assigner_id": "unknown",
+  "assigner_id": "b6533044-ea05-4482-8458-7bddeca0d079",
   "cna_name": "Absolute",
   "cna_org_name": "Absolute Software",
   "cna_advisory_url": "https://www.absolute.com/platform/security-information/vulnerability-archive/",
   "country": "USA",
   "scope_type": "",
-  "status": "Inactive",
-  "baseline_avg": 0.0,
-  "current_count": 0,
-  "deviation_pct": 0.0,
-  "days_since_last_cve": null,
-  "std_dev": null,
-  "threshold_low": 0.0,
-  "threshold_high": 0.0,
+  "status": "Growth",
+  "baseline_avg": 4.6,
+  "current_count": 12,
+  "deviation_pct": 160.9,
+  "days_since_last_cve": 6,
+  "std_dev": 3.13,
+  "threshold_low": 2.3,
+  "threshold_high": 11.5,
   "timeline_13months": [
     {
       "month": "Days 390-360",
-      "count": 0,
+      "count": 4,
       "is_current": false
     },
     {
@@ -31,12 +31,12 @@
     },
     {
       "month": "Days 300-270",
-      "count": 0,
+      "count": 4,
       "is_current": false
     },
     {
       "month": "Days 270-240",
-      "count": 0,
+      "count": 2,
       "is_current": false
     },
     {
@@ -46,7 +46,7 @@
     },
     {
       "month": "Days 210-180",
-      "count": 0,
+      "count": 3,
       "is_current": false
     },
     {
@@ -61,7 +61,7 @@
     },
     {
       "month": "Days 120-90",
-      "count": 0,
+      "count": 10,
       "is_current": false
     },
     {
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 0,
+      "count": 12,
       "is_current": true
     }
   ]

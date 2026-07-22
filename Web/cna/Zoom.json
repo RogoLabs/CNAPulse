@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://zoom.us/trust/security/security-bulletin",
   "country": "USA",
   "scope_type": "",
-  "status": "Declining",
+  "status": "Normal",
   "baseline_avg": 3.8,
   "current_count": 4,
   "deviation_pct": 5.3,
