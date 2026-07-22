@@ -1,20 +1,15 @@
 {
   "date": "2026-07-22",
-  "generated_at": "2026-07-22T16:20:20.645846",
-  "total_cnas": 571,
+  "generated_at": "2026-07-22T19:20:00.965471",
+  "total_cnas": 574,
   "cnas_growth": 64,
-  "cnas_normal": 114,
-  "cnas_declining": 208,
-  "cnas_inactive": 185,
+  "cnas_normal": 110,
+  "cnas_declining": 212,
+  "cnas_inactive": 188,
   "top_growth": [
     {
-      "cna_name": "illumos",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Secur0",
-      "current_count": 8,
+      "cna_name": "seal",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -28,8 +23,28 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "illumos",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Caliptra",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Ciena",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "Spotfire",
       "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "libreswan",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -38,31 +53,36 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Caliptra",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "openGauss",
       "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "seal",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "libreswan",
-      "current_count": 3,
       "deviation_pct": 999999.0
     }
   ],
   "top_declining": [
     {
-      "cna_name": "samsung.tv_appliance",
-      "current_count": 7,
-      "deviation_pct": -38.2
+      "cna_name": "OX",
+      "current_count": 14,
+      "deviation_pct": 50.8
+    },
+    {
+      "cna_name": "Zoom",
+      "current_count": 4,
+      "deviation_pct": 5.3
+    },
+    {
+      "cna_name": "Esri",
+      "current_count": 4,
+      "deviation_pct": -6.7
+    },
+    {
+      "cna_name": "netapp",
+      "current_count": 1,
+      "deviation_pct": -36.4
+    },
+    {
+      "cna_name": "HeroDevs",
+      "current_count": 1,
+      "deviation_pct": -40.0
     },
     {
       "cna_name": "Tribe29",
@@ -70,44 +90,24 @@
       "deviation_pct": -44.4
     },
     {
-      "cna_name": "CSA",
-      "current_count": 1,
+      "cna_name": "huawei",
+      "current_count": 11,
+      "deviation_pct": -48.1
+    },
+    {
+      "cna_name": "microfocus",
+      "current_count": 2,
       "deviation_pct": -50.0
     },
     {
-      "cna_name": "OpenText",
-      "current_count": 2,
-      "deviation_pct": -50.0
+      "cna_name": "f5",
+      "current_count": 8,
+      "deviation_pct": -54.1
     },
     {
       "cna_name": "Hitachi Energy",
       "current_count": 1,
       "deviation_pct": -54.5
-    },
-    {
-      "cna_name": "arcinfo",
-      "current_count": 2,
-      "deviation_pct": -55.6
-    },
-    {
-      "cna_name": "Supermicro",
-      "current_count": 1,
-      "deviation_pct": -60.0
-    },
-    {
-      "cna_name": "Honeywell",
-      "current_count": 1,
-      "deviation_pct": -60.0
-    },
-    {
-      "cna_name": "TCS-CERT",
-      "current_count": 1,
-      "deviation_pct": -60.0
-    },
-    {
-      "cna_name": "facebook",
-      "current_count": 1,
-      "deviation_pct": -60.9
     }
   ]
 }

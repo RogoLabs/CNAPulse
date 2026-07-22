@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://www.huawei.com/en/psirt/all-bulletins",
   "country": "China",
   "scope_type": "",
-  "status": "Normal",
+  "status": "Declining",
   "baseline_avg": 21.18,
   "current_count": 11,
   "deviation_pct": -48.1,
