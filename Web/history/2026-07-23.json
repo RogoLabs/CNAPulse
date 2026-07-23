@@ -1,50 +1,20 @@
 {
   "date": "2026-07-23",
-  "generated_at": "2026-07-23T05:54:39.003643",
+  "generated_at": "2026-07-23T08:31:02.903070",
   "total_cnas": 574,
-  "cnas_growth": 66,
-  "cnas_normal": 109,
-  "cnas_declining": 211,
+  "cnas_growth": 65,
+  "cnas_normal": 112,
+  "cnas_declining": 209,
   "cnas_inactive": 188,
   "top_growth": [
-    {
-      "cna_name": "Secur0",
-      "current_count": 8,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "illumos",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "libreswan",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "seal",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "FTI",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
     {
       "cna_name": "STAR_Labs",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Ciena",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "openGauss",
-      "current_count": 1,
+      "cna_name": "BombadilSystems",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -53,16 +23,46 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "BombadilSystems",
+      "cna_name": "FTI",
       "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "openGauss",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "seal",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "libreswan",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "illumos",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Caliptra",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Secur0",
+      "current_count": 8,
       "deviation_pct": 999999.0
     }
   ],
   "top_declining": [
     {
       "cna_name": "OX",
-      "current_count": 14,
-      "deviation_pct": 50.8
+      "current_count": 17,
+      "deviation_pct": 83.1
     },
     {
       "cna_name": "Zoom",
