@@ -1,12 +1,32 @@
 {
   "date": "2026-07-24",
-  "generated_at": "2026-07-24T02:40:38.786663",
-  "total_cnas": 574,
-  "cnas_growth": 64,
-  "cnas_normal": 111,
-  "cnas_declining": 211,
-  "cnas_inactive": 188,
+  "generated_at": "2026-07-24T05:50:40.111960",
+  "total_cnas": 571,
+  "cnas_growth": 60,
+  "cnas_normal": 120,
+  "cnas_declining": 206,
+  "cnas_inactive": 185,
   "top_growth": [
+    {
+      "cna_name": "Spotfire",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "illumos",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Secur0",
+      "current_count": 8,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "BombadilSystems",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
     {
       "cna_name": "Ciena",
       "current_count": 3,
@@ -18,23 +38,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "illumos",
+      "cna_name": "FTI",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "STAR_Labs",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "BombadilSystems",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Secur0",
-      "current_count": 8,
+      "cna_name": "seal",
+      "current_count": 4,
       "deviation_pct": 999999.0
     },
     {
@@ -43,36 +53,16 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "FTI",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Spotfire",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "seal",
-      "current_count": 4,
-      "deviation_pct": 999999.0
+      "cna_name": "oracle",
+      "current_count": 1108,
+      "deviation_pct": 1377.3
     }
   ],
   "top_declining": [
     {
-      "cna_name": "OX",
-      "current_count": 17,
-      "deviation_pct": 83.1
-    },
-    {
-      "cna_name": "Zoom",
+      "cna_name": "GoogleCloud",
       "current_count": 4,
-      "deviation_pct": 5.3
-    },
-    {
-      "cna_name": "Esri",
-      "current_count": 4,
-      "deviation_pct": -6.7
+      "deviation_pct": 21.2
     },
     {
       "cna_name": "facebook",
@@ -85,29 +75,39 @@
       "deviation_pct": -36.4
     },
     {
-      "cna_name": "HeroDevs",
-      "current_count": 1,
-      "deviation_pct": -40.0
-    },
-    {
       "cna_name": "Tribe29",
       "current_count": 2,
       "deviation_pct": -44.4
     },
     {
-      "cna_name": "huawei",
-      "current_count": 11,
-      "deviation_pct": -48.1
+      "cna_name": "CSA",
+      "current_count": 1,
+      "deviation_pct": -50.0
     },
     {
-      "cna_name": "PSF",
-      "current_count": 2,
-      "deviation_pct": -48.8
-    },
-    {
-      "cna_name": "microfocus",
+      "cna_name": "OpenText",
       "current_count": 2,
       "deviation_pct": -50.0
+    },
+    {
+      "cna_name": "Hitachi Energy",
+      "current_count": 1,
+      "deviation_pct": -54.5
+    },
+    {
+      "cna_name": "arcinfo",
+      "current_count": 2,
+      "deviation_pct": -55.6
+    },
+    {
+      "cna_name": "Supermicro",
+      "current_count": 1,
+      "deviation_pct": -60.0
+    },
+    {
+      "cna_name": "TCS-CERT",
+      "current_count": 1,
+      "deviation_pct": -60.0
     }
   ]
 }
