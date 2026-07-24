@@ -1,19 +1,44 @@
 {
   "date": "2026-07-24",
-  "generated_at": "2026-07-24T08:28:02.918885",
+  "generated_at": "2026-07-24T11:03:22.883113",
   "total_cnas": 571,
-  "cnas_growth": 59,
+  "cnas_growth": 58,
   "cnas_normal": 120,
-  "cnas_declining": 207,
+  "cnas_declining": 208,
   "cnas_inactive": 185,
   "top_growth": [
+    {
+      "cna_name": "libreswan",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "FTI",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "seal",
+      "current_count": 4,
+      "deviation_pct": 999999.0
+    },
     {
       "cna_name": "Ciena",
       "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "Spotfire",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "BombadilSystems",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "illumos",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
@@ -23,39 +48,14 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Secur0",
-      "current_count": 8,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "illumos",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "libreswan",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "seal",
-      "current_count": 4,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Spotfire",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "FTI",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "oracle",
       "current_count": 1108,
       "deviation_pct": 1377.3
+    },
+    {
+      "cna_name": "SNOWFLAKE",
+      "current_count": 13,
+      "deviation_pct": 1200.0
     }
   ],
   "top_declining": [
@@ -68,6 +68,11 @@
       "cna_name": "facebook",
       "current_count": 2,
       "deviation_pct": -21.7
+    },
+    {
+      "cna_name": "Google",
+      "current_count": 3,
+      "deviation_pct": -28.3
     },
     {
       "cna_name": "netapp",
@@ -101,11 +106,6 @@
     },
     {
       "cna_name": "Supermicro",
-      "current_count": 1,
-      "deviation_pct": -60.0
-    },
-    {
-      "cna_name": "TCS-CERT",
       "current_count": 1,
       "deviation_pct": -60.0
     }
