@@ -1,15 +1,40 @@
 {
   "date": "2026-07-24",
-  "generated_at": "2026-07-24T13:45:45.643610",
+  "generated_at": "2026-07-24T16:42:47.282532",
   "total_cnas": 571,
-  "cnas_growth": 55,
-  "cnas_normal": 121,
-  "cnas_declining": 210,
+  "cnas_growth": 53,
+  "cnas_normal": 122,
+  "cnas_declining": 211,
   "cnas_inactive": 185,
   "top_growth": [
     {
+      "cna_name": "seal",
+      "current_count": 4,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "FTI",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "BombadilSystems",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Ciena",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "illumos",
       "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "openGauss",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -20,31 +45,6 @@
     {
       "cna_name": "libreswan",
       "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "FTI",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "seal",
-      "current_count": 4,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "openGauss",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Ciena",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "BombadilSystems",
-      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -90,11 +90,6 @@
       "deviation_pct": -50.0
     },
     {
-      "cna_name": "OpenText",
-      "current_count": 2,
-      "deviation_pct": -50.0
-    },
-    {
       "cna_name": "arcinfo",
       "current_count": 2,
       "deviation_pct": -55.6
@@ -106,6 +101,11 @@
     },
     {
       "cna_name": "TCS-CERT",
+      "current_count": 1,
+      "deviation_pct": -60.0
+    },
+    {
+      "cna_name": "Octopus",
       "current_count": 1,
       "deviation_pct": -60.0
     }
