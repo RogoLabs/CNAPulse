@@ -1,14 +1,39 @@
 {
   "date": "2026-07-24",
-  "generated_at": "2026-07-24T19:25:18.148977",
+  "generated_at": "2026-07-24T22:04:47.585968",
   "total_cnas": 571,
   "cnas_growth": 54,
-  "cnas_normal": 121,
-  "cnas_declining": 211,
+  "cnas_normal": 119,
+  "cnas_declining": 213,
   "cnas_inactive": 185,
   "top_growth": [
     {
-      "cna_name": "illumos",
+      "cna_name": "openGauss",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "libreswan",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Ciena",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "seal",
+      "current_count": 4,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "BombadilSystems",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "FTI",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
@@ -18,32 +43,7 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Ciena",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "openGauss",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "BombadilSystems",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "seal",
-      "current_count": 4,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "libreswan",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "FTI",
+      "cna_name": "illumos",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
@@ -80,6 +80,11 @@
       "deviation_pct": -36.4
     },
     {
+      "cna_name": "sonicwall",
+      "current_count": 2,
+      "deviation_pct": -44.0
+    },
+    {
       "cna_name": "Tribe29",
       "current_count": 2,
       "deviation_pct": -44.4
@@ -101,11 +106,6 @@
     },
     {
       "cna_name": "TCS-CERT",
-      "current_count": 1,
-      "deviation_pct": -60.0
-    },
-    {
-      "cna_name": "Octopus",
       "current_count": 1,
       "deviation_pct": -60.0
     }
