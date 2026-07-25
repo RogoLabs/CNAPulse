@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://community.silabs.com/s/alert/Alert__c/00B1M000009sQ4R",
   "country": "USA",
   "scope_type": "",
-  "status": "Normal",
-  "baseline_avg": 2.2,
-  "current_count": 15,
-  "deviation_pct": 581.8,
+  "status": "Declining",
+  "baseline_avg": 3.5,
+  "current_count": 2,
+  "deviation_pct": -42.9,
   "days_since_last_cve": 1,
-  "std_dev": 1.93,
-  "threshold_low": 1.1,
-  "threshold_high": 5.5,
+  "std_dev": 4.14,
+  "threshold_low": 1.75,
+  "threshold_high": 8.75,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -71,12 +71,12 @@
     },
     {
       "month": "Days 60-30",
-      "count": 0,
+      "count": 13,
       "is_current": false
     },
     {
       "month": "Last 30 Days",
-      "count": 15,
+      "count": 2,
       "is_current": true
     }
   ]
