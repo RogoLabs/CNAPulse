@@ -1,20 +1,30 @@
 {
   "date": "2026-07-25",
-  "generated_at": "2026-07-25T19:07:22.315948",
+  "generated_at": "2026-07-25T21:56:34.607200",
   "total_cnas": 571,
-  "cnas_growth": 45,
-  "cnas_normal": 122,
-  "cnas_declining": 219,
+  "cnas_growth": 43,
+  "cnas_normal": 123,
+  "cnas_declining": 220,
   "cnas_inactive": 185,
   "top_growth": [
     {
-      "cna_name": "illumos",
+      "cna_name": "FTI",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
       "cna_name": "Spotfire",
       "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Ciena",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "illumos",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -28,23 +38,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Ciena",
+      "cna_name": "libreswan",
       "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
       "cna_name": "openGauss",
       "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "FTI",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "libreswan",
-      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
