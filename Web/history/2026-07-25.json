@@ -1,34 +1,14 @@
 {
   "date": "2026-07-25",
-  "generated_at": "2026-07-25T16:04:49.461152",
+  "generated_at": "2026-07-25T19:07:22.315948",
   "total_cnas": 571,
-  "cnas_growth": 47,
-  "cnas_normal": 121,
-  "cnas_declining": 218,
+  "cnas_growth": 45,
+  "cnas_normal": 122,
+  "cnas_declining": 219,
   "cnas_inactive": 185,
   "top_growth": [
     {
-      "cna_name": "openGauss",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "seal",
-      "current_count": 4,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "libreswan",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "FTI",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "BombadilSystems",
+      "cna_name": "illumos",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
@@ -38,12 +18,32 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "illumos",
+      "cna_name": "seal",
+      "current_count": 4,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "BombadilSystems",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
       "cna_name": "Ciena",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "openGauss",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "FTI",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "libreswan",
       "current_count": 3,
       "deviation_pct": 999999.0
     },
@@ -75,14 +75,14 @@
       "deviation_pct": -28.3
     },
     {
+      "cna_name": "cisco",
+      "current_count": 18,
+      "deviation_pct": -34.9
+    },
+    {
       "cna_name": "netapp",
       "current_count": 1,
       "deviation_pct": -36.4
-    },
-    {
-      "cna_name": "Silabs",
-      "current_count": 2,
-      "deviation_pct": -42.9
     },
     {
       "cna_name": "sonicwall",

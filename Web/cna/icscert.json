@@ -6,13 +6,13 @@
   "country": "USA",
   "scope_type": "",
   "status": "Normal",
-  "baseline_avg": 31.58,
-  "current_count": 65,
-  "deviation_pct": 105.8,
+  "baseline_avg": 31.75,
+  "current_count": 63,
+  "deviation_pct": 98.4,
   "days_since_last_cve": 0,
-  "std_dev": 17.31,
-  "threshold_low": 15.79,
-  "threshold_high": 78.96,
+  "std_dev": 17.26,
+  "threshold_low": 15.88,
+  "threshold_high": 79.38,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -71,12 +71,12 @@
     },
     {
       "month": "Days 60-30",
-      "count": 17,
+      "count": 19,
       "is_current": false
     },
     {
       "month": "Last 30 Days",
-      "count": 65,
+      "count": 63,
       "is_current": true
     }
   ]
