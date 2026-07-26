@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://security.nozominetworks.com/",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
-  "baseline_avg": 6.33,
-  "current_count": 8,
-  "deviation_pct": 26.3,
+  "status": "Normal",
+  "baseline_avg": 6.44,
+  "current_count": 7,
+  "deviation_pct": 8.6,
   "days_since_last_cve": 17,
-  "std_dev": 5.24,
-  "threshold_low": 3.17,
-  "threshold_high": 15.83,
+  "std_dev": 5.5,
+  "threshold_low": 3.22,
+  "threshold_high": 16.11,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -71,12 +71,12 @@
     },
     {
       "month": "Days 60-30",
-      "count": 0,
+      "count": 1,
       "is_current": false
     },
     {
       "month": "Last 30 Days",
-      "count": 8,
+      "count": 7,
       "is_current": true
     }
   ]
