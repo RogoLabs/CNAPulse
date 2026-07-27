@@ -1,19 +1,24 @@
 {
   "date": "2026-07-27",
-  "generated_at": "2026-07-27T12:24:04.912346",
+  "generated_at": "2026-07-27T16:57:51.425052",
   "total_cnas": 571,
-  "cnas_growth": 48,
-  "cnas_normal": 119,
-  "cnas_declining": 219,
-  "cnas_inactive": 185,
+  "cnas_growth": 50,
+  "cnas_normal": 120,
+  "cnas_declining": 217,
+  "cnas_inactive": 184,
   "top_growth": [
+    {
+      "cna_name": "FTI",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
     {
       "cna_name": "openGauss",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "illumos",
+      "cna_name": "BombadilSystems",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
@@ -23,13 +28,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "FTI",
+      "cna_name": "illumos",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "BombadilSystems",
-      "current_count": 2,
+      "cna_name": "Ciena",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -38,7 +43,7 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Ciena",
+      "cna_name": "HDFG",
       "current_count": 3,
       "deviation_pct": 999999.0
     },
@@ -51,11 +56,6 @@
       "cna_name": "oracle",
       "current_count": 1108,
       "deviation_pct": 1377.3
-    },
-    {
-      "cna_name": "SNOWFLAKE",
-      "current_count": 13,
-      "deviation_pct": 1200.0
     }
   ],
   "top_declining": [
@@ -77,7 +77,7 @@
     {
       "cna_name": "cisco",
       "current_count": 18,
-      "deviation_pct": -34.9
+      "deviation_pct": -34.1
     },
     {
       "cna_name": "netapp",
