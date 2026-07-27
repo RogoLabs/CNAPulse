@@ -1,20 +1,15 @@
 {
   "date": "2026-07-27",
-  "generated_at": "2026-07-27T06:31:37.616036",
+  "generated_at": "2026-07-27T12:24:04.912346",
   "total_cnas": 571,
-  "cnas_growth": 46,
-  "cnas_normal": 121,
+  "cnas_growth": 48,
+  "cnas_normal": 119,
   "cnas_declining": 219,
   "cnas_inactive": 185,
   "top_growth": [
     {
-      "cna_name": "seal",
-      "current_count": 4,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "FTI",
-      "current_count": 2,
+      "cna_name": "openGauss",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -23,18 +18,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "openGauss",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "libreswan",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "Spotfire",
       "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "FTI",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -43,7 +33,17 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "seal",
+      "current_count": 4,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "Ciena",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "libreswan",
       "current_count": 3,
       "deviation_pct": 999999.0
     },
@@ -105,9 +105,9 @@
       "deviation_pct": -51.5
     },
     {
-      "cna_name": "arcinfo",
-      "current_count": 2,
-      "deviation_pct": -55.6
+      "cna_name": "Hitachi Energy",
+      "current_count": 1,
+      "deviation_pct": -54.5
     }
   ]
 }

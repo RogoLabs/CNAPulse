@@ -6,17 +6,17 @@
   "country": "Finland",
   "scope_type": "",
   "status": "Normal",
-  "baseline_avg": 3.5,
+  "baseline_avg": 2.17,
   "current_count": 3,
-  "deviation_pct": -14.3,
-  "days_since_last_cve": 26,
-  "std_dev": 3.73,
-  "threshold_low": 1.75,
-  "threshold_high": 8.75,
+  "deviation_pct": 38.5,
+  "days_since_last_cve": 27,
+  "std_dev": 0.75,
+  "threshold_low": 1.08,
+  "threshold_high": 5.42,
   "timeline_13months": [
     {
       "month": "Days 390-360",
-      "count": 11,
+      "count": 3,
       "is_current": false
     },
     {

@@ -5,18 +5,18 @@
   "cna_advisory_url": "https://www.openwall.com/lists/oss-security",
   "country": "USA",
   "scope_type": "",
-  "status": "Normal",
-  "baseline_avg": 38.0,
-  "current_count": 120,
-  "deviation_pct": 215.8,
-  "days_since_last_cve": 2,
-  "std_dev": 33.79,
-  "threshold_low": 19.0,
-  "threshold_high": 95.0,
+  "status": "Growth",
+  "baseline_avg": 37.83,
+  "current_count": 135,
+  "deviation_pct": 256.8,
+  "days_since_last_cve": 0,
+  "std_dev": 33.57,
+  "threshold_low": 18.92,
+  "threshold_high": 94.58,
   "timeline_13months": [
     {
       "month": "Days 390-360",
-      "count": 24,
+      "count": 22,
       "is_current": false
     },
     {
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 120,
+      "count": 135,
       "is_current": true
     }
   ]
