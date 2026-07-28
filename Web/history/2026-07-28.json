@@ -1,0 +1,113 @@
+{
+  "date": "2026-07-28",
+  "generated_at": "2026-07-28T02:32:06.250180",
+  "total_cnas": 571,
+  "cnas_growth": 50,
+  "cnas_normal": 120,
+  "cnas_declining": 217,
+  "cnas_inactive": 184,
+  "top_growth": [
+    {
+      "cna_name": "BombadilSystems",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "seal",
+      "current_count": 4,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "openGauss",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "FTI",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "illumos",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "libreswan",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "HDFG",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Ciena",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Spotfire",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "oracle",
+      "current_count": 1108,
+      "deviation_pct": 1377.3
+    }
+  ],
+  "top_declining": [
+    {
+      "cna_name": "GoogleCloud",
+      "current_count": 4,
+      "deviation_pct": 17.6
+    },
+    {
+      "cna_name": "Google",
+      "current_count": 4,
+      "deviation_pct": -4.3
+    },
+    {
+      "cna_name": "facebook",
+      "current_count": 2,
+      "deviation_pct": -21.7
+    },
+    {
+      "cna_name": "cisco",
+      "current_count": 18,
+      "deviation_pct": -34.1
+    },
+    {
+      "cna_name": "netapp",
+      "current_count": 1,
+      "deviation_pct": -36.4
+    },
+    {
+      "cna_name": "sonicwall",
+      "current_count": 2,
+      "deviation_pct": -44.0
+    },
+    {
+      "cna_name": "Tribe29",
+      "current_count": 2,
+      "deviation_pct": -44.4
+    },
+    {
+      "cna_name": "CSA",
+      "current_count": 1,
+      "deviation_pct": -50.0
+    },
+    {
+      "cna_name": "Go",
+      "current_count": 4,
+      "deviation_pct": -51.5
+    },
+    {
+      "cna_name": "Hitachi Energy",
+      "current_count": 1,
+      "deviation_pct": -54.5
+    }
+  ]
+}
