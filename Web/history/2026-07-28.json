@@ -1,40 +1,15 @@
 {
   "date": "2026-07-28",
-  "generated_at": "2026-07-28T08:33:58.163118",
+  "generated_at": "2026-07-28T11:17:39.178138",
   "total_cnas": 571,
-  "cnas_growth": 49,
+  "cnas_growth": 50,
   "cnas_normal": 122,
-  "cnas_declining": 216,
+  "cnas_declining": 215,
   "cnas_inactive": 184,
   "top_growth": [
     {
-      "cna_name": "FTI",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Spotfire",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "HDFG",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "BombadilSystems",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Ciena",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "illumos",
-      "current_count": 2,
+      "cna_name": "seal",
+      "current_count": 4,
       "deviation_pct": 999999.0
     },
     {
@@ -43,12 +18,37 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "seal",
-      "current_count": 4,
+      "cna_name": "illumos",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
       "cna_name": "libreswan",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "FTI",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "BombadilSystems",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "HDFG",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Spotfire",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Ciena",
       "current_count": 3,
       "deviation_pct": 999999.0
     },
@@ -80,14 +80,19 @@
       "deviation_pct": -34.1
     },
     {
+      "cna_name": "sonicwall",
+      "current_count": 2,
+      "deviation_pct": -36.0
+    },
+    {
       "cna_name": "netapp",
       "current_count": 1,
       "deviation_pct": -36.4
     },
     {
-      "cna_name": "sonicwall",
-      "current_count": 2,
-      "deviation_pct": -44.0
+      "cna_name": "twcert",
+      "current_count": 9,
+      "deviation_pct": -44.3
     },
     {
       "cna_name": "Tribe29",
@@ -103,11 +108,6 @@
       "cna_name": "Hitachi Energy",
       "current_count": 1,
       "deviation_pct": -54.5
-    },
-    {
-      "cna_name": "arcinfo",
-      "current_count": 2,
-      "deviation_pct": -55.6
     }
   ]
 }
