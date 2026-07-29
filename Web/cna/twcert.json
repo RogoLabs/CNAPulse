@@ -5,12 +5,12 @@
   "cna_advisory_url": "https://www.twcert.org.tw/tw/lp-132-1.html",
   "country": "Taiwan",
   "scope_type": "",
-  "status": "Declining",
+  "status": "Normal",
   "baseline_avg": 16.17,
-  "current_count": 9,
-  "deviation_pct": -44.3,
-  "days_since_last_cve": 13,
-  "std_dev": 6.31,
+  "current_count": 11,
+  "deviation_pct": -32.0,
+  "days_since_last_cve": 0,
+  "std_dev": 6.1,
   "threshold_low": 8.08,
   "threshold_high": 40.42,
   "timeline_13months": [
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 9,
+      "count": 11,
       "is_current": true
     }
   ]
