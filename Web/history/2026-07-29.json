@@ -1,25 +1,15 @@
 {
   "date": "2026-07-29",
-  "generated_at": "2026-07-29T16:22:04.604877",
+  "generated_at": "2026-07-29T19:16:28.505004",
   "total_cnas": 571,
-  "cnas_growth": 55,
-  "cnas_normal": 121,
-  "cnas_declining": 211,
+  "cnas_growth": 58,
+  "cnas_normal": 120,
+  "cnas_declining": 209,
   "cnas_inactive": 184,
   "top_growth": [
     {
-      "cna_name": "libreswan",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "HDFG",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "seal",
-      "current_count": 4,
+      "cna_name": "Spotfire",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -28,8 +18,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "BombadilSystems",
-      "current_count": 2,
+      "cna_name": "seal",
+      "current_count": 4,
       "deviation_pct": 999999.0
     },
     {
@@ -43,13 +33,23 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "BombadilSystems",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "HDFG",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "FTI",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Spotfire",
-      "current_count": 1,
+      "cna_name": "libreswan",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -67,7 +67,7 @@
     {
       "cna_name": "Google",
       "current_count": 4,
-      "deviation_pct": -4.3
+      "deviation_pct": -6.4
     },
     {
       "cna_name": "facebook",
@@ -75,14 +75,14 @@
       "deviation_pct": -21.7
     },
     {
+      "cna_name": "cisco",
+      "current_count": 19,
+      "deviation_pct": -30.5
+    },
+    {
       "cna_name": "ABB",
       "current_count": 3,
       "deviation_pct": -33.3
-    },
-    {
-      "cna_name": "cisco",
-      "current_count": 18,
-      "deviation_pct": -34.1
     },
     {
       "cna_name": "netapp",

@@ -5,10 +5,10 @@
   "cna_advisory_url": "https://discuss.hashicorp.com/c/security/52",
   "country": "USA",
   "scope_type": "",
-  "status": "Normal",
+  "status": "Growth",
   "baseline_avg": 3.5,
-  "current_count": 10,
-  "deviation_pct": 185.7,
+  "current_count": 12,
+  "deviation_pct": 242.9,
   "days_since_last_cve": 0,
   "std_dev": 2.14,
   "threshold_low": 1.75,
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 10,
+      "count": 12,
       "is_current": true
     }
   ]
