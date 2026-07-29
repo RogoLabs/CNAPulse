@@ -1,45 +1,20 @@
 {
   "date": "2026-07-29",
-  "generated_at": "2026-07-29T11:26:15.110742",
+  "generated_at": "2026-07-29T14:09:46.699273",
   "total_cnas": 571,
-  "cnas_growth": 53,
-  "cnas_normal": 119,
-  "cnas_declining": 215,
+  "cnas_growth": 55,
+  "cnas_normal": 118,
+  "cnas_declining": 214,
   "cnas_inactive": 184,
   "top_growth": [
-    {
-      "cna_name": "HDFG",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
     {
       "cna_name": "illumos",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "BombadilSystems",
+      "cna_name": "FTI",
       "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "libreswan",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "seal",
-      "current_count": 4,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Spotfire",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "openGauss",
-      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -48,8 +23,33 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "FTI",
+      "cna_name": "BombadilSystems",
       "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "openGauss",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "libreswan",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Spotfire",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "seal",
+      "current_count": 4,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "HDFG",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -105,9 +105,9 @@
       "deviation_pct": -51.5
     },
     {
-      "cna_name": "INCIBE",
-      "current_count": 15,
-      "deviation_pct": -54.3
+      "cna_name": "Hitachi Energy",
+      "current_count": 1,
+      "deviation_pct": -54.5
     }
   ]
 }
