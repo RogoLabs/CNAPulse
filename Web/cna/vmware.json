@@ -5,10 +5,10 @@
   "cna_advisory_url": "https://www.broadcom.com/support/vmware-security-advisories",
   "country": "USA",
   "scope_type": "",
-  "status": "Normal",
+  "status": "Growth",
   "baseline_avg": 17.0,
-  "current_count": 17,
-  "deviation_pct": 0.0,
+  "current_count": 22,
+  "deviation_pct": 29.4,
   "days_since_last_cve": 0,
   "std_dev": 25.69,
   "threshold_low": 8.5,
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 17,
+      "count": 22,
       "is_current": true
     }
   ]
