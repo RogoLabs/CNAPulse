@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://Security.SamsungTV.com/securityUpdates",
   "country": "South Korea",
   "scope_type": "",
-  "status": "Normal",
-  "baseline_avg": 12.8,
-  "current_count": 7,
-  "deviation_pct": -45.3,
-  "days_since_last_cve": 16,
-  "std_dev": 8.41,
-  "threshold_low": 6.4,
-  "threshold_high": 32.0,
+  "status": "Declining",
+  "baseline_avg": 13.0,
+  "current_count": 6,
+  "deviation_pct": -53.8,
+  "days_since_last_cve": 17,
+  "std_dev": 8.25,
+  "threshold_low": 6.5,
+  "threshold_high": 32.5,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -71,12 +71,12 @@
     },
     {
       "month": "Days 60-30",
-      "count": 7,
+      "count": 8,
       "is_current": false
     },
     {
       "month": "Last 30 Days",
-      "count": 7,
+      "count": 6,
       "is_current": true
     }
   ]
