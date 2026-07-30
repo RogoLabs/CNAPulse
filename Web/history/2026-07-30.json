@@ -1,19 +1,19 @@
 {
   "date": "2026-07-30",
-  "generated_at": "2026-07-30T16:26:08.657440",
+  "generated_at": "2026-07-30T19:26:36.061586",
   "total_cnas": 571,
-  "cnas_growth": 54,
-  "cnas_normal": 122,
+  "cnas_growth": 56,
+  "cnas_normal": 120,
   "cnas_declining": 211,
   "cnas_inactive": 184,
   "top_growth": [
     {
-      "cna_name": "libreswan",
-      "current_count": 3,
+      "cna_name": "illumos",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "FTI",
+      "cna_name": "BombadilSystems",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
@@ -23,13 +23,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Ciena",
+      "cna_name": "libreswan",
       "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "BombadilSystems",
-      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -38,7 +33,12 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "illumos",
+      "cna_name": "Ciena",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "FTI",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
@@ -95,6 +95,11 @@
       "deviation_pct": -42.3
     },
     {
+      "cna_name": "qualcomm",
+      "current_count": 11,
+      "deviation_pct": -42.7
+    },
+    {
       "cna_name": "sonicwall",
       "current_count": 2,
       "deviation_pct": -44.0
@@ -103,11 +108,6 @@
       "cna_name": "twcert",
       "current_count": 9,
       "deviation_pct": -44.9
-    },
-    {
-      "cna_name": "Tribe29",
-      "current_count": 2,
-      "deviation_pct": -48.6
     }
   ]
 }
