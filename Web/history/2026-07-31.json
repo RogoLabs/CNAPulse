@@ -1,29 +1,19 @@
 {
   "date": "2026-07-31",
-  "generated_at": "2026-07-31T14:06:33.739249",
+  "generated_at": "2026-07-31T16:46:53.929288",
   "total_cnas": 571,
-  "cnas_growth": 57,
-  "cnas_normal": 117,
-  "cnas_declining": 213,
+  "cnas_growth": 58,
+  "cnas_normal": 114,
+  "cnas_declining": 215,
   "cnas_inactive": 184,
   "top_growth": [
     {
-      "cna_name": "FTI",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "BombadilSystems",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "illumos",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "HDFG",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Ciena",
       "current_count": 3,
       "deviation_pct": 999999.0
     },
@@ -33,13 +23,23 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Spotfire",
-      "current_count": 1,
+      "cna_name": "FTI",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Ciena",
-      "current_count": 3,
+      "cna_name": "illumos",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "BombadilSystems",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Spotfire",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -62,17 +62,12 @@
     {
       "cna_name": "GoogleCloud",
       "current_count": 4,
-      "deviation_pct": 17.6
+      "deviation_pct": 5.9
     },
     {
       "cna_name": "facebook",
       "current_count": 2,
       "deviation_pct": -13.0
-    },
-    {
-      "cna_name": "cisco",
-      "current_count": 19,
-      "deviation_pct": -30.5
     },
     {
       "cna_name": "ABB",
@@ -107,6 +102,11 @@
     {
       "cna_name": "jpcert",
       "current_count": 11,
+      "deviation_pct": -51.5
+    },
+    {
+      "cna_name": "Go",
+      "current_count": 4,
       "deviation_pct": -51.5
     }
   ]
