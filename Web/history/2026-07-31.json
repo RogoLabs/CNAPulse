@@ -1,0 +1,113 @@
+{
+  "date": "2026-07-31",
+  "generated_at": "2026-07-31T02:49:34.126746",
+  "total_cnas": 571,
+  "cnas_growth": 56,
+  "cnas_normal": 121,
+  "cnas_declining": 210,
+  "cnas_inactive": 184,
+  "top_growth": [
+    {
+      "cna_name": "HDFG",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "FTI",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "illumos",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Ciena",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "BombadilSystems",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Spotfire",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "libreswan",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "oracle",
+      "current_count": 1108,
+      "deviation_pct": 1377.3
+    },
+    {
+      "cna_name": "Joomla",
+      "current_count": 106,
+      "deviation_pct": 1313.3
+    },
+    {
+      "cna_name": "XEN",
+      "current_count": 29,
+      "deviation_pct": 915.0
+    }
+  ],
+  "top_declining": [
+    {
+      "cna_name": "GoogleCloud",
+      "current_count": 4,
+      "deviation_pct": 17.6
+    },
+    {
+      "cna_name": "facebook",
+      "current_count": 2,
+      "deviation_pct": -13.0
+    },
+    {
+      "cna_name": "cisco",
+      "current_count": 19,
+      "deviation_pct": -30.5
+    },
+    {
+      "cna_name": "ABB",
+      "current_count": 3,
+      "deviation_pct": -33.3
+    },
+    {
+      "cna_name": "netapp",
+      "current_count": 1,
+      "deviation_pct": -36.4
+    },
+    {
+      "cna_name": "schneider",
+      "current_count": 3,
+      "deviation_pct": -42.3
+    },
+    {
+      "cna_name": "qualcomm",
+      "current_count": 11,
+      "deviation_pct": -42.7
+    },
+    {
+      "cna_name": "sonicwall",
+      "current_count": 2,
+      "deviation_pct": -44.0
+    },
+    {
+      "cna_name": "twcert",
+      "current_count": 9,
+      "deviation_pct": -44.9
+    },
+    {
+      "cna_name": "Tribe29",
+      "current_count": 2,
+      "deviation_pct": -48.6
+    }
+  ]
+}
