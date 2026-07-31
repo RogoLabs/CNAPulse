@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://www.deltaww.com/en-US/Cybersecurity_Advisory",
   "country": "Taiwan",
   "scope_type": "",
-  "status": "Normal",
-  "baseline_avg": 4.44,
-  "current_count": 5,
-  "deviation_pct": 12.5,
+  "status": "Declining",
+  "baseline_avg": 4.67,
+  "current_count": 3,
+  "deviation_pct": -35.7,
   "days_since_last_cve": 29,
-  "std_dev": 2.51,
-  "threshold_low": 2.22,
-  "threshold_high": 11.11,
+  "std_dev": 2.45,
+  "threshold_low": 2.33,
+  "threshold_high": 11.67,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 5,
+      "count": 3,
       "is_current": true
     }
   ]

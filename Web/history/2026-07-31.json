@@ -1,24 +1,14 @@
 {
   "date": "2026-07-31",
-  "generated_at": "2026-07-31T02:49:34.126746",
+  "generated_at": "2026-07-31T06:14:27.029544",
   "total_cnas": 571,
   "cnas_growth": 56,
-  "cnas_normal": 121,
-  "cnas_declining": 210,
+  "cnas_normal": 119,
+  "cnas_declining": 212,
   "cnas_inactive": 184,
   "top_growth": [
     {
-      "cna_name": "HDFG",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "FTI",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "illumos",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
@@ -33,13 +23,23 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Spotfire",
-      "current_count": 1,
+      "cna_name": "libreswan",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "libreswan",
+      "cna_name": "HDFG",
       "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "illumos",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Spotfire",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -53,9 +53,9 @@
       "deviation_pct": 1313.3
     },
     {
-      "cna_name": "XEN",
-      "current_count": 29,
-      "deviation_pct": 915.0
+      "cna_name": "CSA",
+      "current_count": 25,
+      "deviation_pct": 1150.0
     }
   ],
   "top_declining": [
@@ -78,6 +78,11 @@
       "cna_name": "ABB",
       "current_count": 3,
       "deviation_pct": -33.3
+    },
+    {
+      "cna_name": "Deltaww",
+      "current_count": 3,
+      "deviation_pct": -35.7
     },
     {
       "cna_name": "netapp",
@@ -103,11 +108,6 @@
       "cna_name": "twcert",
       "current_count": 9,
       "deviation_pct": -44.9
-    },
-    {
-      "cna_name": "Tribe29",
-      "current_count": 2,
-      "deviation_pct": -48.6
     }
   ]
 }
