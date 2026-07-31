@@ -1,12 +1,17 @@
 {
   "date": "2026-07-31",
-  "generated_at": "2026-07-31T19:24:55.074911",
+  "generated_at": "2026-07-31T22:06:02.306254",
   "total_cnas": 571,
   "cnas_growth": 57,
   "cnas_normal": 115,
   "cnas_declining": 215,
   "cnas_inactive": 184,
   "top_growth": [
+    {
+      "cna_name": "Ciena",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
     {
       "cna_name": "HDFG",
       "current_count": 3,
@@ -18,13 +23,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "FTI",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Ciena",
-      "current_count": 3,
+      "cna_name": "Spotfire",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -33,8 +33,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Spotfire",
-      "current_count": 1,
+      "cna_name": "FTI",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -90,14 +90,14 @@
       "deviation_pct": -42.3
     },
     {
-      "cna_name": "qualcomm",
-      "current_count": 11,
-      "deviation_pct": -42.7
-    },
-    {
       "cna_name": "sonicwall",
       "current_count": 2,
       "deviation_pct": -44.0
+    },
+    {
+      "cna_name": "qualcomm",
+      "current_count": 11,
+      "deviation_pct": -47.9
     },
     {
       "cna_name": "jpcert",
