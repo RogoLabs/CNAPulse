@@ -1,15 +1,25 @@
 {
   "date": "2026-07-31",
-  "generated_at": "2026-07-31T16:46:53.929288",
+  "generated_at": "2026-07-31T19:24:55.074911",
   "total_cnas": 571,
-  "cnas_growth": 58,
-  "cnas_normal": 114,
+  "cnas_growth": 57,
+  "cnas_normal": 115,
   "cnas_declining": 215,
   "cnas_inactive": 184,
   "top_growth": [
     {
       "cna_name": "HDFG",
       "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "BombadilSystems",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "FTI",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -23,23 +33,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "FTI",
-      "current_count": 2,
+      "cna_name": "Spotfire",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
       "cna_name": "illumos",
       "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "BombadilSystems",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Spotfire",
-      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
