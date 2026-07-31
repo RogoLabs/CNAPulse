@@ -1,6 +1,6 @@
 {
   "date": "2026-07-31",
-  "generated_at": "2026-07-31T11:29:26.722477",
+  "generated_at": "2026-07-31T14:06:33.739249",
   "total_cnas": 571,
   "cnas_growth": 57,
   "cnas_normal": 117,
@@ -8,7 +8,7 @@
   "cnas_inactive": 184,
   "top_growth": [
     {
-      "cna_name": "illumos",
+      "cna_name": "FTI",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
@@ -18,8 +18,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "libreswan",
-      "current_count": 3,
+      "cna_name": "illumos",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -28,13 +28,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Spotfire",
-      "current_count": 1,
+      "cna_name": "libreswan",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "FTI",
-      "current_count": 2,
+      "cna_name": "Spotfire",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -105,9 +105,9 @@
       "deviation_pct": -44.0
     },
     {
-      "cna_name": "Tribe29",
-      "current_count": 2,
-      "deviation_pct": -48.6
+      "cna_name": "jpcert",
+      "current_count": 11,
+      "deviation_pct": -51.5
     }
   ]
 }
