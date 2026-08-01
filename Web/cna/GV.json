@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://www.geovision.com.tw/cyber_security.php",
   "country": "Taiwan",
   "scope_type": "",
-  "status": "Normal",
-  "baseline_avg": 8.0,
-  "current_count": 19,
-  "deviation_pct": 137.5,
+  "status": "Declining",
+  "baseline_avg": 12.5,
+  "current_count": 1,
+  "deviation_pct": -92.0,
   "days_since_last_cve": 7,
-  "std_dev": 8.72,
-  "threshold_low": 4.0,
-  "threshold_high": 20.0,
+  "std_dev": 17.0,
+  "threshold_low": 6.25,
+  "threshold_high": 31.25,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 19,
+      "count": 1,
       "is_current": true
     }
   ]
