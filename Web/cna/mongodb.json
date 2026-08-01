@@ -5,18 +5,18 @@
   "cna_advisory_url": "https://www.mongodb.com/resources/products/mongodb-security-bulletins",
   "country": "USA",
   "scope_type": "",
-  "status": "Normal",
-  "baseline_avg": 6.36,
+  "status": "Growth",
+  "baseline_avg": 6.5,
   "current_count": 26,
-  "deviation_pct": 308.6,
+  "deviation_pct": 300.0,
   "days_since_last_cve": 9,
-  "std_dev": 4.59,
-  "threshold_low": 3.18,
-  "threshold_high": 15.91,
+  "std_dev": 4.81,
+  "threshold_low": 3.25,
+  "threshold_high": 16.25,
   "timeline_13months": [
     {
       "month": "Days 390-360",
-      "count": 5,
+      "count": 0,
       "is_current": false
     },
     {

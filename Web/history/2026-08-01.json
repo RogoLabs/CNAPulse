@@ -1,22 +1,12 @@
 {
   "date": "2026-08-01",
-  "generated_at": "2026-08-01T13:20:57.048348",
+  "generated_at": "2026-08-01T16:01:05.090756",
   "total_cnas": 571,
-  "cnas_growth": 56,
-  "cnas_normal": 116,
+  "cnas_growth": 58,
+  "cnas_normal": 114,
   "cnas_declining": 215,
   "cnas_inactive": 184,
   "top_growth": [
-    {
-      "cna_name": "HDFG",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Ciena",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
     {
       "cna_name": "Spotfire",
       "current_count": 1,
@@ -28,18 +18,28 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "HDFG",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "BombadilSystems",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "libreswan",
+      "cna_name": "Ciena",
       "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
       "cna_name": "FTI",
       "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "libreswan",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
