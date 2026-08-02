@@ -1,27 +1,12 @@
 {
   "date": "2026-08-02",
-  "generated_at": "2026-08-02T10:41:44.213763",
+  "generated_at": "2026-08-02T13:21:06.006423",
   "total_cnas": 571,
-  "cnas_growth": 55,
-  "cnas_normal": 114,
+  "cnas_growth": 54,
+  "cnas_normal": 115,
   "cnas_declining": 217,
   "cnas_inactive": 185,
   "top_growth": [
-    {
-      "cna_name": "BombadilSystems",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "HDFG",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "illumos",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
     {
       "cna_name": "Spotfire",
       "current_count": 1,
@@ -34,6 +19,21 @@
     },
     {
       "cna_name": "FTI",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "HDFG",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "BombadilSystems",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "illumos",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
@@ -100,14 +100,14 @@
       "deviation_pct": -45.8
     },
     {
+      "cna_name": "qualcomm",
+      "current_count": 11,
+      "deviation_pct": -52.4
+    },
+    {
       "cna_name": "samsung.tv_appliance",
       "current_count": 6,
       "deviation_pct": -53.8
-    },
-    {
-      "cna_name": "arcinfo",
-      "current_count": 2,
-      "deviation_pct": -55.6
     }
   ]
 }
