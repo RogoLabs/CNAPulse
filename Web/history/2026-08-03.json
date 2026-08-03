@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "generated_at": "2026-08-03T02:47:59.440777",
+  "generated_at": "2026-08-03T06:23:44.431030",
   "total_cnas": 571,
   "cnas_growth": 53,
   "cnas_normal": 118,
@@ -8,23 +8,13 @@
   "cnas_inactive": 185,
   "top_growth": [
     {
-      "cna_name": "illumos",
-      "current_count": 2,
+      "cna_name": "Ciena",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
       "cna_name": "FTI",
       "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "BombadilSystems",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Ciena",
-      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -35,6 +25,16 @@
     {
       "cna_name": "HDFG",
       "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "BombadilSystems",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "illumos",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
