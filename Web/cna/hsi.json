@@ -1,22 +1,22 @@
 {
-  "assigner_id": "030b2754-1501-44a4-bef8-48be86a33bf4",
-  "cna_name": "Silabs",
-  "cna_org_name": "Silicon Labs",
-  "cna_advisory_url": "https://community.silabs.com/s/alert/Alert__c/00B1M000009sQ4R",
+  "assigner_id": "unknown",
+  "cna_name": "hsi",
+  "cna_org_name": "Haverford Systems, Inc.",
+  "cna_advisory_url": "https://ptzoptics.com/known-vulnerabilities-and-fixes/",
   "country": "USA",
   "scope_type": "",
-  "status": "Normal",
-  "baseline_avg": 3.6,
-  "current_count": 1,
-  "deviation_pct": -72.2,
-  "days_since_last_cve": 12,
-  "std_dev": 3.89,
-  "threshold_low": 1.8,
-  "threshold_high": 9.0,
+  "status": "Inactive",
+  "baseline_avg": 0.0,
+  "current_count": 0,
+  "deviation_pct": 0.0,
+  "days_since_last_cve": null,
+  "std_dev": null,
+  "threshold_low": 0.0,
+  "threshold_high": 0.0,
   "timeline_13months": [
     {
       "month": "Days 390-360",
-      "count": 4,
+      "count": 0,
       "is_current": false
     },
     {
@@ -26,37 +26,37 @@
     },
     {
       "month": "Days 330-300",
-      "count": 1,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Days 300-270",
-      "count": 2,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Days 270-240",
-      "count": 1,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Days 240-210",
-      "count": 2,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Days 210-180",
-      "count": 2,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Days 180-150",
-      "count": 6,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Days 150-120",
-      "count": 1,
+      "count": 0,
       "is_current": false
     },
     {
@@ -66,17 +66,17 @@
     },
     {
       "month": "Days 90-60",
-      "count": 3,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Days 60-30",
-      "count": 14,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Last 30 Days",
-      "count": 1,
+      "count": 0,
       "is_current": true
     }
   ]
