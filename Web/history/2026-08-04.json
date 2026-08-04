@@ -1,6 +1,6 @@
 {
   "date": "2026-08-04",
-  "generated_at": "2026-08-04T14:11:03.571213",
+  "generated_at": "2026-08-04T16:50:52.820887",
   "total_cnas": 571,
   "cnas_growth": 55,
   "cnas_normal": 118,
@@ -8,13 +8,13 @@
   "cnas_inactive": 185,
   "top_growth": [
     {
-      "cna_name": "FTI",
+      "cna_name": "illumos",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "illumos",
-      "current_count": 2,
+      "cna_name": "Ciena",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -28,9 +28,14 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Ciena",
-      "current_count": 3,
+      "cna_name": "FTI",
+      "current_count": 2,
       "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Joomla",
+      "current_count": 106,
+      "deviation_pct": 1454.7
     },
     {
       "cna_name": "WPScan",
@@ -41,11 +46,6 @@
       "cna_name": "oracle",
       "current_count": 1108,
       "deviation_pct": 1377.3
-    },
-    {
-      "cna_name": "Joomla",
-      "current_count": 106,
-      "deviation_pct": 1313.3
     },
     {
       "cna_name": "CSA",
@@ -67,7 +67,7 @@
     {
       "cna_name": "facebook",
       "current_count": 2,
-      "deviation_pct": -13.0
+      "deviation_pct": -21.7
     },
     {
       "cna_name": "twcert",
@@ -95,14 +95,14 @@
       "deviation_pct": -45.8
     },
     {
+      "cna_name": "qualcomm",
+      "current_count": 11,
+      "deviation_pct": -46.5
+    },
+    {
       "cna_name": "Mitsubishi",
       "current_count": 1,
       "deviation_pct": -50.0
-    },
-    {
-      "cna_name": "qualcomm",
-      "current_count": 11,
-      "deviation_pct": -52.4
     },
     {
       "cna_name": "kubernetes",
