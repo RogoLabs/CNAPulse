@@ -1,6 +1,6 @@
 {
   "date": "2026-08-04",
-  "generated_at": "2026-08-04T05:46:58.578274",
+  "generated_at": "2026-08-04T08:36:08.549196",
   "total_cnas": 571,
   "cnas_growth": 54,
   "cnas_normal": 118,
@@ -13,13 +13,18 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "Spotfire",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "Ciena",
       "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Spotfire",
-      "current_count": 1,
+      "cna_name": "HDFG",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -28,9 +33,9 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "HDFG",
-      "current_count": 3,
-      "deviation_pct": 999999.0
+      "cna_name": "WPScan",
+      "current_count": 318,
+      "deviation_pct": 1408.3
     },
     {
       "cna_name": "oracle",
@@ -41,11 +46,6 @@
       "cna_name": "Joomla",
       "current_count": 106,
       "deviation_pct": 1313.3
-    },
-    {
-      "cna_name": "WPScan",
-      "current_count": 294,
-      "deviation_pct": 1283.5
     },
     {
       "cna_name": "CSA",
@@ -95,6 +95,11 @@
       "deviation_pct": -45.8
     },
     {
+      "cna_name": "Mitsubishi",
+      "current_count": 1,
+      "deviation_pct": -50.0
+    },
+    {
       "cna_name": "qualcomm",
       "current_count": 11,
       "deviation_pct": -52.4
@@ -102,11 +107,6 @@
     {
       "cna_name": "kubernetes",
       "current_count": 1,
-      "deviation_pct": -53.8
-    },
-    {
-      "cna_name": "samsung.tv_appliance",
-      "current_count": 6,
       "deviation_pct": -53.8
     }
   ]
