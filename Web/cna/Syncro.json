@@ -1,18 +1,18 @@
 {
-  "assigner_id": "cfdbb673-b408-4d03-89c1-c3d73ed80896",
-  "cna_name": "Tcpdump",
-  "cna_org_name": "Tcpdump Group",
-  "cna_advisory_url": "https://www.tcpdump.org/public-cve-list.txt",
-  "country": "Canada",
+  "assigner_id": "unknown",
+  "cna_name": "Syncro",
+  "cna_org_name": "Syncro Soft SRL",
+  "cna_advisory_url": "https://www.oxygenxml.com/security/advisories.html",
+  "country": "Romania",
   "scope_type": "",
-  "status": "Declining",
-  "baseline_avg": 2.0,
+  "status": "Inactive",
+  "baseline_avg": 0.0,
   "current_count": 0,
-  "deviation_pct": -100.0,
-  "days_since_last_cve": 217,
+  "deviation_pct": 0.0,
+  "days_since_last_cve": null,
   "std_dev": null,
-  "threshold_low": 1.0,
-  "threshold_high": 5.0,
+  "threshold_low": 0.0,
+  "threshold_high": 0.0,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -41,7 +41,7 @@
     },
     {
       "month": "Days 240-210",
-      "count": 2,
+      "count": 0,
       "is_current": false
     },
     {

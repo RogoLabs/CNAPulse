@@ -1,0 +1,113 @@
+{
+  "date": "2026-08-05",
+  "generated_at": "2026-08-05T02:31:09.162587",
+  "total_cnas": 577,
+  "cnas_growth": 55,
+  "cnas_normal": 122,
+  "cnas_declining": 209,
+  "cnas_inactive": 191,
+  "top_growth": [
+    {
+      "cna_name": "FTI",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "illumos",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Spotfire",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Ciena",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "HDFG",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Joomla",
+      "current_count": 106,
+      "deviation_pct": 1454.7
+    },
+    {
+      "cna_name": "WPScan",
+      "current_count": 318,
+      "deviation_pct": 1408.3
+    },
+    {
+      "cna_name": "oracle",
+      "current_count": 1108,
+      "deviation_pct": 1377.3
+    },
+    {
+      "cna_name": "CSA",
+      "current_count": 25,
+      "deviation_pct": 1150.0
+    },
+    {
+      "cna_name": "bcorg",
+      "current_count": 34,
+      "deviation_pct": 1033.3
+    }
+  ],
+  "top_declining": [
+    {
+      "cna_name": "GoogleCloud",
+      "current_count": 4,
+      "deviation_pct": 5.9
+    },
+    {
+      "cna_name": "facebook",
+      "current_count": 2,
+      "deviation_pct": -21.7
+    },
+    {
+      "cna_name": "twcert",
+      "current_count": 10,
+      "deviation_pct": -38.1
+    },
+    {
+      "cna_name": "schneider",
+      "current_count": 3,
+      "deviation_pct": -42.3
+    },
+    {
+      "cna_name": "sonicwall",
+      "current_count": 2,
+      "deviation_pct": -44.0
+    },
+    {
+      "cna_name": "netapp",
+      "current_count": 1,
+      "deviation_pct": -45.5
+    },
+    {
+      "cna_name": "siemens",
+      "current_count": 7,
+      "deviation_pct": -45.8
+    },
+    {
+      "cna_name": "Mitsubishi",
+      "current_count": 1,
+      "deviation_pct": -47.6
+    },
+    {
+      "cna_name": "kubernetes",
+      "current_count": 1,
+      "deviation_pct": -53.8
+    },
+    {
+      "cna_name": "TuranSec",
+      "current_count": 5,
+      "deviation_pct": -54.5
+    }
+  ]
+}
