@@ -1,15 +1,20 @@
 {
   "date": "2026-08-05",
-  "generated_at": "2026-08-05T14:09:11.639808",
+  "generated_at": "2026-08-05T16:42:50.411323",
   "total_cnas": 577,
-  "cnas_growth": 55,
-  "cnas_normal": 122,
-  "cnas_declining": 209,
+  "cnas_growth": 52,
+  "cnas_normal": 124,
+  "cnas_declining": 210,
   "cnas_inactive": 191,
   "top_growth": [
     {
-      "cna_name": "Ciena",
-      "current_count": 3,
+      "cna_name": "Spotfire",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "FTI",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -18,18 +23,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Spotfire",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "HDFG",
       "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "FTI",
-      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -56,13 +51,18 @@
       "cna_name": "bcorg",
       "current_count": 34,
       "deviation_pct": 1033.3
+    },
+    {
+      "cna_name": "ProgressSoftware",
+      "current_count": 41,
+      "deviation_pct": 925.0
     }
   ],
   "top_declining": [
     {
       "cna_name": "GoogleCloud",
-      "current_count": 4,
-      "deviation_pct": 5.9
+      "current_count": 5,
+      "deviation_pct": 32.4
     },
     {
       "cna_name": "facebook",
