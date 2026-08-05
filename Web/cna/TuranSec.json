@@ -5,10 +5,10 @@
   "cna_advisory_url": "https://cve.turansec.uz/",
   "country": "Uzbekistan",
   "scope_type": "",
-  "status": "Declining",
+  "status": "Growth",
   "baseline_avg": 11.0,
-  "current_count": 5,
-  "deviation_pct": -54.5,
+  "current_count": 28,
+  "deviation_pct": 154.5,
   "days_since_last_cve": 0,
   "std_dev": 7.55,
   "threshold_low": 5.5,
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 5,
+      "count": 28,
       "is_current": true
     }
   ]

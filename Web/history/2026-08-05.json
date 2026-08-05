@@ -1,12 +1,27 @@
 {
   "date": "2026-08-05",
-  "generated_at": "2026-08-05T05:45:52.617191",
+  "generated_at": "2026-08-05T08:35:56.121023",
   "total_cnas": 577,
-  "cnas_growth": 55,
-  "cnas_normal": 122,
-  "cnas_declining": 209,
+  "cnas_growth": 57,
+  "cnas_normal": 121,
+  "cnas_declining": 208,
   "cnas_inactive": 191,
   "top_growth": [
+    {
+      "cna_name": "Ciena",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "illumos",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "FTI",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
     {
       "cna_name": "Spotfire",
       "current_count": 1,
@@ -18,29 +33,14 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Ciena",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "FTI",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "illumos",
-      "current_count": 2,
-      "deviation_pct": 999999.0
+      "cna_name": "WPScan",
+      "current_count": 335,
+      "deviation_pct": 1458.1
     },
     {
       "cna_name": "Joomla",
       "current_count": 106,
       "deviation_pct": 1454.7
-    },
-    {
-      "cna_name": "WPScan",
-      "current_count": 318,
-      "deviation_pct": 1408.3
     },
     {
       "cna_name": "oracle",
@@ -70,11 +70,6 @@
       "deviation_pct": -21.7
     },
     {
-      "cna_name": "twcert",
-      "current_count": 10,
-      "deviation_pct": -38.1
-    },
-    {
       "cna_name": "schneider",
       "current_count": 3,
       "deviation_pct": -42.3
@@ -100,14 +95,19 @@
       "deviation_pct": -47.6
     },
     {
-      "cna_name": "TuranSec",
-      "current_count": 5,
-      "deviation_pct": -54.5
-    },
-    {
       "cna_name": "arcinfo",
       "current_count": 2,
       "deviation_pct": -55.6
+    },
+    {
+      "cna_name": "twcert",
+      "current_count": 7,
+      "deviation_pct": -57.4
+    },
+    {
+      "cna_name": "cisco",
+      "current_count": 11,
+      "deviation_pct": -59.8
     }
   ]
 }

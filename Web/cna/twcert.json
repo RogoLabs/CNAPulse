@@ -6,13 +6,13 @@
   "country": "Taiwan",
   "scope_type": "",
   "status": "Declining",
-  "baseline_avg": 16.17,
-  "current_count": 10,
-  "deviation_pct": -38.1,
-  "days_since_last_cve": 4,
-  "std_dev": 5.69,
-  "threshold_low": 8.08,
-  "threshold_high": 40.42,
+  "baseline_avg": 16.42,
+  "current_count": 7,
+  "deviation_pct": -57.4,
+  "days_since_last_cve": 5,
+  "std_dev": 5.7,
+  "threshold_low": 8.21,
+  "threshold_high": 41.04,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 10,
+      "count": 7,
       "is_current": true
     }
   ]
