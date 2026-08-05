@@ -1,6 +1,6 @@
 {
   "date": "2026-08-05",
-  "generated_at": "2026-08-05T02:31:09.162587",
+  "generated_at": "2026-08-05T05:45:52.617191",
   "total_cnas": 577,
   "cnas_growth": 55,
   "cnas_normal": 122,
@@ -8,18 +8,13 @@
   "cnas_inactive": 191,
   "top_growth": [
     {
-      "cna_name": "FTI",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "illumos",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "Spotfire",
       "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "HDFG",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -28,8 +23,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "HDFG",
-      "current_count": 3,
+      "cna_name": "FTI",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "illumos",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -100,14 +100,14 @@
       "deviation_pct": -47.6
     },
     {
-      "cna_name": "kubernetes",
-      "current_count": 1,
-      "deviation_pct": -53.8
-    },
-    {
       "cna_name": "TuranSec",
       "current_count": 5,
       "deviation_pct": -54.5
+    },
+    {
+      "cna_name": "arcinfo",
+      "current_count": 2,
+      "deviation_pct": -55.6
     }
   ]
 }

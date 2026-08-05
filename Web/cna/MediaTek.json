@@ -6,13 +6,13 @@
   "country": "Taiwan",
   "scope_type": "",
   "status": "Normal",
-  "baseline_avg": 17.4,
+  "baseline_avg": 15.82,
   "current_count": 34,
-  "deviation_pct": 95.4,
+  "deviation_pct": 114.9,
   "days_since_last_cve": 2,
-  "std_dev": 12.68,
-  "threshold_low": 8.7,
-  "threshold_high": 43.5,
+  "std_dev": 12.97,
+  "threshold_low": 7.91,
+  "threshold_high": 39.55,
   "timeline_13months": [
     {
       "month": "Days 390-360",
