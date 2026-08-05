@@ -1,25 +1,25 @@
 {
   "date": "2026-08-05",
-  "generated_at": "2026-08-05T11:21:30.150509",
+  "generated_at": "2026-08-05T14:09:11.639808",
   "total_cnas": 577,
-  "cnas_growth": 56,
-  "cnas_normal": 120,
-  "cnas_declining": 210,
+  "cnas_growth": 55,
+  "cnas_normal": 122,
+  "cnas_declining": 209,
   "cnas_inactive": 191,
   "top_growth": [
+    {
+      "cna_name": "Ciena",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
     {
       "cna_name": "illumos",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "FTI",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Ciena",
-      "current_count": 3,
+      "cna_name": "Spotfire",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -28,8 +28,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Spotfire",
-      "current_count": 1,
+      "cna_name": "FTI",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -80,11 +80,6 @@
       "deviation_pct": -40.0
     },
     {
-      "cna_name": "sonicwall",
-      "current_count": 2,
-      "deviation_pct": -44.0
-    },
-    {
       "cna_name": "netapp",
       "current_count": 1,
       "deviation_pct": -45.5
@@ -108,6 +103,11 @@
       "cna_name": "twcert",
       "current_count": 7,
       "deviation_pct": -57.4
+    },
+    {
+      "cna_name": "cisco",
+      "current_count": 11,
+      "deviation_pct": -59.8
     }
   ]
 }
