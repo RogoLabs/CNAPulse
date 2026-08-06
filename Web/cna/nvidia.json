@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://www.nvidia.com/en-us/security/",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
+  "status": "Normal",
   "baseline_avg": 21.5,
   "current_count": 42,
   "deviation_pct": 95.3,

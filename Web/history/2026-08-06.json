@@ -1,10 +1,10 @@
 {
   "date": "2026-08-06",
-  "generated_at": "2026-08-06T11:23:14.375979",
-  "total_cnas": 577,
+  "generated_at": "2026-08-06T14:09:19.533307",
+  "total_cnas": 578,
   "cnas_growth": 53,
-  "cnas_normal": 121,
-  "cnas_declining": 213,
+  "cnas_normal": 123,
+  "cnas_declining": 212,
   "cnas_inactive": 190,
   "top_growth": [
     {
@@ -18,7 +18,7 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Spotfire",
+      "cna_name": "ELAN",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -28,8 +28,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "ELAN",
+      "cna_name": "Spotfire",
       "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OMICRON",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -51,63 +56,58 @@
       "cna_name": "CSA",
       "current_count": 28,
       "deviation_pct": 1300.0
-    },
-    {
-      "cna_name": "ProgressSoftware",
-      "current_count": 41,
-      "deviation_pct": 925.0
     }
   ],
   "top_declining": [
     {
-      "cna_name": "GoogleCloud",
-      "current_count": 5,
-      "deviation_pct": 47.1
+      "cna_name": "vmware",
+      "current_count": 27,
+      "deviation_pct": 58.8
     },
     {
-      "cna_name": "Zoom",
-      "current_count": 4,
-      "deviation_pct": -3.0
-    },
-    {
-      "cna_name": "facebook",
-      "current_count": 2,
-      "deviation_pct": -14.3
-    },
-    {
-      "cna_name": "M-Files Corporation",
-      "current_count": 1,
-      "deviation_pct": -25.0
-    },
-    {
-      "cna_name": "qualcomm",
-      "current_count": 11,
-      "deviation_pct": -43.9
-    },
-    {
-      "cna_name": "netapp",
-      "current_count": 1,
-      "deviation_pct": -45.5
-    },
-    {
-      "cna_name": "schneider",
+      "cna_name": "zte",
       "current_count": 3,
-      "deviation_pct": -46.7
+      "deviation_pct": -4.5
+    },
+    {
+      "cna_name": "snyk",
+      "current_count": 3,
+      "deviation_pct": -31.2
+    },
+    {
+      "cna_name": "hpe",
+      "current_count": 9,
+      "deviation_pct": -34.1
+    },
+    {
+      "cna_name": "zdi",
+      "current_count": 23,
+      "deviation_pct": -43.5
     },
     {
       "cna_name": "Mitsubishi",
       "current_count": 1,
-      "deviation_pct": -47.6
+      "deviation_pct": -52.4
     },
     {
-      "cna_name": "Esri",
+      "cna_name": "CERT-In",
       "current_count": 2,
-      "deviation_pct": -50.0
+      "deviation_pct": -54.8
     },
     {
-      "cna_name": "siemens",
+      "cna_name": "TML",
+      "current_count": 1,
+      "deviation_pct": -57.1
+    },
+    {
+      "cna_name": "twcert",
       "current_count": 7,
-      "deviation_pct": -50.7
+      "deviation_pct": -57.4
+    },
+    {
+      "cna_name": "Supermicro",
+      "current_count": 1,
+      "deviation_pct": -60.0
     }
   ]
 }

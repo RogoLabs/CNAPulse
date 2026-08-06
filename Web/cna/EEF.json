@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://cna.erlef.org/cves",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
+  "status": "Normal",
   "baseline_avg": 12.89,
   "current_count": 41,
   "deviation_pct": 218.1,
