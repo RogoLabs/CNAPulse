@@ -1,0 +1,113 @@
+{
+  "date": "2026-08-06",
+  "generated_at": "2026-08-06T02:33:31.323913",
+  "total_cnas": 577,
+  "cnas_growth": 51,
+  "cnas_normal": 123,
+  "cnas_declining": 212,
+  "cnas_inactive": 191,
+  "top_growth": [
+    {
+      "cna_name": "HDFG",
+      "current_count": 9,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Spotfire",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "illumos",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "FTI",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "WPScan",
+      "current_count": 335,
+      "deviation_pct": 1458.1
+    },
+    {
+      "cna_name": "Joomla",
+      "current_count": 106,
+      "deviation_pct": 1454.7
+    },
+    {
+      "cna_name": "oracle",
+      "current_count": 1108,
+      "deviation_pct": 1377.3
+    },
+    {
+      "cna_name": "CSA",
+      "current_count": 25,
+      "deviation_pct": 1150.0
+    },
+    {
+      "cna_name": "bcorg",
+      "current_count": 34,
+      "deviation_pct": 1033.3
+    },
+    {
+      "cna_name": "ProgressSoftware",
+      "current_count": 41,
+      "deviation_pct": 925.0
+    }
+  ],
+  "top_declining": [
+    {
+      "cna_name": "GoogleCloud",
+      "current_count": 5,
+      "deviation_pct": 47.1
+    },
+    {
+      "cna_name": "Zoom",
+      "current_count": 4,
+      "deviation_pct": -3.0
+    },
+    {
+      "cna_name": "facebook",
+      "current_count": 2,
+      "deviation_pct": -14.3
+    },
+    {
+      "cna_name": "M-Files Corporation",
+      "current_count": 1,
+      "deviation_pct": -25.0
+    },
+    {
+      "cna_name": "qualcomm",
+      "current_count": 11,
+      "deviation_pct": -43.9
+    },
+    {
+      "cna_name": "netapp",
+      "current_count": 1,
+      "deviation_pct": -45.5
+    },
+    {
+      "cna_name": "schneider",
+      "current_count": 3,
+      "deviation_pct": -46.7
+    },
+    {
+      "cna_name": "Mitsubishi",
+      "current_count": 1,
+      "deviation_pct": -47.6
+    },
+    {
+      "cna_name": "Esri",
+      "current_count": 2,
+      "deviation_pct": -50.0
+    },
+    {
+      "cna_name": "siemens",
+      "current_count": 7,
+      "deviation_pct": -50.7
+    }
+  ]
+}
