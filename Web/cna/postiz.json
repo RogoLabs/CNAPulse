@@ -1,15 +1,15 @@
 {
-  "assigner_id": "unknown",
+  "assigner_id": "4cdc9741-f887-419a-a2fd-acbbd2729276",
   "cna_name": "postiz",
   "cna_org_name": "Postiz",
   "cna_advisory_url": "https://github.com/gitroomhq/postiz-app/security/advisories?state=published",
   "country": "Israel",
   "scope_type": "",
-  "status": "Inactive",
+  "status": "Growth",
   "baseline_avg": 0.0,
-  "current_count": 0,
-  "deviation_pct": 0.0,
-  "days_since_last_cve": null,
+  "current_count": 1,
+  "deviation_pct": 999999.0,
+  "days_since_last_cve": 0,
   "std_dev": null,
   "threshold_low": 0.0,
   "threshold_high": 0.0,
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 0,
+      "count": 1,
       "is_current": true
     }
   ]

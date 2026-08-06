@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://advisories.typo3.org/",
   "country": "Switzerland",
   "scope_type": "",
-  "status": "Declining",
+  "status": "Normal",
   "baseline_avg": 4.89,
   "current_count": 1,
   "deviation_pct": -79.5,
