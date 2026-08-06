@@ -1,6 +1,6 @@
 {
   "date": "2026-08-06",
-  "generated_at": "2026-08-06T08:36:12.564091",
+  "generated_at": "2026-08-06T11:23:14.375979",
   "total_cnas": 577,
   "cnas_growth": 53,
   "cnas_normal": 121,
@@ -13,8 +13,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "ELAN",
-      "current_count": 1,
+      "cna_name": "illumos",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -28,8 +28,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "illumos",
-      "current_count": 2,
+      "cna_name": "ELAN",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -49,8 +49,8 @@
     },
     {
       "cna_name": "CSA",
-      "current_count": 25,
-      "deviation_pct": 1150.0
+      "current_count": 28,
+      "deviation_pct": 1300.0
     },
     {
       "cna_name": "ProgressSoftware",
