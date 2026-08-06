@@ -1,15 +1,20 @@
 {
   "date": "2026-08-06",
-  "generated_at": "2026-08-06T02:33:31.323913",
+  "generated_at": "2026-08-06T05:49:11.045310",
   "total_cnas": 577,
   "cnas_growth": 51,
-  "cnas_normal": 123,
-  "cnas_declining": 212,
-  "cnas_inactive": 191,
+  "cnas_normal": 122,
+  "cnas_declining": 214,
+  "cnas_inactive": 190,
   "top_growth": [
     {
-      "cna_name": "HDFG",
-      "current_count": 9,
+      "cna_name": "ELAN",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "illumos",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -18,8 +23,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "illumos",
-      "current_count": 2,
+      "cna_name": "HDFG",
+      "current_count": 9,
       "deviation_pct": 999999.0
     },
     {
@@ -51,11 +56,6 @@
       "cna_name": "bcorg",
       "current_count": 34,
       "deviation_pct": 1033.3
-    },
-    {
-      "cna_name": "ProgressSoftware",
-      "current_count": 41,
-      "deviation_pct": 925.0
     }
   ],
   "top_declining": [
