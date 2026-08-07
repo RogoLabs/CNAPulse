@@ -1,6 +1,6 @@
 {
   "date": "2026-08-07",
-  "generated_at": "2026-08-07T03:10:02.401038",
+  "generated_at": "2026-08-07T07:15:18.659656",
   "total_cnas": 577,
   "cnas_growth": 56,
   "cnas_normal": 119,
@@ -8,13 +8,13 @@
   "cnas_inactive": 188,
   "top_growth": [
     {
-      "cna_name": "Spotfire",
-      "current_count": 1,
+      "cna_name": "illumos",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "illumos",
-      "current_count": 2,
+      "cna_name": "postiz",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -23,12 +23,7 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "HDFG",
-      "current_count": 9,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "postiz",
+      "cna_name": "Spotfire",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -38,14 +33,19 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "HDFG",
+      "current_count": 9,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "FTI",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
       "cna_name": "WPScan",
-      "current_count": 380,
-      "deviation_pct": 1640.5
+      "current_count": 397,
+      "deviation_pct": 1711.4
     },
     {
       "cna_name": "oracle",
