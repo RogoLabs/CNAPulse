@@ -1,19 +1,29 @@
 {
   "date": "2026-08-07",
-  "generated_at": "2026-08-07T18:56:21.509142",
+  "generated_at": "2026-08-07T21:39:26.059312",
   "total_cnas": 577,
-  "cnas_growth": 54,
-  "cnas_normal": 120,
-  "cnas_declining": 216,
+  "cnas_growth": 56,
+  "cnas_normal": 117,
+  "cnas_declining": 217,
   "cnas_inactive": 187,
   "top_growth": [
+    {
+      "cna_name": "HDFG",
+      "current_count": 9,
+      "deviation_pct": 999999.0
+    },
     {
       "cna_name": "FTI",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "ELAN",
+      "cna_name": "postiz",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Vestel",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -23,28 +33,18 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Vestel",
-      "current_count": 1,
+      "cna_name": "illumos",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "postiz",
-      "current_count": 2,
+      "cna_name": "ELAN",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
       "cna_name": "Spotfire",
       "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "HDFG",
-      "current_count": 9,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "illumos",
-      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -65,14 +65,14 @@
       "deviation_pct": 32.4
     },
     {
-      "cna_name": "Zoom",
-      "current_count": 4,
-      "deviation_pct": -3.0
-    },
-    {
       "cna_name": "facebook",
       "current_count": 2,
       "deviation_pct": -14.3
+    },
+    {
+      "cna_name": "Zoom",
+      "current_count": 4,
+      "deviation_pct": -15.2
     },
     {
       "cna_name": "M-Files Corporation",
