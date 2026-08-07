@@ -1,15 +1,30 @@
 {
   "date": "2026-08-07",
-  "generated_at": "2026-08-07T10:02:01.272434",
+  "generated_at": "2026-08-07T13:03:32.539709",
   "total_cnas": 577,
-  "cnas_growth": 55,
-  "cnas_normal": 119,
+  "cnas_growth": 53,
+  "cnas_normal": 121,
   "cnas_declining": 215,
   "cnas_inactive": 188,
   "top_growth": [
     {
+      "cna_name": "illumos",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "Spotfire",
       "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "postiz",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OMICRON",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -23,23 +38,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "OMICRON",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "illumos",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "HDFG",
       "current_count": 9,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "postiz",
-      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -90,14 +90,14 @@
       "deviation_pct": -45.5
     },
     {
+      "cna_name": "siemens",
+      "current_count": 7,
+      "deviation_pct": -45.8
+    },
+    {
       "cna_name": "schneider",
       "current_count": 3,
       "deviation_pct": -46.7
-    },
-    {
-      "cna_name": "siemens",
-      "current_count": 7,
-      "deviation_pct": -50.7
     },
     {
       "cna_name": "Go",

@@ -6,13 +6,13 @@
   "country": "Canada",
   "scope_type": "",
   "status": "Growth",
-  "baseline_avg": 14.17,
-  "current_count": 71,
-  "deviation_pct": 401.2,
+  "baseline_avg": 14.25,
+  "current_count": 70,
+  "deviation_pct": 391.2,
   "days_since_last_cve": 2,
-  "std_dev": 18.6,
-  "threshold_low": 7.08,
-  "threshold_high": 35.42,
+  "std_dev": 18.74,
+  "threshold_low": 7.12,
+  "threshold_high": 35.62,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 71,
+      "count": 70,
       "is_current": true
     }
   ]

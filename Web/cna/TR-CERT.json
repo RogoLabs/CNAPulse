@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://siberguvenlik.gov.tr/guvenlik-bildirimleri",
   "country": "Türkiye",
   "scope_type": "",
-  "status": "Growth",
-  "baseline_avg": 25.83,
-  "current_count": 64,
-  "deviation_pct": 147.7,
+  "status": "Normal",
+  "baseline_avg": 28.55,
+  "current_count": 60,
+  "deviation_pct": 110.2,
   "days_since_last_cve": 0,
-  "std_dev": 13.55,
-  "threshold_low": 12.92,
-  "threshold_high": 64.58,
+  "std_dev": 12.09,
+  "threshold_low": 14.27,
+  "threshold_high": 71.36,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 64,
+      "count": 60,
       "is_current": true
     }
   ]
