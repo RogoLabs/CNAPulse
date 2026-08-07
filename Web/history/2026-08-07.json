@@ -1,27 +1,12 @@
 {
   "date": "2026-08-07",
-  "generated_at": "2026-08-07T07:15:18.659656",
+  "generated_at": "2026-08-07T10:02:01.272434",
   "total_cnas": 577,
-  "cnas_growth": 56,
+  "cnas_growth": 55,
   "cnas_normal": 119,
-  "cnas_declining": 214,
+  "cnas_declining": 215,
   "cnas_inactive": 188,
   "top_growth": [
-    {
-      "cna_name": "illumos",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "postiz",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "OMICRON",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
     {
       "cna_name": "Spotfire",
       "current_count": 1,
@@ -33,19 +18,34 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "HDFG",
-      "current_count": 9,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "FTI",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "OMICRON",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "illumos",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "HDFG",
+      "current_count": 9,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "postiz",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "WPScan",
-      "current_count": 397,
-      "deviation_pct": 1711.4
+      "current_count": 400,
+      "deviation_pct": 1725.1
     },
     {
       "cna_name": "oracle",
@@ -62,7 +62,7 @@
     {
       "cna_name": "GoogleCloud",
       "current_count": 5,
-      "deviation_pct": 47.1
+      "deviation_pct": 32.4
     },
     {
       "cna_name": "Zoom",
