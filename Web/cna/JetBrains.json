@@ -6,13 +6,13 @@
   "country": "Czech Republic",
   "scope_type": "",
   "status": "Growth",
-  "baseline_avg": 8.82,
+  "baseline_avg": 8.08,
   "current_count": 27,
-  "deviation_pct": 206.2,
+  "deviation_pct": 234.0,
   "days_since_last_cve": 11,
-  "std_dev": 6.21,
-  "threshold_low": 4.41,
-  "threshold_high": 22.05,
+  "std_dev": 6.27,
+  "threshold_low": 4.04,
+  "threshold_high": 20.21,
   "timeline_13months": [
     {
       "month": "Days 390-360",
