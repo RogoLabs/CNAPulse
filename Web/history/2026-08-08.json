@@ -1,0 +1,113 @@
+{
+  "date": "2026-08-08",
+  "generated_at": "2026-08-08T01:38:53.375086",
+  "total_cnas": 577,
+  "cnas_growth": 56,
+  "cnas_normal": 117,
+  "cnas_declining": 217,
+  "cnas_inactive": 187,
+  "top_growth": [
+    {
+      "cna_name": "Spotfire",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "FTI",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "HDFG",
+      "current_count": 9,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OMICRON",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "ELAN",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Vestel",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "illumos",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "postiz",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "WPScan",
+      "current_count": 400,
+      "deviation_pct": 1725.1
+    },
+    {
+      "cna_name": "oracle",
+      "current_count": 1108,
+      "deviation_pct": 1377.3
+    }
+  ],
+  "top_declining": [
+    {
+      "cna_name": "GoogleCloud",
+      "current_count": 5,
+      "deviation_pct": 32.4
+    },
+    {
+      "cna_name": "facebook",
+      "current_count": 2,
+      "deviation_pct": -14.3
+    },
+    {
+      "cna_name": "M-Files Corporation",
+      "current_count": 1,
+      "deviation_pct": -25.0
+    },
+    {
+      "cna_name": "samsung.tv_appliance",
+      "current_count": 7,
+      "deviation_pct": -35.4
+    },
+    {
+      "cna_name": "qualcomm",
+      "current_count": 11,
+      "deviation_pct": -43.9
+    },
+    {
+      "cna_name": "netapp",
+      "current_count": 1,
+      "deviation_pct": -45.5
+    },
+    {
+      "cna_name": "siemens",
+      "current_count": 7,
+      "deviation_pct": -45.8
+    },
+    {
+      "cna_name": "schneider",
+      "current_count": 3,
+      "deviation_pct": -53.3
+    },
+    {
+      "cna_name": "kubernetes",
+      "current_count": 1,
+      "deviation_pct": -53.8
+    },
+    {
+      "cna_name": "TML",
+      "current_count": 1,
+      "deviation_pct": -57.1
+    }
+  ]
+}
