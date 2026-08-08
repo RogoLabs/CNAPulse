@@ -6,13 +6,13 @@
   "country": "Germany",
   "scope_type": "",
   "status": "Declining",
-  "baseline_avg": 12.91,
-  "current_count": 7,
-  "deviation_pct": -45.8,
+  "baseline_avg": 13.27,
+  "current_count": 3,
+  "deviation_pct": -77.4,
   "days_since_last_cve": 25,
-  "std_dev": 12.19,
-  "threshold_low": 6.45,
-  "threshold_high": 32.27,
+  "std_dev": 11.85,
+  "threshold_low": 6.64,
+  "threshold_high": 33.18,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 7,
+      "count": 3,
       "is_current": true
     }
   ]

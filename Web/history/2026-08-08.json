@@ -1,25 +1,20 @@
 {
   "date": "2026-08-08",
-  "generated_at": "2026-08-08T12:48:16.632773",
+  "generated_at": "2026-08-08T15:29:44.528369",
   "total_cnas": 577,
-  "cnas_growth": 58,
-  "cnas_normal": 113,
-  "cnas_declining": 219,
+  "cnas_growth": 59,
+  "cnas_normal": 111,
+  "cnas_declining": 220,
   "cnas_inactive": 187,
   "top_growth": [
     {
-      "cna_name": "Vestel",
-      "current_count": 1,
+      "cna_name": "OMICRON",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "illumos",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "ELAN",
-      "current_count": 1,
+      "cna_name": "HDFG",
+      "current_count": 9,
       "deviation_pct": 999999.0
     },
     {
@@ -33,17 +28,22 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "OMICRON",
-      "current_count": 3,
+      "cna_name": "ELAN",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "HDFG",
-      "current_count": 9,
+      "cna_name": "illumos",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
       "cna_name": "Spotfire",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Vestel",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -61,13 +61,18 @@
   "top_declining": [
     {
       "cna_name": "GoogleCloud",
-      "current_count": 5,
-      "deviation_pct": 32.4
+      "current_count": 4,
+      "deviation_pct": 2.9
     },
     {
       "cna_name": "facebook",
       "current_count": 2,
       "deviation_pct": -14.3
+    },
+    {
+      "cna_name": "ManageEngine",
+      "current_count": 3,
+      "deviation_pct": -15.4
     },
     {
       "cna_name": "M-Files Corporation",
@@ -83,11 +88,6 @@
       "cna_name": "netapp",
       "current_count": 1,
       "deviation_pct": -45.5
-    },
-    {
-      "cna_name": "siemens",
-      "current_count": 7,
-      "deviation_pct": -45.8
     },
     {
       "cna_name": "schneider",
