@@ -1,12 +1,27 @@
 {
   "date": "2026-08-08",
-  "generated_at": "2026-08-08T15:29:44.528369",
+  "generated_at": "2026-08-08T18:37:24.964619",
   "total_cnas": 577,
-  "cnas_growth": 59,
-  "cnas_normal": 111,
-  "cnas_declining": 220,
+  "cnas_growth": 60,
+  "cnas_normal": 109,
+  "cnas_declining": 221,
   "cnas_inactive": 187,
   "top_growth": [
+    {
+      "cna_name": "FTI",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Spotfire",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "postiz",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
     {
       "cna_name": "OMICRON",
       "current_count": 3,
@@ -18,27 +33,12 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "postiz",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "FTI",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "ELAN",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "illumos",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Spotfire",
+      "cna_name": "ELAN",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
