@@ -1,19 +1,14 @@
 {
   "date": "2026-08-08",
-  "generated_at": "2026-08-08T04:11:19.479140",
+  "generated_at": "2026-08-08T06:53:21.579543",
   "total_cnas": 577,
-  "cnas_growth": 56,
-  "cnas_normal": 117,
+  "cnas_growth": 57,
+  "cnas_normal": 116,
   "cnas_declining": 217,
   "cnas_inactive": 187,
   "top_growth": [
     {
-      "cna_name": "HDFG",
-      "current_count": 9,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "FTI",
+      "cna_name": "postiz",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
@@ -23,13 +18,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "postiz",
-      "current_count": 2,
+      "cna_name": "HDFG",
+      "current_count": 9,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "illumos",
-      "current_count": 2,
+      "cna_name": "Spotfire",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -38,8 +33,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Spotfire",
-      "current_count": 1,
+      "cna_name": "illumos",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "FTI",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -49,8 +49,8 @@
     },
     {
       "cna_name": "WPScan",
-      "current_count": 400,
-      "deviation_pct": 1725.1
+      "current_count": 411,
+      "deviation_pct": 1733.5
     },
     {
       "cna_name": "oracle",
