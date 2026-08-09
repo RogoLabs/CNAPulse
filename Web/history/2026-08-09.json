@@ -1,35 +1,15 @@
 {
   "date": "2026-08-09",
-  "generated_at": "2026-08-09T12:50:37.391011",
+  "generated_at": "2026-08-09T15:32:36.110452",
   "total_cnas": 577,
-  "cnas_growth": 62,
-  "cnas_normal": 104,
+  "cnas_growth": 63,
+  "cnas_normal": 103,
   "cnas_declining": 224,
   "cnas_inactive": 187,
   "top_growth": [
     {
-      "cna_name": "HDFG",
-      "current_count": 9,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "illumos",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "OMICRON",
       "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "postiz",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Vestel",
-      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -43,8 +23,28 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "illumos",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Vestel",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "HDFG",
+      "current_count": 9,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "Spotfire",
       "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "postiz",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
