@@ -1,6 +1,6 @@
 {
   "date": "2026-08-10",
-  "generated_at": "2026-08-10T01:47:52.679851",
+  "generated_at": "2026-08-10T04:38:28.660975",
   "total_cnas": 577,
   "cnas_growth": 61,
   "cnas_normal": 104,
@@ -8,13 +8,8 @@
   "cnas_inactive": 187,
   "top_growth": [
     {
-      "cna_name": "postiz",
+      "cna_name": "FTI",
       "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "OMICRON",
-      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -28,23 +23,28 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "FTI",
+      "cna_name": "illumos",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "ELAN",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "illumos",
+      "cna_name": "postiz",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
       "cna_name": "HDFG",
       "current_count": 9,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OMICRON",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "ELAN",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
