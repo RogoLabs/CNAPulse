@@ -6,13 +6,13 @@
   "country": "Australia",
   "scope_type": "",
   "status": "Declining",
-  "baseline_avg": 4.0,
+  "baseline_avg": 3.0,
   "current_count": 0,
   "deviation_pct": -100.0,
-  "days_since_last_cve": 37,
-  "std_dev": 1.0,
-  "threshold_low": 2.0,
-  "threshold_high": 10.0,
+  "days_since_last_cve": 38,
+  "std_dev": 0.82,
+  "threshold_low": 1.5,
+  "threshold_high": 7.5,
   "timeline_13months": [
     {
       "month": "Days 390-360",
