@@ -1,42 +1,12 @@
 {
   "date": "2026-08-11",
-  "generated_at": "2026-08-11T04:20:09.165306",
+  "generated_at": "2026-08-11T07:07:25.776660",
   "total_cnas": 577,
   "cnas_growth": 61,
-  "cnas_normal": 112,
-  "cnas_declining": 218,
+  "cnas_normal": 115,
+  "cnas_declining": 215,
   "cnas_inactive": 186,
   "top_growth": [
-    {
-      "cna_name": "illumos",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "OMICRON",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "systemd",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "ELAN",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Spotfire",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "postiz",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
     {
       "cna_name": "HDFG",
       "current_count": 9,
@@ -48,26 +18,56 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "Spotfire",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "illumos",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OMICRON",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "postiz",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "systemd",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "FTI",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "ELAN",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "WPScan",
-      "current_count": 474,
-      "deviation_pct": 1998.9
+      "current_count": 476,
+      "deviation_pct": 2007.7
     }
   ],
   "top_declining": [
     {
+      "cna_name": "ManageEngine",
+      "current_count": 4,
+      "deviation_pct": 12.8
+    },
+    {
       "cna_name": "GoogleCloud",
       "current_count": 4,
       "deviation_pct": 2.9
-    },
-    {
-      "cna_name": "ManageEngine",
-      "current_count": 3,
-      "deviation_pct": -15.4
     },
     {
       "cna_name": "facebook",
@@ -100,14 +100,14 @@
       "deviation_pct": -50.0
     },
     {
-      "cna_name": "twcert",
-      "current_count": 8,
-      "deviation_pct": -50.3
-    },
-    {
       "cna_name": "schneider",
       "current_count": 3,
       "deviation_pct": -53.3
+    },
+    {
+      "cna_name": "kubernetes",
+      "current_count": 1,
+      "deviation_pct": -53.8
     }
   ]
 }
