@@ -10,13 +10,13 @@
   "current_count": 168,
   "deviation_pct": 183.1,
   "days_since_last_cve": 4,
-  "std_dev": 37.03,
+  "std_dev": 38.99,
   "threshold_low": 29.67,
   "threshold_high": 148.33,
   "timeline_13months": [
     {
       "month": "Days 390-360",
-      "count": 81,
+      "count": 9,
       "is_current": false
     },
     {
