@@ -1,6 +1,6 @@
 {
   "date": "2026-08-11",
-  "generated_at": "2026-08-11T01:44:01.983694",
+  "generated_at": "2026-08-11T04:20:09.165306",
   "total_cnas": 577,
   "cnas_growth": 61,
   "cnas_normal": 112,
@@ -8,8 +8,13 @@
   "cnas_inactive": 186,
   "top_growth": [
     {
-      "cna_name": "FTI",
+      "cna_name": "illumos",
       "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OMICRON",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -18,8 +23,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "illumos",
-      "current_count": 2,
+      "cna_name": "ELAN",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -33,23 +38,18 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Vestel",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "ELAN",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "HDFG",
       "current_count": 9,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "OMICRON",
-      "current_count": 3,
+      "cna_name": "Vestel",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "FTI",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -100,14 +100,14 @@
       "deviation_pct": -50.0
     },
     {
+      "cna_name": "twcert",
+      "current_count": 8,
+      "deviation_pct": -50.3
+    },
+    {
       "cna_name": "schneider",
       "current_count": 3,
       "deviation_pct": -53.3
-    },
-    {
-      "cna_name": "kubernetes",
-      "current_count": 1,
-      "deviation_pct": -53.8
     }
   ]
 }
