@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://mattermost.com/security-updates/",
   "country": "USA",
   "scope_type": "",
-  "status": "Normal",
-  "baseline_avg": 14.83,
-  "current_count": 8,
-  "deviation_pct": -46.1,
+  "status": "Declining",
+  "baseline_avg": 15.0,
+  "current_count": 5,
+  "deviation_pct": -66.7,
   "days_since_last_cve": 14,
-  "std_dev": 12.92,
-  "threshold_low": 7.42,
-  "threshold_high": 37.08,
+  "std_dev": 13.0,
+  "threshold_low": 7.5,
+  "threshold_high": 37.5,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 8,
+      "count": 5,
       "is_current": true
     }
   ]

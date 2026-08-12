@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://security.netapp.com/advisory/",
   "country": "USA",
   "scope_type": "",
-  "status": "Normal",
+  "status": "Declining",
   "baseline_avg": 1.83,
   "current_count": 1,
   "deviation_pct": -45.5,
