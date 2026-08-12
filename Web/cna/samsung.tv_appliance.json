@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://Security.SamsungTV.com/securityUpdates",
   "country": "South Korea",
   "scope_type": "",
-  "status": "Normal",
+  "status": "Declining",
   "baseline_avg": 11.83,
   "current_count": 5,
   "deviation_pct": -57.7,
