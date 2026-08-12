@@ -6,13 +6,13 @@
   "country": "France",
   "scope_type": "",
   "status": "Declining",
-  "baseline_avg": 6.43,
+  "baseline_avg": 5.62,
   "current_count": 3,
-  "deviation_pct": -53.3,
+  "deviation_pct": -46.7,
   "days_since_last_cve": 14,
-  "std_dev": 4.08,
-  "threshold_low": 3.21,
-  "threshold_high": 16.07,
+  "std_dev": 3.54,
+  "threshold_low": 2.81,
+  "threshold_high": 14.06,
   "timeline_13months": [
     {
       "month": "Days 390-360",

@@ -1,19 +1,39 @@
 {
   "date": "2026-08-12",
-  "generated_at": "2026-08-12T13:09:09.637266",
+  "generated_at": "2026-08-12T15:59:24.792834",
   "total_cnas": 577,
-  "cnas_growth": 67,
-  "cnas_normal": 108,
+  "cnas_growth": 71,
+  "cnas_normal": 104,
   "cnas_declining": 216,
   "cnas_inactive": 186,
   "top_growth": [
     {
-      "cna_name": "illumos",
+      "cna_name": "HDFG",
+      "current_count": 9,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Spotfire",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OMICRON",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "FTI",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Vestel",
+      "cna_name": "postiz",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "ELAN",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -23,33 +43,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "ELAN",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Spotfire",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "HDFG",
-      "current_count": 9,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "OMICRON",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "postiz",
+      "cna_name": "illumos",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "FTI",
-      "current_count": 2,
+      "cna_name": "Vestel",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -95,6 +95,11 @@
       "deviation_pct": -45.5
     },
     {
+      "cna_name": "schneider",
+      "current_count": 3,
+      "deviation_pct": -46.7
+    },
+    {
       "cna_name": "ENISA",
       "current_count": 3,
       "deviation_pct": -50.0
@@ -103,11 +108,6 @@
       "cna_name": "AMD",
       "current_count": 9,
       "deviation_pct": -51.7
-    },
-    {
-      "cna_name": "schneider",
-      "current_count": 3,
-      "deviation_pct": -53.3
     }
   ]
 }
