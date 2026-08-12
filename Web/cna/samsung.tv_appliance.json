@@ -6,13 +6,13 @@
   "country": "South Korea",
   "scope_type": "",
   "status": "Declining",
-  "baseline_avg": 11.67,
-  "current_count": 4,
-  "deviation_pct": -65.7,
+  "baseline_avg": 11.83,
+  "current_count": 3,
+  "deviation_pct": -74.6,
   "days_since_last_cve": 0,
-  "std_dev": 8.09,
-  "threshold_low": 5.83,
-  "threshold_high": 29.17,
+  "std_dev": 7.96,
+  "threshold_low": 5.92,
+  "threshold_high": 29.58,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 4,
+      "count": 3,
       "is_current": true
     }
   ]
