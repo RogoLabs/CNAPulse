@@ -1,24 +1,29 @@
 {
   "date": "2026-08-12",
-  "generated_at": "2026-08-12T19:01:39.427589",
+  "generated_at": "2026-08-12T21:44:59.424458",
   "total_cnas": 577,
-  "cnas_growth": 71,
-  "cnas_normal": 103,
+  "cnas_growth": 72,
+  "cnas_normal": 102,
   "cnas_declining": 217,
   "cnas_inactive": 186,
   "top_growth": [
+    {
+      "cna_name": "HDFG",
+      "current_count": 9,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OMICRON",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
     {
       "cna_name": "illumos",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "ELAN",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "FTI",
+      "cna_name": "postiz",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
@@ -28,8 +33,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "HDFG",
-      "current_count": 9,
+      "cna_name": "Vestel",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "ELAN",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -38,18 +48,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "postiz",
+      "cna_name": "FTI",
       "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "OMICRON",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Vestel",
-      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
