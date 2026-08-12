@@ -1,34 +1,14 @@
 {
   "date": "2026-08-12",
-  "generated_at": "2026-08-12T15:59:24.792834",
+  "generated_at": "2026-08-12T19:01:39.427589",
   "total_cnas": 577,
   "cnas_growth": 71,
-  "cnas_normal": 104,
-  "cnas_declining": 216,
+  "cnas_normal": 103,
+  "cnas_declining": 217,
   "cnas_inactive": 186,
   "top_growth": [
     {
-      "cna_name": "HDFG",
-      "current_count": 9,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Spotfire",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "OMICRON",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "FTI",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "postiz",
+      "cna_name": "illumos",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
@@ -38,13 +18,33 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "FTI",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Spotfire",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "HDFG",
+      "current_count": 9,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "systemd",
       "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "illumos",
+      "cna_name": "postiz",
       "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OMICRON",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -53,9 +53,9 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "WPScan",
-      "current_count": 509,
-      "deviation_pct": 2073.7
+      "cna_name": "TuranSec",
+      "current_count": 173,
+      "deviation_pct": 2521.2
     }
   ],
   "top_declining": [
