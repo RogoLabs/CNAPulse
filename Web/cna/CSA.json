@@ -6,13 +6,13 @@
   "country": "Singapore",
   "scope_type": "",
   "status": "Growth",
-  "baseline_avg": 2.67,
-  "current_count": 28,
-  "deviation_pct": 950.0,
+  "baseline_avg": 2.25,
+  "current_count": 27,
+  "deviation_pct": 1100.0,
   "days_since_last_cve": 5,
-  "std_dev": 1.53,
-  "threshold_low": 1.33,
-  "threshold_high": 6.67,
+  "std_dev": 1.5,
+  "threshold_low": 1.12,
+  "threshold_high": 5.62,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 28,
+      "count": 27,
       "is_current": true
     }
   ]
