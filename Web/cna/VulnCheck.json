@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://vulncheck.com/advisories",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
+  "status": "Normal",
   "baseline_avg": 377.33,
   "current_count": 774,
   "deviation_pct": 105.1,

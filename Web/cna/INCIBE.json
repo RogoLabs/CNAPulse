@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://www.incibe.es/incibe-cert/alerta-temprana/vulnerabilidades/avisos-cna",
   "country": "Spain",
   "scope_type": "",
-  "status": "Normal",
+  "status": "Declining",
   "baseline_avg": 32.33,
   "current_count": 9,
   "deviation_pct": -72.2,
