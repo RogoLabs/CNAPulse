@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://www.cert-in.org.in/",
   "country": "India",
   "scope_type": "",
-  "status": "Declining",
+  "status": "Normal",
   "baseline_avg": 3.71,
   "current_count": 2,
   "deviation_pct": -46.2,
