@@ -1,19 +1,49 @@
 {
   "date": "2026-08-13",
-  "generated_at": "2026-08-13T19:02:20.594051",
+  "generated_at": "2026-08-13T21:45:01.376076",
   "total_cnas": 577,
-  "cnas_growth": 69,
-  "cnas_normal": 106,
-  "cnas_declining": 217,
+  "cnas_growth": 70,
+  "cnas_normal": 107,
+  "cnas_declining": 215,
   "cnas_inactive": 185,
   "top_growth": [
+    {
+      "cna_name": "OMICRON",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "postiz",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
     {
       "cna_name": "FTI",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "postiz",
+      "cna_name": "ELAN",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Vestel",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OpenNMS",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "systemd",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "illumos",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
@@ -23,42 +53,17 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "ELAN",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "illumos",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "OMICRON",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "OpenNMS",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Vestel",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "systemd",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "TuranSec",
       "current_count": 173,
       "deviation_pct": 2521.2
     }
   ],
   "top_declining": [
+    {
+      "cna_name": "GRAFANA",
+      "current_count": 5,
+      "deviation_pct": 11.1
+    },
     {
       "cna_name": "GoogleCloud",
       "current_count": 3,
@@ -83,11 +88,6 @@
       "cna_name": "netapp",
       "current_count": 1,
       "deviation_pct": -45.5
-    },
-    {
-      "cna_name": "ENISA",
-      "current_count": 3,
-      "deviation_pct": -50.0
     },
     {
       "cna_name": "AMD",

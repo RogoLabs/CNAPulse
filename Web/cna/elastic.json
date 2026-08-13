@@ -5,11 +5,11 @@
   "cna_advisory_url": "https://www.elastic.co/community/security",
   "country": "Netherlands",
   "scope_type": "",
-  "status": "Normal",
+  "status": "Growth",
   "baseline_avg": 6.09,
-  "current_count": 19,
-  "deviation_pct": 211.9,
-  "days_since_last_cve": 22,
+  "current_count": 67,
+  "deviation_pct": 1000.0,
+  "days_since_last_cve": 0,
   "std_dev": 5.03,
   "threshold_low": 3.05,
   "threshold_high": 15.23,
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 19,
+      "count": 67,
       "is_current": true
     }
   ]
