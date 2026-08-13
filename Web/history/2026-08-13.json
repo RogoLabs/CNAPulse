@@ -1,24 +1,14 @@
 {
   "date": "2026-08-13",
-  "generated_at": "2026-08-13T07:26:52.141448",
+  "generated_at": "2026-08-13T10:06:06.360169",
   "total_cnas": 577,
-  "cnas_growth": 72,
-  "cnas_normal": 105,
+  "cnas_growth": 71,
+  "cnas_normal": 106,
   "cnas_declining": 215,
   "cnas_inactive": 185,
   "top_growth": [
     {
-      "cna_name": "Spotfire",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "HDFG",
-      "current_count": 9,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "illumos",
+      "cna_name": "FTI",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
@@ -33,18 +23,23 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "ELAN",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "systemd",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "FTI",
+      "cna_name": "illumos",
       "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "HDFG",
+      "current_count": 9,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OpenNMS",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Spotfire",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -53,8 +48,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "OpenNMS",
-      "current_count": 2,
+      "cna_name": "systemd",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "ELAN",
+      "current_count": 1,
       "deviation_pct": 999999.0
     }
   ],
