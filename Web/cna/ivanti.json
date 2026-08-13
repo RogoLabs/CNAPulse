@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://www.ivanti.com/blog/topics/security-advisory",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
-  "baseline_avg": 6.6,
-  "current_count": 5,
-  "deviation_pct": -24.2,
-  "days_since_last_cve": 1,
-  "std_dev": 5.56,
-  "threshold_low": 3.3,
-  "threshold_high": 16.5,
+  "status": "Declining",
+  "baseline_avg": 6.18,
+  "current_count": 3,
+  "deviation_pct": -51.5,
+  "days_since_last_cve": 2,
+  "std_dev": 5.46,
+  "threshold_low": 3.09,
+  "threshold_high": 15.45,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 5,
+      "count": 3,
       "is_current": true
     }
   ]
