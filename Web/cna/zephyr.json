@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://docs.zephyrproject.org/latest/security/vulnerabilities.html",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
+  "status": "Normal",
   "baseline_avg": 6.56,
   "current_count": 40,
   "deviation_pct": 510.2,

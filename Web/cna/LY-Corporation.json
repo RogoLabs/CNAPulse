@@ -1,18 +1,18 @@
 {
-  "assigner_id": "unknown",
+  "assigner_id": "657f3255-0560-4aed-82e4-7f579ec6acfb",
   "cna_name": "LY-Corporation",
   "cna_org_name": "LY Corporation",
   "cna_advisory_url": "https://line.github.io/security-advisory-blog/advisory",
   "country": "Japan",
   "scope_type": "",
-  "status": "Inactive",
-  "baseline_avg": 0.0,
-  "current_count": 0,
-  "deviation_pct": 0.0,
-  "days_since_last_cve": null,
-  "std_dev": null,
-  "threshold_low": 0.0,
-  "threshold_high": 0.0,
+  "status": "Normal",
+  "baseline_avg": 3.67,
+  "current_count": 2,
+  "deviation_pct": -45.5,
+  "days_since_last_cve": 2,
+  "std_dev": 2.52,
+  "threshold_low": 1.83,
+  "threshold_high": 9.17,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -36,12 +36,12 @@
     },
     {
       "month": "Days 270-240",
-      "count": 0,
+      "count": 6,
       "is_current": false
     },
     {
       "month": "Days 240-210",
-      "count": 0,
+      "count": 6,
       "is_current": false
     },
     {
@@ -61,7 +61,7 @@
     },
     {
       "month": "Days 120-90",
-      "count": 0,
+      "count": 1,
       "is_current": false
     },
     {
@@ -71,12 +71,12 @@
     },
     {
       "month": "Days 60-30",
-      "count": 0,
+      "count": 4,
       "is_current": false
     },
     {
       "month": "Last 30 Days",
-      "count": 0,
+      "count": 2,
       "is_current": true
     }
   ]

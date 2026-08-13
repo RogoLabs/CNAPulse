@@ -5,11 +5,11 @@
   "cna_advisory_url": "https://securityadvisories.paloaltonetworks.com/",
   "country": "USA",
   "scope_type": "",
-  "status": "Declining",
+  "status": "Normal",
   "baseline_avg": 8.9,
-  "current_count": 0,
-  "deviation_pct": -100.0,
-  "days_since_last_cve": 34,
+  "current_count": 12,
+  "deviation_pct": 34.8,
+  "days_since_last_cve": 0,
   "std_dev": 8.49,
   "threshold_low": 4.45,
   "threshold_high": 22.25,
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 0,
+      "count": 12,
       "is_current": true
     }
   ]

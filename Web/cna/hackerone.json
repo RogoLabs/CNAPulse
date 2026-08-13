@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://hackerone.com/hacktivity?querystring=&filter=type:hacker-published&order_direction=DESC&order_field=popular",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
+  "status": "Normal",
   "baseline_avg": 15.5,
   "current_count": 39,
   "deviation_pct": 151.6,

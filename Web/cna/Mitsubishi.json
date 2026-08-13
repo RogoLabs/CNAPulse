@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://www.mitsubishielectric.com/en/psirt/vulnerability/index.html",
   "country": "Japan",
   "scope_type": "",
-  "status": "Normal",
+  "status": "Declining",
   "baseline_avg": 2.1,
   "current_count": 1,
   "deviation_pct": -52.4,
