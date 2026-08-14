@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://www.asus.com/content/asus-product-security-advisory/",
   "country": "Taiwan",
   "scope_type": "",
-  "status": "Normal",
+  "status": "Declining",
   "baseline_avg": 4.0,
   "current_count": 3,
   "deviation_pct": -25.0,

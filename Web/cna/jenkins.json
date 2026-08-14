@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://jenkins.io/security/advisories/",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
+  "status": "Normal",
   "baseline_avg": 12.12,
   "current_count": 23,
   "deviation_pct": 89.7,

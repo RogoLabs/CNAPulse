@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://www.ivanti.com/blog/topics/security-advisory",
   "country": "USA",
   "scope_type": "",
-  "status": "Normal",
+  "status": "Declining",
   "baseline_avg": 6.18,
   "current_count": 3,
   "deviation_pct": -51.5,

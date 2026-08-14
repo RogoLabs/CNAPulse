@@ -1,30 +1,25 @@
 {
   "date": "2026-08-14",
-  "generated_at": "2026-08-14T07:24:44.393013",
-  "total_cnas": 577,
-  "cnas_growth": 69,
-  "cnas_normal": 107,
-  "cnas_declining": 216,
-  "cnas_inactive": 185,
+  "generated_at": "2026-08-14T10:02:04.119057",
+  "total_cnas": 574,
+  "cnas_growth": 56,
+  "cnas_normal": 118,
+  "cnas_declining": 218,
+  "cnas_inactive": 182,
   "top_growth": [
     {
-      "cna_name": "FTI",
+      "cna_name": "postiz",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "illumos",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
       "cna_name": "OMICRON",
       "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Vestel",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "ELAN",
-      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -38,17 +33,22 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "ELAN",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "HDFG",
       "current_count": 9,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "postiz",
-      "current_count": 2,
+      "cna_name": "Vestel",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "illumos",
+      "cna_name": "FTI",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
@@ -61,38 +61,43 @@
   "top_declining": [
     {
       "cna_name": "GRAFANA",
-      "current_count": 5,
-      "deviation_pct": 11.1
+      "current_count": 4,
+      "deviation_pct": -13.0
     },
     {
-      "cna_name": "GoogleCloud",
+      "cna_name": "ASUS",
       "current_count": 3,
-      "deviation_pct": -16.7
-    },
-    {
-      "cna_name": "facebook",
-      "current_count": 2,
-      "deviation_pct": -23.8
-    },
-    {
-      "cna_name": "M-Files Corporation",
-      "current_count": 1,
       "deviation_pct": -25.0
     },
     {
-      "cna_name": "qualcomm",
-      "current_count": 11,
-      "deviation_pct": -43.9
+      "cna_name": "hpe",
+      "current_count": 8,
+      "deviation_pct": -31.0
     },
     {
-      "cna_name": "netapp",
-      "current_count": 1,
-      "deviation_pct": -45.5
+      "cna_name": "PSF",
+      "current_count": 3,
+      "deviation_pct": -33.3
     },
     {
-      "cna_name": "AMD",
-      "current_count": 9,
-      "deviation_pct": -51.7
+      "cna_name": "Fluid Attacks",
+      "current_count": 4,
+      "deviation_pct": -40.3
+    },
+    {
+      "cna_name": "CERT-In",
+      "current_count": 2,
+      "deviation_pct": -46.2
+    },
+    {
+      "cna_name": "ivanti",
+      "current_count": 3,
+      "deviation_pct": -51.5
+    },
+    {
+      "cna_name": "rami.io",
+      "current_count": 2,
+      "deviation_pct": -52.0
     },
     {
       "cna_name": "Mitsubishi",
@@ -100,13 +105,8 @@
       "deviation_pct": -52.4
     },
     {
-      "cna_name": "kubernetes",
+      "cna_name": "TML",
       "current_count": 1,
-      "deviation_pct": -53.8
-    },
-    {
-      "cna_name": "twcert",
-      "current_count": 7,
       "deviation_pct": -57.1
     }
   ]

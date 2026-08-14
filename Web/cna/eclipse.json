@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://www.eclipse.org/security/known.php",
   "country": "Belgium",
   "scope_type": "",
-  "status": "Growth",
+  "status": "Normal",
   "baseline_avg": 5.92,
   "current_count": 21,
   "deviation_pct": 254.9,
