@@ -6,13 +6,13 @@
   "country": "Ireland",
   "scope_type": "",
   "status": "Normal",
-  "baseline_avg": 1.8,
+  "baseline_avg": 2.0,
   "current_count": 3,
-  "deviation_pct": 66.7,
+  "deviation_pct": 50.0,
   "days_since_last_cve": 14,
-  "std_dev": 1.23,
-  "threshold_low": 0.9,
-  "threshold_high": 4.5,
+  "std_dev": 1.5,
+  "threshold_low": 1.0,
+  "threshold_high": 5.0,
   "timeline_13months": [
     {
       "month": "Days 390-360",
