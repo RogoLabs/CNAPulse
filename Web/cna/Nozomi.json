@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://security.nozominetworks.com/",
   "country": "USA",
   "scope_type": "",
-  "status": "Declining",
+  "status": "Normal",
   "baseline_avg": 7.22,
   "current_count": 2,
   "deviation_pct": -72.3,

@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://www.microsoft.com/en-us/msrc/technical-security-notifications",
   "country": "USA",
   "scope_type": "",
-  "status": "Normal",
+  "status": "Growth",
   "baseline_avg": 166.17,
   "current_count": 460,
   "deviation_pct": 176.8,

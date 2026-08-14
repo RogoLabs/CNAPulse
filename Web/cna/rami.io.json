@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://rami.io/security/advisories/",
   "country": "Germany",
   "scope_type": "",
-  "status": "Declining",
+  "status": "Normal",
   "baseline_avg": 4.17,
   "current_count": 2,
   "deviation_pct": -52.0,
