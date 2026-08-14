@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://secur0.com/en/cna/cve-list",
   "country": "Spain",
   "scope_type": "",
-  "status": "Growth",
-  "baseline_avg": 4.0,
-  "current_count": 15,
-  "deviation_pct": 275.0,
+  "status": "Normal",
+  "baseline_avg": 6.0,
+  "current_count": 14,
+  "deviation_pct": 133.3,
   "days_since_last_cve": 0,
   "std_dev": null,
-  "threshold_low": 2.0,
-  "threshold_high": 10.0,
+  "threshold_low": 3.0,
+  "threshold_high": 15.0,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 15,
+      "count": 14,
       "is_current": true
     }
   ]

@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://www.huawei.com/en/psirt/all-bulletins",
   "country": "China",
   "scope_type": "",
-  "status": "Normal",
-  "baseline_avg": 21.2,
-  "current_count": 11,
-  "deviation_pct": -48.1,
-  "days_since_last_cve": 29,
-  "std_dev": 13.22,
-  "threshold_low": 10.6,
-  "threshold_high": 53.0,
+  "status": "Declining",
+  "baseline_avg": 20.27,
+  "current_count": 0,
+  "deviation_pct": -100.0,
+  "days_since_last_cve": 30,
+  "std_dev": 12.92,
+  "threshold_low": 10.14,
+  "threshold_high": 50.68,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 11,
+      "count": 0,
       "is_current": true
     }
   ]
