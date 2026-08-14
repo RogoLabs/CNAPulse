@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://support.lenovo.com/us/en/product_security/home",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
+  "status": "Normal",
   "baseline_avg": 5.1,
   "current_count": 20,
   "deviation_pct": 292.2,
@@ -41,7 +41,7 @@
     },
     {
       "month": "Days 240-210",
-      "count": 3,
+      "count": 6,
       "is_current": false
     },
     {
@@ -56,12 +56,12 @@
     },
     {
       "month": "Days 150-120",
-      "count": 10,
+      "count": 5,
       "is_current": false
     },
     {
       "month": "Days 120-90",
-      "count": 5,
+      "count": 3,
       "is_current": false
     },
     {

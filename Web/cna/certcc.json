@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://www.kb.cert.org/vuls/bypublished/desc/",
   "country": "USA",
   "scope_type": "",
-  "status": "Normal",
+  "status": "Growth",
   "baseline_avg": 11.67,
   "current_count": 40,
   "deviation_pct": 242.9,
@@ -41,7 +41,7 @@
     },
     {
       "month": "Days 240-210",
-      "count": 6,
+      "count": 14,
       "is_current": false
     },
     {
@@ -56,12 +56,12 @@
     },
     {
       "month": "Days 150-120",
-      "count": 15,
+      "count": 24,
       "is_current": false
     },
     {
       "month": "Days 120-90",
-      "count": 24,
+      "count": 22,
       "is_current": false
     },
     {

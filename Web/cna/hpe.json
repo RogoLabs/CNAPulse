@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://support.hpe.com/portal/site/hpsc/public/kb/secBullArchive/",
   "country": "USA",
   "scope_type": "",
-  "status": "Normal",
+  "status": "Declining",
   "baseline_avg": 11.6,
   "current_count": 8,
   "deviation_pct": -31.0,
@@ -41,7 +41,7 @@
     },
     {
       "month": "Days 240-210",
-      "count": 1,
+      "count": 22,
       "is_current": false
     },
     {
@@ -56,12 +56,12 @@
     },
     {
       "month": "Days 150-120",
-      "count": 12,
+      "count": 1,
       "is_current": false
     },
     {
       "month": "Days 120-90",
-      "count": 1,
+      "count": 32,
       "is_current": false
     },
     {

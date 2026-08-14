@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://cloud.google.com/support/bulletins",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
+  "status": "Normal",
   "baseline_avg": 4.09,
   "current_count": 10,
   "deviation_pct": 144.4,
@@ -41,7 +41,7 @@
     },
     {
       "month": "Days 240-210",
-      "count": 0,
+      "count": 3,
       "is_current": false
     },
     {
@@ -61,7 +61,7 @@
     },
     {
       "month": "Days 120-90",
-      "count": 1,
+      "count": 3,
       "is_current": false
     },
     {

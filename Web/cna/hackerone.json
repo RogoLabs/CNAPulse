@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://hackerone.com/hacktivity?querystring=&filter=type:hacker-published&order_direction=DESC&order_field=popular",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
+  "status": "Normal",
   "baseline_avg": 15.5,
   "current_count": 39,
   "deviation_pct": 151.6,
@@ -41,7 +41,7 @@
     },
     {
       "month": "Days 240-210",
-      "count": 1,
+      "count": 27,
       "is_current": false
     },
     {
@@ -56,12 +56,12 @@
     },
     {
       "month": "Days 150-120",
-      "count": 20,
+      "count": 9,
       "is_current": false
     },
     {
       "month": "Days 120-90",
-      "count": 9,
+      "count": 23,
       "is_current": false
     },
     {

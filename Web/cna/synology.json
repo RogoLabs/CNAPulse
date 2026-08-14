@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://www.synology.com/en-global/security/advisory",
   "country": "Taiwan",
   "scope_type": "",
-  "status": "Declining",
+  "status": "Normal",
   "baseline_avg": 7.0,
   "current_count": 1,
   "deviation_pct": -85.7,
@@ -41,7 +41,7 @@
     },
     {
       "month": "Days 240-210",
-      "count": 12,
+      "count": 0,
       "is_current": false
     },
     {
@@ -56,12 +56,12 @@
     },
     {
       "month": "Days 150-120",
-      "count": 0,
+      "count": 2,
       "is_current": false
     },
     {
       "month": "Days 120-90",
-      "count": 2,
+      "count": 18,
       "is_current": false
     },
     {

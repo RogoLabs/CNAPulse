@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://www.cert-in.org.in/",
   "country": "India",
   "scope_type": "",
-  "status": "Normal",
+  "status": "Declining",
   "baseline_avg": 3.71,
   "current_count": 2,
   "deviation_pct": -46.2,
@@ -41,7 +41,7 @@
     },
     {
       "month": "Days 240-210",
-      "count": 0,
+      "count": 4,
       "is_current": false
     },
     {
@@ -56,12 +56,12 @@
     },
     {
       "month": "Days 150-120",
-      "count": 0,
+      "count": 11,
       "is_current": false
     },
     {
       "month": "Days 120-90",
-      "count": 11,
+      "count": 1,
       "is_current": false
     },
     {

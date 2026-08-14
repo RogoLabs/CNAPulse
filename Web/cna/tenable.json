@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://www.tenable.com/security",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
+  "status": "Normal",
   "baseline_avg": 4.0,
   "current_count": 10,
   "deviation_pct": 150.0,
@@ -41,7 +41,7 @@
     },
     {
       "month": "Days 240-210",
-      "count": 0,
+      "count": 1,
       "is_current": false
     },
     {
@@ -56,12 +56,12 @@
     },
     {
       "month": "Days 150-120",
-      "count": 8,
+      "count": 2,
       "is_current": false
     },
     {
       "month": "Days 120-90",
-      "count": 2,
+      "count": 15,
       "is_current": false
     },
     {

@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://www.eclipse.org/security/known.php",
   "country": "Belgium",
   "scope_type": "",
-  "status": "Growth",
+  "status": "Normal",
   "baseline_avg": 5.92,
   "current_count": 21,
   "deviation_pct": 254.9,
@@ -41,7 +41,7 @@
     },
     {
       "month": "Days 240-210",
-      "count": 2,
+      "count": 6,
       "is_current": false
     },
     {
@@ -56,12 +56,12 @@
     },
     {
       "month": "Days 150-120",
-      "count": 4,
+      "count": 3,
       "is_current": false
     },
     {
       "month": "Days 120-90",
-      "count": 3,
+      "count": 6,
       "is_current": false
     },
     {

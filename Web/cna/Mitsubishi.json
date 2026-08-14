@@ -5,12 +5,12 @@
   "cna_advisory_url": "https://www.mitsubishielectric.com/en/psirt/vulnerability/index.html",
   "country": "Japan",
   "scope_type": "",
-  "status": "Normal",
+  "status": "Declining",
   "baseline_avg": 2.1,
   "current_count": 1,
   "deviation_pct": -52.4,
   "days_since_last_cve": 14,
-  "std_dev": 0.99,
+  "std_dev": 1.1,
   "threshold_low": 1.05,
   "threshold_high": 5.25,
   "timeline_13months": [
@@ -41,7 +41,7 @@
     },
     {
       "month": "Days 240-210",
-      "count": 2,
+      "count": 0,
       "is_current": false
     },
     {
@@ -56,12 +56,12 @@
     },
     {
       "month": "Days 150-120",
-      "count": 4,
+      "count": 2,
       "is_current": false
     },
     {
       "month": "Days 120-90",
-      "count": 2,
+      "count": 0,
       "is_current": false
     },
     {

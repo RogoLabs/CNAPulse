@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://support.apple.com/en-us/HT201222",
   "country": "USA",
   "scope_type": "",
-  "status": "Normal",
+  "status": "Growth",
   "baseline_avg": 59.33,
   "current_count": 169,
   "deviation_pct": 184.8,
@@ -41,7 +41,7 @@
     },
     {
       "month": "Days 240-210",
-      "count": 70,
+      "count": 14,
       "is_current": false
     },
     {
@@ -56,12 +56,12 @@
     },
     {
       "month": "Days 150-120",
-      "count": 89,
+      "count": 16,
       "is_current": false
     },
     {
       "month": "Days 120-90",
-      "count": 16,
+      "count": 102,
       "is_current": false
     },
     {

@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://community.silabs.com/s/alert/Alert__c/00B1M000009sQ4R",
   "country": "USA",
   "scope_type": "",
-  "status": "Normal",
+  "status": "Growth",
   "baseline_avg": 3.0,
   "current_count": 10,
   "deviation_pct": 233.3,
@@ -56,12 +56,12 @@
     },
     {
       "month": "Days 150-120",
-      "count": 1,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Days 120-90",
-      "count": 0,
+      "count": 3,
       "is_current": false
     },
     {

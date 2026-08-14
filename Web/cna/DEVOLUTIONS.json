@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://devolutions.net/security/advisories/",
   "country": "Canada",
   "scope_type": "",
-  "status": "Growth",
+  "status": "Normal",
   "baseline_avg": 6.55,
   "current_count": 9,
   "deviation_pct": 37.5,
@@ -41,7 +41,7 @@
     },
     {
       "month": "Days 240-210",
-      "count": 0,
+      "count": 4,
       "is_current": false
     },
     {
@@ -56,12 +56,12 @@
     },
     {
       "month": "Days 150-120",
-      "count": 9,
+      "count": 8,
       "is_current": false
     },
     {
       "month": "Days 120-90",
-      "count": 8,
+      "count": 14,
       "is_current": false
     },
     {
