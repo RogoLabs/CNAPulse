@@ -1,24 +1,14 @@
 {
   "date": "2026-08-15",
-  "generated_at": "2026-08-15T18:29:46.135701",
+  "generated_at": "2026-08-15T21:21:30.999546",
   "total_cnas": 574,
-  "cnas_growth": 55,
+  "cnas_growth": 54,
   "cnas_normal": 112,
-  "cnas_declining": 224,
+  "cnas_declining": 225,
   "cnas_inactive": 183,
   "top_growth": [
     {
       "cna_name": "postiz",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "illumos",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "OpenNMS",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
@@ -28,8 +18,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "ELAN",
-      "current_count": 1,
+      "cna_name": "systemd",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -38,8 +28,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "systemd",
-      "current_count": 3,
+      "cna_name": "ELAN",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -53,9 +43,19 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "OpenNMS",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "TuranSec",
       "current_count": 173,
       "deviation_pct": 1997.0
+    },
+    {
+      "cna_name": "WPScan",
+      "current_count": 504,
+      "deviation_pct": 1889.5
     }
   ],
   "top_declining": [
@@ -77,7 +77,7 @@
     {
       "cna_name": "hpe",
       "current_count": 8,
-      "deviation_pct": -31.0
+      "deviation_pct": -24.1
     },
     {
       "cna_name": "PSF",
