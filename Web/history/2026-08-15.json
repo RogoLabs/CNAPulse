@@ -1,0 +1,113 @@
+{
+  "date": "2026-08-15",
+  "generated_at": "2026-08-15T01:13:46.335779",
+  "total_cnas": 574,
+  "cnas_growth": 55,
+  "cnas_normal": 113,
+  "cnas_declining": 224,
+  "cnas_inactive": 182,
+  "top_growth": [
+    {
+      "cna_name": "OMICRON",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OpenNMS",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "postiz",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "ELAN",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "illumos",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Vestel",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "HDFG",
+      "current_count": 9,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "FTI",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "systemd",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "WPScan",
+      "current_count": 511,
+      "deviation_pct": 2007.2
+    }
+  ],
+  "top_declining": [
+    {
+      "cna_name": "Pega",
+      "current_count": 2,
+      "deviation_pct": 0.0
+    },
+    {
+      "cna_name": "Fluid Attacks",
+      "current_count": 6,
+      "deviation_pct": -10.4
+    },
+    {
+      "cna_name": "GRAFANA",
+      "current_count": 4,
+      "deviation_pct": -13.0
+    },
+    {
+      "cna_name": "ASUS",
+      "current_count": 3,
+      "deviation_pct": -25.0
+    },
+    {
+      "cna_name": "hpe",
+      "current_count": 8,
+      "deviation_pct": -31.0
+    },
+    {
+      "cna_name": "PSF",
+      "current_count": 3,
+      "deviation_pct": -33.3
+    },
+    {
+      "cna_name": "Absolute",
+      "current_count": 3,
+      "deviation_pct": -40.0
+    },
+    {
+      "cna_name": "CERT-In",
+      "current_count": 2,
+      "deviation_pct": -46.2
+    },
+    {
+      "cna_name": "ivanti",
+      "current_count": 3,
+      "deviation_pct": -51.5
+    },
+    {
+      "cna_name": "rami.io",
+      "current_count": 2,
+      "deviation_pct": -52.0
+    }
+  ]
+}

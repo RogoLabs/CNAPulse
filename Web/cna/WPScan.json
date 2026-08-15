@@ -46,7 +46,7 @@
     },
     {
       "month": "Days 210-180",
-      "count": 18,
+      "count": 14,
       "is_current": false
     },
     {
@@ -66,12 +66,12 @@
     },
     {
       "month": "Days 90-60",
-      "count": 14,
+      "count": 54,
       "is_current": false
     },
     {
       "month": "Days 60-30",
-      "count": 54,
+      "count": 53,
       "is_current": false
     },
     {

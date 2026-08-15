@@ -66,12 +66,12 @@
     },
     {
       "month": "Days 90-60",
-      "count": 11,
+      "count": 9,
       "is_current": false
     },
     {
       "month": "Days 60-30",
-      "count": 9,
+      "count": 0,
       "is_current": false
     },
     {
