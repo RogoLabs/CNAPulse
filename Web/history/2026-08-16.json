@@ -1,20 +1,20 @@
 {
   "date": "2026-08-16",
-  "generated_at": "2026-08-16T18:29:11.220355",
+  "generated_at": "2026-08-16T21:20:21.085251",
   "total_cnas": 574,
-  "cnas_growth": 53,
-  "cnas_normal": 109,
+  "cnas_growth": 52,
+  "cnas_normal": 110,
   "cnas_declining": 228,
   "cnas_inactive": 184,
   "top_growth": [
     {
-      "cna_name": "FTI",
-      "current_count": 2,
+      "cna_name": "OMICRON",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "OMICRON",
-      "current_count": 3,
+      "cna_name": "postiz",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -23,7 +23,12 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "OpenNMS",
+      "cna_name": "HDFG",
+      "current_count": 9,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "FTI",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
@@ -33,7 +38,7 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "postiz",
+      "cna_name": "OpenNMS",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
@@ -43,19 +48,14 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "HDFG",
-      "current_count": 9,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "TuranSec",
       "current_count": 173,
       "deviation_pct": 1997.0
     },
     {
       "cna_name": "WPScan",
-      "current_count": 509,
-      "deviation_pct": 1870.3
+      "current_count": 507,
+      "deviation_pct": 1850.0
     }
   ],
   "top_declining": [
