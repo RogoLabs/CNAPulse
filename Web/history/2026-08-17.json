@@ -1,14 +1,19 @@
 {
   "date": "2026-08-17",
-  "generated_at": "2026-08-17T18:39:26.727631",
+  "generated_at": "2026-08-17T21:26:36.083314",
   "total_cnas": 574,
-  "cnas_growth": 51,
-  "cnas_normal": 115,
+  "cnas_growth": 52,
+  "cnas_normal": 114,
   "cnas_declining": 224,
   "cnas_inactive": 184,
   "top_growth": [
     {
-      "cna_name": "FTI",
+      "cna_name": "HDFG",
+      "current_count": 9,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "postiz",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
@@ -28,23 +33,18 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "ELAN",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "Vestel",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "postiz",
+      "cna_name": "FTI",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "HDFG",
-      "current_count": 9,
+      "cna_name": "ELAN",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -85,14 +85,14 @@
       "deviation_pct": -33.7
     },
     {
+      "cna_name": "GitHub_P",
+      "current_count": 2,
+      "deviation_pct": -41.9
+    },
+    {
       "cna_name": "CERT-In",
       "current_count": 2,
       "deviation_pct": -46.2
-    },
-    {
-      "cna_name": "GitHub_P",
-      "current_count": 2,
-      "deviation_pct": -48.4
     },
     {
       "cna_name": "Absolute",
