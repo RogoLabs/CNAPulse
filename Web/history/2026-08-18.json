@@ -1,22 +1,12 @@
 {
   "date": "2026-08-18",
-  "generated_at": "2026-08-18T12:45:03.472372",
+  "generated_at": "2026-08-18T15:32:12.690463",
   "total_cnas": 574,
   "cnas_growth": 53,
-  "cnas_normal": 113,
-  "cnas_declining": 223,
+  "cnas_normal": 114,
+  "cnas_declining": 222,
   "cnas_inactive": 185,
   "top_growth": [
-    {
-      "cna_name": "OpenNMS",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Vestel",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
     {
       "cna_name": "ELAN",
       "current_count": 1,
@@ -28,13 +18,18 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "systemd",
+      "cna_name": "OMICRON",
       "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "FTI",
+      "cna_name": "OpenNMS",
       "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Vestel",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -43,8 +38,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "OMICRON",
+      "cna_name": "systemd",
       "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "FTI",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -65,6 +65,11 @@
       "deviation_pct": 0.0
     },
     {
+      "cna_name": "GRAFANA",
+      "current_count": 4,
+      "deviation_pct": -14.9
+    },
+    {
       "cna_name": "hpe",
       "current_count": 8,
       "deviation_pct": -24.1
@@ -73,11 +78,6 @@
       "cna_name": "Fluid Attacks",
       "current_count": 5,
       "deviation_pct": -26.5
-    },
-    {
-      "cna_name": "PSF",
-      "current_count": 3,
-      "deviation_pct": -33.3
     },
     {
       "cna_name": "vmware",

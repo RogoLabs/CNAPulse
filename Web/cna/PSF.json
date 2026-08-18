@@ -5,11 +5,11 @@
   "cna_advisory_url": "https://mail.python.org/archives/list/security-announce@python.org/latest",
   "country": "USA",
   "scope_type": "",
-  "status": "Declining",
+  "status": "Normal",
   "baseline_avg": 4.5,
-  "current_count": 3,
-  "deviation_pct": -33.3,
-  "days_since_last_cve": 7,
+  "current_count": 4,
+  "deviation_pct": -11.1,
+  "days_since_last_cve": 0,
   "std_dev": 2.68,
   "threshold_low": 2.25,
   "threshold_high": 11.25,
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 3,
+      "count": 4,
       "is_current": true
     }
   ]
