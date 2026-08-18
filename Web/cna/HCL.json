@@ -6,13 +6,13 @@
   "country": "India",
   "scope_type": "",
   "status": "Normal",
-  "baseline_avg": 18.5,
+  "baseline_avg": 18.25,
   "current_count": 32,
-  "deviation_pct": 73.0,
+  "deviation_pct": 75.3,
   "days_since_last_cve": 5,
-  "std_dev": 12.53,
-  "threshold_low": 9.25,
-  "threshold_high": 46.25,
+  "std_dev": 12.61,
+  "threshold_low": 9.12,
+  "threshold_high": 45.62,
   "timeline_13months": [
     {
       "month": "Days 390-360",

@@ -2,7 +2,7 @@
   "assigner_id": "e0f77b61-78fd-4786-b3fb-1ee347a748ad",
   "cna_name": "Mitsubishi",
   "cna_org_name": "Mitsubishi Electric Corporation",
-  "cna_advisory_url": "https://www.mitsubishielectric.com/en/psirt/vulnerability/index.html",
+  "cna_advisory_url": "https://www.mitsubishielectric.com/psirt/vulnerability/index.html",
   "country": "Japan",
   "scope_type": "",
   "status": "Declining",

@@ -1,24 +1,19 @@
 {
   "date": "2026-08-18",
-  "generated_at": "2026-08-18T18:38:31.498430",
-  "total_cnas": 574,
-  "cnas_growth": 53,
-  "cnas_normal": 115,
+  "generated_at": "2026-08-18T21:24:18.394643",
+  "total_cnas": 575,
+  "cnas_growth": 55,
+  "cnas_normal": 113,
   "cnas_declining": 221,
-  "cnas_inactive": 185,
+  "cnas_inactive": 186,
   "top_growth": [
-    {
-      "cna_name": "HDFG",
-      "current_count": 9,
-      "deviation_pct": 999999.0
-    },
     {
       "cna_name": "OMICRON",
       "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "OpenNMS",
+      "cna_name": "postiz",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
@@ -28,13 +23,18 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "systemd",
-      "current_count": 3,
+      "cna_name": "HDFG",
+      "current_count": 9,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "postiz",
+      "cna_name": "OpenNMS",
       "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "systemd",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -48,14 +48,14 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "oracle",
+      "current_count": 1997,
+      "deviation_pct": 2191.0
+    },
+    {
       "cna_name": "WPScan",
       "current_count": 509,
       "deviation_pct": 1864.0
-    },
-    {
-      "cna_name": "TuranSec",
-      "current_count": 173,
-      "deviation_pct": 1472.7
     }
   ],
   "top_declining": [
@@ -77,7 +77,7 @@
     {
       "cna_name": "Fluid Attacks",
       "current_count": 5,
-      "deviation_pct": -26.5
+      "deviation_pct": -24.2
     },
     {
       "cna_name": "vmware",
