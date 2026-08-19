@@ -1,19 +1,14 @@
 {
   "date": "2026-08-19",
-  "generated_at": "2026-08-19T18:35:06.168329",
+  "generated_at": "2026-08-19T21:25:31.667655",
   "total_cnas": 575,
-  "cnas_growth": 57,
-  "cnas_normal": 110,
-  "cnas_declining": 222,
+  "cnas_growth": 58,
+  "cnas_normal": 108,
+  "cnas_declining": 223,
   "cnas_inactive": 186,
   "top_growth": [
     {
-      "cna_name": "ELAN",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "FTI",
+      "cna_name": "postiz",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
@@ -23,13 +18,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "OpenNMS",
+      "cna_name": "FTI",
       "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Vestel",
-      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -38,19 +28,29 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "Vestel",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OpenNMS",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "ELAN",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "systemd",
       "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "postiz",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "oracle",
       "current_count": 1997,
-      "deviation_pct": 2191.0
+      "deviation_pct": 2572.8
     },
     {
       "cna_name": "WPScan",
@@ -60,19 +60,14 @@
   ],
   "top_declining": [
     {
-      "cna_name": "Fluid Attacks",
-      "current_count": 7,
-      "deviation_pct": 6.1
+      "cna_name": "GRAFANA",
+      "current_count": 5,
+      "deviation_pct": 6.4
     },
     {
       "cna_name": "Pega",
       "current_count": 2,
       "deviation_pct": 0.0
-    },
-    {
-      "cna_name": "GRAFANA",
-      "current_count": 4,
-      "deviation_pct": -14.9
     },
     {
       "cna_name": "hpe",
@@ -83,6 +78,11 @@
       "cna_name": "vmware",
       "current_count": 12,
       "deviation_pct": -33.3
+    },
+    {
+      "cna_name": "Arista",
+      "current_count": 3,
+      "deviation_pct": -37.9
     },
     {
       "cna_name": "GitHub_P",
