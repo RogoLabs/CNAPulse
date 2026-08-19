@@ -5,11 +5,11 @@
   "cna_advisory_url": "https://www.freebsd.org/",
   "country": "USA",
   "scope_type": "",
-  "status": "Declining",
+  "status": "Normal",
   "baseline_avg": 5.83,
-  "current_count": 0,
-  "deviation_pct": -100.0,
-  "days_since_last_cve": 52,
+  "current_count": 12,
+  "deviation_pct": 105.7,
+  "days_since_last_cve": 0,
   "std_dev": 2.93,
   "threshold_low": 2.92,
   "threshold_high": 14.58,
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 0,
+      "count": 12,
       "is_current": true
     }
   ]
