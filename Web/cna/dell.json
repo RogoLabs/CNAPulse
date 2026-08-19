@@ -5,10 +5,10 @@
   "cna_advisory_url": "https://www.dell.com/support/security/en-us",
   "country": "USA",
   "scope_type": "",
-  "status": "Normal",
+  "status": "Growth",
   "baseline_avg": 26.33,
-  "current_count": 39,
-  "deviation_pct": 48.1,
+  "current_count": 62,
+  "deviation_pct": 135.4,
   "days_since_last_cve": 0,
   "std_dev": 13.59,
   "threshold_low": 13.17,
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 39,
+      "count": 62,
       "is_current": true
     }
   ]

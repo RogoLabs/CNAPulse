@@ -1,22 +1,12 @@
 {
   "date": "2026-08-19",
-  "generated_at": "2026-08-19T12:45:37.619303",
+  "generated_at": "2026-08-19T15:31:29.579891",
   "total_cnas": 575,
-  "cnas_growth": 56,
-  "cnas_normal": 112,
-  "cnas_declining": 221,
+  "cnas_growth": 58,
+  "cnas_normal": 111,
+  "cnas_declining": 220,
   "cnas_inactive": 186,
   "top_growth": [
-    {
-      "cna_name": "postiz",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "ELAN",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
     {
       "cna_name": "OpenNMS",
       "current_count": 2,
@@ -28,18 +18,28 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "ELAN",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "postiz",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "HDFG",
       "current_count": 9,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "FTI",
-      "current_count": 2,
+      "cna_name": "Vestel",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Vestel",
-      "current_count": 1,
+      "cna_name": "FTI",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -60,6 +60,11 @@
   ],
   "top_declining": [
     {
+      "cna_name": "Fluid Attacks",
+      "current_count": 7,
+      "deviation_pct": 6.1
+    },
+    {
       "cna_name": "Pega",
       "current_count": 2,
       "deviation_pct": 0.0
@@ -73,11 +78,6 @@
       "cna_name": "hpe",
       "current_count": 8,
       "deviation_pct": -24.1
-    },
-    {
-      "cna_name": "Fluid Attacks",
-      "current_count": 5,
-      "deviation_pct": -24.2
     },
     {
       "cna_name": "vmware",
