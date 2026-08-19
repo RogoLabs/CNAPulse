@@ -6,13 +6,13 @@
   "country": "Australia",
   "scope_type": "",
   "status": "Normal",
-  "baseline_avg": 3.4,
-  "current_count": 3,
-  "deviation_pct": -11.8,
-  "days_since_last_cve": 28,
-  "std_dev": 5.37,
-  "threshold_low": 1.7,
-  "threshold_high": 8.5,
+  "baseline_avg": 4.0,
+  "current_count": 6,
+  "deviation_pct": 50.0,
+  "days_since_last_cve": 0,
+  "std_dev": 6.0,
+  "threshold_low": 2.0,
+  "threshold_high": 10.0,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 3,
+      "count": 6,
       "is_current": true
     }
   ]

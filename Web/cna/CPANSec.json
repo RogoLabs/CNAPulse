@@ -10,7 +10,7 @@
   "current_count": 61,
   "deviation_pct": 249.5,
   "days_since_last_cve": 2,
-  "std_dev": 20.33,
+  "std_dev": 20.25,
   "threshold_low": 8.73,
   "threshold_high": 43.64,
   "timeline_13months": [
