@@ -1,0 +1,113 @@
+{
+  "date": "2026-08-20",
+  "generated_at": "2026-08-20T01:13:09.949934",
+  "total_cnas": 575,
+  "cnas_growth": 60,
+  "cnas_normal": 106,
+  "cnas_declining": 223,
+  "cnas_inactive": 186,
+  "top_growth": [
+    {
+      "cna_name": "ELAN",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Vestel",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "systemd",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OMICRON",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OpenNMS",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "HDFG",
+      "current_count": 9,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "FTI",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "postiz",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "oracle",
+      "current_count": 1997,
+      "deviation_pct": 2572.8
+    },
+    {
+      "cna_name": "WPScan",
+      "current_count": 529,
+      "deviation_pct": 1835.4
+    }
+  ],
+  "top_declining": [
+    {
+      "cna_name": "GRAFANA",
+      "current_count": 5,
+      "deviation_pct": 6.4
+    },
+    {
+      "cna_name": "Pega",
+      "current_count": 2,
+      "deviation_pct": 0.0
+    },
+    {
+      "cna_name": "hpe",
+      "current_count": 8,
+      "deviation_pct": -24.1
+    },
+    {
+      "cna_name": "vmware",
+      "current_count": 12,
+      "deviation_pct": -33.3
+    },
+    {
+      "cna_name": "GitHub_P",
+      "current_count": 2,
+      "deviation_pct": -35.5
+    },
+    {
+      "cna_name": "Arista",
+      "current_count": 3,
+      "deviation_pct": -37.9
+    },
+    {
+      "cna_name": "CERT-In",
+      "current_count": 2,
+      "deviation_pct": -46.2
+    },
+    {
+      "cna_name": "Absolute",
+      "current_count": 3,
+      "deviation_pct": -48.6
+    },
+    {
+      "cna_name": "ASUS",
+      "current_count": 2,
+      "deviation_pct": -48.8
+    },
+    {
+      "cna_name": "cloudflare",
+      "current_count": 1,
+      "deviation_pct": -50.0
+    }
+  ]
+}
