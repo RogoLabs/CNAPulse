@@ -6,13 +6,13 @@
   "country": "Switzerland",
   "scope_type": "",
   "status": "Normal",
-  "baseline_avg": 522.17,
-  "current_count": 468,
-  "deviation_pct": -10.4,
+  "baseline_avg": 522.25,
+  "current_count": 467,
+  "deviation_pct": -10.6,
   "days_since_last_cve": 0,
-  "std_dev": 126.23,
-  "threshold_low": 261.08,
-  "threshold_high": 1305.42,
+  "std_dev": 125.4,
+  "threshold_low": 261.12,
+  "threshold_high": 1305.62,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -71,12 +71,12 @@
     },
     {
       "month": "Days 60-30",
-      "count": 398,
+      "count": 401,
       "is_current": false
     },
     {
       "month": "Last 30 Days",
-      "count": 468,
+      "count": 467,
       "is_current": true
     }
   ]
