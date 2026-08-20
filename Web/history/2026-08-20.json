@@ -1,25 +1,15 @@
 {
   "date": "2026-08-20",
-  "generated_at": "2026-08-20T15:33:08.301922",
+  "generated_at": "2026-08-20T18:38:39.432545",
   "total_cnas": 575,
-  "cnas_growth": 60,
-  "cnas_normal": 105,
-  "cnas_declining": 224,
+  "cnas_growth": 59,
+  "cnas_normal": 104,
+  "cnas_declining": 226,
   "cnas_inactive": 186,
   "top_growth": [
     {
-      "cna_name": "postiz",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Vestel",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "OpenNMS",
-      "current_count": 2,
+      "cna_name": "OMICRON",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -28,13 +18,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "HDFG",
-      "current_count": 9,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "OMICRON",
-      "current_count": 3,
+      "cna_name": "Vestel",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -43,8 +28,23 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "OpenNMS",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "postiz",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "ELAN",
       "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "HDFG",
+      "current_count": 9,
       "deviation_pct": 999999.0
     },
     {
@@ -65,14 +65,14 @@
       "deviation_pct": 6.4
     },
     {
-      "cna_name": "Pega",
+      "cna_name": "Docker",
       "current_count": 2,
       "deviation_pct": 0.0
     },
     {
-      "cna_name": "hpe",
-      "current_count": 8,
-      "deviation_pct": -24.1
+      "cna_name": "Pega",
+      "current_count": 2,
+      "deviation_pct": 0.0
     },
     {
       "cna_name": "vmware",
