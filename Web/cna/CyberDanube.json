@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://cyberdanube.com/en/blogs/",
   "country": "Austria",
   "scope_type": "",
-  "status": "Growth",
-  "baseline_avg": 3.5,
-  "current_count": 18,
-  "deviation_pct": 414.3,
-  "days_since_last_cve": 9,
-  "std_dev": null,
-  "threshold_low": 1.75,
-  "threshold_high": 8.75,
+  "status": "Normal",
+  "baseline_avg": 5.0,
+  "current_count": 10,
+  "deviation_pct": 100.0,
+  "days_since_last_cve": 10,
+  "std_dev": 3.0,
+  "threshold_low": 2.5,
+  "threshold_high": 12.5,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -71,12 +71,12 @@
     },
     {
       "month": "Days 60-30",
-      "count": 0,
+      "count": 8,
       "is_current": false
     },
     {
       "month": "Last 30 Days",
-      "count": 18,
+      "count": 10,
       "is_current": true
     }
   ]
