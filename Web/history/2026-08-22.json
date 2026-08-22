@@ -1,15 +1,20 @@
 {
   "date": "2026-08-22",
-  "generated_at": "2026-08-22T18:30:26.389985",
+  "generated_at": "2026-08-22T21:21:56.335207",
   "total_cnas": 575,
-  "cnas_growth": 53,
-  "cnas_normal": 107,
+  "cnas_growth": 51,
+  "cnas_normal": 109,
   "cnas_declining": 229,
   "cnas_inactive": 186,
   "top_growth": [
     {
-      "cna_name": "systemd",
-      "current_count": 3,
+      "cna_name": "Vestel",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "ELAN",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -23,23 +28,18 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Vestel",
-      "current_count": 1,
+      "cna_name": "OMICRON",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "ELAN",
-      "current_count": 1,
+      "cna_name": "systemd",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
       "cna_name": "postiz",
       "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "OMICRON",
-      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
