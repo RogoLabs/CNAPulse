@@ -1,10 +1,10 @@
 {
   "date": "2026-08-22",
-  "generated_at": "2026-08-22T06:39:51.958189",
+  "generated_at": "2026-08-22T09:26:22.100580",
   "total_cnas": 575,
-  "cnas_growth": 53,
-  "cnas_normal": 109,
-  "cnas_declining": 227,
+  "cnas_growth": 54,
+  "cnas_normal": 107,
+  "cnas_declining": 228,
   "cnas_inactive": 186,
   "top_growth": [
     {
@@ -13,18 +13,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "OMICRON",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "HDFG",
-      "current_count": 9,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "systemd",
-      "current_count": 3,
+      "cna_name": "OpenNMS",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -33,13 +23,23 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "HDFG",
+      "current_count": 9,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "Vestel",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "OpenNMS",
-      "current_count": 2,
+      "cna_name": "systemd",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OMICRON",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
