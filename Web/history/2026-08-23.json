@@ -1,14 +1,14 @@
 {
   "date": "2026-08-23",
-  "generated_at": "2026-08-23T12:39:48.775407",
+  "generated_at": "2026-08-23T15:22:30.239315",
   "total_cnas": 575,
-  "cnas_growth": 53,
-  "cnas_normal": 106,
-  "cnas_declining": 230,
+  "cnas_growth": 54,
+  "cnas_normal": 103,
+  "cnas_declining": 232,
   "cnas_inactive": 186,
   "top_growth": [
     {
-      "cna_name": "systemd",
+      "cna_name": "OMICRON",
       "current_count": 3,
       "deviation_pct": 999999.0
     },
@@ -23,8 +23,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "ELAN",
-      "current_count": 1,
+      "cna_name": "HDFG",
+      "current_count": 9,
       "deviation_pct": 999999.0
     },
     {
@@ -33,12 +33,12 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "HDFG",
-      "current_count": 9,
+      "cna_name": "ELAN",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "OMICRON",
+      "cna_name": "systemd",
       "current_count": 3,
       "deviation_pct": 999999.0
     },
@@ -60,9 +60,19 @@
   ],
   "top_declining": [
     {
+      "cna_name": "jenkins",
+      "current_count": 23,
+      "deviation_pct": 66.0
+    },
+    {
       "cna_name": "Pega",
       "current_count": 2,
       "deviation_pct": 28.6
+    },
+    {
+      "cna_name": "DEVOLUTIONS",
+      "current_count": 5,
+      "deviation_pct": -33.3
     },
     {
       "cna_name": "GitHub_P",
@@ -98,16 +108,6 @@
       "cna_name": "snyk",
       "current_count": 2,
       "deviation_pct": -50.0
-    },
-    {
-      "cna_name": "huawei",
-      "current_count": 10,
-      "deviation_pct": -50.7
-    },
-    {
-      "cna_name": "ivanti",
-      "current_count": 3,
-      "deviation_pct": -51.5
     }
   ]
 }
