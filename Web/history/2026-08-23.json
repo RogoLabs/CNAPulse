@@ -1,12 +1,17 @@
 {
   "date": "2026-08-23",
-  "generated_at": "2026-08-23T09:27:41.974221",
+  "generated_at": "2026-08-23T12:39:48.775407",
   "total_cnas": 575,
-  "cnas_growth": 52,
-  "cnas_normal": 108,
-  "cnas_declining": 229,
+  "cnas_growth": 53,
+  "cnas_normal": 106,
+  "cnas_declining": 230,
   "cnas_inactive": 186,
   "top_growth": [
+    {
+      "cna_name": "systemd",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
     {
       "cna_name": "postiz",
       "current_count": 2,
@@ -18,17 +23,12 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Vestel",
+      "cna_name": "ELAN",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "OMICRON",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "ELAN",
+      "cna_name": "Vestel",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -38,7 +38,7 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "systemd",
+      "cna_name": "OMICRON",
       "current_count": 3,
       "deviation_pct": 999999.0
     },
@@ -65,11 +65,6 @@
       "deviation_pct": 28.6
     },
     {
-      "cna_name": "GRAFANA",
-      "current_count": 4,
-      "deviation_pct": -16.7
-    },
-    {
       "cna_name": "GitHub_P",
       "current_count": 2,
       "deviation_pct": -35.5
@@ -78,6 +73,11 @@
       "cna_name": "Arista",
       "current_count": 3,
       "deviation_pct": -37.9
+    },
+    {
+      "cna_name": "GRAFANA",
+      "current_count": 3,
+      "deviation_pct": -38.8
     },
     {
       "cna_name": "Absolute",
