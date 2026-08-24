@@ -1,12 +1,17 @@
 {
   "date": "2026-08-24",
-  "generated_at": "2026-08-24T03:54:42.661453",
+  "generated_at": "2026-08-24T06:58:03.253414",
   "total_cnas": 575,
   "cnas_growth": 54,
   "cnas_normal": 105,
   "cnas_declining": 230,
   "cnas_inactive": 186,
   "top_growth": [
+    {
+      "cna_name": "ELAN",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
     {
       "cna_name": "postiz",
       "current_count": 2,
@@ -18,8 +23,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "ELAN",
-      "current_count": 1,
+      "cna_name": "OMICRON",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -35,11 +40,6 @@
     {
       "cna_name": "Vestel",
       "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "OMICRON",
-      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
