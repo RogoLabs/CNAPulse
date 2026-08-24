@@ -1,6 +1,6 @@
 {
   "date": "2026-08-24",
-  "generated_at": "2026-08-24T01:16:22.331266",
+  "generated_at": "2026-08-24T03:54:42.661453",
   "total_cnas": 575,
   "cnas_growth": 54,
   "cnas_normal": 105,
@@ -8,12 +8,17 @@
   "cnas_inactive": 186,
   "top_growth": [
     {
+      "cna_name": "postiz",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "systemd",
       "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Vestel",
+      "cna_name": "ELAN",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -23,17 +28,12 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "postiz",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "HDFG",
       "current_count": 9,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "ELAN",
+      "cna_name": "Vestel",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
