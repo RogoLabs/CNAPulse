@@ -1,34 +1,14 @@
 {
   "date": "2026-08-24",
-  "generated_at": "2026-08-24T12:50:09.960910",
+  "generated_at": "2026-08-24T15:39:36.448230",
   "total_cnas": 575,
-  "cnas_growth": 53,
+  "cnas_growth": 55,
   "cnas_normal": 107,
-  "cnas_declining": 229,
+  "cnas_declining": 227,
   "cnas_inactive": 186,
   "top_growth": [
     {
-      "cna_name": "postiz",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "Vestel",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "HDFG",
-      "current_count": 9,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "OpenNMS",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "ELAN",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -38,8 +18,28 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "ELAN",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "OMICRON",
       "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "postiz",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OpenNMS",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "HDFG",
+      "current_count": 9,
       "deviation_pct": 999999.0
     },
     {
@@ -70,6 +70,11 @@
       "deviation_pct": 28.6
     },
     {
+      "cna_name": "GRAFANA",
+      "current_count": 4,
+      "deviation_pct": -18.4
+    },
+    {
       "cna_name": "GitHub_P",
       "current_count": 2,
       "deviation_pct": -35.5
@@ -78,11 +83,6 @@
       "cna_name": "Arista",
       "current_count": 3,
       "deviation_pct": -37.9
-    },
-    {
-      "cna_name": "GRAFANA",
-      "current_count": 3,
-      "deviation_pct": -38.8
     },
     {
       "cna_name": "rami.io",
