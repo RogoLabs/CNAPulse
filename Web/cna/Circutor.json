@@ -1,82 +1,82 @@
 {
-  "assigner_id": "83251b91-4cc7-4094-a5c7-464a1b83ea10",
-  "cna_name": "VulnCheck",
-  "cna_org_name": "VulnCheck",
-  "cna_advisory_url": "https://vulncheck.com/advisories",
-  "country": "USA",
+  "assigner_id": "unknown",
+  "cna_name": "Circutor",
+  "cna_org_name": "Circutor",
+  "cna_advisory_url": "https://circutor.com/soporte/ciberseguridad/",
+  "country": "Spain",
   "scope_type": "",
-  "status": "Growth",
-  "baseline_avg": 403.42,
-  "current_count": 1056,
-  "deviation_pct": 161.8,
-  "days_since_last_cve": 0,
-  "std_dev": 233.72,
-  "threshold_low": 201.71,
-  "threshold_high": 1008.54,
+  "status": "Inactive",
+  "baseline_avg": 0.0,
+  "current_count": 0,
+  "deviation_pct": 0.0,
+  "days_since_last_cve": null,
+  "std_dev": null,
+  "threshold_low": 0.0,
+  "threshold_high": 0.0,
   "timeline_13months": [
     {
       "month": "Days 390-360",
-      "count": 159,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Days 360-330",
-      "count": 60,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Days 330-300",
-      "count": 164,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Days 300-270",
-      "count": 76,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Days 270-240",
-      "count": 443,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Days 240-210",
-      "count": 474,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Days 210-180",
-      "count": 539,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Days 180-150",
-      "count": 617,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Days 150-120",
-      "count": 521,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Days 120-90",
-      "count": 496,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Days 90-60",
-      "count": 667,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Days 60-30",
-      "count": 625,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Last 30 Days",
-      "count": 1056,
+      "count": 0,
       "is_current": true
     }
   ]
