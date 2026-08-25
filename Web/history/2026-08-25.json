@@ -1,20 +1,15 @@
 {
   "date": "2026-08-25",
-  "generated_at": "2026-08-25T12:46:49.037224",
+  "generated_at": "2026-08-25T15:41:31.762030",
   "total_cnas": 575,
-  "cnas_growth": 63,
-  "cnas_normal": 103,
-  "cnas_declining": 223,
+  "cnas_growth": 62,
+  "cnas_normal": 105,
+  "cnas_declining": 222,
   "cnas_inactive": 186,
   "top_growth": [
     {
-      "cna_name": "HDFG",
-      "current_count": 9,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "systemd",
-      "current_count": 3,
+      "cna_name": "Vestel",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -23,8 +18,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "ELAN",
-      "current_count": 1,
+      "cna_name": "systemd",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "HDFG",
+      "current_count": 9,
       "deviation_pct": 999999.0
     },
     {
@@ -38,7 +38,7 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Vestel",
+      "cna_name": "ELAN",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -60,11 +60,6 @@
   ],
   "top_declining": [
     {
-      "cna_name": "jenkins",
-      "current_count": 23,
-      "deviation_pct": 66.0
-    },
-    {
       "cna_name": "Pega",
       "current_count": 2,
       "deviation_pct": 28.6
@@ -75,6 +70,11 @@
       "deviation_pct": 23.1
     },
     {
+      "cna_name": "rami.io",
+      "current_count": 2,
+      "deviation_pct": -36.0
+    },
+    {
       "cna_name": "Arista",
       "current_count": 3,
       "deviation_pct": -37.9
@@ -83,11 +83,6 @@
       "cna_name": "GitHub_P",
       "current_count": 2,
       "deviation_pct": -41.9
-    },
-    {
-      "cna_name": "rami.io",
-      "current_count": 2,
-      "deviation_pct": -44.0
     },
     {
       "cna_name": "huawei",
@@ -108,6 +103,11 @@
       "cna_name": "snyk",
       "current_count": 2,
       "deviation_pct": -50.0
+    },
+    {
+      "cna_name": "ivanti",
+      "current_count": 3,
+      "deviation_pct": -51.5
     }
   ]
 }
