@@ -1,12 +1,22 @@
 {
   "date": "2026-08-25",
-  "generated_at": "2026-08-25T09:36:25.384604",
+  "generated_at": "2026-08-25T12:46:49.037224",
   "total_cnas": 575,
-  "cnas_growth": 62,
-  "cnas_normal": 105,
-  "cnas_declining": 222,
+  "cnas_growth": 63,
+  "cnas_normal": 103,
+  "cnas_declining": 223,
   "cnas_inactive": 186,
   "top_growth": [
+    {
+      "cna_name": "HDFG",
+      "current_count": 9,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "systemd",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
     {
       "cna_name": "OpenNMS",
       "current_count": 2,
@@ -19,16 +29,6 @@
     },
     {
       "cna_name": "OMICRON",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "HDFG",
-      "current_count": 9,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "systemd",
       "current_count": 3,
       "deviation_pct": 999999.0
     },
@@ -70,6 +70,11 @@
       "deviation_pct": 28.6
     },
     {
+      "cna_name": "Nozomi",
+      "current_count": 8,
+      "deviation_pct": 23.1
+    },
+    {
       "cna_name": "Arista",
       "current_count": 3,
       "deviation_pct": -37.9
@@ -103,11 +108,6 @@
       "cna_name": "snyk",
       "current_count": 2,
       "deviation_pct": -50.0
-    },
-    {
-      "cna_name": "ivanti",
-      "current_count": 3,
-      "deviation_pct": -51.5
     }
   ]
 }
