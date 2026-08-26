@@ -1,25 +1,15 @@
 {
   "date": "2026-08-26",
-  "generated_at": "2026-08-26T12:51:54.466595",
+  "generated_at": "2026-08-26T16:17:43.562463",
   "total_cnas": 579,
-  "cnas_growth": 65,
-  "cnas_normal": 109,
+  "cnas_growth": 64,
+  "cnas_normal": 110,
   "cnas_declining": 217,
   "cnas_inactive": 188,
   "top_growth": [
     {
-      "cna_name": "OpenNMS",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "Ubiquiti",
       "current_count": 23,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "ELAN",
-      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -28,17 +18,7 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Vestel",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "HDFG",
-      "current_count": 9,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "systemd",
+      "cna_name": "OMICRON",
       "current_count": 3,
       "deviation_pct": 999999.0
     },
@@ -48,14 +28,34 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "OMICRON",
+      "cna_name": "OpenNMS",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Vestel",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "systemd",
       "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "ELAN",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
       "cna_name": "CSA",
       "current_count": 29,
       "deviation_pct": 1833.3
+    },
+    {
+      "cna_name": "WPScan",
+      "current_count": 558,
+      "deviation_pct": 1704.9
     }
   ],
   "top_declining": [
@@ -78,11 +78,6 @@
       "cna_name": "rami.io",
       "current_count": 2,
       "deviation_pct": -36.0
-    },
-    {
-      "cna_name": "Arista",
-      "current_count": 3,
-      "deviation_pct": -37.9
     },
     {
       "cna_name": "GitHub_P",
@@ -108,6 +103,11 @@
       "cna_name": "ivanti",
       "current_count": 3,
       "deviation_pct": -51.5
+    },
+    {
+      "cna_name": "Absolute",
+      "current_count": 3,
+      "deviation_pct": -51.6
     }
   ]
 }
