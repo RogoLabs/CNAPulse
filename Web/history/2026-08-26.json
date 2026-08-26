@@ -1,0 +1,113 @@
+{
+  "date": "2026-08-26",
+  "generated_at": "2026-08-26T01:17:44.636592",
+  "total_cnas": 579,
+  "cnas_growth": 63,
+  "cnas_normal": 107,
+  "cnas_declining": 220,
+  "cnas_inactive": 189,
+  "top_growth": [
+    {
+      "cna_name": "systemd",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "HDFG",
+      "current_count": 9,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OMICRON",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Okta",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OpenNMS",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Vestel",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "ELAN",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "postiz",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "WPScan",
+      "current_count": 554,
+      "deviation_pct": 1804.9
+    },
+    {
+      "cna_name": "CSA",
+      "current_count": 27,
+      "deviation_pct": 1700.0
+    }
+  ],
+  "top_declining": [
+    {
+      "cna_name": "Pega",
+      "current_count": 2,
+      "deviation_pct": 28.6
+    },
+    {
+      "cna_name": "Nozomi",
+      "current_count": 8,
+      "deviation_pct": 23.1
+    },
+    {
+      "cna_name": "drupal",
+      "current_count": 17,
+      "deviation_pct": 12.5
+    },
+    {
+      "cna_name": "rami.io",
+      "current_count": 2,
+      "deviation_pct": -36.0
+    },
+    {
+      "cna_name": "Arista",
+      "current_count": 3,
+      "deviation_pct": -37.9
+    },
+    {
+      "cna_name": "GitHub_P",
+      "current_count": 2,
+      "deviation_pct": -41.9
+    },
+    {
+      "cna_name": "huawei",
+      "current_count": 10,
+      "deviation_pct": -46.2
+    },
+    {
+      "cna_name": "ASUS",
+      "current_count": 2,
+      "deviation_pct": -48.8
+    },
+    {
+      "cna_name": "cloudflare",
+      "current_count": 1,
+      "deviation_pct": -50.0
+    },
+    {
+      "cna_name": "snyk",
+      "current_count": 2,
+      "deviation_pct": -50.0
+    }
+  ]
+}
