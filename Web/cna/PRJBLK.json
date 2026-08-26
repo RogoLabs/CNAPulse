@@ -5,11 +5,11 @@
   "cna_advisory_url": "https://projectblack.io/blog/tag/advisory/",
   "country": "Australia",
   "scope_type": "",
-  "status": "Declining",
+  "status": "Normal",
   "baseline_avg": 2.4,
-  "current_count": 1,
-  "deviation_pct": -58.3,
-  "days_since_last_cve": 10,
+  "current_count": 2,
+  "deviation_pct": -16.7,
+  "days_since_last_cve": 0,
   "std_dev": 0.89,
   "threshold_low": 1.2,
   "threshold_high": 6.0,
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 1,
+      "count": 2,
       "is_current": true
     }
   ]

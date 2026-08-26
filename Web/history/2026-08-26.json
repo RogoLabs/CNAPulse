@@ -1,15 +1,20 @@
 {
   "date": "2026-08-26",
-  "generated_at": "2026-08-26T01:17:44.636592",
+  "generated_at": "2026-08-26T03:53:45.452460",
   "total_cnas": 579,
   "cnas_growth": 63,
-  "cnas_normal": 107,
-  "cnas_declining": 220,
+  "cnas_normal": 108,
+  "cnas_declining": 219,
   "cnas_inactive": 189,
   "top_growth": [
     {
-      "cna_name": "systemd",
-      "current_count": 3,
+      "cna_name": "OpenNMS",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "postiz",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -28,11 +33,6 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "OpenNMS",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "Vestel",
       "current_count": 1,
       "deviation_pct": 999999.0
@@ -43,8 +43,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "postiz",
-      "current_count": 2,
+      "cna_name": "systemd",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
