@@ -1,15 +1,15 @@
 {
   "date": "2026-08-26",
-  "generated_at": "2026-08-26T03:53:45.452460",
+  "generated_at": "2026-08-26T06:49:50.233585",
   "total_cnas": 579,
   "cnas_growth": 63,
-  "cnas_normal": 108,
-  "cnas_declining": 219,
+  "cnas_normal": 109,
+  "cnas_declining": 218,
   "cnas_inactive": 189,
   "top_growth": [
     {
-      "cna_name": "OpenNMS",
-      "current_count": 2,
+      "cna_name": "OMICRON",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -23,13 +23,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "OMICRON",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Okta",
-      "current_count": 1,
+      "cna_name": "OpenNMS",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -48,9 +43,14 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "Okta",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "WPScan",
-      "current_count": 554,
-      "deviation_pct": 1804.9
+      "current_count": 558,
+      "deviation_pct": 1704.9
     },
     {
       "cna_name": "CSA",
