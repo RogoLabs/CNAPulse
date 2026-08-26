@@ -1,12 +1,27 @@
 {
   "date": "2026-08-26",
-  "generated_at": "2026-08-26T09:41:31.603656",
+  "generated_at": "2026-08-26T12:51:54.466595",
   "total_cnas": 579,
   "cnas_growth": 65,
   "cnas_normal": 109,
   "cnas_declining": 217,
   "cnas_inactive": 188,
   "top_growth": [
+    {
+      "cna_name": "OpenNMS",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Ubiquiti",
+      "current_count": 23,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "ELAN",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
     {
       "cna_name": "Okta",
       "current_count": 1,
@@ -18,23 +33,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "ELAN",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "OMICRON",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "HDFG",
       "current_count": 9,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "postiz",
-      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -43,13 +43,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "OpenNMS",
+      "cna_name": "postiz",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Ubiquiti",
-      "current_count": 2,
+      "cna_name": "OMICRON",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
