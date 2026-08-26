@@ -1,25 +1,15 @@
 {
   "date": "2026-08-26",
-  "generated_at": "2026-08-26T16:17:43.562463",
+  "generated_at": "2026-08-26T19:46:53.929221",
   "total_cnas": 579,
-  "cnas_growth": 64,
-  "cnas_normal": 110,
-  "cnas_declining": 217,
+  "cnas_growth": 65,
+  "cnas_normal": 106,
+  "cnas_declining": 220,
   "cnas_inactive": 188,
   "top_growth": [
     {
       "cna_name": "Ubiquiti",
       "current_count": 23,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Okta",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "OMICRON",
-      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -33,13 +23,23 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Vestel",
-      "current_count": 1,
+      "cna_name": "OMICRON",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
       "cna_name": "systemd",
       "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Vestel",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Okta",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {

@@ -5,10 +5,10 @@
   "cna_advisory_url": "https://bodhi.fedoraproject.org/updates/?type=security",
   "country": "USA",
   "scope_type": "",
-  "status": "Declining",
+  "status": "Normal",
   "baseline_avg": 5.75,
-  "current_count": 2,
-  "deviation_pct": -65.2,
+  "current_count": 3,
+  "deviation_pct": -47.8,
   "days_since_last_cve": 0,
   "std_dev": 7.23,
   "threshold_low": 2.88,
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 2,
+      "count": 3,
       "is_current": true
     }
   ]
