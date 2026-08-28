@@ -1,15 +1,25 @@
 {
   "date": "2026-08-28",
-  "generated_at": "2026-08-28T00:16:19.333278",
+  "generated_at": "2026-08-28T14:57:24.365049",
   "total_cnas": 579,
-  "cnas_growth": 64,
-  "cnas_normal": 111,
+  "cnas_growth": 66,
+  "cnas_normal": 109,
   "cnas_declining": 217,
   "cnas_inactive": 187,
   "top_growth": [
     {
       "cna_name": "postiz",
       "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "systemd",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Ubiquiti",
+      "current_count": 23,
       "deviation_pct": 999999.0
     },
     {
@@ -23,13 +33,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "systemd",
+      "cna_name": "OMICRON",
       "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Okta",
-      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -38,8 +43,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Ubiquiti",
-      "current_count": 23,
+      "cna_name": "Okta",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -48,14 +53,9 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "OMICRON",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "WPScan",
-      "current_count": 572,
-      "deviation_pct": 1720.7
+      "current_count": 574,
+      "deviation_pct": 1684.5
     }
   ],
   "top_declining": [
@@ -75,11 +75,6 @@
       "deviation_pct": -28.6
     },
     {
-      "cna_name": "TV",
-      "current_count": 3,
-      "deviation_pct": -33.3
-    },
-    {
       "cna_name": "GitHub_P",
       "current_count": 2,
       "deviation_pct": -41.9
@@ -95,11 +90,6 @@
       "deviation_pct": -50.0
     },
     {
-      "cna_name": "WatchGuard",
-      "current_count": 3,
-      "deviation_pct": -50.0
-    },
-    {
       "cna_name": "Absolute",
       "current_count": 3,
       "deviation_pct": -51.6
@@ -108,6 +98,16 @@
       "cna_name": "fortinet",
       "current_count": 7,
       "deviation_pct": -52.3
+    },
+    {
+      "cna_name": "Microchip",
+      "current_count": 1,
+      "deviation_pct": -58.3
+    },
+    {
+      "cna_name": "bosch",
+      "current_count": 1,
+      "deviation_pct": -60.0
     }
   ]
 }
