@@ -1,20 +1,15 @@
 {
   "date": "2026-08-28",
-  "generated_at": "2026-08-28T14:57:24.365049",
+  "generated_at": "2026-08-28T23:55:14.864719",
   "total_cnas": 579,
   "cnas_growth": 66,
-  "cnas_normal": 109,
-  "cnas_declining": 217,
+  "cnas_normal": 111,
+  "cnas_declining": 215,
   "cnas_inactive": 187,
   "top_growth": [
     {
-      "cna_name": "postiz",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "systemd",
-      "current_count": 3,
+      "cna_name": "Vestel",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -23,12 +18,12 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "ELAN",
+      "cna_name": "Okta",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "OpenNMS",
+      "cna_name": "postiz",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
@@ -38,12 +33,7 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Vestel",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Okta",
+      "cna_name": "ELAN",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -53,17 +43,22 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "OpenNMS",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "systemd",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "WPScan",
       "current_count": 574,
       "deviation_pct": 1684.5
     }
   ],
   "top_declining": [
-    {
-      "cna_name": "Pega",
-      "current_count": 2,
-      "deviation_pct": 28.6
-    },
     {
       "cna_name": "drupal",
       "current_count": 17,
@@ -108,6 +103,11 @@
       "cna_name": "bosch",
       "current_count": 1,
       "deviation_pct": -60.0
+    },
+    {
+      "cna_name": "Mitsubishi",
+      "current_count": 1,
+      "deviation_pct": -61.9
     }
   ]
 }

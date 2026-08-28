@@ -5,12 +5,12 @@
   "cna_advisory_url": "https://www.pega.com/trust/security-advisories",
   "country": "USA",
   "scope_type": "",
-  "status": "Declining",
+  "status": "Normal",
   "baseline_avg": 1.56,
-  "current_count": 2,
-  "deviation_pct": 28.6,
-  "days_since_last_cve": 17,
-  "std_dev": 1.33,
+  "current_count": 3,
+  "deviation_pct": 92.9,
+  "days_since_last_cve": 0,
+  "std_dev": 1.01,
   "threshold_low": 0.78,
   "threshold_high": 3.89,
   "timeline_13months": [
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 2,
+      "count": 3,
       "is_current": true
     }
   ]
