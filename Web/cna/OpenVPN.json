@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://openvpn.net/security-advisories/",
   "country": "USA",
   "scope_type": "",
-  "status": "Normal",
-  "baseline_avg": 1.75,
-  "current_count": 7,
-  "deviation_pct": 300.0,
+  "status": "Declining",
+  "baseline_avg": 2.38,
+  "current_count": 2,
+  "deviation_pct": -15.8,
   "days_since_last_cve": 14,
-  "std_dev": 0.89,
-  "threshold_low": 0.88,
-  "threshold_high": 4.38,
+  "std_dev": 2.39,
+  "threshold_low": 1.19,
+  "threshold_high": 5.94,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -71,12 +71,12 @@
     },
     {
       "month": "Days 60-30",
-      "count": 3,
+      "count": 8,
       "is_current": false
     },
     {
       "month": "Last 30 Days",
-      "count": 7,
+      "count": 2,
       "is_current": true
     }
   ]
