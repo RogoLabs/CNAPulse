@@ -1,20 +1,40 @@
 {
   "date": "2026-08-29",
-  "generated_at": "2026-08-29T18:12:48.154165",
+  "generated_at": "2026-08-29T23:01:08.263572",
   "total_cnas": 579,
-  "cnas_growth": 58,
-  "cnas_normal": 112,
-  "cnas_declining": 222,
+  "cnas_growth": 56,
+  "cnas_normal": 115,
+  "cnas_declining": 221,
   "cnas_inactive": 187,
   "top_growth": [
+    {
+      "cna_name": "ELAN",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Okta",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OpenNMS",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "postiz",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
     {
       "cna_name": "wibu",
       "current_count": 7,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Okta",
-      "current_count": 1,
+      "cna_name": "Ubiquiti",
+      "current_count": 23,
       "deviation_pct": 999999.0
     },
     {
@@ -28,28 +48,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "ELAN",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Ubiquiti",
-      "current_count": 23,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "Vestel",
       "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "postiz",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "OpenNMS",
-      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -68,11 +68,6 @@
       "cna_name": "OpenVPN",
       "current_count": 2,
       "deviation_pct": -15.8
-    },
-    {
-      "cna_name": "GitHub_P",
-      "current_count": 2,
-      "deviation_pct": -41.9
     },
     {
       "cna_name": "huawei",
@@ -108,6 +103,11 @@
       "cna_name": "blackberry",
       "current_count": 1,
       "deviation_pct": -62.5
+    },
+    {
+      "cna_name": "checkpoint",
+      "current_count": 1,
+      "deviation_pct": -63.2
     }
   ]
 }
