@@ -1,45 +1,15 @@
 {
   "date": "2026-08-31",
-  "generated_at": "2026-08-31T12:52:56.018740",
+  "generated_at": "2026-08-31T20:41:21.775463",
   "total_cnas": 579,
-  "cnas_growth": 55,
-  "cnas_normal": 118,
+  "cnas_growth": 54,
+  "cnas_normal": 119,
   "cnas_declining": 219,
   "cnas_inactive": 187,
   "top_growth": [
     {
-      "cna_name": "OMICRON",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "ELAN",
+      "cna_name": "Okta",
       "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Vestel",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "postiz",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "systemd",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "wibu",
-      "current_count": 7,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "OpenNMS",
-      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -48,8 +18,38 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Okta",
+      "cna_name": "ELAN",
       "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "wibu",
+      "current_count": 7,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "systemd",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "postiz",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Vestel",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OpenNMS",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OMICRON",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -100,14 +100,14 @@
       "deviation_pct": -58.3
     },
     {
+      "cna_name": "checkpoint",
+      "current_count": 1,
+      "deviation_pct": -58.8
+    },
+    {
       "cna_name": "blackberry",
       "current_count": 1,
       "deviation_pct": -62.5
-    },
-    {
-      "cna_name": "checkpoint",
-      "current_count": 1,
-      "deviation_pct": -63.2
     }
   ]
 }
