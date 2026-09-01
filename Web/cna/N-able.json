@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://me.n-able.com/s/global-search/%40uri#t=All&amp;sort=relevancy&amp;f:@repositorytype=[Security_Advisory]",
   "country": "USA",
   "scope_type": "",
-  "status": "Normal",
-  "baseline_avg": 2.25,
-  "current_count": 2,
-  "deviation_pct": -11.1,
+  "status": "Declining",
+  "baseline_avg": 2.5,
+  "current_count": 1,
+  "deviation_pct": -60.0,
   "days_since_last_cve": 11,
-  "std_dev": 1.5,
-  "threshold_low": 1.12,
-  "threshold_high": 5.62,
+  "std_dev": 1.29,
+  "threshold_low": 1.25,
+  "threshold_high": 6.25,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 2,
+      "count": 1,
       "is_current": true
     }
   ]

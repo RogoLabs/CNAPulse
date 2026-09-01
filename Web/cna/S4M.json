@@ -1,18 +1,18 @@
 {
-  "assigner_id": "61241ed8-fa44-4f23-92db-b8c443751968",
-  "cna_name": "Temporal",
-  "cna_org_name": "Temporal Technologies Inc.",
-  "cna_advisory_url": "https://docs.temporal.io/temporal-technologies-inc-security",
-  "country": "USA",
+  "assigner_id": "unknown",
+  "cna_name": "S4M",
+  "cna_org_name": "Security4Media",
+  "cna_advisory_url": "https://security4media.org/cve-infos/",
+  "country": "Switzerland",
   "scope_type": "",
-  "status": "Normal",
-  "baseline_avg": 1.25,
-  "current_count": 1,
-  "deviation_pct": -20.0,
-  "days_since_last_cve": 21,
-  "std_dev": 0.5,
-  "threshold_low": 0.62,
-  "threshold_high": 3.12,
+  "status": "Inactive",
+  "baseline_avg": 0.0,
+  "current_count": 0,
+  "deviation_pct": 0.0,
+  "days_since_last_cve": null,
+  "std_dev": null,
+  "threshold_low": 0.0,
+  "threshold_high": 0.0,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -21,7 +21,7 @@
     },
     {
       "month": "Days 360-330",
-      "count": 1,
+      "count": 0,
       "is_current": false
     },
     {
@@ -36,7 +36,7 @@
     },
     {
       "month": "Days 270-240",
-      "count": 2,
+      "count": 0,
       "is_current": false
     },
     {
@@ -56,7 +56,7 @@
     },
     {
       "month": "Days 150-120",
-      "count": 2,
+      "count": 0,
       "is_current": false
     },
     {
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 1,
+      "count": 0,
       "is_current": true
     }
   ]
