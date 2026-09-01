@@ -5,18 +5,18 @@
   "cna_advisory_url": "https://hackerone.com/cloudflare/hacktivity",
   "country": "USA",
   "scope_type": "",
-  "status": "Normal",
-  "baseline_avg": 2.33,
+  "status": "Declining",
+  "baseline_avg": 2.6,
   "current_count": 1,
-  "deviation_pct": -57.1,
+  "deviation_pct": -61.5,
   "days_since_last_cve": 20,
-  "std_dev": 1.86,
-  "threshold_low": 1.17,
-  "threshold_high": 5.83,
+  "std_dev": 1.95,
+  "threshold_low": 1.3,
+  "threshold_high": 6.5,
   "timeline_13months": [
     {
       "month": "Days 390-360",
-      "count": 1,
+      "count": 0,
       "is_current": false
     },
     {

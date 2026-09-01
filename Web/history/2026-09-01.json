@@ -1,15 +1,25 @@
 {
   "date": "2026-09-01",
-  "generated_at": "2026-09-01T13:58:23.271467",
+  "generated_at": "2026-09-01T18:11:21.982193",
   "total_cnas": 579,
-  "cnas_growth": 54,
-  "cnas_normal": 123,
-  "cnas_declining": 215,
+  "cnas_growth": 57,
+  "cnas_normal": 119,
+  "cnas_declining": 216,
   "cnas_inactive": 187,
   "top_growth": [
     {
       "cna_name": "Ubiquiti",
       "current_count": 23,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OpenNMS",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Vestel",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -23,7 +33,12 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Vestel",
+      "cna_name": "postiz",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Okta",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -33,23 +48,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Okta",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "postiz",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "systemd",
       "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "OpenNMS",
-      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -73,6 +73,11 @@
       "cna_name": "OpenVPN",
       "current_count": 2,
       "deviation_pct": -26.3
+    },
+    {
+      "cna_name": "qualcomm",
+      "current_count": 11,
+      "deviation_pct": -48.8
     },
     {
       "cna_name": "Absolute",
@@ -103,11 +108,6 @@
       "cna_name": "checkpoint",
       "current_count": 1,
       "deviation_pct": -58.8
-    },
-    {
-      "cna_name": "blackberry",
-      "current_count": 1,
-      "deviation_pct": -62.5
     }
   ]
 }
