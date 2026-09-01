@@ -5,18 +5,18 @@
   "cna_advisory_url": "https://jvn.jp/",
   "country": "Japan",
   "scope_type": "",
-  "status": "Growth",
-  "baseline_avg": 22.0,
+  "status": "Normal",
+  "baseline_avg": 21.92,
   "current_count": 44,
-  "deviation_pct": 100.0,
-  "days_since_last_cve": 0,
-  "std_dev": 9.11,
-  "threshold_low": 11.0,
-  "threshold_high": 55.0,
+  "deviation_pct": 100.8,
+  "days_since_last_cve": 1,
+  "std_dev": 8.8,
+  "threshold_low": 10.96,
+  "threshold_high": 54.79,
   "timeline_13months": [
     {
       "month": "Days 390-360",
-      "count": 23,
+      "count": 22,
       "is_current": false
     },
     {
