@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://openvpn.net/security-advisories/",
   "country": "USA",
   "scope_type": "",
-  "status": "Declining",
+  "status": "Normal",
   "baseline_avg": 2.71,
   "current_count": 2,
   "deviation_pct": -26.3,

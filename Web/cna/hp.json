@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://support.hp.com/us-en/security-bulletins",
   "country": "USA",
   "scope_type": "",
-  "status": "Normal",
-  "baseline_avg": 3.5,
-  "current_count": 8,
-  "deviation_pct": 128.6,
+  "status": "Growth",
+  "baseline_avg": 3.6,
+  "current_count": 7,
+  "deviation_pct": 94.4,
   "days_since_last_cve": 1,
-  "std_dev": 1.78,
-  "threshold_low": 1.75,
-  "threshold_high": 8.75,
+  "std_dev": 1.51,
+  "threshold_low": 1.8,
+  "threshold_high": 9.0,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 8,
+      "count": 7,
       "is_current": true
     }
   ]

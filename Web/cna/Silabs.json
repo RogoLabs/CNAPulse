@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://community.silabs.com/s/alert/Alert__c/00B1M000009sQ4R",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
+  "status": "Normal",
   "baseline_avg": 3.67,
   "current_count": 11,
   "deviation_pct": 200.0,
