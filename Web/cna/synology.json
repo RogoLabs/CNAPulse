@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://www.synology.com/en-global/security/advisory",
   "country": "Taiwan",
   "scope_type": "",
-  "status": "Normal",
-  "baseline_avg": 7.8,
-  "current_count": 4,
-  "deviation_pct": -48.7,
-  "days_since_last_cve": 4,
-  "std_dev": 9.68,
-  "threshold_low": 3.9,
-  "threshold_high": 19.5,
+  "status": "Growth",
+  "baseline_avg": 6.67,
+  "current_count": 3,
+  "deviation_pct": -55.0,
+  "days_since_last_cve": 5,
+  "std_dev": 9.09,
+  "threshold_low": 3.33,
+  "threshold_high": 16.67,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 4,
+      "count": 3,
       "is_current": true
     }
   ]
