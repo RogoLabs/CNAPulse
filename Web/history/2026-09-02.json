@@ -1,42 +1,12 @@
 {
   "date": "2026-09-02",
-  "generated_at": "2026-09-02T16:04:21.541072",
+  "generated_at": "2026-09-02T20:36:13.771096",
   "total_cnas": 580,
-  "cnas_growth": 59,
-  "cnas_normal": 114,
-  "cnas_declining": 219,
+  "cnas_growth": 62,
+  "cnas_normal": 113,
+  "cnas_declining": 217,
   "cnas_inactive": 188,
   "top_growth": [
-    {
-      "cna_name": "ELAN",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Vestel",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Ubiquiti",
-      "current_count": 23,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "systemd",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "wibu",
-      "current_count": 7,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Okta",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
     {
       "cna_name": "OpenNMS",
       "current_count": 2,
@@ -48,8 +18,38 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "Ubiquiti",
+      "current_count": 23,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Vestel",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "OMICRON",
       "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "wibu",
+      "current_count": 7,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "systemd",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Okta",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "ELAN",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -60,29 +60,14 @@
   ],
   "top_declining": [
     {
-      "cna_name": "CSA",
-      "current_count": 5,
-      "deviation_pct": -9.1
-    },
-    {
       "cna_name": "Zyxel",
       "current_count": 3,
       "deviation_pct": -12.5
     },
     {
-      "cna_name": "AMD",
-      "current_count": 11,
-      "deviation_pct": -33.6
-    },
-    {
-      "cna_name": "huawei",
-      "current_count": 10,
-      "deviation_pct": -41.5
-    },
-    {
-      "cna_name": "ivanti",
-      "current_count": 3,
-      "deviation_pct": -47.1
+      "cna_name": "OpenVPN",
+      "current_count": 2,
+      "deviation_pct": -26.3
     },
     {
       "cna_name": "qualcomm",
@@ -108,6 +93,21 @@
       "cna_name": "ASUS",
       "current_count": 2,
       "deviation_pct": -58.1
+    },
+    {
+      "cna_name": "Microchip",
+      "current_count": 1,
+      "deviation_pct": -58.3
+    },
+    {
+      "cna_name": "N-able",
+      "current_count": 1,
+      "deviation_pct": -60.0
+    },
+    {
+      "cna_name": "cloudflare",
+      "current_count": 1,
+      "deviation_pct": -61.5
     }
   ]
 }
