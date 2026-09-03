@@ -5,11 +5,11 @@
   "cna_advisory_url": "https://www.tp-link.com/us/press/security-advisory/",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
+  "status": "Normal",
   "baseline_avg": 11.5,
-  "current_count": 30,
-  "deviation_pct": 160.9,
-  "days_since_last_cve": 6,
+  "current_count": 32,
+  "deviation_pct": 178.3,
+  "days_since_last_cve": 0,
   "std_dev": 12.39,
   "threshold_low": 5.75,
   "threshold_high": 28.75,
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 30,
+      "count": 32,
       "is_current": true
     }
   ]

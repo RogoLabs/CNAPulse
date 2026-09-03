@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://lists.security.metacpan.org/cve-announce/",
   "country": "Canada",
   "scope_type": "",
-  "status": "Growth",
-  "baseline_avg": 19.5,
-  "current_count": 34,
-  "deviation_pct": 74.4,
+  "status": "Normal",
+  "baseline_avg": 19.67,
+  "current_count": 32,
+  "deviation_pct": 62.7,
   "days_since_last_cve": 1,
-  "std_dev": 25.43,
-  "threshold_low": 9.75,
-  "threshold_high": 48.75,
+  "std_dev": 25.85,
+  "threshold_low": 9.83,
+  "threshold_high": 49.17,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 34,
+      "count": 32,
       "is_current": true
     }
   ]
