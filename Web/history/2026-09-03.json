@@ -1,35 +1,15 @@
 {
   "date": "2026-09-03",
-  "generated_at": "2026-09-03T03:13:31.792476",
+  "generated_at": "2026-09-03T10:46:44.878966",
   "total_cnas": 580,
-  "cnas_growth": 62,
+  "cnas_growth": 63,
   "cnas_normal": 111,
-  "cnas_declining": 219,
+  "cnas_declining": 218,
   "cnas_inactive": 188,
   "top_growth": [
     {
-      "cna_name": "ELAN",
+      "cna_name": "Okta",
       "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Vestel",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "wibu",
-      "current_count": 7,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "OMICRON",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Ubiquiti",
-      "current_count": 23,
       "deviation_pct": 999999.0
     },
     {
@@ -38,18 +18,38 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "postiz",
-      "current_count": 2,
+      "cna_name": "Ubiquiti",
+      "current_count": 23,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Okta",
+      "cna_name": "Vestel",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OMICRON",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "ELAN",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
       "cna_name": "systemd",
       "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "postiz",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "wibu",
+      "current_count": 7,
       "deviation_pct": 999999.0
     },
     {
@@ -80,6 +80,11 @@
       "deviation_pct": -52.3
     },
     {
+      "cna_name": "INCIBE",
+      "current_count": 15,
+      "deviation_pct": -52.8
+    },
+    {
       "cna_name": "Google",
       "current_count": 2,
       "deviation_pct": -57.7
@@ -103,11 +108,6 @@
       "cna_name": "cloudflare",
       "current_count": 1,
       "deviation_pct": -61.5
-    },
-    {
-      "cna_name": "blackberry",
-      "current_count": 1,
-      "deviation_pct": -62.5
     }
   ]
 }
