@@ -1,0 +1,113 @@
+{
+  "date": "2026-09-03",
+  "generated_at": "2026-09-03T03:13:31.792476",
+  "total_cnas": 580,
+  "cnas_growth": 62,
+  "cnas_normal": 111,
+  "cnas_declining": 219,
+  "cnas_inactive": 188,
+  "top_growth": [
+    {
+      "cna_name": "ELAN",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Vestel",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "wibu",
+      "current_count": 7,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OMICRON",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Ubiquiti",
+      "current_count": 23,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OpenNMS",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "postiz",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Okta",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "systemd",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "TuranSec",
+      "current_count": 173,
+      "deviation_pct": 1472.7
+    }
+  ],
+  "top_declining": [
+    {
+      "cna_name": "OpenVPN",
+      "current_count": 2,
+      "deviation_pct": -26.3
+    },
+    {
+      "cna_name": "qualcomm",
+      "current_count": 11,
+      "deviation_pct": -48.8
+    },
+    {
+      "cna_name": "Absolute",
+      "current_count": 3,
+      "deviation_pct": -51.6
+    },
+    {
+      "cna_name": "fortinet",
+      "current_count": 7,
+      "deviation_pct": -52.3
+    },
+    {
+      "cna_name": "Google",
+      "current_count": 2,
+      "deviation_pct": -57.7
+    },
+    {
+      "cna_name": "ASUS",
+      "current_count": 2,
+      "deviation_pct": -58.1
+    },
+    {
+      "cna_name": "Microchip",
+      "current_count": 1,
+      "deviation_pct": -58.3
+    },
+    {
+      "cna_name": "N-able",
+      "current_count": 1,
+      "deviation_pct": -60.0
+    },
+    {
+      "cna_name": "cloudflare",
+      "current_count": 1,
+      "deviation_pct": -61.5
+    },
+    {
+      "cna_name": "blackberry",
+      "current_count": 1,
+      "deviation_pct": -62.5
+    }
+  ]
+}
