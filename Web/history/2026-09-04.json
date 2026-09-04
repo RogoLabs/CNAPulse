@@ -1,20 +1,15 @@
 {
   "date": "2026-09-04",
-  "generated_at": "2026-09-04T10:44:29.180969",
+  "generated_at": "2026-09-04T15:52:02.886806",
   "total_cnas": 580,
-  "cnas_growth": 62,
-  "cnas_normal": 114,
+  "cnas_growth": 56,
+  "cnas_normal": 120,
   "cnas_declining": 217,
   "cnas_inactive": 187,
   "top_growth": [
     {
-      "cna_name": "Ubiquiti",
-      "current_count": 23,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "postiz",
-      "current_count": 2,
+      "cna_name": "OMICRON",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -23,22 +18,7 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "ELAN",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "OMICRON",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "wibu",
-      "current_count": 7,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "OpenNMS",
+      "cna_name": "postiz",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
@@ -53,16 +33,41 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "wibu",
+      "current_count": 7,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "systemd",
       "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "ELAN",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Ubiquiti",
+      "current_count": 23,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OpenNMS",
+      "current_count": 2,
       "deviation_pct": 999999.0
     }
   ],
   "top_declining": [
     {
-      "cna_name": "OpenVPN",
-      "current_count": 2,
-      "deviation_pct": -26.3
+      "cna_name": "eclipse",
+      "current_count": 14,
+      "deviation_pct": 57.3
+    },
+    {
+      "cna_name": "CSA",
+      "current_count": 5,
+      "deviation_pct": -9.1
     },
     {
       "cna_name": "ASUS",
@@ -100,12 +105,7 @@
       "deviation_pct": -61.5
     },
     {
-      "cna_name": "blackberry",
-      "current_count": 1,
-      "deviation_pct": -62.5
-    },
-    {
-      "cna_name": "Bugcrowd",
+      "cna_name": "Softing",
       "current_count": 1,
       "deviation_pct": -62.5
     }

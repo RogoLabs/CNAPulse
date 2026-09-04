@@ -6,13 +6,13 @@
   "country": "Uzbekistan",
   "scope_type": "",
   "status": "Growth",
-  "baseline_avg": 15.25,
-  "current_count": 145,
-  "deviation_pct": 850.8,
-  "days_since_last_cve": 23,
-  "std_dev": 10.5,
-  "threshold_low": 7.62,
-  "threshold_high": 38.12,
+  "baseline_avg": 30.5,
+  "current_count": 84,
+  "deviation_pct": 175.4,
+  "days_since_last_cve": 24,
+  "std_dev": 39.57,
+  "threshold_low": 15.25,
+  "threshold_high": 76.25,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 145,
+      "count": 84,
       "is_current": true
     }
   ]

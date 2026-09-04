@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://www.eclipse.org/security/known.php",
   "country": "Belgium",
   "scope_type": "",
-  "status": "Normal",
-  "baseline_avg": 8.4,
-  "current_count": 19,
-  "deviation_pct": 126.2,
+  "status": "Declining",
+  "baseline_avg": 8.9,
+  "current_count": 14,
+  "deviation_pct": 57.3,
   "days_since_last_cve": 0,
-  "std_dev": 8.86,
-  "threshold_low": 4.2,
-  "threshold_high": 21.0,
+  "std_dev": 9.92,
+  "threshold_low": 4.45,
+  "threshold_high": 22.25,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 19,
+      "count": 14,
       "is_current": true
     }
   ]

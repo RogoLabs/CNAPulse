@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://url.sap/sapsecuritypatchday",
   "country": "Germany",
   "scope_type": "",
-  "status": "Growth",
+  "status": "Normal",
   "baseline_avg": 16.42,
   "current_count": 35,
   "deviation_pct": 113.2,
