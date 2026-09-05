@@ -5,11 +5,11 @@
   "cna_advisory_url": "https://www.tcpdump.org/public-cve-list.txt",
   "country": "Canada",
   "scope_type": "",
-  "status": "Declining",
+  "status": "Growth",
   "baseline_avg": 2.0,
-  "current_count": 0,
-  "deviation_pct": -100.0,
-  "days_since_last_cve": 248,
+  "current_count": 7,
+  "deviation_pct": 250.0,
+  "days_since_last_cve": 0,
   "std_dev": null,
   "threshold_low": 1.0,
   "threshold_high": 5.0,
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 0,
+      "count": 7,
       "is_current": true
     }
   ]
