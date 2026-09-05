@@ -6,17 +6,17 @@
   "country": "France",
   "scope_type": "",
   "status": "Growth",
-  "baseline_avg": 48.92,
-  "current_count": 494,
-  "deviation_pct": 909.9,
+  "baseline_avg": 50.58,
+  "current_count": 507,
+  "deviation_pct": 902.3,
   "days_since_last_cve": 0,
-  "std_dev": 91.59,
-  "threshold_low": 24.46,
-  "threshold_high": 122.29,
+  "std_dev": 96.53,
+  "threshold_low": 25.29,
+  "threshold_high": 126.46,
   "timeline_13months": [
     {
       "month": "Days 390-360",
-      "count": 10,
+      "count": 9,
       "is_current": false
     },
     {
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 494,
+      "count": 507,
       "is_current": true
     }
   ]

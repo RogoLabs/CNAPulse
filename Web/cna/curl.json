@@ -6,13 +6,13 @@
   "country": "Sweden",
   "scope_type": "",
   "status": "Declining",
-  "baseline_avg": 5.71,
+  "baseline_avg": 5.0,
   "current_count": 0,
   "deviation_pct": -100.0,
-  "days_since_last_cve": 63,
-  "std_dev": 6.02,
-  "threshold_low": 2.86,
-  "threshold_high": 14.29,
+  "days_since_last_cve": 64,
+  "std_dev": 5.81,
+  "threshold_low": 2.5,
+  "threshold_high": 12.5,
   "timeline_13months": [
     {
       "month": "Days 390-360",
