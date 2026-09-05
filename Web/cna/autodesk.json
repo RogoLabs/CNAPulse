@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://www.autodesk.com/trust/security-advisories",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
-  "baseline_avg": 5.36,
-  "current_count": 13,
-  "deviation_pct": 142.4,
+  "status": "Normal",
+  "baseline_avg": 5.82,
+  "current_count": 8,
+  "deviation_pct": 37.5,
   "days_since_last_cve": 3,
-  "std_dev": 5.41,
-  "threshold_low": 2.68,
-  "threshold_high": 13.41,
+  "std_dev": 5.58,
+  "threshold_low": 2.91,
+  "threshold_high": 14.55,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 13,
+      "count": 8,
       "is_current": true
     }
   ]
