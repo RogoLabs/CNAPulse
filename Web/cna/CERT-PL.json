@@ -6,17 +6,17 @@
   "country": "Poland",
   "scope_type": "",
   "status": "Normal",
-  "baseline_avg": 25.83,
+  "baseline_avg": 25.75,
   "current_count": 34,
-  "deviation_pct": 31.6,
-  "days_since_last_cve": 1,
-  "std_dev": 13.33,
-  "threshold_low": 12.92,
-  "threshold_high": 64.58,
+  "deviation_pct": 32.0,
+  "days_since_last_cve": 2,
+  "std_dev": 13.15,
+  "threshold_low": 12.88,
+  "threshold_high": 64.38,
   "timeline_13months": [
     {
       "month": "Days 390-360",
-      "count": 35,
+      "count": 34,
       "is_current": false
     },
     {
