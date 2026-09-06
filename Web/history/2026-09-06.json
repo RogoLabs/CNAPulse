@@ -1,25 +1,15 @@
 {
   "date": "2026-09-06",
-  "generated_at": "2026-09-06T20:04:42.495381",
+  "generated_at": "2026-09-06T22:44:28.369423",
   "total_cnas": 580,
-  "cnas_growth": 47,
-  "cnas_normal": 120,
+  "cnas_growth": 49,
+  "cnas_normal": 118,
   "cnas_declining": 226,
   "cnas_inactive": 187,
   "top_growth": [
     {
-      "cna_name": "wibu",
-      "current_count": 7,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "systemd",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Okta",
-      "current_count": 1,
+      "cna_name": "Ubiquiti",
+      "current_count": 23,
       "deviation_pct": 999999.0
     },
     {
@@ -28,13 +18,23 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "Okta",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "Canva",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Ubiquiti",
-      "current_count": 23,
+      "cna_name": "systemd",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "wibu",
+      "current_count": 7,
       "deviation_pct": 999999.0
     },
     {
