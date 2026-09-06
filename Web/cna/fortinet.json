@@ -5,18 +5,18 @@
   "cna_advisory_url": "https://www.fortiguard.com/psirt",
   "country": "USA",
   "scope_type": "",
-  "status": "Declining",
-  "baseline_avg": 14.67,
+  "status": "Normal",
+  "baseline_avg": 13.5,
   "current_count": 7,
-  "deviation_pct": -52.3,
+  "deviation_pct": -48.1,
   "days_since_last_cve": 25,
-  "std_dev": 11.77,
-  "threshold_low": 7.33,
-  "threshold_high": 36.67,
+  "std_dev": 13.39,
+  "threshold_low": 6.75,
+  "threshold_high": 33.75,
   "timeline_13months": [
     {
       "month": "Days 390-360",
-      "count": 14,
+      "count": 0,
       "is_current": false
     },
     {
