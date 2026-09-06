@@ -1,0 +1,113 @@
+{
+  "date": "2026-09-06",
+  "generated_at": "2026-09-06T03:14:41.598473",
+  "total_cnas": 580,
+  "cnas_growth": 53,
+  "cnas_normal": 119,
+  "cnas_declining": 221,
+  "cnas_inactive": 187,
+  "top_growth": [
+    {
+      "cna_name": "OpenNMS",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Ubiquiti",
+      "current_count": 23,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "wibu",
+      "current_count": 7,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Okta",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "systemd",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Canva",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Vestel",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "elastic",
+      "current_count": 91,
+      "deviation_pct": 1200.0
+    },
+    {
+      "cna_name": "WPScan",
+      "current_count": 479,
+      "deviation_pct": 805.2
+    },
+    {
+      "cna_name": "mongodb",
+      "current_count": 65,
+      "deviation_pct": 757.1
+    }
+  ],
+  "top_declining": [
+    {
+      "cna_name": "imaginationtech",
+      "current_count": 5,
+      "deviation_pct": 12.5
+    },
+    {
+      "cna_name": "ASUS",
+      "current_count": 3,
+      "deviation_pct": -37.2
+    },
+    {
+      "cna_name": "Absolute",
+      "current_count": 3,
+      "deviation_pct": -51.6
+    },
+    {
+      "cna_name": "fortinet",
+      "current_count": 7,
+      "deviation_pct": -52.3
+    },
+    {
+      "cna_name": "INCIBE",
+      "current_count": 15,
+      "deviation_pct": -52.8
+    },
+    {
+      "cna_name": "ivanti",
+      "current_count": 3,
+      "deviation_pct": -55.9
+    },
+    {
+      "cna_name": "Microchip",
+      "current_count": 1,
+      "deviation_pct": -58.3
+    },
+    {
+      "cna_name": "cloudflare",
+      "current_count": 1,
+      "deviation_pct": -61.5
+    },
+    {
+      "cna_name": "Softing",
+      "current_count": 1,
+      "deviation_pct": -62.5
+    },
+    {
+      "cna_name": "Bugcrowd",
+      "current_count": 1,
+      "deviation_pct": -62.5
+    }
+  ]
+}

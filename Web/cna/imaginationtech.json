@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://www.imaginationtech.com/gpu-driver-vulnerabilities/",
   "country": "UK",
   "scope_type": "",
-  "status": "Normal",
-  "baseline_avg": 4.11,
-  "current_count": 8,
-  "deviation_pct": 94.6,
-  "days_since_last_cve": 1,
-  "std_dev": 3.33,
-  "threshold_low": 2.06,
-  "threshold_high": 10.28,
+  "status": "Declining",
+  "baseline_avg": 4.44,
+  "current_count": 5,
+  "deviation_pct": 12.5,
+  "days_since_last_cve": 2,
+  "std_dev": 3.97,
+  "threshold_low": 2.22,
+  "threshold_high": 11.11,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 8,
+      "count": 5,
       "is_current": true
     }
   ]
