@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://psirt.global.sonicwall.com/vuln-list",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
+  "status": "Normal",
   "baseline_avg": 3.29,
   "current_count": 16,
   "deviation_pct": 387.0,

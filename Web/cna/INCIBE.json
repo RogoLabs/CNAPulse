@@ -6,13 +6,13 @@
   "country": "Spain",
   "scope_type": "",
   "status": "Declining",
-  "baseline_avg": 31.75,
+  "baseline_avg": 34.64,
   "current_count": 15,
-  "deviation_pct": -52.8,
+  "deviation_pct": -56.7,
   "days_since_last_cve": 3,
-  "std_dev": 24.24,
-  "threshold_low": 15.88,
-  "threshold_high": 79.38,
+  "std_dev": 22.34,
+  "threshold_low": 17.32,
+  "threshold_high": 86.59,
   "timeline_13months": [
     {
       "month": "Days 390-360",
