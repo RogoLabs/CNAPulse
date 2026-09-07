@@ -1,15 +1,35 @@
 {
   "date": "2026-09-07",
-  "generated_at": "2026-09-07T11:44:37.667351",
+  "generated_at": "2026-09-07T17:22:15.212888",
   "total_cnas": 580,
-  "cnas_growth": 50,
-  "cnas_normal": 120,
-  "cnas_declining": 224,
-  "cnas_inactive": 186,
+  "cnas_growth": 49,
+  "cnas_normal": 121,
+  "cnas_declining": 225,
+  "cnas_inactive": 185,
   "top_growth": [
     {
       "cna_name": "Canva",
       "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Okta",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OpenNMS",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "wibu",
+      "current_count": 7,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Proton",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -23,23 +43,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "wibu",
-      "current_count": 7,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "OpenNMS",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "YesWeHack",
       "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Okta",
-      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -51,11 +56,6 @@
       "cna_name": "mongodb",
       "current_count": 65,
       "deviation_pct": 757.1
-    },
-    {
-      "cna_name": "WPScan",
-      "current_count": 451,
-      "deviation_pct": 705.4
     }
   ],
   "top_declining": [
@@ -100,9 +100,9 @@
       "deviation_pct": -53.8
     },
     {
-      "cna_name": "ivanti",
-      "current_count": 3,
-      "deviation_pct": -55.7
+      "cna_name": "fortinet",
+      "current_count": 7,
+      "deviation_pct": -56.8
     },
     {
       "cna_name": "Microchip",
