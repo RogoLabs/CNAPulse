@@ -1,0 +1,113 @@
+{
+  "date": "2026-09-07",
+  "generated_at": "2026-09-07T03:12:51.826534",
+  "total_cnas": 580,
+  "cnas_growth": 49,
+  "cnas_normal": 120,
+  "cnas_declining": 224,
+  "cnas_inactive": 187,
+  "top_growth": [
+    {
+      "cna_name": "OpenNMS",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Okta",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Ubiquiti",
+      "current_count": 23,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "systemd",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Canva",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "wibu",
+      "current_count": 7,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "elastic",
+      "current_count": 91,
+      "deviation_pct": 1200.0
+    },
+    {
+      "cna_name": "mongodb",
+      "current_count": 65,
+      "deviation_pct": 757.1
+    },
+    {
+      "cna_name": "WPScan",
+      "current_count": 468,
+      "deviation_pct": 756.1
+    },
+    {
+      "cna_name": "Kaspersky",
+      "current_count": 8,
+      "deviation_pct": 700.0
+    }
+  ],
+  "top_declining": [
+    {
+      "cna_name": "Sonatype",
+      "current_count": 5,
+      "deviation_pct": 50.0
+    },
+    {
+      "cna_name": "HashiCorp",
+      "current_count": 5,
+      "deviation_pct": 12.5
+    },
+    {
+      "cna_name": "imaginationtech",
+      "current_count": 5,
+      "deviation_pct": 12.5
+    },
+    {
+      "cna_name": "NCSC.ch",
+      "current_count": 7,
+      "deviation_pct": -26.0
+    },
+    {
+      "cna_name": "ASUS",
+      "current_count": 3,
+      "deviation_pct": -37.2
+    },
+    {
+      "cna_name": "zte",
+      "current_count": 2,
+      "deviation_pct": -44.8
+    },
+    {
+      "cna_name": "Absolute",
+      "current_count": 3,
+      "deviation_pct": -51.6
+    },
+    {
+      "cna_name": "ivanti",
+      "current_count": 3,
+      "deviation_pct": -55.7
+    },
+    {
+      "cna_name": "INCIBE",
+      "current_count": 15,
+      "deviation_pct": -56.7
+    },
+    {
+      "cna_name": "Microchip",
+      "current_count": 1,
+      "deviation_pct": -58.3
+    }
+  ]
+}
