@@ -1,24 +1,19 @@
 {
   "date": "2026-09-08",
-  "generated_at": "2026-09-08T03:20:42.333766",
+  "generated_at": "2026-09-08T10:42:36.440264",
   "total_cnas": 580,
-  "cnas_growth": 48,
-  "cnas_normal": 122,
-  "cnas_declining": 225,
+  "cnas_growth": 51,
+  "cnas_normal": 120,
+  "cnas_declining": 224,
   "cnas_inactive": 185,
   "top_growth": [
-    {
-      "cna_name": "Okta",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
     {
       "cna_name": "Proton",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "systemd",
+      "cna_name": "YesWeHack",
       "current_count": 3,
       "deviation_pct": 999999.0
     },
@@ -28,13 +23,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Canva",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "YesWeHack",
-      "current_count": 3,
+      "cna_name": "Okta",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -43,14 +33,24 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "Canva",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "OpenNMS",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "systemd",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "elastic",
       "current_count": 91,
-      "deviation_pct": 1200.0
+      "deviation_pct": 1091.7
     },
     {
       "cna_name": "mongodb",
@@ -80,14 +80,14 @@
       "deviation_pct": 12.5
     },
     {
+      "cna_name": "zte",
+      "current_count": 3,
+      "deviation_pct": -17.2
+    },
+    {
       "cna_name": "NCSC.ch",
       "current_count": 7,
       "deviation_pct": -26.0
-    },
-    {
-      "cna_name": "zte",
-      "current_count": 2,
-      "deviation_pct": -44.8
     },
     {
       "cna_name": "Absolute",
@@ -100,14 +100,14 @@
       "deviation_pct": -53.8
     },
     {
+      "cna_name": "TCS-CERT",
+      "current_count": 1,
+      "deviation_pct": -54.5
+    },
+    {
       "cna_name": "fortinet",
       "current_count": 7,
       "deviation_pct": -56.8
-    },
-    {
-      "cna_name": "Microchip",
-      "current_count": 1,
-      "deviation_pct": -58.3
     }
   ]
 }
