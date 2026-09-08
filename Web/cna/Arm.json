@@ -5,11 +5,11 @@
   "cna_advisory_url": "https://developer.arm.com/Arm%20Security%20Center",
   "country": "UK",
   "scope_type": "",
-  "status": "Declining",
+  "status": "Growth",
   "baseline_avg": 1.4,
-  "current_count": 0,
-  "deviation_pct": -100.0,
-  "days_since_last_cve": 91,
+  "current_count": 10,
+  "deviation_pct": 614.3,
+  "days_since_last_cve": 0,
   "std_dev": 0.89,
   "threshold_low": 0.7,
   "threshold_high": 3.5,
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 0,
+      "count": 10,
       "is_current": true
     }
   ]

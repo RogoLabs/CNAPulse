@@ -5,18 +5,18 @@
   "cna_advisory_url": "https://www.postgresql.org/support/security/",
   "country": "Canada",
   "scope_type": "",
-  "status": "Normal",
-  "baseline_avg": 7.75,
+  "status": "Growth",
+  "baseline_avg": 7.38,
   "current_count": 31,
-  "deviation_pct": 300.0,
-  "days_since_last_cve": 1,
-  "std_dev": 5.68,
-  "threshold_low": 3.88,
-  "threshold_high": 19.38,
+  "deviation_pct": 320.3,
+  "days_since_last_cve": 2,
+  "std_dev": 4.27,
+  "threshold_low": 3.69,
+  "threshold_high": 18.44,
   "timeline_13months": [
     {
       "month": "Days 390-360",
-      "count": 3,
+      "count": 0,
       "is_current": false
     },
     {
