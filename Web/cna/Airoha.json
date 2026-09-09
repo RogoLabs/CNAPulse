@@ -1,18 +1,18 @@
 {
-  "assigner_id": "526a354d-e866-4174-ae7d-bac848e5c4c5",
-  "cna_name": "Sophos",
-  "cna_org_name": "Sophos Limited",
-  "cna_advisory_url": "https://community.sophos.com/b/security-blog/",
-  "country": "UK",
+  "assigner_id": "unknown",
+  "cna_name": "Airoha",
+  "cna_org_name": "Airoha Technology Corp.",
+  "cna_advisory_url": "https://www.airoha.com/product-security-bulletin",
+  "country": "Taiwan",
   "scope_type": "",
-  "status": "Declining",
-  "baseline_avg": 1.0,
+  "status": "Inactive",
+  "baseline_avg": 0.0,
   "current_count": 0,
-  "deviation_pct": -100.0,
-  "days_since_last_cve": 34,
+  "deviation_pct": 0.0,
+  "days_since_last_cve": null,
   "std_dev": null,
-  "threshold_low": 0.5,
-  "threshold_high": 2.5,
+  "threshold_low": 0.0,
+  "threshold_high": 0.0,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -21,7 +21,7 @@
     },
     {
       "month": "Days 360-330",
-      "count": 1,
+      "count": 0,
       "is_current": false
     },
     {
