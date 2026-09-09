@@ -1,35 +1,15 @@
 {
   "date": "2026-09-09",
-  "generated_at": "2026-09-09T10:52:02.980814",
+  "generated_at": "2026-09-09T16:01:29.167341",
   "total_cnas": 580,
-  "cnas_growth": 60,
-  "cnas_normal": 120,
-  "cnas_declining": 215,
+  "cnas_growth": 58,
+  "cnas_normal": 124,
+  "cnas_declining": 213,
   "cnas_inactive": 185,
   "top_growth": [
     {
-      "cna_name": "Ubiquiti",
-      "current_count": 23,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Canva",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "YesWeHack",
       "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "systemd",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "wibu",
-      "current_count": 7,
       "deviation_pct": 999999.0
     },
     {
@@ -38,13 +18,28 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Okta",
-      "current_count": 22,
+      "cna_name": "wibu",
+      "current_count": 7,
       "deviation_pct": 999999.0
     },
     {
       "cna_name": "Proton",
       "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Canva",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Ubiquiti",
+      "current_count": 23,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Okta",
+      "current_count": 22,
       "deviation_pct": 999999.0
     },
     {
@@ -56,6 +51,11 @@
       "cna_name": "elastic",
       "current_count": 91,
       "deviation_pct": 1091.7
+    },
+    {
+      "cna_name": "mongodb",
+      "current_count": 89,
+      "deviation_pct": 975.8
     }
   ],
   "top_declining": [
@@ -90,14 +90,14 @@
       "deviation_pct": -36.4
     },
     {
+      "cna_name": "Google",
+      "current_count": 3,
+      "deviation_pct": -42.3
+    },
+    {
       "cna_name": "Absolute",
       "current_count": 3,
       "deviation_pct": -51.6
-    },
-    {
-      "cna_name": "INCIBE",
-      "current_count": 16,
-      "deviation_pct": -53.8
     },
     {
       "cna_name": "TCS-CERT",

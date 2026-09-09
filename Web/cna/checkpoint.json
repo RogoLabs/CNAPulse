@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://www.checkpoint.com/advisories/",
   "country": "Israel",
   "scope_type": "",
-  "status": "Declining",
-  "baseline_avg": 2.83,
-  "current_count": 0,
-  "deviation_pct": -100.0,
-  "days_since_last_cve": 36,
-  "std_dev": 2.79,
-  "threshold_low": 1.42,
-  "threshold_high": 7.08,
+  "status": "Normal",
+  "baseline_avg": 3.4,
+  "current_count": 2,
+  "deviation_pct": -41.2,
+  "days_since_last_cve": 0,
+  "std_dev": 3.36,
+  "threshold_low": 1.7,
+  "threshold_high": 8.5,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 0,
+      "count": 2,
       "is_current": true
     }
   ]
