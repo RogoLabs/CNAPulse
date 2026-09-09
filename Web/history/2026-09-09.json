@@ -1,25 +1,30 @@
 {
   "date": "2026-09-09",
-  "generated_at": "2026-09-09T03:24:14.379577",
+  "generated_at": "2026-09-09T10:52:02.980814",
   "total_cnas": 580,
-  "cnas_growth": 59,
+  "cnas_growth": 60,
   "cnas_normal": 120,
-  "cnas_declining": 216,
+  "cnas_declining": 215,
   "cnas_inactive": 185,
   "top_growth": [
     {
-      "cna_name": "Okta",
-      "current_count": 22,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "systemd",
-      "current_count": 3,
+      "cna_name": "Ubiquiti",
+      "current_count": 23,
       "deviation_pct": 999999.0
     },
     {
       "cna_name": "Canva",
       "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "YesWeHack",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "systemd",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -33,13 +38,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Ubiquiti",
-      "current_count": 23,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "YesWeHack",
-      "current_count": 3,
+      "cna_name": "Okta",
+      "current_count": 22,
       "deviation_pct": 999999.0
     },
     {
@@ -77,7 +77,7 @@
     {
       "cna_name": "zte",
       "current_count": 3,
-      "deviation_pct": -17.2
+      "deviation_pct": -25.0
     },
     {
       "cna_name": "NCSC.ch",
