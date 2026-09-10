@@ -1,12 +1,27 @@
 {
   "date": "2026-09-10",
-  "generated_at": "2026-09-10T03:22:57.448910",
+  "generated_at": "2026-09-10T10:45:58.587511",
   "total_cnas": 584,
-  "cnas_growth": 59,
+  "cnas_growth": 61,
   "cnas_normal": 118,
-  "cnas_declining": 218,
-  "cnas_inactive": 189,
+  "cnas_declining": 217,
+  "cnas_inactive": 188,
   "top_growth": [
+    {
+      "cna_name": "wibu",
+      "current_count": 7,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Nintendo",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "YesWeHack",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
     {
       "cna_name": "Canva",
       "current_count": 2,
@@ -18,13 +33,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Okta",
-      "current_count": 22,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "wibu",
-      "current_count": 7,
+      "cna_name": "Ubiquiti",
+      "current_count": 23,
       "deviation_pct": 999999.0
     },
     {
@@ -33,13 +43,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "YesWeHack",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Ubiquiti",
-      "current_count": 23,
+      "cna_name": "Okta",
+      "current_count": 22,
       "deviation_pct": 999999.0
     },
     {
@@ -51,28 +56,23 @@
       "cna_name": "elastic",
       "current_count": 91,
       "deviation_pct": 1091.7
-    },
-    {
-      "cna_name": "mongodb",
-      "current_count": 89,
-      "deviation_pct": 878.0
     }
   ],
   "top_declining": [
+    {
+      "cna_name": "palo_alto",
+      "current_count": 21,
+      "deviation_pct": 153.0
+    },
     {
       "cna_name": "Sonatype",
       "current_count": 5,
       "deviation_pct": 50.0
     },
     {
-      "cna_name": "palo_alto",
-      "current_count": 12,
-      "deviation_pct": 30.1
-    },
-    {
       "cna_name": "zte",
       "current_count": 3,
-      "deviation_pct": -25.0
+      "deviation_pct": -14.3
     },
     {
       "cna_name": "NCSC.ch",
