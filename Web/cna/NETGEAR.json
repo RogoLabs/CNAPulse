@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://www.netgear.com/about/security/",
   "country": "USA",
   "scope_type": "",
-  "status": "Normal",
-  "baseline_avg": 7.2,
-  "current_count": 11,
-  "deviation_pct": 52.8,
+  "status": "Declining",
+  "baseline_avg": 9.0,
+  "current_count": 2,
+  "deviation_pct": -77.8,
   "days_since_last_cve": 1,
-  "std_dev": 5.63,
-  "threshold_low": 3.6,
-  "threshold_high": 18.0,
+  "std_dev": 6.52,
+  "threshold_low": 4.5,
+  "threshold_high": 22.5,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 11,
+      "count": 2,
       "is_current": true
     }
   ]

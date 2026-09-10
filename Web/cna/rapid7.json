@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://www.rapid7.com/db/",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
-  "baseline_avg": 3.82,
-  "current_count": 18,
-  "deviation_pct": 371.4,
+  "status": "Normal",
+  "baseline_avg": 4.55,
+  "current_count": 10,
+  "deviation_pct": 120.0,
   "days_since_last_cve": 0,
-  "std_dev": 3.43,
-  "threshold_low": 1.91,
-  "threshold_high": 9.55,
+  "std_dev": 3.83,
+  "threshold_low": 2.27,
+  "threshold_high": 11.36,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 18,
+      "count": 10,
       "is_current": true
     }
   ]
