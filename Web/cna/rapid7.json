@@ -5,11 +5,11 @@
   "cna_advisory_url": "https://www.rapid7.com/db/",
   "country": "USA",
   "scope_type": "",
-  "status": "Normal",
+  "status": "Growth",
   "baseline_avg": 3.73,
-  "current_count": 17,
-  "deviation_pct": 356.1,
-  "days_since_last_cve": 13,
+  "current_count": 19,
+  "deviation_pct": 409.8,
+  "days_since_last_cve": 0,
   "std_dev": 3.5,
   "threshold_low": 1.86,
   "threshold_high": 9.32,
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 17,
+      "count": 19,
       "is_current": true
     }
   ]

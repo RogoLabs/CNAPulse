@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://www.asus.com/content/asus-product-security-advisory/",
   "country": "Taiwan",
   "scope_type": "",
-  "status": "Growth",
-  "baseline_avg": 3.91,
-  "current_count": 14,
-  "deviation_pct": 258.1,
-  "days_since_last_cve": 1,
-  "std_dev": 2.81,
-  "threshold_low": 1.95,
-  "threshold_high": 9.77,
+  "status": "Normal",
+  "baseline_avg": 4.0,
+  "current_count": 13,
+  "deviation_pct": 225.0,
+  "days_since_last_cve": 2,
+  "std_dev": 3.0,
+  "threshold_low": 2.0,
+  "threshold_high": 10.0,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 14,
+      "count": 13,
       "is_current": true
     }
   ]
