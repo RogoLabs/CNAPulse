@@ -1,34 +1,19 @@
 {
   "date": "2026-09-10",
-  "generated_at": "2026-09-10T15:55:59.461869",
+  "generated_at": "2026-09-10T20:29:41.836475",
   "total_cnas": 584,
-  "cnas_growth": 59,
-  "cnas_normal": 119,
-  "cnas_declining": 218,
+  "cnas_growth": 54,
+  "cnas_normal": 122,
+  "cnas_declining": 220,
   "cnas_inactive": 188,
   "top_growth": [
     {
-      "cna_name": "Ubiquiti",
-      "current_count": 23,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Okta",
-      "current_count": 22,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Proton",
+      "cna_name": "Nintendo",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Canva",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Nintendo",
+      "cna_name": "Proton",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -38,13 +23,28 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "Canva",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Okta",
+      "current_count": 22,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "wibu",
       "current_count": 7,
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "Ubiquiti",
+      "current_count": 23,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "OpenNMS",
-      "current_count": 2,
+      "current_count": 4,
       "deviation_pct": 999999.0
     },
     {
@@ -53,17 +53,12 @@
       "deviation_pct": 1091.7
     },
     {
-      "cna_name": "mongodb",
-      "current_count": 89,
-      "deviation_pct": 878.0
+      "cna_name": "Kaspersky",
+      "current_count": 8,
+      "deviation_pct": 700.0
     }
   ],
   "top_declining": [
-    {
-      "cna_name": "palo_alto",
-      "current_count": 21,
-      "deviation_pct": 153.0
-    },
     {
       "cna_name": "Sonatype",
       "current_count": 5,
@@ -78,11 +73,6 @@
       "cna_name": "NCSC.ch",
       "current_count": 7,
       "deviation_pct": -26.0
-    },
-    {
-      "cna_name": "HashiCorp",
-      "current_count": 3,
-      "deviation_pct": -34.1
     },
     {
       "cna_name": "TQtC",
@@ -108,6 +98,16 @@
       "cna_name": "Absolute",
       "current_count": 3,
       "deviation_pct": -51.6
+    },
+    {
+      "cna_name": "TCS-CERT",
+      "current_count": 1,
+      "deviation_pct": -54.5
+    },
+    {
+      "cna_name": "XEN",
+      "current_count": 3,
+      "deviation_pct": -55.3
     }
   ]
 }
