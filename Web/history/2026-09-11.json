@@ -1,20 +1,15 @@
 {
   "date": "2026-09-11",
-  "generated_at": "2026-09-11T20:33:28.693253",
+  "generated_at": "2026-09-11T23:01:10.292059",
   "total_cnas": 584,
   "cnas_growth": 57,
-  "cnas_normal": 118,
-  "cnas_declining": 222,
+  "cnas_normal": 117,
+  "cnas_declining": 223,
   "cnas_inactive": 187,
   "top_growth": [
     {
-      "cna_name": "Proton",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Nintendo",
-      "current_count": 1,
+      "cna_name": "OpenNMS",
+      "current_count": 5,
       "deviation_pct": 999999.0
     },
     {
@@ -23,18 +18,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "OpenNMS",
-      "current_count": 5,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Canva",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "wibu",
-      "current_count": 7,
+      "cna_name": "Nintendo",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -43,13 +28,28 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "Okta",
+      "current_count": 22,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Proton",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Canva",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "Bull",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Okta",
-      "current_count": 22,
+      "cna_name": "wibu",
+      "current_count": 7,
       "deviation_pct": 999999.0
     },
     {
@@ -62,7 +62,7 @@
     {
       "cna_name": "Sonatype",
       "current_count": 5,
-      "deviation_pct": 50.0
+      "deviation_pct": 33.3
     },
     {
       "cna_name": "JFROG",
@@ -78,6 +78,11 @@
       "cna_name": "zte",
       "current_count": 3,
       "deviation_pct": -3.6
+    },
+    {
+      "cna_name": "glibc",
+      "current_count": 2,
+      "deviation_pct": -14.3
     },
     {
       "cna_name": "ProgressSoftware",
@@ -103,11 +108,6 @@
       "cna_name": "Fortra",
       "current_count": 1,
       "deviation_pct": -50.0
-    },
-    {
-      "cna_name": "Absolute",
-      "current_count": 3,
-      "deviation_pct": -51.6
     }
   ]
 }
