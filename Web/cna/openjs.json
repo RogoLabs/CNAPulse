@@ -5,10 +5,10 @@
   "cna_advisory_url": "https://cna.openjsf.org/security-advisories.html",
   "country": "USA",
   "scope_type": "",
-  "status": "Normal",
+  "status": "Growth",
   "baseline_avg": 8.88,
-  "current_count": 40,
-  "deviation_pct": 350.7,
+  "current_count": 43,
+  "deviation_pct": 384.5,
   "days_since_last_cve": 0,
   "std_dev": 6.98,
   "threshold_low": 4.44,
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 40,
+      "count": 43,
       "is_current": true
     }
   ]

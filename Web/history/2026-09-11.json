@@ -1,15 +1,30 @@
 {
   "date": "2026-09-11",
-  "generated_at": "2026-09-11T03:19:13.669063",
+  "generated_at": "2026-09-11T10:43:47.463710",
   "total_cnas": 584,
-  "cnas_growth": 54,
-  "cnas_normal": 124,
-  "cnas_declining": 218,
-  "cnas_inactive": 188,
+  "cnas_growth": 55,
+  "cnas_normal": 125,
+  "cnas_declining": 217,
+  "cnas_inactive": 187,
   "top_growth": [
     {
-      "cna_name": "Okta",
-      "current_count": 22,
+      "cna_name": "Nintendo",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "YesWeHack",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Bull",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OpenNMS",
+      "current_count": 5,
       "deviation_pct": 999999.0
     },
     {
@@ -23,39 +38,24 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Ubiquiti",
-      "current_count": 23,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Nintendo",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "Proton",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "YesWeHack",
-      "current_count": 3,
+      "cna_name": "Okta",
+      "current_count": 22,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "OpenNMS",
-      "current_count": 5,
+      "cna_name": "Ubiquiti",
+      "current_count": 23,
       "deviation_pct": 999999.0
     },
     {
       "cna_name": "elastic",
       "current_count": 91,
       "deviation_pct": 1091.7
-    },
-    {
-      "cna_name": "ibm",
-      "current_count": 480,
-      "deviation_pct": 786.2
     }
   ],
   "top_declining": [
@@ -72,17 +72,12 @@
     {
       "cna_name": "zte",
       "current_count": 3,
-      "deviation_pct": -14.3
+      "deviation_pct": -3.6
     },
     {
       "cna_name": "NCSC.ch",
       "current_count": 7,
       "deviation_pct": -26.0
-    },
-    {
-      "cna_name": "TQtC",
-      "current_count": 1,
-      "deviation_pct": -36.4
     },
     {
       "cna_name": "Google",
@@ -108,6 +103,11 @@
       "cna_name": "TCS-CERT",
       "current_count": 1,
       "deviation_pct": -54.5
+    },
+    {
+      "cna_name": "XEN",
+      "current_count": 3,
+      "deviation_pct": -55.3
     }
   ]
 }
