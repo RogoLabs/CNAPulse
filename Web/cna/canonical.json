@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://usn.ubuntu.com/",
   "country": "UK",
   "scope_type": "",
-  "status": "Growth",
-  "baseline_avg": 10.6,
-  "current_count": 16,
-  "deviation_pct": 50.9,
+  "status": "Declining",
+  "baseline_avg": 11.7,
+  "current_count": 5,
+  "deviation_pct": -57.3,
   "days_since_last_cve": 16,
-  "std_dev": 13.18,
-  "threshold_low": 5.3,
-  "threshold_high": 26.5,
+  "std_dev": 13.22,
+  "threshold_low": 5.85,
+  "threshold_high": 29.25,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 16,
+      "count": 5,
       "is_current": true
     }
   ]
