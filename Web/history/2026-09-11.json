@@ -1,15 +1,15 @@
 {
   "date": "2026-09-11",
-  "generated_at": "2026-09-11T10:43:47.463710",
+  "generated_at": "2026-09-11T15:58:50.035739",
   "total_cnas": 584,
-  "cnas_growth": 55,
-  "cnas_normal": 125,
-  "cnas_declining": 217,
+  "cnas_growth": 59,
+  "cnas_normal": 117,
+  "cnas_declining": 221,
   "cnas_inactive": 187,
   "top_growth": [
     {
-      "cna_name": "Nintendo",
-      "current_count": 1,
+      "cna_name": "OpenNMS",
+      "current_count": 5,
       "deviation_pct": 999999.0
     },
     {
@@ -18,27 +18,17 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Bull",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "OpenNMS",
-      "current_count": 5,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "Canva",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "wibu",
-      "current_count": 7,
+      "cna_name": "Ubiquiti",
+      "current_count": 23,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Proton",
+      "cna_name": "Nintendo",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -48,8 +38,18 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Ubiquiti",
-      "current_count": 23,
+      "cna_name": "Proton",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "wibu",
+      "current_count": 7,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Bull",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -65,6 +65,11 @@
       "deviation_pct": 50.0
     },
     {
+      "cna_name": "JFROG",
+      "current_count": 10,
+      "deviation_pct": 35.6
+    },
+    {
       "cna_name": "samsung.tv_appliance",
       "current_count": 9,
       "deviation_pct": 3.8
@@ -73,6 +78,11 @@
       "cna_name": "zte",
       "current_count": 3,
       "deviation_pct": -3.6
+    },
+    {
+      "cna_name": "ProgressSoftware",
+      "current_count": 6,
+      "deviation_pct": -21.7
     },
     {
       "cna_name": "NCSC.ch",
@@ -98,16 +108,6 @@
       "cna_name": "Absolute",
       "current_count": 3,
       "deviation_pct": -51.6
-    },
-    {
-      "cna_name": "TCS-CERT",
-      "current_count": 1,
-      "deviation_pct": -54.5
-    },
-    {
-      "cna_name": "XEN",
-      "current_count": 3,
-      "deviation_pct": -55.3
     }
   ]
 }
