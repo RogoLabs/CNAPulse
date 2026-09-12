@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://cna.openjsf.org/security-advisories.html",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
-  "baseline_avg": 8.88,
-  "current_count": 44,
-  "deviation_pct": 395.8,
+  "status": "Normal",
+  "baseline_avg": 9.12,
+  "current_count": 42,
+  "deviation_pct": 360.3,
   "days_since_last_cve": 0,
-  "std_dev": 6.81,
-  "threshold_low": 4.44,
-  "threshold_high": 22.19,
+  "std_dev": 6.94,
+  "threshold_low": 4.56,
+  "threshold_high": 22.81,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 44,
+      "count": 42,
       "is_current": true
     }
   ]

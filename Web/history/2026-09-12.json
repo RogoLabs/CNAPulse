@@ -1,12 +1,22 @@
 {
   "date": "2026-09-12",
-  "generated_at": "2026-09-12T03:24:14.879949",
+  "generated_at": "2026-09-12T10:12:27.930279",
   "total_cnas": 584,
-  "cnas_growth": 57,
-  "cnas_normal": 117,
+  "cnas_growth": 53,
+  "cnas_normal": 121,
   "cnas_declining": 223,
   "cnas_inactive": 187,
   "top_growth": [
+    {
+      "cna_name": "Canva",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Proton",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
     {
       "cna_name": "Nintendo",
       "current_count": 1,
@@ -15,11 +25,6 @@
     {
       "cna_name": "Bull",
       "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Canva",
-      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -33,8 +38,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "OpenNMS",
-      "current_count": 5,
+      "cna_name": "YesWeHack",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -43,19 +48,14 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "YesWeHack",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Proton",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "elastic",
       "current_count": 91,
       "deviation_pct": 1091.7
+    },
+    {
+      "cna_name": "Kaspersky",
+      "current_count": 8,
+      "deviation_pct": 700.0
     }
   ],
   "top_declining": [
@@ -90,11 +90,6 @@
       "deviation_pct": -21.7
     },
     {
-      "cna_name": "NCSC.ch",
-      "current_count": 7,
-      "deviation_pct": -26.0
-    },
-    {
       "cna_name": "Google",
       "current_count": 3,
       "deviation_pct": -42.3
@@ -103,6 +98,11 @@
       "cna_name": "Pega",
       "current_count": 1,
       "deviation_pct": -43.7
+    },
+    {
+      "cna_name": "NCSC.ch",
+      "current_count": 5,
+      "deviation_pct": -48.1
     },
     {
       "cna_name": "Fortra",
