@@ -1,20 +1,15 @@
 {
   "date": "2026-09-12",
-  "generated_at": "2026-09-12T15:07:11.207667",
+  "generated_at": "2026-09-12T20:15:39.547808",
   "total_cnas": 584,
   "cnas_growth": 54,
-  "cnas_normal": 118,
-  "cnas_declining": 225,
+  "cnas_normal": 117,
+  "cnas_declining": 226,
   "cnas_inactive": 187,
   "top_growth": [
     {
-      "cna_name": "Bull",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Ubiquiti",
-      "current_count": 23,
+      "cna_name": "Canva",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -23,8 +18,23 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "Bull",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "Okta",
       "current_count": 22,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Nintendo",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Ubiquiti",
+      "current_count": 23,
       "deviation_pct": 999999.0
     },
     {
@@ -38,24 +48,14 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Nintendo",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Canva",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "elastic",
-      "current_count": 91,
-      "deviation_pct": 1091.7
-    },
-    {
       "cna_name": "Kaspersky",
       "current_count": 8,
       "deviation_pct": 700.0
+    },
+    {
+      "cna_name": "hpe",
+      "current_count": 93,
+      "deviation_pct": 681.5
     }
   ],
   "top_declining": [
@@ -80,14 +80,14 @@
       "deviation_pct": -3.6
     },
     {
+      "cna_name": "lenovo",
+      "current_count": 6,
+      "deviation_pct": -13.0
+    },
+    {
       "cna_name": "glibc",
       "current_count": 2,
       "deviation_pct": -14.3
-    },
-    {
-      "cna_name": "lenovo",
-      "current_count": 6,
-      "deviation_pct": -15.5
     },
     {
       "cna_name": "ProgressSoftware",
