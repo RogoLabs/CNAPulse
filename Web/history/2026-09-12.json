@@ -1,0 +1,113 @@
+{
+  "date": "2026-09-12",
+  "generated_at": "2026-09-12T03:24:14.879949",
+  "total_cnas": 584,
+  "cnas_growth": 57,
+  "cnas_normal": 117,
+  "cnas_declining": 223,
+  "cnas_inactive": 187,
+  "top_growth": [
+    {
+      "cna_name": "Nintendo",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Bull",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Canva",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Ubiquiti",
+      "current_count": 23,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "wibu",
+      "current_count": 7,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OpenNMS",
+      "current_count": 5,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Okta",
+      "current_count": 22,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "YesWeHack",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Proton",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "elastic",
+      "current_count": 91,
+      "deviation_pct": 1091.7
+    }
+  ],
+  "top_declining": [
+    {
+      "cna_name": "Sonatype",
+      "current_count": 5,
+      "deviation_pct": 33.3
+    },
+    {
+      "cna_name": "JFROG",
+      "current_count": 8,
+      "deviation_pct": 4.9
+    },
+    {
+      "cna_name": "samsung.tv_appliance",
+      "current_count": 9,
+      "deviation_pct": 3.8
+    },
+    {
+      "cna_name": "zte",
+      "current_count": 3,
+      "deviation_pct": -3.6
+    },
+    {
+      "cna_name": "glibc",
+      "current_count": 2,
+      "deviation_pct": -14.3
+    },
+    {
+      "cna_name": "ProgressSoftware",
+      "current_count": 6,
+      "deviation_pct": -21.7
+    },
+    {
+      "cna_name": "NCSC.ch",
+      "current_count": 7,
+      "deviation_pct": -26.0
+    },
+    {
+      "cna_name": "Google",
+      "current_count": 3,
+      "deviation_pct": -42.3
+    },
+    {
+      "cna_name": "Pega",
+      "current_count": 1,
+      "deviation_pct": -43.7
+    },
+    {
+      "cna_name": "Fortra",
+      "current_count": 1,
+      "deviation_pct": -50.0
+    }
+  ]
+}
