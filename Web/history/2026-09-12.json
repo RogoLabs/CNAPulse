@@ -1,27 +1,12 @@
 {
   "date": "2026-09-12",
-  "generated_at": "2026-09-12T10:12:27.930279",
+  "generated_at": "2026-09-12T15:07:11.207667",
   "total_cnas": 584,
-  "cnas_growth": 53,
-  "cnas_normal": 121,
-  "cnas_declining": 223,
+  "cnas_growth": 54,
+  "cnas_normal": 118,
+  "cnas_declining": 225,
   "cnas_inactive": 187,
   "top_growth": [
-    {
-      "cna_name": "Canva",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Proton",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Nintendo",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
     {
       "cna_name": "Bull",
       "current_count": 1,
@@ -33,8 +18,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "wibu",
-      "current_count": 7,
+      "cna_name": "Proton",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Okta",
+      "current_count": 22,
       "deviation_pct": 999999.0
     },
     {
@@ -43,8 +33,18 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Okta",
-      "current_count": 22,
+      "cna_name": "wibu",
+      "current_count": 7,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Nintendo",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Canva",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -85,6 +85,11 @@
       "deviation_pct": -14.3
     },
     {
+      "cna_name": "lenovo",
+      "current_count": 6,
+      "deviation_pct": -15.5
+    },
+    {
       "cna_name": "ProgressSoftware",
       "current_count": 6,
       "deviation_pct": -21.7
@@ -92,7 +97,7 @@
     {
       "cna_name": "Google",
       "current_count": 3,
-      "deviation_pct": -42.3
+      "deviation_pct": -36.5
     },
     {
       "cna_name": "Pega",
@@ -103,11 +108,6 @@
       "cna_name": "NCSC.ch",
       "current_count": 5,
       "deviation_pct": -48.1
-    },
-    {
-      "cna_name": "Fortra",
-      "current_count": 1,
-      "deviation_pct": -50.0
     }
   ]
 }
