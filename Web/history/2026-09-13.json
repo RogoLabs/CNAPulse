@@ -1,9 +1,9 @@
 {
   "date": "2026-09-13",
-  "generated_at": "2026-09-13T20:25:17.703530",
+  "generated_at": "2026-09-13T22:56:09.734607",
   "total_cnas": 584,
-  "cnas_growth": 53,
-  "cnas_normal": 119,
+  "cnas_growth": 52,
+  "cnas_normal": 120,
   "cnas_declining": 225,
   "cnas_inactive": 187,
   "top_growth": [
@@ -13,18 +13,18 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "wibu",
-      "current_count": 7,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "Proton",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Canva",
-      "current_count": 2,
+      "cna_name": "wibu",
+      "current_count": 7,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Bull",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -38,13 +38,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Bull",
-      "current_count": 1,
+      "cna_name": "YesWeHack",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "YesWeHack",
-      "current_count": 3,
+      "cna_name": "Canva",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
