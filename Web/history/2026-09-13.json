@@ -1,30 +1,20 @@
 {
   "date": "2026-09-13",
-  "generated_at": "2026-09-13T11:12:20.508382",
+  "generated_at": "2026-09-13T15:43:28.213746",
   "total_cnas": 584,
-  "cnas_growth": 53,
-  "cnas_normal": 118,
-  "cnas_declining": 226,
+  "cnas_growth": 54,
+  "cnas_normal": 119,
+  "cnas_declining": 224,
   "cnas_inactive": 187,
   "top_growth": [
     {
-      "cna_name": "Ubiquiti",
-      "current_count": 23,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Okta",
-      "current_count": 22,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Bull",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "YesWeHack",
       "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Ubiquiti",
+      "current_count": 23,
       "deviation_pct": 999999.0
     },
     {
@@ -39,6 +29,16 @@
     },
     {
       "cna_name": "Proton",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Okta",
+      "current_count": 22,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Bull",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -100,14 +100,14 @@
       "deviation_pct": -21.7
     },
     {
-      "cna_name": "Google",
-      "current_count": 3,
-      "deviation_pct": -36.5
+      "cna_name": "Pega",
+      "current_count": 1,
+      "deviation_pct": -50.0
     },
     {
-      "cna_name": "NCSC.ch",
-      "current_count": 5,
-      "deviation_pct": -48.1
+      "cna_name": "Docker",
+      "current_count": 1,
+      "deviation_pct": -52.6
     }
   ]
 }
