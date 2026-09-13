@@ -1,10 +1,10 @@
 {
   "date": "2026-09-13",
-  "generated_at": "2026-09-13T03:30:12.550968",
+  "generated_at": "2026-09-13T11:12:20.508382",
   "total_cnas": 584,
-  "cnas_growth": 52,
+  "cnas_growth": 53,
   "cnas_normal": 118,
-  "cnas_declining": 227,
+  "cnas_declining": 226,
   "cnas_inactive": 187,
   "top_growth": [
     {
@@ -13,8 +13,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Canva",
-      "current_count": 2,
+      "cna_name": "Okta",
+      "current_count": 22,
       "deviation_pct": 999999.0
     },
     {
@@ -23,8 +23,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Okta",
-      "current_count": 22,
+      "cna_name": "YesWeHack",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Canva",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -35,11 +40,6 @@
     {
       "cna_name": "Proton",
       "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "YesWeHack",
-      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
