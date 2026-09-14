@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://lore.kernel.org/linux-cve-announce/",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
-  "baseline_avg": 599.83,
-  "current_count": 1153,
-  "deviation_pct": 92.2,
+  "status": "Normal",
+  "baseline_avg": 611.33,
+  "current_count": 1015,
+  "deviation_pct": 66.0,
   "days_since_last_cve": 2,
-  "std_dev": 479.27,
-  "threshold_low": 299.92,
-  "threshold_high": 1499.58,
+  "std_dev": 514.63,
+  "threshold_low": 305.67,
+  "threshold_high": 1528.33,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 1153,
+      "count": 1015,
       "is_current": true
     }
   ]
