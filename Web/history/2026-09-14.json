@@ -1,35 +1,15 @@
 {
   "date": "2026-09-14",
-  "generated_at": "2026-09-14T03:40:46.357495",
+  "generated_at": "2026-09-14T11:58:39.636496",
   "total_cnas": 584,
-  "cnas_growth": 52,
+  "cnas_growth": 54,
   "cnas_normal": 120,
-  "cnas_declining": 225,
-  "cnas_inactive": 187,
+  "cnas_declining": 224,
+  "cnas_inactive": 186,
   "top_growth": [
-    {
-      "cna_name": "YesWeHack",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Nintendo",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "wibu",
-      "current_count": 7,
-      "deviation_pct": 999999.0
-    },
     {
       "cna_name": "Okta",
       "current_count": 22,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Proton",
-      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -43,19 +23,39 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "wibu",
+      "current_count": 7,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "Canva",
       "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Nintendo",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Proton",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "YesWeHack",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Logitech",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
       "cna_name": "Kaspersky",
       "current_count": 8,
       "deviation_pct": 700.0
-    },
-    {
-      "cna_name": "hpe",
-      "current_count": 93,
-      "deviation_pct": 681.5
     }
   ],
   "top_declining": [
@@ -71,8 +71,8 @@
     },
     {
       "cna_name": "JFROG",
-      "current_count": 8,
-      "deviation_pct": 4.9
+      "current_count": 10,
+      "deviation_pct": 31.1
     },
     {
       "cna_name": "samsung.tv_appliance",
@@ -100,14 +100,14 @@
       "deviation_pct": -21.7
     },
     {
+      "cna_name": "Google",
+      "current_count": 3,
+      "deviation_pct": -30.8
+    },
+    {
       "cna_name": "Pega",
       "current_count": 1,
       "deviation_pct": -50.0
-    },
-    {
-      "cna_name": "Docker",
-      "current_count": 1,
-      "deviation_pct": -52.6
     }
   ]
 }
