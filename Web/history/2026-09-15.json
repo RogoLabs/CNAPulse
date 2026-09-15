@@ -1,12 +1,17 @@
 {
   "date": "2026-09-15",
-  "generated_at": "2026-09-15T11:14:20.598293",
+  "generated_at": "2026-09-15T16:25:06.019420",
   "total_cnas": 584,
-  "cnas_growth": 53,
+  "cnas_growth": 54,
   "cnas_normal": 123,
-  "cnas_declining": 222,
+  "cnas_declining": 221,
   "cnas_inactive": 186,
   "top_growth": [
+    {
+      "cna_name": "YesWeHack",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
     {
       "cna_name": "wibu",
       "current_count": 7,
@@ -23,8 +28,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "YesWeHack",
-      "current_count": 3,
+      "cna_name": "Bull",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -39,11 +44,6 @@
     },
     {
       "cna_name": "Nintendo",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Bull",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -85,6 +85,16 @@
       "deviation_pct": -6.2
     },
     {
+      "cna_name": "Docker",
+      "current_count": 2,
+      "deviation_pct": -11.1
+    },
+    {
+      "cna_name": "GitHub_P",
+      "current_count": 3,
+      "deviation_pct": -18.2
+    },
+    {
       "cna_name": "ProgressSoftware",
       "current_count": 6,
       "deviation_pct": -21.7
@@ -95,19 +105,9 @@
       "deviation_pct": -30.8
     },
     {
-      "cna_name": "ENISA",
-      "current_count": 3,
-      "deviation_pct": -47.5
-    },
-    {
       "cna_name": "Pega",
       "current_count": 1,
       "deviation_pct": -50.0
-    },
-    {
-      "cna_name": "checkpoint",
-      "current_count": 2,
-      "deviation_pct": -52.9
     }
   ]
 }
