@@ -1,20 +1,20 @@
 {
   "date": "2026-09-17",
-  "generated_at": "2026-09-17T16:23:03.309888",
+  "generated_at": "2026-09-17T21:00:36.504620",
   "total_cnas": 585,
-  "cnas_growth": 63,
-  "cnas_normal": 126,
-  "cnas_declining": 210,
+  "cnas_growth": 59,
+  "cnas_normal": 128,
+  "cnas_declining": 212,
   "cnas_inactive": 186,
   "top_growth": [
     {
-      "cna_name": "Nintendo",
-      "current_count": 1,
+      "cna_name": "YesWeHack",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "YesWeHack",
-      "current_count": 3,
+      "cna_name": "Nintendo",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -23,7 +23,7 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Danfoss",
+      "cna_name": "Bull",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -33,18 +33,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Logitech",
+      "cna_name": "Danfoss",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Bull",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "wibu",
-      "current_count": 7,
+      "cna_name": "Okta",
+      "current_count": 22,
       "deviation_pct": 999999.0
     },
     {
@@ -53,8 +48,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Securifera",
-      "current_count": 2,
+      "cna_name": "wibu",
+      "current_count": 7,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Logitech",
+      "current_count": 1,
       "deviation_pct": 999999.0
     }
   ],
@@ -85,6 +85,11 @@
       "deviation_pct": -15.4
     },
     {
+      "cna_name": "Docker",
+      "current_count": 2,
+      "deviation_pct": -26.3
+    },
+    {
       "cna_name": "PostgreSQL",
       "current_count": 7,
       "deviation_pct": -27.6
@@ -103,11 +108,6 @@
       "cna_name": "Pega",
       "current_count": 1,
       "deviation_pct": -50.0
-    },
-    {
-      "cna_name": "TCS-CERT",
-      "current_count": 1,
-      "deviation_pct": -54.5
     }
   ]
 }
