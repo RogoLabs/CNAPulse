@@ -1,20 +1,35 @@
 {
   "date": "2026-09-17",
-  "generated_at": "2026-09-17T21:00:36.504620",
+  "generated_at": "2026-09-17T23:31:03.142303",
   "total_cnas": 585,
   "cnas_growth": 59,
-  "cnas_normal": 128,
-  "cnas_declining": 212,
+  "cnas_normal": 126,
+  "cnas_declining": 214,
   "cnas_inactive": 186,
   "top_growth": [
+    {
+      "cna_name": "wibu",
+      "current_count": 7,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Nintendo",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
     {
       "cna_name": "YesWeHack",
       "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Nintendo",
+      "cna_name": "Danfoss",
       "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Ubiquiti",
+      "current_count": 23,
       "deviation_pct": 999999.0
     },
     {
@@ -28,32 +43,17 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Proton",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Danfoss",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "Okta",
       "current_count": 22,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Ubiquiti",
-      "current_count": 23,
+      "cna_name": "Securifera",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "wibu",
-      "current_count": 7,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Logitech",
+      "cna_name": "Proton",
       "current_count": 1,
       "deviation_pct": 999999.0
     }
