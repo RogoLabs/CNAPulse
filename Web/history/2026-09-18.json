@@ -1,0 +1,113 @@
+{
+  "date": "2026-09-18",
+  "generated_at": "2026-09-18T03:29:27.297625",
+  "total_cnas": 585,
+  "cnas_growth": 59,
+  "cnas_normal": 126,
+  "cnas_declining": 214,
+  "cnas_inactive": 186,
+  "top_growth": [
+    {
+      "cna_name": "Canva",
+      "current_count": 4,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "wibu",
+      "current_count": 7,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "YesWeHack",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Ubiquiti",
+      "current_count": 23,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Logitech",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Bull",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Danfoss",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Securifera",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Okta",
+      "current_count": 22,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Nintendo",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    }
+  ],
+  "top_declining": [
+    {
+      "cna_name": "Sonatype",
+      "current_count": 5,
+      "deviation_pct": 33.3
+    },
+    {
+      "cna_name": "JFROG",
+      "current_count": 10,
+      "deviation_pct": 31.1
+    },
+    {
+      "cna_name": "HashiCorp",
+      "current_count": 7,
+      "deviation_pct": 30.2
+    },
+    {
+      "cna_name": "GitHub_P",
+      "current_count": 3,
+      "deviation_pct": -9.1
+    },
+    {
+      "cna_name": "Google",
+      "current_count": 4,
+      "deviation_pct": -15.4
+    },
+    {
+      "cna_name": "Docker",
+      "current_count": 2,
+      "deviation_pct": -26.3
+    },
+    {
+      "cna_name": "PostgreSQL",
+      "current_count": 7,
+      "deviation_pct": -27.6
+    },
+    {
+      "cna_name": "INCIBE",
+      "current_count": 18,
+      "deviation_pct": -43.3
+    },
+    {
+      "cna_name": "XEN",
+      "current_count": 3,
+      "deviation_pct": -48.9
+    },
+    {
+      "cna_name": "Pega",
+      "current_count": 1,
+      "deviation_pct": -50.0
+    }
+  ]
+}
