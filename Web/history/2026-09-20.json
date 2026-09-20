@@ -1,40 +1,20 @@
 {
   "date": "2026-09-20",
-  "generated_at": "2026-09-20T15:34:04.261526",
+  "generated_at": "2026-09-20T20:25:32.993044",
   "total_cnas": 585,
-  "cnas_growth": 61,
+  "cnas_growth": 60,
   "cnas_normal": 117,
-  "cnas_declining": 222,
+  "cnas_declining": 223,
   "cnas_inactive": 185,
   "top_growth": [
-    {
-      "cna_name": "watchdog",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Okta",
-      "current_count": 22,
-      "deviation_pct": 999999.0
-    },
     {
       "cna_name": "wibu",
       "current_count": 7,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "YesWeHack",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Bull",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Logitech",
-      "current_count": 1,
+      "cna_name": "Ubiquiti",
+      "current_count": 23,
       "deviation_pct": 999999.0
     },
     {
@@ -43,18 +23,38 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Nintendo",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "Danfoss",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Ubiquiti",
-      "current_count": 23,
+      "cna_name": "Okta",
+      "current_count": 22,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Canva",
+      "current_count": 4,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Logitech",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "YesWeHack",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "watchdog",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Bull",
+      "current_count": 1,
       "deviation_pct": 999999.0
     }
   ],
