@@ -1,0 +1,113 @@
+{
+  "date": "2026-09-20",
+  "generated_at": "2026-09-20T03:43:04.221414",
+  "total_cnas": 585,
+  "cnas_growth": 61,
+  "cnas_normal": 121,
+  "cnas_declining": 217,
+  "cnas_inactive": 186,
+  "top_growth": [
+    {
+      "cna_name": "Canva",
+      "current_count": 4,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Logitech",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "wibu",
+      "current_count": 7,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Bull",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "YesWeHack",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Ubiquiti",
+      "current_count": 23,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Securifera",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Nintendo",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Danfoss",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Okta",
+      "current_count": 22,
+      "deviation_pct": 999999.0
+    }
+  ],
+  "top_declining": [
+    {
+      "cna_name": "HashiCorp",
+      "current_count": 7,
+      "deviation_pct": 46.5
+    },
+    {
+      "cna_name": "Sonatype",
+      "current_count": 5,
+      "deviation_pct": 33.3
+    },
+    {
+      "cna_name": "JFROG",
+      "current_count": 10,
+      "deviation_pct": 31.1
+    },
+    {
+      "cna_name": "GitHub_P",
+      "current_count": 3,
+      "deviation_pct": -6.3
+    },
+    {
+      "cna_name": "freebsd",
+      "current_count": 9,
+      "deviation_pct": -6.9
+    },
+    {
+      "cna_name": "Google",
+      "current_count": 4,
+      "deviation_pct": -15.4
+    },
+    {
+      "cna_name": "PostgreSQL",
+      "current_count": 7,
+      "deviation_pct": -27.6
+    },
+    {
+      "cna_name": "ABB",
+      "current_count": 2,
+      "deviation_pct": -47.4
+    },
+    {
+      "cna_name": "XEN",
+      "current_count": 3,
+      "deviation_pct": -48.9
+    },
+    {
+      "cna_name": "TCS-CERT",
+      "current_count": 1,
+      "deviation_pct": -54.5
+    }
+  ]
+}
