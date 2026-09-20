@@ -1,30 +1,30 @@
 {
   "date": "2026-09-20",
-  "generated_at": "2026-09-20T10:45:40.041910",
+  "generated_at": "2026-09-20T15:34:04.261526",
   "total_cnas": 585,
-  "cnas_growth": 60,
-  "cnas_normal": 120,
-  "cnas_declining": 219,
-  "cnas_inactive": 186,
+  "cnas_growth": 61,
+  "cnas_normal": 117,
+  "cnas_declining": 222,
+  "cnas_inactive": 185,
   "top_growth": [
     {
-      "cna_name": "Canva",
-      "current_count": 4,
+      "cna_name": "watchdog",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Danfoss",
-      "current_count": 1,
+      "cna_name": "Okta",
+      "current_count": 22,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Proton",
-      "current_count": 1,
+      "cna_name": "wibu",
+      "current_count": 7,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Securifera",
-      "current_count": 2,
+      "cna_name": "YesWeHack",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -38,23 +38,23 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "Securifera",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "Nintendo",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "wibu",
-      "current_count": 7,
+      "cna_name": "Danfoss",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Okta",
-      "current_count": 22,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "YesWeHack",
-      "current_count": 3,
+      "cna_name": "Ubiquiti",
+      "current_count": 23,
       "deviation_pct": 999999.0
     }
   ],
@@ -95,6 +95,11 @@
       "deviation_pct": -27.6
     },
     {
+      "cna_name": "INCIBE",
+      "current_count": 19,
+      "deviation_pct": -40.2
+    },
+    {
       "cna_name": "ABB",
       "current_count": 2,
       "deviation_pct": -47.4
@@ -103,11 +108,6 @@
       "cna_name": "imaginationtech",
       "current_count": 2,
       "deviation_pct": -48.8
-    },
-    {
-      "cna_name": "XEN",
-      "current_count": 3,
-      "deviation_pct": -48.9
     }
   ]
 }
