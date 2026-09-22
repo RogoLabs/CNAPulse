@@ -1,30 +1,20 @@
 {
   "date": "2026-09-22",
-  "generated_at": "2026-09-22T20:57:59.482614",
+  "generated_at": "2026-09-22T23:33:13.307035",
   "total_cnas": 586,
   "cnas_growth": 65,
-  "cnas_normal": 119,
-  "cnas_declining": 216,
+  "cnas_normal": 120,
+  "cnas_declining": 215,
   "cnas_inactive": 186,
   "top_growth": [
     {
-      "cna_name": "Proton",
+      "cna_name": "Securifera",
+      "current_count": 7,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Nintendo",
       "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Okta",
-      "current_count": 22,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Logitech",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Ubiquiti",
-      "current_count": 29,
       "deviation_pct": 999999.0
     },
     {
@@ -33,7 +23,22 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Bull",
+      "cna_name": "Ubiquiti",
+      "current_count": 29,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "YesWeHack",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "watchdog",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Logitech",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -43,18 +48,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Securifera",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Nintendo",
+      "cna_name": "Bull",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "watchdog",
-      "current_count": 3,
+      "cna_name": "Danfoss",
+      "current_count": 1,
       "deviation_pct": 999999.0
     }
   ],
@@ -75,14 +75,14 @@
       "deviation_pct": 33.3
     },
     {
+      "cna_name": "Google",
+      "current_count": 5,
+      "deviation_pct": 5.8
+    },
+    {
       "cna_name": "freebsd",
       "current_count": 9,
       "deviation_pct": -6.9
-    },
-    {
-      "cna_name": "Google",
-      "current_count": 4,
-      "deviation_pct": -15.4
     },
     {
       "cna_name": "PostgreSQL",
