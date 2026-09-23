@@ -1,12 +1,47 @@
 {
   "date": "2026-09-23",
-  "generated_at": "2026-09-23T16:13:51.770011",
+  "generated_at": "2026-09-23T21:11:09.501303",
   "total_cnas": 589,
-  "cnas_growth": 59,
-  "cnas_normal": 125,
-  "cnas_declining": 216,
+  "cnas_growth": 58,
+  "cnas_normal": 127,
+  "cnas_declining": 215,
   "cnas_inactive": 189,
   "top_growth": [
+    {
+      "cna_name": "Securifera",
+      "current_count": 7,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Danfoss",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Canva",
+      "current_count": 5,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "wibu",
+      "current_count": 7,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Nintendo",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "YesWeHack",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Bull",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
     {
       "cna_name": "Ubiquiti",
       "current_count": 29,
@@ -18,42 +53,7 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "YesWeHack",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Securifera",
-      "current_count": 7,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Canva",
-      "current_count": 5,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "watchdog",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Nintendo",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Bull",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "Proton",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Danfoss",
       "current_count": 1,
       "deviation_pct": 999999.0
     }
@@ -66,18 +66,18 @@
     },
     {
       "cna_name": "HashiCorp",
-      "current_count": 7,
-      "deviation_pct": 33.3
+      "current_count": 6,
+      "deviation_pct": 11.6
+    },
+    {
+      "cna_name": "PostgreSQL",
+      "current_count": 10,
+      "deviation_pct": -8.0
     },
     {
       "cna_name": "INCIBE",
       "current_count": 23,
       "deviation_pct": -26.0
-    },
-    {
-      "cna_name": "PostgreSQL",
-      "current_count": 7,
-      "deviation_pct": -27.6
     },
     {
       "cna_name": "fedora",
@@ -105,9 +105,9 @@
       "deviation_pct": -55.6
     },
     {
-      "cna_name": "jci",
+      "cna_name": "CSA",
       "current_count": 2,
-      "deviation_pct": -58.6
+      "deviation_pct": -61.1
     }
   ]
 }
