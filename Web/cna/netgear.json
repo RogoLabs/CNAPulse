@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://www.netgear.com/about/security/",
   "country": "USA",
   "scope_type": "",
-  "status": "Normal",
-  "baseline_avg": 7.2,
-  "current_count": 9,
-  "deviation_pct": 25.0,
-  "days_since_last_cve": 23,
-  "std_dev": 5.63,
-  "threshold_low": 3.6,
-  "threshold_high": 18.0,
+  "status": "Declining",
+  "baseline_avg": 7.5,
+  "current_count": 2,
+  "deviation_pct": -73.3,
+  "days_since_last_cve": 14,
+  "std_dev": 5.09,
+  "threshold_low": 3.75,
+  "threshold_high": 18.75,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -26,22 +26,22 @@
     },
     {
       "month": "Days 330-300",
-      "count": 0,
-      "is_current": false
-    },
-    {
-      "month": "Days 300-270",
       "count": 4,
       "is_current": false
     },
     {
-      "month": "Days 270-240",
+      "month": "Days 300-270",
       "count": 3,
       "is_current": false
     },
     {
-      "month": "Days 240-210",
+      "month": "Days 270-240",
       "count": 6,
+      "is_current": false
+    },
+    {
+      "month": "Days 240-210",
+      "count": 0,
       "is_current": false
     },
     {
@@ -61,22 +61,22 @@
     },
     {
       "month": "Days 120-90",
-      "count": 0,
-      "is_current": false
-    },
-    {
-      "month": "Days 90-60",
       "count": 17,
       "is_current": false
     },
     {
-      "month": "Days 60-30",
+      "month": "Days 90-60",
       "count": 6,
       "is_current": false
     },
     {
-      "month": "Last 30 Days",
+      "month": "Days 60-30",
       "count": 9,
+      "is_current": false
+    },
+    {
+      "month": "Last 30 Days",
+      "count": 2,
       "is_current": true
     }
   ]

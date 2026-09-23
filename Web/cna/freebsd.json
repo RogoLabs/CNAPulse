@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://www.freebsd.org/",
   "country": "USA",
   "scope_type": "",
-  "status": "Declining",
+  "status": "Normal",
   "baseline_avg": 9.67,
   "current_count": 9,
   "deviation_pct": -6.9,

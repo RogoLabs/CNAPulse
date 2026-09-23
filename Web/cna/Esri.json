@@ -1,27 +1,27 @@
 {
-  "assigner_id": "cedc17bb-4939-4f40-a1f4-30ae8af1094e",
+  "assigner_id": "2fdefc65-d750-4b8d-96ee-6e2c0c42dbfe",
   "cna_name": "Esri",
   "cna_org_name": "Environmental Systems Research Institute, Inc.",
   "cna_advisory_url": "https://trust.arcgis.com/en/",
   "country": "USA",
   "scope_type": "",
   "status": "Declining",
-  "baseline_avg": 5.25,
+  "baseline_avg": 14.0,
   "current_count": 0,
   "deviation_pct": -100.0,
-  "days_since_last_cve": 32,
-  "std_dev": 4.71,
-  "threshold_low": 2.62,
-  "threshold_high": 13.12,
+  "days_since_last_cve": 202,
+  "std_dev": null,
+  "threshold_low": 7.0,
+  "threshold_high": 35.0,
   "timeline_13months": [
     {
       "month": "Days 390-360",
-      "count": 9,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Days 360-330",
-      "count": 1,
+      "count": 0,
       "is_current": false
     },
     {
@@ -31,12 +31,12 @@
     },
     {
       "month": "Days 300-270",
-      "count": 10,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Days 270-240",
-      "count": 1,
+      "count": 0,
       "is_current": false
     },
     {
@@ -46,17 +46,17 @@
     },
     {
       "month": "Days 210-180",
-      "count": 0,
+      "count": 14,
       "is_current": false
     },
     {
       "month": "Days 180-150",
-      "count": 2,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Days 150-120",
-      "count": 2,
+      "count": 0,
       "is_current": false
     },
     {
@@ -66,12 +66,12 @@
     },
     {
       "month": "Days 90-60",
-      "count": 4,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Days 60-30",
-      "count": 13,
+      "count": 0,
       "is_current": false
     },
     {
