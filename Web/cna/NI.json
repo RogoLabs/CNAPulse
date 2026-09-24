@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://www.ni.com/en-us/support/documentation/supplemental/11/available-critical-and-security-updates-for-ni-software.html",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
-  "baseline_avg": 6.14,
-  "current_count": 14,
-  "deviation_pct": 127.9,
-  "days_since_last_cve": 6,
+  "status": "Normal",
+  "baseline_avg": 6.86,
+  "current_count": 9,
+  "deviation_pct": 31.3,
+  "days_since_last_cve": 7,
   "std_dev": 3.18,
-  "threshold_low": 3.07,
-  "threshold_high": 15.36,
+  "threshold_low": 3.43,
+  "threshold_high": 17.14,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -71,12 +71,12 @@
     },
     {
       "month": "Days 60-30",
-      "count": 4,
+      "count": 9,
       "is_current": false
     },
     {
       "month": "Last 30 Days",
-      "count": 14,
+      "count": 9,
       "is_current": true
     }
   ]
