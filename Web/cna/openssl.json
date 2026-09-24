@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://www.openssl.org/news/vulnerabilities.html",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
+  "status": "Normal",
   "baseline_avg": 7.17,
   "current_count": 9,
   "deviation_pct": 25.6,

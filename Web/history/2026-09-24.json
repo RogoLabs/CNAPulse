@@ -1,29 +1,49 @@
 {
   "date": "2026-09-24",
-  "generated_at": "2026-09-24T03:27:45.810812",
-  "total_cnas": 589,
-  "cnas_growth": 59,
-  "cnas_normal": 126,
-  "cnas_declining": 215,
-  "cnas_inactive": 189,
+  "generated_at": "2026-09-24T11:13:24.199171",
+  "total_cnas": 586,
+  "cnas_growth": 64,
+  "cnas_normal": 123,
+  "cnas_declining": 213,
+  "cnas_inactive": 186,
   "top_growth": [
+    {
+      "cna_name": "Canva",
+      "current_count": 5,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Okta",
+      "current_count": 22,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Danfoss",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
     {
       "cna_name": "YesWeHack",
       "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Nintendo",
+      "cna_name": "Logitech",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Ubiquiti",
-      "current_count": 29,
+      "cna_name": "Bull",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Logitech",
+      "cna_name": "Proton",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Nintendo",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -33,27 +53,7 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Bull",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Okta",
-      "current_count": 22,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Proton",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Danfoss",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "wibu",
+      "cna_name": "Securifera",
       "current_count": 7,
       "deviation_pct": 999999.0
     }
@@ -65,9 +65,24 @@
       "deviation_pct": 136.1
     },
     {
+      "cna_name": "Sonatype",
+      "current_count": 5,
+      "deviation_pct": 33.3
+    },
+    {
       "cna_name": "HashiCorp",
       "current_count": 6,
       "deviation_pct": 11.6
+    },
+    {
+      "cna_name": "Google",
+      "current_count": 5,
+      "deviation_pct": 5.8
+    },
+    {
+      "cna_name": "freebsd",
+      "current_count": 9,
+      "deviation_pct": -6.9
     },
     {
       "cna_name": "PostgreSQL",
@@ -75,19 +90,14 @@
       "deviation_pct": -8.0
     },
     {
-      "cna_name": "INCIBE",
-      "current_count": 23,
-      "deviation_pct": -26.0
-    },
-    {
-      "cna_name": "fedora",
-      "current_count": 4,
-      "deviation_pct": -30.4
-    },
-    {
-      "cna_name": "SolarWinds",
+      "cna_name": "rapid7",
       "current_count": 3,
-      "deviation_pct": -40.0
+      "deviation_pct": -37.7
+    },
+    {
+      "cna_name": "XEN",
+      "current_count": 3,
+      "deviation_pct": -48.9
     },
     {
       "cna_name": "imaginationtech",
@@ -98,16 +108,6 @@
       "cna_name": "brocade",
       "current_count": 3,
       "deviation_pct": -53.8
-    },
-    {
-      "cna_name": "TCS-CERT",
-      "current_count": 1,
-      "deviation_pct": -54.5
-    },
-    {
-      "cna_name": "ESET",
-      "current_count": 1,
-      "deviation_pct": -55.6
     }
   ]
 }
