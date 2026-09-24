@@ -1,18 +1,18 @@
 {
-  "assigner_id": "2fdefc65-d750-4b8d-96ee-6e2c0c42dbfe",
+  "assigner_id": "unknown",
   "cna_name": "VULSec",
   "cna_org_name": "VULSec Labs",
   "cna_advisory_url": "https://www.vulsec.org/advisories",
   "country": "Israel",
   "scope_type": "",
-  "status": "Declining",
-  "baseline_avg": 14.0,
+  "status": "Inactive",
+  "baseline_avg": 0.0,
   "current_count": 0,
-  "deviation_pct": -100.0,
-  "days_since_last_cve": 202,
+  "deviation_pct": 0.0,
+  "days_since_last_cve": null,
   "std_dev": null,
-  "threshold_low": 7.0,
-  "threshold_high": 35.0,
+  "threshold_low": 0.0,
+  "threshold_high": 0.0,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -46,7 +46,7 @@
     },
     {
       "month": "Days 210-180",
-      "count": 14,
+      "count": 0,
       "is_current": false
     },
     {
