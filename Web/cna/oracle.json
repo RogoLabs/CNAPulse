@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://www.oracle.com/security-alerts/",
   "country": "USA",
   "scope_type": "",
-  "status": "Normal",
-  "baseline_avg": 280.0,
-  "current_count": 635,
-  "deviation_pct": 126.8,
+  "status": "Growth",
+  "baseline_avg": 280.11,
+  "current_count": 634,
+  "deviation_pct": 126.3,
   "days_since_last_cve": 9,
-  "std_dev": 419.01,
-  "threshold_low": 140.0,
-  "threshold_high": 700.0,
+  "std_dev": 417.37,
+  "threshold_low": 140.06,
+  "threshold_high": 700.28,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -71,12 +71,12 @@
     },
     {
       "month": "Days 60-30",
-      "count": 889,
+      "count": 890,
       "is_current": false
     },
     {
       "month": "Last 30 Days",
-      "count": 635,
+      "count": 634,
       "is_current": true
     }
   ]
