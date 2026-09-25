@@ -1,24 +1,39 @@
 {
   "date": "2026-09-25",
-  "generated_at": "2026-09-25T11:19:21.847134",
+  "generated_at": "2026-09-25T16:42:07.631224",
   "total_cnas": 589,
-  "cnas_growth": 56,
-  "cnas_normal": 124,
+  "cnas_growth": 57,
+  "cnas_normal": 123,
   "cnas_declining": 220,
   "cnas_inactive": 189,
   "top_growth": [
-    {
-      "cna_name": "Canva",
-      "current_count": 5,
-      "deviation_pct": 999999.0
-    },
     {
       "cna_name": "watchdog",
       "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Proton",
+      "cna_name": "Canva",
+      "current_count": 5,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Bull",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Logitech",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "wibu",
+      "current_count": 7,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Nintendo",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -28,22 +43,7 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "wibu",
-      "current_count": 7,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Bull",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Nintendo",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Logitech",
+      "cna_name": "Proton",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -59,6 +59,11 @@
     }
   ],
   "top_declining": [
+    {
+      "cna_name": "zephyr",
+      "current_count": 25,
+      "deviation_pct": 96.9
+    },
     {
       "cna_name": "JFROG",
       "current_count": 14,
@@ -80,11 +85,6 @@
       "deviation_pct": -8.0
     },
     {
-      "cna_name": "fedora",
-      "current_count": 4,
-      "deviation_pct": -30.4
-    },
-    {
       "cna_name": "SolarWinds",
       "current_count": 3,
       "deviation_pct": -32.5
@@ -95,9 +95,9 @@
       "deviation_pct": -36.7
     },
     {
-      "cna_name": "ERIC",
-      "current_count": 2,
-      "deviation_pct": -52.0
+      "cna_name": "fedora",
+      "current_count": 3,
+      "deviation_pct": -48.9
     },
     {
       "cna_name": "imaginationtech",
