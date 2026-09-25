@@ -1,0 +1,113 @@
+{
+  "date": "2026-09-25",
+  "generated_at": "2026-09-25T03:45:01.942008",
+  "total_cnas": 589,
+  "cnas_growth": 59,
+  "cnas_normal": 125,
+  "cnas_declining": 216,
+  "cnas_inactive": 189,
+  "top_growth": [
+    {
+      "cna_name": "Logitech",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "YesWeHack",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Canva",
+      "current_count": 5,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Securifera",
+      "current_count": 7,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Danfoss",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Bull",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Nintendo",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Ubiquiti",
+      "current_count": 29,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "watchdog",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "wibu",
+      "current_count": 7,
+      "deviation_pct": 999999.0
+    }
+  ],
+  "top_declining": [
+    {
+      "cna_name": "JFROG",
+      "current_count": 14,
+      "deviation_pct": 93.8
+    },
+    {
+      "cna_name": "sonicwall",
+      "current_count": 5,
+      "deviation_pct": 17.6
+    },
+    {
+      "cna_name": "HashiCorp",
+      "current_count": 6,
+      "deviation_pct": 11.6
+    },
+    {
+      "cna_name": "PostgreSQL",
+      "current_count": 10,
+      "deviation_pct": -8.0
+    },
+    {
+      "cna_name": "INCIBE",
+      "current_count": 23,
+      "deviation_pct": -26.2
+    },
+    {
+      "cna_name": "fedora",
+      "current_count": 4,
+      "deviation_pct": -30.4
+    },
+    {
+      "cna_name": "DEVOLUTIONS",
+      "current_count": 5,
+      "deviation_pct": -36.7
+    },
+    {
+      "cna_name": "SolarWinds",
+      "current_count": 3,
+      "deviation_pct": -40.0
+    },
+    {
+      "cna_name": "imaginationtech",
+      "current_count": 2,
+      "deviation_pct": -53.5
+    },
+    {
+      "cna_name": "TCS-CERT",
+      "current_count": 1,
+      "deviation_pct": -54.5
+    }
+  ]
+}
