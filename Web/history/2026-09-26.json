@@ -1,39 +1,19 @@
 {
   "date": "2026-09-26",
-  "generated_at": "2026-09-26T10:55:39.593816",
+  "generated_at": "2026-09-26T15:55:46.337199",
   "total_cnas": 589,
   "cnas_growth": 57,
-  "cnas_normal": 126,
-  "cnas_declining": 217,
+  "cnas_normal": 124,
+  "cnas_declining": 219,
   "cnas_inactive": 189,
   "top_growth": [
     {
-      "cna_name": "YesWeHack",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Securifera",
-      "current_count": 7,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Canva",
-      "current_count": 5,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Proton",
+      "cna_name": "Nintendo",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "watchdog",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Nintendo",
+      "cna_name": "Proton",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -45,6 +25,26 @@
     {
       "cna_name": "Bull",
       "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "YesWeHack",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Securifera",
+      "current_count": 7,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "watchdog",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Canva",
+      "current_count": 5,
       "deviation_pct": 999999.0
     },
     {
@@ -77,7 +77,7 @@
     {
       "cna_name": "sonicwall",
       "current_count": 5,
-      "deviation_pct": 17.6
+      "deviation_pct": 32.4
     },
     {
       "cna_name": "HashiCorp",
@@ -88,6 +88,11 @@
       "cna_name": "PostgreSQL",
       "current_count": 11,
       "deviation_pct": 1.1
+    },
+    {
+      "cna_name": "INCIBE",
+      "current_count": 23,
+      "deviation_pct": -27.6
     },
     {
       "cna_name": "SolarWinds",
@@ -103,11 +108,6 @@
       "cna_name": "imaginationtech",
       "current_count": 2,
       "deviation_pct": -53.5
-    },
-    {
-      "cna_name": "TCS-CERT",
-      "current_count": 1,
-      "deviation_pct": -54.5
     }
   ]
 }
