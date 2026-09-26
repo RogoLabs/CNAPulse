@@ -9,7 +9,7 @@
   "baseline_avg": 13.2,
   "current_count": 42,
   "deviation_pct": 218.2,
-  "days_since_last_cve": 22,
+  "days_since_last_cve": 23,
   "std_dev": 14.51,
   "threshold_low": 6.6,
   "threshold_high": 33.0,
