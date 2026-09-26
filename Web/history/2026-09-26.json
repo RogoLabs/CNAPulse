@@ -1,6 +1,6 @@
 {
   "date": "2026-09-26",
-  "generated_at": "2026-09-26T20:44:52.744814",
+  "generated_at": "2026-09-26T23:23:50.955814",
   "total_cnas": 589,
   "cnas_growth": 56,
   "cnas_normal": 124,
@@ -8,12 +8,12 @@
   "cnas_inactive": 190,
   "top_growth": [
     {
-      "cna_name": "Securifera",
-      "current_count": 7,
+      "cna_name": "Proton",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Nintendo",
+      "cna_name": "Bull",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -23,12 +23,7 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "YesWeHack",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Bull",
+      "cna_name": "Nintendo",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -43,8 +38,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Proton",
-      "current_count": 1,
+      "cna_name": "Securifera",
+      "current_count": 7,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "YesWeHack",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -97,7 +97,7 @@
     {
       "cna_name": "SolarWinds",
       "current_count": 3,
-      "deviation_pct": -32.5
+      "deviation_pct": -30.8
     },
     {
       "cna_name": "DEVOLUTIONS",
