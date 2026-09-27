@@ -1,25 +1,15 @@
 {
   "date": "2026-09-27",
-  "generated_at": "2026-09-27T16:31:43.633250",
+  "generated_at": "2026-09-27T21:00:52.559483",
   "total_cnas": 589,
-  "cnas_growth": 56,
-  "cnas_normal": 124,
+  "cnas_growth": 55,
+  "cnas_normal": 125,
   "cnas_declining": 217,
   "cnas_inactive": 192,
   "top_growth": [
     {
-      "cna_name": "Canva",
-      "current_count": 5,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "Nintendo",
       "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "watchdog",
-      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -28,8 +18,23 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "Canva",
+      "current_count": 5,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Logitech",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "Bull",
       "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "watchdog",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -40,11 +45,6 @@
     {
       "cna_name": "YesWeHack",
       "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Logitech",
-      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -61,13 +61,13 @@
   "top_declining": [
     {
       "cna_name": "zephyr",
-      "current_count": 25,
-      "deviation_pct": 96.9
+      "current_count": 23,
+      "deviation_pct": 78.3
     },
     {
       "cna_name": "JFROG",
-      "current_count": 14,
-      "deviation_pct": 93.8
+      "current_count": 13,
+      "deviation_pct": 77.3
     },
     {
       "cna_name": "fedora",
@@ -78,11 +78,6 @@
       "cna_name": "sonicwall",
       "current_count": 5,
       "deviation_pct": 17.6
-    },
-    {
-      "cna_name": "HashiCorp",
-      "current_count": 6,
-      "deviation_pct": 11.6
     },
     {
       "cna_name": "PostgreSQL",
@@ -103,6 +98,11 @@
       "cna_name": "DEVOLUTIONS",
       "current_count": 5,
       "deviation_pct": -36.7
+    },
+    {
+      "cna_name": "microfocus",
+      "current_count": 2,
+      "deviation_pct": -37.9
     },
     {
       "cna_name": "imaginationtech",
