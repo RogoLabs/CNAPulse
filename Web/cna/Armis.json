@@ -1,22 +1,22 @@
 {
-  "assigner_id": "dd59f033-460c-4b88-a075-d4d3fedb6191",
+  "assigner_id": "unknown",
   "cna_name": "Armis",
   "cna_org_name": "Armis, Inc.",
   "cna_advisory_url": "https://www.armis.com/legal-compliance/security-advisories/",
   "country": "USA",
   "scope_type": "",
-  "status": "Declining",
-  "baseline_avg": 10.0,
+  "status": "Inactive",
+  "baseline_avg": 0.0,
   "current_count": 0,
-  "deviation_pct": -100.0,
-  "days_since_last_cve": 389,
+  "deviation_pct": 0.0,
+  "days_since_last_cve": null,
   "std_dev": null,
-  "threshold_low": 5.0,
-  "threshold_high": 25.0,
+  "threshold_low": 0.0,
+  "threshold_high": 0.0,
   "timeline_13months": [
     {
       "month": "Days 390-360",
-      "count": 10,
+      "count": 0,
       "is_current": false
     },
     {

@@ -6,13 +6,13 @@
   "country": "China",
   "scope_type": "",
   "status": "Declining",
-  "baseline_avg": 5.29,
+  "baseline_avg": 6.17,
   "current_count": 0,
   "deviation_pct": -100.0,
-  "days_since_last_cve": 54,
-  "std_dev": 3.99,
-  "threshold_low": 2.64,
-  "threshold_high": 13.21,
+  "days_since_last_cve": 55,
+  "std_dev": 4.12,
+  "threshold_low": 3.08,
+  "threshold_high": 15.42,
   "timeline_13months": [
     {
       "month": "Days 390-360",
