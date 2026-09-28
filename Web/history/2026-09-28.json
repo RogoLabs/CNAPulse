@@ -1,0 +1,113 @@
+{
+  "date": "2026-09-28",
+  "generated_at": "2026-09-28T04:00:49.416700",
+  "total_cnas": 589,
+  "cnas_growth": 55,
+  "cnas_normal": 124,
+  "cnas_declining": 218,
+  "cnas_inactive": 192,
+  "top_growth": [
+    {
+      "cna_name": "YesWeHack",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Securifera",
+      "current_count": 7,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Logitech",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Bull",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Proton",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "watchdog",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Nintendo",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Canva",
+      "current_count": 5,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Okta",
+      "current_count": 21,
+      "deviation_pct": 2000.0
+    },
+    {
+      "cna_name": "hpe",
+      "current_count": 141,
+      "deviation_pct": 1203.4
+    }
+  ],
+  "top_declining": [
+    {
+      "cna_name": "zephyr",
+      "current_count": 23,
+      "deviation_pct": 78.3
+    },
+    {
+      "cna_name": "JFROG",
+      "current_count": 13,
+      "deviation_pct": 77.3
+    },
+    {
+      "cna_name": "fedora",
+      "current_count": 8,
+      "deviation_pct": 33.3
+    },
+    {
+      "cna_name": "sonicwall",
+      "current_count": 5,
+      "deviation_pct": 17.6
+    },
+    {
+      "cna_name": "PostgreSQL",
+      "current_count": 11,
+      "deviation_pct": 1.1
+    },
+    {
+      "cna_name": "INCIBE",
+      "current_count": 23,
+      "deviation_pct": -27.2
+    },
+    {
+      "cna_name": "SolarWinds",
+      "current_count": 3,
+      "deviation_pct": -30.8
+    },
+    {
+      "cna_name": "DEVOLUTIONS",
+      "current_count": 5,
+      "deviation_pct": -36.7
+    },
+    {
+      "cna_name": "microfocus",
+      "current_count": 2,
+      "deviation_pct": -37.9
+    },
+    {
+      "cna_name": "imaginationtech",
+      "current_count": 2,
+      "deviation_pct": -58.1
+    }
+  ]
+}
