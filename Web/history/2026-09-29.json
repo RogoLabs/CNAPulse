@@ -1,15 +1,35 @@
 {
   "date": "2026-09-29",
-  "generated_at": "2026-09-29T04:35:31.982394",
+  "generated_at": "2026-09-29T12:16:02.953369",
   "total_cnas": 589,
   "cnas_growth": 55,
-  "cnas_normal": 129,
-  "cnas_declining": 213,
+  "cnas_normal": 132,
+  "cnas_declining": 210,
   "cnas_inactive": 192,
   "top_growth": [
     {
+      "cna_name": "Canva",
+      "current_count": 5,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "Securifera",
       "current_count": 7,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "watchdog",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Bull",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "YesWeHack",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -28,34 +48,14 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "YesWeHack",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Bull",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "watchdog",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Canva",
-      "current_count": 5,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "Okta",
       "current_count": 21,
       "deviation_pct": 2000.0
     },
     {
       "cna_name": "hpe",
-      "current_count": 141,
-      "deviation_pct": 1203.4
+      "current_count": 144,
+      "deviation_pct": 1231.1
     }
   ],
   "top_declining": [
@@ -80,11 +80,6 @@
       "deviation_pct": 1.1
     },
     {
-      "cna_name": "INCIBE",
-      "current_count": 26,
-      "deviation_pct": -17.5
-    },
-    {
       "cna_name": "MediaTek",
       "current_count": 18,
       "deviation_pct": -26.5
@@ -103,6 +98,11 @@
       "cna_name": "SolarWinds",
       "current_count": 3,
       "deviation_pct": -38.5
+    },
+    {
+      "cna_name": "ProgressSoftware",
+      "current_count": 5,
+      "deviation_pct": -42.1
     },
     {
       "cna_name": "Patchstack",

@@ -5,18 +5,18 @@
   "cna_advisory_url": "",
   "country": "",
   "scope_type": "",
-  "status": "Normal",
-  "baseline_avg": 15.64,
+  "status": "Growth",
+  "baseline_avg": 15.45,
   "current_count": 29,
-  "deviation_pct": 85.5,
-  "days_since_last_cve": 19,
-  "std_dev": 7.61,
-  "threshold_low": 7.82,
-  "threshold_high": 39.09,
+  "deviation_pct": 87.6,
+  "days_since_last_cve": 20,
+  "std_dev": 7.9,
+  "threshold_low": 7.73,
+  "threshold_high": 38.64,
   "timeline_13months": [
     {
       "month": "Days 390-360",
-      "count": 5,
+      "count": 3,
       "is_current": false
     },
     {
