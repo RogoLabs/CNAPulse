@@ -1,24 +1,19 @@
 {
   "date": "2026-09-30",
-  "generated_at": "2026-09-30T00:06:26.193733",
+  "generated_at": "2026-09-30T09:23:33.515594",
   "total_cnas": 593,
-  "cnas_growth": 58,
-  "cnas_normal": 135,
+  "cnas_growth": 59,
+  "cnas_normal": 134,
   "cnas_declining": 204,
   "cnas_inactive": 196,
   "top_growth": [
     {
-      "cna_name": "Securifera",
-      "current_count": 7,
+      "cna_name": "watchdog",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Canva",
-      "current_count": 5,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Nintendo",
+      "cna_name": "Bull",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -28,13 +23,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Logitech",
-      "current_count": 1,
+      "cna_name": "Securifera",
+      "current_count": 7,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "watchdog",
-      "current_count": 3,
+      "cna_name": "Nintendo",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -43,7 +38,12 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Bull",
+      "cna_name": "Canva",
+      "current_count": 5,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Logitech",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -63,11 +63,6 @@
       "cna_name": "JFROG",
       "current_count": 11,
       "deviation_pct": 47.8
-    },
-    {
-      "cna_name": "fedora",
-      "current_count": 8,
-      "deviation_pct": 33.3
     },
     {
       "cna_name": "sonicwall",
@@ -96,8 +91,13 @@
     },
     {
       "cna_name": "Patchstack",
-      "current_count": 258,
-      "deviation_pct": -45.5
+      "current_count": 259,
+      "deviation_pct": -45.2
+    },
+    {
+      "cna_name": "kubernetes",
+      "current_count": 1,
+      "deviation_pct": -54.5
     },
     {
       "cna_name": "imaginationtech",
@@ -105,9 +105,9 @@
       "deviation_pct": -58.1
     },
     {
-      "cna_name": "kubernetes",
+      "cna_name": "Fortra",
       "current_count": 1,
-      "deviation_pct": -58.3
+      "deviation_pct": -61.5
     }
   ]
 }
