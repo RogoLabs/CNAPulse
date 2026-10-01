@@ -5,18 +5,18 @@
   "cna_advisory_url": "https://github.com/advisories",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
-  "baseline_avg": 880.5,
-  "current_count": 1446,
-  "deviation_pct": 64.2,
+  "status": "Normal",
+  "baseline_avg": 882.33,
+  "current_count": 1443,
+  "deviation_pct": 63.5,
   "days_since_last_cve": 0,
-  "std_dev": 512.43,
-  "threshold_low": 440.25,
-  "threshold_high": 2201.25,
+  "std_dev": 507.61,
+  "threshold_low": 441.17,
+  "threshold_high": 2205.83,
   "timeline_13months": [
     {
       "month": "Days 390-360",
-      "count": 204,
+      "count": 200,
       "is_current": false
     },
     {
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 1446,
+      "count": 1443,
       "is_current": true
     }
   ]

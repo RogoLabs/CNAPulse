@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://cna.erlef.org/cves",
   "country": "USA",
   "scope_type": "",
-  "status": "Normal",
-  "baseline_avg": 24.8,
-  "current_count": 67,
-  "deviation_pct": 170.2,
+  "status": "Declining",
+  "baseline_avg": 26.4,
+  "current_count": 51,
+  "deviation_pct": 93.2,
   "days_since_last_cve": 3,
-  "std_dev": 30.69,
-  "threshold_low": 12.4,
-  "threshold_high": 62.0,
+  "std_dev": 35.08,
+  "threshold_low": 13.2,
+  "threshold_high": 66.0,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 67,
+      "count": 51,
       "is_current": true
     }
   ]
