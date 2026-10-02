@@ -1,27 +1,12 @@
 {
   "date": "2026-10-02",
-  "generated_at": "2026-10-02T09:26:37.457257",
+  "generated_at": "2026-10-02T17:33:35.145487",
   "total_cnas": 593,
-  "cnas_growth": 66,
-  "cnas_normal": 137,
-  "cnas_declining": 198,
+  "cnas_growth": 65,
+  "cnas_normal": 135,
+  "cnas_declining": 201,
   "cnas_inactive": 192,
   "top_growth": [
-    {
-      "cna_name": "Nintendo",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Canva",
-      "current_count": 5,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Proton",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
     {
       "cna_name": "YesWeHack",
       "current_count": 3,
@@ -33,18 +18,33 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "watchdog",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "Anthropic",
       "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Bull",
+      "cna_name": "Proton",
       "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Canva",
+      "current_count": 5,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "IQSIGHT",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Nintendo",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Securifera",
+      "current_count": 7,
       "deviation_pct": 999999.0
     },
     {
@@ -53,8 +53,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Securifera",
-      "current_count": 7,
+      "cna_name": "watchdog",
+      "current_count": 3,
       "deviation_pct": 999999.0
     }
   ],
@@ -62,17 +62,12 @@
     {
       "cna_name": "EEF",
       "current_count": 51,
-      "deviation_pct": 93.2
+      "deviation_pct": 93.9
     },
     {
       "cna_name": "JFROG",
       "current_count": 11,
       "deviation_pct": 31.3
-    },
-    {
-      "cna_name": "Silabs",
-      "current_count": 5,
-      "deviation_pct": 13.6
     },
     {
       "cna_name": "PostgreSQL",
@@ -108,6 +103,11 @@
       "cna_name": "kubernetes",
       "current_count": 1,
       "deviation_pct": -45.5
+    },
+    {
+      "cna_name": "imaginationtech",
+      "current_count": 2,
+      "deviation_pct": -58.1
     }
   ]
 }
