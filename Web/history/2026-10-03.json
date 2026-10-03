@@ -1,15 +1,15 @@
 {
   "date": "2026-10-03",
-  "generated_at": "2026-10-03T20:41:20.202533",
+  "generated_at": "2026-10-03T23:34:11.747244",
   "total_cnas": 593,
   "cnas_growth": 68,
-  "cnas_normal": 134,
-  "cnas_declining": 199,
+  "cnas_normal": 133,
+  "cnas_declining": 200,
   "cnas_inactive": 192,
   "top_growth": [
     {
-      "cna_name": "Securifera",
-      "current_count": 7,
+      "cna_name": "Logitech",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -18,17 +18,32 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "watchdog",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "Canva",
       "current_count": 5,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Anthropic",
+      "cna_name": "YesWeHack",
       "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Logitech",
+      "cna_name": "hsi",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Securifera",
+      "current_count": 7,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Proton",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -38,22 +53,7 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Proton",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Bull",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "FB",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "YesWeHack",
+      "cna_name": "Anthropic",
       "current_count": 3,
       "deviation_pct": 999999.0
     }
@@ -100,14 +100,14 @@
       "deviation_pct": -45.5
     },
     {
+      "cna_name": "NI",
+      "current_count": 3,
+      "deviation_pct": -48.9
+    },
+    {
       "cna_name": "Bugcrowd",
       "current_count": 1,
       "deviation_pct": -55.6
-    },
-    {
-      "cna_name": "imaginationtech",
-      "current_count": 2,
-      "deviation_pct": -58.1
     }
   ]
 }
