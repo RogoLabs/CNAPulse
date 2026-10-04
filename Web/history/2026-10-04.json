@@ -1,9 +1,9 @@
 {
   "date": "2026-10-04",
-  "generated_at": "2026-10-04T16:33:05.288432",
+  "generated_at": "2026-10-04T20:58:09.001805",
   "total_cnas": 593,
-  "cnas_growth": 64,
-  "cnas_normal": 136,
+  "cnas_growth": 62,
+  "cnas_normal": 138,
   "cnas_declining": 201,
   "cnas_inactive": 192,
   "top_growth": [
@@ -13,17 +13,27 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "IQSIGHT",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "Nintendo",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Bull",
+      "cna_name": "watchdog",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "FB",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Logitech",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "IQSIGHT",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -33,12 +43,7 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Logitech",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Proton",
+      "cna_name": "hsi",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -48,12 +53,7 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "watchdog",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "hsi",
+      "cna_name": "Bull",
       "current_count": 1,
       "deviation_pct": 999999.0
     }
@@ -67,7 +67,7 @@
     {
       "cna_name": "JFROG",
       "current_count": 11,
-      "deviation_pct": 31.3
+      "deviation_pct": 47.8
     },
     {
       "cna_name": "PostgreSQL",
@@ -78,11 +78,6 @@
       "cna_name": "SolarWinds",
       "current_count": 3,
       "deviation_pct": -30.8
-    },
-    {
-      "cna_name": "sonicwall",
-      "current_count": 3,
-      "deviation_pct": -33.3
     },
     {
       "cna_name": "microfocus",
@@ -106,6 +101,11 @@
     },
     {
       "cna_name": "ESET",
+      "current_count": 1,
+      "deviation_pct": -55.6
+    },
+    {
+      "cna_name": "Bugcrowd",
       "current_count": 1,
       "deviation_pct": -55.6
     }
