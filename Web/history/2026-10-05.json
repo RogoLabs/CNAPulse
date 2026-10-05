@@ -1,32 +1,12 @@
 {
   "date": "2026-10-05",
-  "generated_at": "2026-10-05T04:23:58.355711",
+  "generated_at": "2026-10-05T13:47:35.132034",
   "total_cnas": 593,
   "cnas_growth": 62,
-  "cnas_normal": 138,
-  "cnas_declining": 201,
-  "cnas_inactive": 192,
+  "cnas_normal": 140,
+  "cnas_declining": 198,
+  "cnas_inactive": 193,
   "top_growth": [
-    {
-      "cna_name": "YesWeHack",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Proton",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Securifera",
-      "current_count": 7,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "watchdog",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
     {
       "cna_name": "FB",
       "current_count": 1,
@@ -38,13 +18,23 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "Securifera",
+      "current_count": 7,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Proton",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "Logitech",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Nintendo",
-      "current_count": 1,
+      "cna_name": "YesWeHack",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -55,6 +45,16 @@
     {
       "cna_name": "Anthropic",
       "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "watchdog",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "IQSIGHT",
+      "current_count": 1,
       "deviation_pct": 999999.0
     }
   ],

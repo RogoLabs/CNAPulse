@@ -1,22 +1,22 @@
 {
-  "assigner_id": "15ede60e-6fda-426e-be9c-e788f151a377",
+  "assigner_id": "unknown",
   "cna_name": "AxxonSoft",
   "cna_org_name": "AxxonSoft Limited",
   "cna_advisory_url": "https://www.axxonsoft.com/legal/axxonsoft-vulnerability-disclosure-policy/security-advisories",
   "country": "Ireland",
   "scope_type": "",
-  "status": "Declining",
-  "baseline_avg": 9.0,
+  "status": "Inactive",
+  "baseline_avg": 0.0,
   "current_count": 0,
-  "deviation_pct": -100.0,
-  "days_since_last_cve": 389,
+  "deviation_pct": 0.0,
+  "days_since_last_cve": null,
   "std_dev": null,
-  "threshold_low": 4.5,
-  "threshold_high": 22.5,
+  "threshold_low": 0.0,
+  "threshold_high": 0.0,
   "timeline_13months": [
     {
       "month": "Days 390-360",
-      "count": 9,
+      "count": 0,
       "is_current": false
     },
     {
