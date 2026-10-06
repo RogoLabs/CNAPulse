@@ -1,0 +1,113 @@
+{
+  "date": "2026-10-06",
+  "generated_at": "2026-10-06T05:11:30.768380",
+  "total_cnas": 593,
+  "cnas_growth": 66,
+  "cnas_normal": 136,
+  "cnas_declining": 199,
+  "cnas_inactive": 192,
+  "top_growth": [
+    {
+      "cna_name": "Bull",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "watchdog",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "hsi",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Securifera",
+      "current_count": 7,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "chainguard",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Proton",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "FB",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Anthropic",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "IQSIGHT",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "YesWeHack",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    }
+  ],
+  "top_declining": [
+    {
+      "cna_name": "JFROG",
+      "current_count": 11,
+      "deviation_pct": 47.8
+    },
+    {
+      "cna_name": "PostgreSQL",
+      "current_count": 12,
+      "deviation_pct": 25.6
+    },
+    {
+      "cna_name": "SolarWinds",
+      "current_count": 3,
+      "deviation_pct": -30.8
+    },
+    {
+      "cna_name": "huawei",
+      "current_count": 12,
+      "deviation_pct": -31.8
+    },
+    {
+      "cna_name": "microfocus",
+      "current_count": 2,
+      "deviation_pct": -37.9
+    },
+    {
+      "cna_name": "kubernetes",
+      "current_count": 1,
+      "deviation_pct": -45.5
+    },
+    {
+      "cna_name": "NI",
+      "current_count": 3,
+      "deviation_pct": -48.9
+    },
+    {
+      "cna_name": "ESET",
+      "current_count": 1,
+      "deviation_pct": -55.6
+    },
+    {
+      "cna_name": "Bugcrowd",
+      "current_count": 1,
+      "deviation_pct": -55.6
+    },
+    {
+      "cna_name": "AMI",
+      "current_count": 1,
+      "deviation_pct": -60.0
+    }
+  ]
+}
