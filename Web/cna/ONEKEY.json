@@ -1,22 +1,22 @@
 {
-  "assigner_id": "2d533b80-6e4a-4e20-93e2-171235122846",
+  "assigner_id": "unknown",
   "cna_name": "ONEKEY",
   "cna_org_name": "ONEKEY GmbH",
   "cna_advisory_url": "https://onekey.com/research/",
   "country": "Germany",
   "scope_type": "",
-  "status": "Declining",
-  "baseline_avg": 2.0,
+  "status": "Inactive",
+  "baseline_avg": 0.0,
   "current_count": 0,
-  "deviation_pct": -100.0,
-  "days_since_last_cve": 389,
+  "deviation_pct": 0.0,
+  "days_since_last_cve": null,
   "std_dev": null,
-  "threshold_low": 1.0,
-  "threshold_high": 5.0,
+  "threshold_low": 0.0,
+  "threshold_high": 0.0,
   "timeline_13months": [
     {
       "month": "Days 390-360",
-      "count": 2,
+      "count": 0,
       "is_current": false
     },
     {

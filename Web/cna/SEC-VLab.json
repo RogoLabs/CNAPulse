@@ -6,17 +6,17 @@
   "country": "Austria",
   "scope_type": "",
   "status": "Declining",
-  "baseline_avg": 9.14,
+  "baseline_avg": 7.88,
   "current_count": 2,
-  "deviation_pct": -78.1,
-  "days_since_last_cve": 12,
-  "std_dev": 7.78,
-  "threshold_low": 4.57,
-  "threshold_high": 22.86,
+  "deviation_pct": -74.6,
+  "days_since_last_cve": 13,
+  "std_dev": 7.36,
+  "threshold_low": 3.94,
+  "threshold_high": 19.69,
   "timeline_13months": [
     {
       "month": "Days 390-360",
-      "count": 5,
+      "count": 4,
       "is_current": false
     },
     {
