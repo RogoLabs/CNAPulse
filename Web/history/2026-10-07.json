@@ -1,14 +1,29 @@
 {
   "date": "2026-10-07",
-  "generated_at": "2026-10-07T00:24:28.600125",
+  "generated_at": "2026-10-07T09:55:58.722097",
   "total_cnas": 594,
-  "cnas_growth": 74,
+  "cnas_growth": 72,
   "cnas_normal": 129,
-  "cnas_declining": 198,
+  "cnas_declining": 200,
   "cnas_inactive": 193,
   "top_growth": [
     {
-      "cna_name": "FB",
+      "cna_name": "chainguard",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Securifera",
+      "current_count": 7,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "IQSIGHT",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "hsi",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -28,22 +43,7 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Securifera",
-      "current_count": 7,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "IQSIGHT",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "YesWeHack",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "hsi",
+      "cna_name": "FB",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -61,8 +61,13 @@
   "top_declining": [
     {
       "cna_name": "JFROG",
-      "current_count": 10,
-      "deviation_pct": 32.4
+      "current_count": 11,
+      "deviation_pct": 29.4
+    },
+    {
+      "cna_name": "wolfSSL",
+      "current_count": 16,
+      "deviation_pct": 28.7
     },
     {
       "cna_name": "HashiCorp",
@@ -70,14 +75,14 @@
       "deviation_pct": 25.6
     },
     {
+      "cna_name": "Silabs",
+      "current_count": 5,
+      "deviation_pct": 16.3
+    },
+    {
       "cna_name": "PostgreSQL",
       "current_count": 9,
       "deviation_pct": -9.0
-    },
-    {
-      "cna_name": "wolfSSL",
-      "current_count": 11,
-      "deviation_pct": -11.5
     },
     {
       "cna_name": "microfocus",
@@ -87,7 +92,7 @@
     {
       "cna_name": "Checkmk",
       "current_count": 3,
-      "deviation_pct": -18.9
+      "deviation_pct": -27.0
     },
     {
       "cna_name": "SolarWinds",
@@ -97,17 +102,12 @@
     {
       "cna_name": "huawei",
       "current_count": 12,
-      "deviation_pct": -38.6
+      "deviation_pct": -45.5
     },
     {
       "cna_name": "kubernetes",
       "current_count": 1,
       "deviation_pct": -45.5
-    },
-    {
-      "cna_name": "NI",
-      "current_count": 3,
-      "deviation_pct": -48.9
     }
   ]
 }
