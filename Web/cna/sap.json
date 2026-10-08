@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://url.sap/sapsecuritypatchday",
   "country": "Germany",
   "scope_type": "",
-  "status": "Normal",
-  "baseline_avg": 21.78,
-  "current_count": 18,
-  "deviation_pct": -17.3,
-  "days_since_last_cve": 15,
-  "std_dev": 12.04,
-  "threshold_low": 10.89,
-  "threshold_high": 54.44,
+  "status": "Declining",
+  "baseline_avg": 23.67,
+  "current_count": 1,
+  "deviation_pct": -95.8,
+  "days_since_last_cve": 16,
+  "std_dev": 15.27,
+  "threshold_low": 11.83,
+  "threshold_high": 59.17,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 18,
+      "count": 1,
       "is_current": true
     }
   ]
