@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://source.android.com/security/bulletin",
   "country": "USA",
   "scope_type": "",
-  "status": "Normal",
-  "baseline_avg": 28.71,
-  "current_count": 117,
-  "deviation_pct": 307.5,
+  "status": "Declining",
+  "baseline_avg": 36.12,
+  "current_count": 29,
+  "deviation_pct": -19.7,
   "days_since_last_cve": 2,
-  "std_dev": 29.33,
-  "threshold_low": 14.36,
-  "threshold_high": 71.79,
+  "std_dev": 34.3,
+  "threshold_low": 18.06,
+  "threshold_high": 90.31,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 117,
+      "count": 29,
       "is_current": true
     }
   ]

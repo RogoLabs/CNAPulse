@@ -1,42 +1,12 @@
 {
   "date": "2026-10-08",
-  "generated_at": "2026-10-08T10:07:43.078096",
+  "generated_at": "2026-10-08T18:31:13.230480",
   "total_cnas": 594,
-  "cnas_growth": 72,
-  "cnas_normal": 125,
-  "cnas_declining": 204,
+  "cnas_growth": 71,
+  "cnas_normal": 119,
+  "cnas_declining": 211,
   "cnas_inactive": 193,
   "top_growth": [
-    {
-      "cna_name": "IQSIGHT",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "FB",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Logitech",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Bull",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Nintendo",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Infoblox",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
     {
       "cna_name": "Anthropic",
       "current_count": 4,
@@ -56,6 +26,36 @@
       "cna_name": "chainguard",
       "current_count": 3,
       "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "hsi",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Nintendo",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Bull",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "FB",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Infoblox",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Logitech",
+      "current_count": 1,
+      "deviation_pct": 999999.0
     }
   ],
   "top_declining": [
@@ -70,14 +70,19 @@
       "deviation_pct": 28.7
     },
     {
-      "cna_name": "Silabs",
-      "current_count": 5,
-      "deviation_pct": 16.3
+      "cna_name": "Checkmk",
+      "current_count": 4,
+      "deviation_pct": 8.1
     },
     {
       "cna_name": "PostgreSQL",
       "current_count": 12,
       "deviation_pct": 7.9
+    },
+    {
+      "cna_name": "Silabs",
+      "current_count": 4,
+      "deviation_pct": -9.1
     },
     {
       "cna_name": "microfocus",
@@ -90,9 +95,9 @@
       "deviation_pct": -17.9
     },
     {
-      "cna_name": "Checkmk",
-      "current_count": 3,
-      "deviation_pct": -18.9
+      "cna_name": "google_android",
+      "current_count": 29,
+      "deviation_pct": -19.7
     },
     {
       "cna_name": "NetMotion",
@@ -103,11 +108,6 @@
       "cna_name": "SolarWinds",
       "current_count": 3,
       "deviation_pct": -30.8
-    },
-    {
-      "cna_name": "huawei",
-      "current_count": 12,
-      "deviation_pct": -45.5
     }
   ]
 }
