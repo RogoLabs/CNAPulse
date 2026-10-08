@@ -1,12 +1,27 @@
 {
   "date": "2026-10-08",
-  "generated_at": "2026-10-08T00:45:25.112936",
+  "generated_at": "2026-10-08T10:07:43.078096",
   "total_cnas": 594,
-  "cnas_growth": 71,
-  "cnas_normal": 128,
-  "cnas_declining": 201,
-  "cnas_inactive": 194,
+  "cnas_growth": 72,
+  "cnas_normal": 125,
+  "cnas_declining": 204,
+  "cnas_inactive": 193,
   "top_growth": [
+    {
+      "cna_name": "IQSIGHT",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "FB",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Logitech",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
     {
       "cna_name": "Bull",
       "current_count": 1,
@@ -18,7 +33,7 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "IQSIGHT",
+      "cna_name": "Infoblox",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -33,28 +48,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "hsi",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "chainguard",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Logitech",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "watchdog",
       "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "FB",
-      "current_count": 1,
+      "cna_name": "chainguard",
+      "current_count": 3,
       "deviation_pct": 999999.0
     }
   ],

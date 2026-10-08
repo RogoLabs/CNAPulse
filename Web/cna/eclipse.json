@@ -6,13 +6,13 @@
   "country": "Belgium",
   "scope_type": "",
   "status": "Growth",
-  "baseline_avg": 9.55,
+  "baseline_avg": 9.64,
   "current_count": 44,
-  "deviation_pct": 361.0,
+  "deviation_pct": 356.6,
   "days_since_last_cve": 0,
-  "std_dev": 9.88,
-  "threshold_low": 4.77,
-  "threshold_high": 23.86,
+  "std_dev": 9.95,
+  "threshold_low": 4.82,
+  "threshold_high": 24.09,
   "timeline_13months": [
     {
       "month": "Days 390-360",
