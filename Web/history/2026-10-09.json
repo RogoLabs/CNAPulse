@@ -1,20 +1,30 @@
 {
   "date": "2026-10-09",
-  "generated_at": "2026-10-09T01:01:29.142378",
+  "generated_at": "2026-10-09T10:10:05.921499",
   "total_cnas": 594,
   "cnas_growth": 71,
-  "cnas_normal": 117,
-  "cnas_declining": 213,
+  "cnas_normal": 115,
+  "cnas_declining": 215,
   "cnas_inactive": 193,
   "top_growth": [
     {
-      "cna_name": "chainguard",
-      "current_count": 3,
+      "cna_name": "Bull",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Bull",
+      "cna_name": "hsi",
       "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Nintendo",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "chainguard",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -23,8 +33,18 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Nintendo",
+      "cna_name": "Infoblox",
       "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "IQSIGHT",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Anthropic",
+      "current_count": 4,
       "deviation_pct": 999999.0
     },
     {
@@ -35,26 +55,6 @@
     {
       "cna_name": "watchdog",
       "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Logitech",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "IQSIGHT",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "hsi",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Infoblox",
-      "current_count": 1,
       "deviation_pct": 999999.0
     }
   ],
@@ -70,11 +70,6 @@
       "deviation_pct": 28.7
     },
     {
-      "cna_name": "Checkmk",
-      "current_count": 4,
-      "deviation_pct": 8.1
-    },
-    {
       "cna_name": "PostgreSQL",
       "current_count": 12,
       "deviation_pct": 7.9
@@ -83,11 +78,6 @@
       "cna_name": "Silabs",
       "current_count": 4,
       "deviation_pct": -9.1
-    },
-    {
-      "cna_name": "microfocus",
-      "current_count": 3,
-      "deviation_pct": -14.3
     },
     {
       "cna_name": "sonicwall",
@@ -108,6 +98,16 @@
       "cna_name": "SolarWinds",
       "current_count": 3,
       "deviation_pct": -30.8
+    },
+    {
+      "cna_name": "adobe",
+      "current_count": 54,
+      "deviation_pct": -39.6
+    },
+    {
+      "cna_name": "microfocus",
+      "current_count": 2,
+      "deviation_pct": -44.8
     }
   ]
 }

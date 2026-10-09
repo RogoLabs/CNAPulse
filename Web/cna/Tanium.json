@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://security.tanium.com/",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
-  "baseline_avg": 7.25,
-  "current_count": 28,
-  "deviation_pct": 286.2,
+  "status": "Normal",
+  "baseline_avg": 9.88,
+  "current_count": 7,
+  "deviation_pct": -29.1,
   "days_since_last_cve": 22,
-  "std_dev": 12.93,
-  "threshold_low": 3.62,
-  "threshold_high": 18.12,
+  "std_dev": 13.81,
+  "threshold_low": 4.94,
+  "threshold_high": 24.69,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 28,
+      "count": 7,
       "is_current": true
     }
   ]
