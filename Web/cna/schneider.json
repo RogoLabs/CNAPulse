@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://www.se.com/ww/en/work/support/cybersecurity/security-notifications.jsp",
   "country": "France",
   "scope_type": "",
-  "status": "Normal",
-  "baseline_avg": 4.88,
-  "current_count": 5,
-  "deviation_pct": 2.6,
-  "days_since_last_cve": 27,
-  "std_dev": 2.1,
-  "threshold_low": 2.44,
-  "threshold_high": 12.19,
+  "status": "Declining",
+  "baseline_avg": 5.25,
+  "current_count": 2,
+  "deviation_pct": -61.9,
+  "days_since_last_cve": 28,
+  "std_dev": 2.87,
+  "threshold_low": 2.62,
+  "threshold_high": 13.12,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 5,
+      "count": 2,
       "is_current": true
     }
   ]

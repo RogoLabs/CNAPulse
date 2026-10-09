@@ -1,24 +1,24 @@
 {
   "date": "2026-10-09",
-  "generated_at": "2026-10-09T10:10:05.921499",
+  "generated_at": "2026-10-09T18:02:12.537703",
   "total_cnas": 594,
-  "cnas_growth": 71,
-  "cnas_normal": 115,
-  "cnas_declining": 215,
-  "cnas_inactive": 193,
+  "cnas_growth": 76,
+  "cnas_normal": 111,
+  "cnas_declining": 216,
+  "cnas_inactive": 191,
   "top_growth": [
     {
-      "cna_name": "Bull",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "hsi",
-      "current_count": 1,
+      "cna_name": "Anthropic",
+      "current_count": 4,
       "deviation_pct": 999999.0
     },
     {
       "cna_name": "Nintendo",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Bull",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -28,12 +28,12 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "FB",
-      "current_count": 1,
+      "cna_name": "Securifera",
+      "current_count": 7,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Infoblox",
+      "cna_name": "sirius",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -43,13 +43,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Anthropic",
-      "current_count": 4,
+      "cna_name": "Logitech",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Securifera",
-      "current_count": 7,
+      "cna_name": "hsi",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -72,7 +72,7 @@
     {
       "cna_name": "PostgreSQL",
       "current_count": 12,
-      "deviation_pct": 7.9
+      "deviation_pct": 21.3
     },
     {
       "cna_name": "Silabs",
@@ -105,9 +105,9 @@
       "deviation_pct": -39.6
     },
     {
-      "cna_name": "microfocus",
-      "current_count": 2,
-      "deviation_pct": -44.8
+      "cna_name": "NI",
+      "current_count": 3,
+      "deviation_pct": -42.6
     }
   ]
 }
