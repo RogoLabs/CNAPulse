@@ -1,45 +1,25 @@
 {
   "date": "2026-10-10",
-  "generated_at": "2026-10-10T17:03:13.046323",
+  "generated_at": "2026-10-10T21:15:40.733213",
   "total_cnas": 594,
   "cnas_growth": 74,
-  "cnas_normal": 109,
-  "cnas_declining": 220,
+  "cnas_normal": 107,
+  "cnas_declining": 222,
   "cnas_inactive": 191,
   "top_growth": [
     {
-      "cna_name": "watchdog",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "chainguard",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "FB",
+      "cna_name": "Infoblox",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "IQSIGHT",
+      "cna_name": "sirius",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Logitech",
+      "cna_name": "Bull",
       "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Securifera",
-      "current_count": 7,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Anthropic",
-      "current_count": 4,
       "deviation_pct": 999999.0
     },
     {
@@ -53,8 +33,28 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Bull",
+      "cna_name": "Anthropic",
+      "current_count": 4,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "IQSIGHT",
       "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Logitech",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "FB",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "chainguard",
+      "current_count": 3,
       "deviation_pct": 999999.0
     }
   ],
@@ -75,9 +75,9 @@
       "deviation_pct": 21.3
     },
     {
-      "cna_name": "Silabs",
-      "current_count": 4,
-      "deviation_pct": -9.1
+      "cna_name": "HashiCorp",
+      "current_count": 6,
+      "deviation_pct": 12.5
     },
     {
       "cna_name": "sonicwall",
@@ -100,14 +100,14 @@
       "deviation_pct": -30.8
     },
     {
-      "cna_name": "adobe",
-      "current_count": 54,
-      "deviation_pct": -39.6
-    },
-    {
       "cna_name": "kubernetes",
       "current_count": 1,
       "deviation_pct": -45.5
+    },
+    {
+      "cna_name": "Bugcrowd",
+      "current_count": 1,
+      "deviation_pct": -55.6
     }
   ]
 }
