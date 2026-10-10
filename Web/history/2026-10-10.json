@@ -1,35 +1,15 @@
 {
   "date": "2026-10-10",
-  "generated_at": "2026-10-10T09:29:37.398365",
+  "generated_at": "2026-10-10T17:03:13.046323",
   "total_cnas": 594,
   "cnas_growth": 74,
-  "cnas_normal": 111,
-  "cnas_declining": 218,
+  "cnas_normal": 109,
+  "cnas_declining": 220,
   "cnas_inactive": 191,
   "top_growth": [
     {
-      "cna_name": "Anthropic",
-      "current_count": 4,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Securifera",
-      "current_count": 7,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "FB",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Bull",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "sirius",
-      "current_count": 1,
+      "cna_name": "watchdog",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -38,13 +18,33 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "cirosec",
+      "cna_name": "FB",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "watchdog",
-      "current_count": 3,
+      "cna_name": "IQSIGHT",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Logitech",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Securifera",
+      "current_count": 7,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Anthropic",
+      "current_count": 4,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "cirosec",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -53,7 +53,7 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "IQSIGHT",
+      "cna_name": "Bull",
       "current_count": 1,
       "deviation_pct": 999999.0
     }
@@ -62,7 +62,7 @@
     {
       "cna_name": "JFROG",
       "current_count": 11,
-      "deviation_pct": 29.4
+      "deviation_pct": 37.5
     },
     {
       "cna_name": "wolfSSL",
@@ -105,9 +105,9 @@
       "deviation_pct": -39.6
     },
     {
-      "cna_name": "NI",
-      "current_count": 3,
-      "deviation_pct": -42.6
+      "cna_name": "kubernetes",
+      "current_count": 1,
+      "deviation_pct": -45.5
     }
   ]
 }
