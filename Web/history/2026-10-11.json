@@ -1,19 +1,14 @@
 {
   "date": "2026-10-11",
-  "generated_at": "2026-10-11T12:14:04.061165",
+  "generated_at": "2026-10-11T19:23:30.319841",
   "total_cnas": 594,
   "cnas_growth": 71,
-  "cnas_normal": 109,
-  "cnas_declining": 223,
+  "cnas_normal": 108,
+  "cnas_declining": 224,
   "cnas_inactive": 191,
   "top_growth": [
     {
-      "cna_name": "Anthropic",
-      "current_count": 4,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "hsi",
+      "cna_name": "Logitech",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -23,22 +18,7 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "chainguard",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "FB",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "watchdog",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Infoblox",
+      "cna_name": "hsi",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -53,8 +33,28 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "Infoblox",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "chainguard",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "watchdog",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "cirosec",
       "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Anthropic",
+      "current_count": 4,
       "deviation_pct": 999999.0
     }
   ],
