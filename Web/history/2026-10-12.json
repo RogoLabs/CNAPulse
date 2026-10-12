@@ -1,24 +1,19 @@
 {
   "date": "2026-10-12",
-  "generated_at": "2026-10-12T00:16:37.801858",
+  "generated_at": "2026-10-12T10:20:18.125035",
   "total_cnas": 594,
-  "cnas_growth": 69,
-  "cnas_normal": 111,
-  "cnas_declining": 223,
-  "cnas_inactive": 191,
+  "cnas_growth": 70,
+  "cnas_normal": 112,
+  "cnas_declining": 222,
+  "cnas_inactive": 190,
   "top_growth": [
-    {
-      "cna_name": "Logitech",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
     {
       "cna_name": "Infoblox",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "FB",
+      "cna_name": "cirosec",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -28,17 +23,22 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "Logitech",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "watchdog",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "hsi",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "sirius",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "IQSIGHT",
+      "cna_name": "flock",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -48,13 +48,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "cirosec",
-      "current_count": 1,
+      "cna_name": "Anthropic",
+      "current_count": 4,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "watchdog",
-      "current_count": 3,
+      "cna_name": "IQSIGHT",
+      "current_count": 1,
       "deviation_pct": 999999.0
     }
   ],
@@ -62,7 +62,7 @@
     {
       "cna_name": "JFROG",
       "current_count": 11,
-      "deviation_pct": 37.5
+      "deviation_pct": 39.7
     },
     {
       "cna_name": "wolfSSL",
@@ -100,14 +100,14 @@
       "deviation_pct": -30.8
     },
     {
+      "cna_name": "Unisoc",
+      "current_count": 3,
+      "deviation_pct": -43.2
+    },
+    {
       "cna_name": "Bugcrowd",
       "current_count": 1,
       "deviation_pct": -55.6
-    },
-    {
-      "cna_name": "INCD",
-      "current_count": 2,
-      "deviation_pct": -63.6
     }
   ]
 }
