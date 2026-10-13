@@ -1,34 +1,24 @@
 {
   "date": "2026-10-13",
-  "generated_at": "2026-10-13T02:32:41.146514",
+  "generated_at": "2026-10-13T10:10:38.686741",
   "total_cnas": 594,
-  "cnas_growth": 73,
-  "cnas_normal": 108,
-  "cnas_declining": 223,
+  "cnas_growth": 74,
+  "cnas_normal": 110,
+  "cnas_declining": 220,
   "cnas_inactive": 190,
   "top_growth": [
-    {
-      "cna_name": "FB",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "flock",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
     {
       "cna_name": "Infoblox",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "chainguard",
-      "current_count": 3,
+      "cna_name": "hsi",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Logitech",
+      "cna_name": "FB",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -38,8 +28,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Securifera",
-      "current_count": 7,
+      "cna_name": "IQSIGHT",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "flock",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -48,13 +43,18 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Anthropic",
-      "current_count": 5,
+      "cna_name": "Logitech",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "IQSIGHT",
+      "cna_name": "cirosec",
       "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Securifera",
+      "current_count": 7,
       "deviation_pct": 999999.0
     }
   ],
@@ -105,9 +105,9 @@
       "deviation_pct": -51.7
     },
     {
-      "cna_name": "Bugcrowd",
+      "cna_name": "NCSC-NL",
       "current_count": 1,
-      "deviation_pct": -55.6
+      "deviation_pct": -54.5
     }
   ]
 }
