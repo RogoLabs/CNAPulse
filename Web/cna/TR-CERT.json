@@ -7,9 +7,9 @@
   "scope_type": "",
   "status": "Normal",
   "baseline_avg": 34.09,
-  "current_count": 47,
-  "deviation_pct": 37.9,
-  "days_since_last_cve": 3,
+  "current_count": 49,
+  "deviation_pct": 43.7,
+  "days_since_last_cve": 0,
   "std_dev": 18.03,
   "threshold_low": 17.05,
   "threshold_high": 85.23,
@@ -31,7 +31,7 @@
     },
     {
       "month": "Days 300-270",
-      "count": 33,
+      "count": 16,
       "is_current": false
     },
     {
@@ -46,12 +46,12 @@
     },
     {
       "month": "Days 210-180",
-      "count": 1,
+      "count": 8,
       "is_current": false
     },
     {
       "month": "Days 180-150",
-      "count": 8,
+      "count": 26,
       "is_current": false
     },
     {
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 47,
+      "count": 49,
       "is_current": true
     }
   ]

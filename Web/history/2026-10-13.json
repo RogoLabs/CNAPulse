@@ -1,0 +1,113 @@
+{
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T02:32:41.146514",
+  "total_cnas": 594,
+  "cnas_growth": 73,
+  "cnas_normal": 108,
+  "cnas_declining": 223,
+  "cnas_inactive": 190,
+  "top_growth": [
+    {
+      "cna_name": "FB",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "flock",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Infoblox",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "chainguard",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Logitech",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "watchdog",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Securifera",
+      "current_count": 7,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "sirius",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Anthropic",
+      "current_count": 5,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "IQSIGHT",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    }
+  ],
+  "top_declining": [
+    {
+      "cna_name": "JFROG",
+      "current_count": 11,
+      "deviation_pct": 44.3
+    },
+    {
+      "cna_name": "PostgreSQL",
+      "current_count": 13,
+      "deviation_pct": 31.5
+    },
+    {
+      "cna_name": "wolfSSL",
+      "current_count": 16,
+      "deviation_pct": 28.7
+    },
+    {
+      "cna_name": "HashiCorp",
+      "current_count": 6,
+      "deviation_pct": 12.5
+    },
+    {
+      "cna_name": "sonicwall",
+      "current_count": 4,
+      "deviation_pct": -7.7
+    },
+    {
+      "cna_name": "google_android",
+      "current_count": 27,
+      "deviation_pct": -25.8
+    },
+    {
+      "cna_name": "SolarWinds",
+      "current_count": 3,
+      "deviation_pct": -30.8
+    },
+    {
+      "cna_name": "Unisoc",
+      "current_count": 3,
+      "deviation_pct": -43.2
+    },
+    {
+      "cna_name": "microfocus",
+      "current_count": 2,
+      "deviation_pct": -51.7
+    },
+    {
+      "cna_name": "Bugcrowd",
+      "current_count": 1,
+      "deviation_pct": -55.6
+    }
+  ]
+}

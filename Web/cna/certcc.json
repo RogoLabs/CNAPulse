@@ -5,11 +5,11 @@
   "cna_advisory_url": "https://www.kb.cert.org/vuls/bypublished/desc/",
   "country": "USA",
   "scope_type": "",
-  "status": "Normal",
+  "status": "Growth",
   "baseline_avg": 15.75,
-  "current_count": 24,
-  "deviation_pct": 52.4,
-  "days_since_last_cve": 4,
+  "current_count": 36,
+  "deviation_pct": 128.6,
+  "days_since_last_cve": 0,
   "std_dev": 11.7,
   "threshold_low": 7.88,
   "threshold_high": 39.38,
@@ -31,7 +31,7 @@
     },
     {
       "month": "Days 300-270",
-      "count": 6,
+      "count": 14,
       "is_current": false
     },
     {
@@ -46,12 +46,12 @@
     },
     {
       "month": "Days 210-180",
-      "count": 15,
+      "count": 24,
       "is_current": false
     },
     {
       "month": "Days 180-150",
-      "count": 24,
+      "count": 22,
       "is_current": false
     },
     {
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 24,
+      "count": 36,
       "is_current": true
     }
   ]
