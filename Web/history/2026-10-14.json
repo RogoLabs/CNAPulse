@@ -1,44 +1,19 @@
 {
   "date": "2026-10-14",
-  "generated_at": "2026-10-14T00:10:59.566393",
+  "generated_at": "2026-10-14T08:27:21.612570",
   "total_cnas": 596,
-  "cnas_growth": 80,
-  "cnas_normal": 119,
-  "cnas_declining": 205,
+  "cnas_growth": 79,
+  "cnas_normal": 121,
+  "cnas_declining": 204,
   "cnas_inactive": 192,
   "top_growth": [
     {
-      "cna_name": "sirius",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "flock",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "hsi",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Infoblox",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "IQSIGHT",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "chainguard",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "WindRiver",
+      "current_count": 5,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Anthropic",
       "current_count": 5,
       "deviation_pct": 999999.0
     },
@@ -48,12 +23,37 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Anthropic",
-      "current_count": 5,
+      "cna_name": "sirius",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "FB",
+      "cna_name": "hsi",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "chainguard",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "watchdog",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Infoblox",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Securifera",
+      "current_count": 7,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "IQSIGHT",
       "current_count": 1,
       "deviation_pct": 999999.0
     }
@@ -87,7 +87,7 @@
     {
       "cna_name": "google_android",
       "current_count": 27,
-      "deviation_pct": -25.8
+      "deviation_pct": -16.5
     },
     {
       "cna_name": "NetMotion",
@@ -105,9 +105,9 @@
       "deviation_pct": -43.2
     },
     {
-      "cna_name": "NCSC-NL",
-      "current_count": 1,
-      "deviation_pct": -54.5
+      "cna_name": "samsung.tv_appliance",
+      "current_count": 4,
+      "deviation_pct": -54.1
     }
   ]
 }
