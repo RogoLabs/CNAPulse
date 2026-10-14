@@ -1,17 +1,12 @@
 {
   "date": "2026-10-14",
-  "generated_at": "2026-10-14T14:21:46.311827",
+  "generated_at": "2026-10-14T19:13:06.769669",
   "total_cnas": 596,
   "cnas_growth": 77,
-  "cnas_normal": 121,
-  "cnas_declining": 206,
+  "cnas_normal": 123,
+  "cnas_declining": 204,
   "cnas_inactive": 192,
   "top_growth": [
-    {
-      "cna_name": "watchdog",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
     {
       "cna_name": "WindRiver",
       "current_count": 5,
@@ -23,28 +18,28 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Anthropic",
-      "current_count": 5,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "FB",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "hsi",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "flock",
+      "cna_name": "cirosec",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Infoblox",
-      "current_count": 1,
+      "cna_name": "Anthropic",
+      "current_count": 5,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "chainguard",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "watchdog",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -56,13 +51,18 @@
       "cna_name": "sirius",
       "current_count": 1,
       "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "FB",
+      "current_count": 1,
+      "deviation_pct": 999999.0
     }
   ],
   "top_declining": [
     {
       "cna_name": "PostgreSQL",
-      "current_count": 13,
-      "deviation_pct": 31.5
+      "current_count": 16,
+      "deviation_pct": 61.8
     },
     {
       "cna_name": "wolfSSL",
