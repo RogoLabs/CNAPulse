@@ -5,12 +5,12 @@
   "cna_advisory_url": "https://www.johnsoncontrols.com/trust-center/cybersecurity/security-advisories",
   "country": "USA",
   "scope_type": "",
-  "status": "Normal",
+  "status": "Growth",
   "baseline_avg": 4.43,
   "current_count": 15,
   "deviation_pct": 238.7,
-  "days_since_last_cve": 5,
-  "std_dev": 2.37,
+  "days_since_last_cve": 6,
+  "std_dev": 3.1,
   "threshold_low": 2.21,
   "threshold_high": 11.07,
   "timeline_13months": [
@@ -36,7 +36,7 @@
     },
     {
       "month": "Days 270-240",
-      "count": 2,
+      "count": 6,
       "is_current": false
     },
     {
@@ -56,12 +56,12 @@
     },
     {
       "month": "Days 150-120",
-      "count": 1,
+      "count": 0,
       "is_current": false
     },
     {
       "month": "Days 120-90",
-      "count": 0,
+      "count": 7,
       "is_current": false
     },
     {
