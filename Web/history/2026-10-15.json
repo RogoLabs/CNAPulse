@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "generated_at": "2026-10-15T03:29:34.824936",
+  "generated_at": "2026-10-15T10:58:14.130445",
   "total_cnas": 596,
   "cnas_growth": 76,
   "cnas_normal": 124,
@@ -8,17 +8,7 @@
   "cnas_inactive": 192,
   "top_growth": [
     {
-      "cna_name": "sirius",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Infoblox",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "FB",
+      "cna_name": "hsi",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -28,22 +18,17 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "FB",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Infoblox",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "Anthropic",
-      "current_count": 5,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "hsi",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "flock",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "WindRiver",
       "current_count": 5,
       "deviation_pct": 999999.0
     },
@@ -53,8 +38,23 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "sirius",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "flock",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "cirosec",
       "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "WindRiver",
+      "current_count": 5,
       "deviation_pct": 999999.0
     }
   ],
@@ -95,14 +95,14 @@
       "deviation_pct": -38.5
     },
     {
+      "cna_name": "openjs",
+      "current_count": 8,
+      "deviation_pct": -40.0
+    },
+    {
       "cna_name": "Unisoc",
       "current_count": 3,
       "deviation_pct": -43.2
-    },
-    {
-      "cna_name": "samsung.tv_appliance",
-      "current_count": 4,
-      "deviation_pct": -54.1
     },
     {
       "cna_name": "NCSC-NL",
