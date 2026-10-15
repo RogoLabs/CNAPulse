@@ -1,12 +1,32 @@
 {
   "date": "2026-10-15",
-  "generated_at": "2026-10-15T16:25:13.078273",
+  "generated_at": "2026-10-15T21:01:07.314285",
   "total_cnas": 596,
-  "cnas_growth": 75,
-  "cnas_normal": 124,
-  "cnas_declining": 205,
+  "cnas_growth": 74,
+  "cnas_normal": 128,
+  "cnas_declining": 202,
   "cnas_inactive": 192,
   "top_growth": [
+    {
+      "cna_name": "FB",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Securifera",
+      "current_count": 7,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "flock",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "hsi",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
     {
       "cna_name": "cirosec",
       "current_count": 1,
@@ -18,43 +38,23 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Infoblox",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Anthropic",
-      "current_count": 5,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "WindRiver",
       "current_count": 5,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "IQSIGHT",
+      "cna_name": "sirius",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "hsi",
+      "cna_name": "Infoblox",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "flock",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Securifera",
-      "current_count": 7,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "FB",
-      "current_count": 1,
+      "cna_name": "chainguard",
+      "current_count": 3,
       "deviation_pct": 999999.0
     }
   ],
@@ -65,19 +65,14 @@
       "deviation_pct": 61.8
     },
     {
-      "cna_name": "wolfSSL",
-      "current_count": 16,
-      "deviation_pct": 28.7
-    },
-    {
       "cna_name": "JFROG",
       "current_count": 10,
       "deviation_pct": 27.0
     },
     {
       "cna_name": "HashiCorp",
-      "current_count": 6,
-      "deviation_pct": 12.5
+      "current_count": 5,
+      "deviation_pct": -8.2
     },
     {
       "cna_name": "google_android",
@@ -95,11 +90,6 @@
       "deviation_pct": -38.5
     },
     {
-      "cna_name": "openjs",
-      "current_count": 8,
-      "deviation_pct": -40.0
-    },
-    {
       "cna_name": "Unisoc",
       "current_count": 3,
       "deviation_pct": -43.2
@@ -108,6 +98,16 @@
       "cna_name": "NCSC-NL",
       "current_count": 1,
       "deviation_pct": -54.5
+    },
+    {
+      "cna_name": "Bugcrowd",
+      "current_count": 1,
+      "deviation_pct": -55.6
+    },
+    {
+      "cna_name": "Mattermost",
+      "current_count": 6,
+      "deviation_pct": -61.5
     }
   ]
 }

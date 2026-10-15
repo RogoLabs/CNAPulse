@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://www.concretecms.org/about/project-news/security",
   "country": "USA",
   "scope_type": "",
-  "status": "Normal",
-  "baseline_avg": 26.67,
-  "current_count": 37,
-  "deviation_pct": 38.7,
-  "days_since_last_cve": 28,
-  "std_dev": 20.03,
-  "threshold_low": 13.33,
-  "threshold_high": 66.67,
+  "status": "Declining",
+  "baseline_avg": 37.0,
+  "current_count": 6,
+  "deviation_pct": -83.8,
+  "days_since_last_cve": 29,
+  "std_dev": 27.62,
+  "threshold_low": 18.5,
+  "threshold_high": 92.5,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 37,
+      "count": 6,
       "is_current": true
     }
   ]
