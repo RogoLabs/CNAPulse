@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://www.tenable.com/security",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
-  "baseline_avg": 6.0,
-  "current_count": 9,
-  "deviation_pct": 50.0,
+  "status": "Normal",
+  "baseline_avg": 6.5,
+  "current_count": 4,
+  "deviation_pct": -38.5,
   "days_since_last_cve": 1,
-  "std_dev": 6.43,
-  "threshold_low": 3.0,
-  "threshold_high": 15.0,
+  "std_dev": 5.84,
+  "threshold_low": 3.25,
+  "threshold_high": 16.25,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -71,12 +71,12 @@
     },
     {
       "month": "Days 60-30",
-      "count": 0,
+      "count": 5,
       "is_current": false
     },
     {
       "month": "Last 30 Days",
-      "count": 9,
+      "count": 4,
       "is_current": true
     }
   ]
