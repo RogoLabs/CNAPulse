@@ -1,40 +1,15 @@
 {
   "date": "2026-10-16",
-  "generated_at": "2026-10-16T03:25:15.633774",
+  "generated_at": "2026-10-16T10:51:01.791750",
   "total_cnas": 596,
-  "cnas_growth": 74,
-  "cnas_normal": 127,
-  "cnas_declining": 203,
+  "cnas_growth": 70,
+  "cnas_normal": 129,
+  "cnas_declining": 205,
   "cnas_inactive": 192,
   "top_growth": [
     {
-      "cna_name": "FB",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "cirosec",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "flock",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "WindRiver",
-      "current_count": 5,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "hsi",
       "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Securifera",
-      "current_count": 7,
       "deviation_pct": 999999.0
     },
     {
@@ -43,7 +18,22 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "cirosec",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "Infoblox",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "watchdog",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "sirius",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -53,8 +43,18 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Anthropic",
+      "cna_name": "FB",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "WindRiver",
       "current_count": 5,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Securifera",
+      "current_count": 7,
       "deviation_pct": 999999.0
     }
   ],
@@ -77,7 +77,7 @@
     {
       "cna_name": "google_android",
       "current_count": 27,
-      "deviation_pct": -16.5
+      "deviation_pct": -25.8
     },
     {
       "cna_name": "NetMotion",
