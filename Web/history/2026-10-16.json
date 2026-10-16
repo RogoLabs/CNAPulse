@@ -1,19 +1,19 @@
 {
   "date": "2026-10-16",
-  "generated_at": "2026-10-16T20:35:34.544397",
+  "generated_at": "2026-10-16T23:18:09.680267",
   "total_cnas": 596,
-  "cnas_growth": 69,
-  "cnas_normal": 123,
-  "cnas_declining": 212,
-  "cnas_inactive": 192,
+  "cnas_growth": 71,
+  "cnas_normal": 121,
+  "cnas_declining": 213,
+  "cnas_inactive": 191,
   "top_growth": [
     {
-      "cna_name": "chainguard",
-      "current_count": 3,
+      "cna_name": "sirius",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "IQSIGHT",
+      "cna_name": "cirosec",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -23,8 +23,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Anthropic",
-      "current_count": 5,
+      "cna_name": "hsi",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -33,17 +33,7 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "FB",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "hsi",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "sirius",
+      "cna_name": "IQSIGHT",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -53,8 +43,18 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "cirosec",
+      "cna_name": "FB",
       "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "chainguard",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Anthropic",
+      "current_count": 5,
       "deviation_pct": 999999.0
     }
   ],
