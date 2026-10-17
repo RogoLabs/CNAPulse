@@ -1,10 +1,10 @@
 {
   "date": "2026-10-17",
-  "generated_at": "2026-10-17T03:15:28.321153",
+  "generated_at": "2026-10-17T10:16:23.778766",
   "total_cnas": 596,
-  "cnas_growth": 71,
-  "cnas_normal": 121,
-  "cnas_declining": 213,
+  "cnas_growth": 69,
+  "cnas_normal": 124,
+  "cnas_declining": 212,
   "cnas_inactive": 191,
   "top_growth": [
     {
@@ -13,18 +13,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "FB",
+      "cna_name": "sirius",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "cirosec",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Securifera",
-      "current_count": 7,
+      "cna_name": "WindRiver",
+      "current_count": 5,
       "deviation_pct": 999999.0
     },
     {
@@ -33,7 +28,12 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "EA",
+      "cna_name": "cirosec",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "flock",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -43,18 +43,18 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "sirius",
+      "cna_name": "EA",
       "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Securifera",
+      "current_count": 7,
       "deviation_pct": 999999.0
     },
     {
       "cna_name": "hsi",
       "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "WindRiver",
-      "current_count": 5,
       "deviation_pct": 999999.0
     }
   ],
@@ -73,11 +73,6 @@
       "cna_name": "HashiCorp",
       "current_count": 5,
       "deviation_pct": -8.2
-    },
-    {
-      "cna_name": "NCSC-FI",
-      "current_count": 2,
-      "deviation_pct": -22.2
     },
     {
       "cna_name": "google_android",
@@ -108,6 +103,11 @@
       "cna_name": "samsung.tv_appliance",
       "current_count": 4,
       "deviation_pct": -55.6
+    },
+    {
+      "cna_name": "NLnet Labs",
+      "current_count": 4,
+      "deviation_pct": -58.6
     }
   ]
 }
