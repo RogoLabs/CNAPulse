@@ -1,29 +1,14 @@
 {
   "date": "2026-10-18",
-  "generated_at": "2026-10-18T03:19:47.149866",
+  "generated_at": "2026-10-18T10:31:11.679108",
   "total_cnas": 596,
   "cnas_growth": 64,
-  "cnas_normal": 128,
-  "cnas_declining": 213,
+  "cnas_normal": 127,
+  "cnas_declining": 214,
   "cnas_inactive": 191,
   "top_growth": [
     {
-      "cna_name": "hsi",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "cirosec",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "flock",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "watchdog",
+      "cna_name": "chainguard",
       "current_count": 3,
       "deviation_pct": 999999.0
     },
@@ -33,28 +18,43 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "FB",
+      "cna_name": "EA",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "IQSIGHT",
+      "cna_name": "Infoblox",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "sirius",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "chainguard",
+      "cna_name": "watchdog",
       "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
       "cna_name": "WindRiver",
       "current_count": 5,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "hsi",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "FB",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "flock",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "sirius",
+      "current_count": 1,
       "deviation_pct": 999999.0
     }
   ],
@@ -95,19 +95,19 @@
       "deviation_pct": -43.2
     },
     {
-      "cna_name": "NCSC-NL",
-      "current_count": 1,
-      "deviation_pct": -54.5
-    },
-    {
       "cna_name": "SolarWinds",
       "current_count": 2,
-      "deviation_pct": -55.0
+      "deviation_pct": -53.8
     },
     {
       "cna_name": "samsung.tv_appliance",
       "current_count": 4,
       "deviation_pct": -55.6
+    },
+    {
+      "cna_name": "NLnet Labs",
+      "current_count": 4,
+      "deviation_pct": -58.6
     }
   ]
 }
