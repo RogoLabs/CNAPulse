@@ -1,12 +1,42 @@
 {
   "date": "2026-10-19",
-  "generated_at": "2026-10-19T03:32:08.019640",
+  "generated_at": "2026-10-19T12:19:45.692080",
   "total_cnas": 596,
-  "cnas_growth": 62,
-  "cnas_normal": 128,
+  "cnas_growth": 63,
+  "cnas_normal": 127,
   "cnas_declining": 215,
   "cnas_inactive": 191,
   "top_growth": [
+    {
+      "cna_name": "FB",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "chainguard",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "cirosec",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "sirius",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "flock",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "hsi",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
     {
       "cna_name": "watchdog",
       "current_count": 3,
@@ -18,42 +48,12 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "IQSIGHT",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "WindRiver",
       "current_count": 5,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "cirosec",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "flock",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "chainguard",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "FB",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Infoblox",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "sirius",
+      "cna_name": "IQSIGHT",
       "current_count": 1,
       "deviation_pct": 999999.0
     }
