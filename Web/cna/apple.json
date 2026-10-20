@@ -5,12 +5,12 @@
   "cna_advisory_url": "https://support.apple.com/en-us/HT201222",
   "country": "USA",
   "scope_type": "",
-  "status": "Declining",
+  "status": "Normal",
   "baseline_avg": 83.0,
-  "current_count": 5,
-  "deviation_pct": -94.0,
-  "days_since_last_cve": 21,
-  "std_dev": 78.76,
+  "current_count": 51,
+  "deviation_pct": -38.6,
+  "days_since_last_cve": 0,
+  "std_dev": 78.65,
   "threshold_low": 41.5,
   "threshold_high": 207.5,
   "timeline_13months": [
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 5,
+      "count": 51,
       "is_current": true
     }
   ]
