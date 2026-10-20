@@ -6,13 +6,13 @@
   "country": "Japan",
   "scope_type": "",
   "status": "Declining",
-  "baseline_avg": 37.11,
+  "baseline_avg": 33.4,
   "current_count": 1,
-  "deviation_pct": -97.3,
+  "deviation_pct": -97.0,
   "days_since_last_cve": 4,
-  "std_dev": 29.54,
-  "threshold_low": 18.56,
-  "threshold_high": 92.78,
+  "std_dev": 26.71,
+  "threshold_low": 16.7,
+  "threshold_high": 83.5,
   "timeline_13months": [
     {
       "month": "Days 390-360",
