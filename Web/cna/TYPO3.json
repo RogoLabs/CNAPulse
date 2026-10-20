@@ -5,11 +5,11 @@
   "cna_advisory_url": "https://advisories.typo3.org/",
   "country": "Switzerland",
   "scope_type": "",
-  "status": "Declining",
+  "status": "Normal",
   "baseline_avg": 6.78,
-  "current_count": 1,
-  "deviation_pct": -85.2,
-  "days_since_last_cve": 7,
+  "current_count": 16,
+  "deviation_pct": 136.1,
+  "days_since_last_cve": 0,
   "std_dev": 8.58,
   "threshold_low": 3.39,
   "threshold_high": 16.94,
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 1,
+      "count": 16,
       "is_current": true
     }
   ]

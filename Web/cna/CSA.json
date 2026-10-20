@@ -5,10 +5,10 @@
   "cna_advisory_url": "https://www.csa.gov.sg/alerts-advisories",
   "country": "Singapore",
   "scope_type": "",
-  "status": "Declining",
+  "status": "Normal",
   "baseline_avg": 4.75,
-  "current_count": 3,
-  "deviation_pct": -36.8,
+  "current_count": 26,
+  "deviation_pct": 447.4,
   "days_since_last_cve": 0,
   "std_dev": 9.02,
   "threshold_low": 2.38,
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 3,
+      "count": 26,
       "is_current": true
     }
   ]
