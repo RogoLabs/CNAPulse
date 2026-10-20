@@ -1,25 +1,15 @@
 {
   "date": "2026-10-20",
-  "generated_at": "2026-10-20T18:58:32.131461",
+  "generated_at": "2026-10-20T23:40:34.472888",
   "total_cnas": 590,
-  "cnas_growth": 76,
-  "cnas_normal": 124,
-  "cnas_declining": 205,
+  "cnas_growth": 77,
+  "cnas_normal": 126,
+  "cnas_declining": 202,
   "cnas_inactive": 185,
   "top_growth": [
     {
-      "cna_name": "chainguard",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Anthropic",
-      "current_count": 5,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "WindRiver",
-      "current_count": 5,
+      "cna_name": "cirosec",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -28,13 +18,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "cirosec",
-      "current_count": 1,
+      "cna_name": "Anthropic",
+      "current_count": 5,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "hsi",
-      "current_count": 1,
+      "cna_name": "chainguard",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -43,7 +33,7 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Infoblox",
+      "cna_name": "FB",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -53,7 +43,17 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "FB",
+      "cna_name": "WindRiver",
+      "current_count": 5,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "flock",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Infoblox",
       "current_count": 1,
       "deviation_pct": 999999.0
     }
@@ -95,6 +95,11 @@
       "deviation_pct": -43.2
     },
     {
+      "cna_name": "NCSC-NL",
+      "current_count": 1,
+      "deviation_pct": -57.1
+    },
+    {
       "cna_name": "kubernetes",
       "current_count": 1,
       "deviation_pct": -60.0
@@ -103,11 +108,6 @@
       "cna_name": "HDFG",
       "current_count": 2,
       "deviation_pct": -60.0
-    },
-    {
-      "cna_name": "BLSOPS",
-      "current_count": 1,
-      "deviation_pct": -61.5
     }
   ]
 }
