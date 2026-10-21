@@ -5,11 +5,11 @@
   "cna_advisory_url": "https://security.docs.wso2.com/en/latest/security-announcements/",
   "country": "USA",
   "scope_type": "",
-  "status": "Normal",
+  "status": "Growth",
   "baseline_avg": 6.89,
-  "current_count": 10,
-  "deviation_pct": 45.2,
-  "days_since_last_cve": 1,
+  "current_count": 16,
+  "deviation_pct": 132.3,
+  "days_since_last_cve": 0,
   "std_dev": 5.11,
   "threshold_low": 3.44,
   "threshold_high": 17.22,
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 10,
+      "count": 16,
       "is_current": true
     }
   ]
