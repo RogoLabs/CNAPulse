@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "generated_at": "2026-10-21T16:44:24.782714",
+  "generated_at": "2026-10-21T21:20:08.699357",
   "total_cnas": 598,
   "cnas_growth": 71,
   "cnas_normal": 132,
@@ -8,17 +8,27 @@
   "cnas_inactive": 192,
   "top_growth": [
     {
-      "cna_name": "Infoblox",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "EA",
-      "current_count": 1,
+      "cna_name": "WindRiver",
+      "current_count": 5,
       "deviation_pct": 999999.0
     },
     {
       "cna_name": "IQSIGHT",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Velneo",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "chainguard",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "EA",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -28,23 +38,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "chainguard",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "WindRiver",
+      "cna_name": "Anthropic",
       "current_count": 5,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Velneo",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "FB",
-      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -53,8 +48,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Anthropic",
-      "current_count": 5,
+      "cna_name": "FB",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Infoblox",
+      "current_count": 1,
       "deviation_pct": 999999.0
     }
   ],
