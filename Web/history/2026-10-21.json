@@ -1,0 +1,113 @@
+{
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T03:34:30.008597",
+  "total_cnas": 590,
+  "cnas_growth": 77,
+  "cnas_normal": 126,
+  "cnas_declining": 202,
+  "cnas_inactive": 185,
+  "top_growth": [
+    {
+      "cna_name": "chainguard",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Infoblox",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "IQSIGHT",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "EA",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "FB",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "hsi",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "sirius",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Anthropic",
+      "current_count": 5,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "flock",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "WindRiver",
+      "current_count": 5,
+      "deviation_pct": 999999.0
+    }
+  ],
+  "top_declining": [
+    {
+      "cna_name": "PostgreSQL",
+      "current_count": 12,
+      "deviation_pct": 16.1
+    },
+    {
+      "cna_name": "OpenVPN",
+      "current_count": 4,
+      "deviation_pct": 6.7
+    },
+    {
+      "cna_name": "HashiCorp",
+      "current_count": 5,
+      "deviation_pct": -8.2
+    },
+    {
+      "cna_name": "glibc",
+      "current_count": 3,
+      "deviation_pct": -14.3
+    },
+    {
+      "cna_name": "google_android",
+      "current_count": 27,
+      "deviation_pct": -25.8
+    },
+    {
+      "cna_name": "f5",
+      "current_count": 12,
+      "deviation_pct": -27.3
+    },
+    {
+      "cna_name": "Unisoc",
+      "current_count": 3,
+      "deviation_pct": -43.2
+    },
+    {
+      "cna_name": "NCSC-NL",
+      "current_count": 1,
+      "deviation_pct": -57.1
+    },
+    {
+      "cna_name": "kubernetes",
+      "current_count": 1,
+      "deviation_pct": -60.0
+    },
+    {
+      "cna_name": "HDFG",
+      "current_count": 2,
+      "deviation_pct": -60.0
+    }
+  ]
+}
