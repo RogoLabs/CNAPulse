@@ -5,10 +5,10 @@
   "cna_advisory_url": "https://tools.cisco.com/security/center/resources/security_vulnerability_policy.html#sa",
   "country": "USA",
   "scope_type": "",
-  "status": "Normal",
+  "status": "Growth",
   "baseline_avg": 42.17,
-  "current_count": 94,
-  "deviation_pct": 122.9,
+  "current_count": 125,
+  "deviation_pct": 196.4,
   "days_since_last_cve": 0,
   "std_dev": 46.8,
   "threshold_low": 21.08,
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 94,
+      "count": 125,
       "is_current": true
     }
   ]
