@@ -1,20 +1,40 @@
 {
   "date": "2026-10-22",
-  "generated_at": "2026-10-22T16:46:08.229991",
-  "total_cnas": 590,
-  "cnas_growth": 81,
-  "cnas_normal": 127,
-  "cnas_declining": 198,
-  "cnas_inactive": 184,
+  "generated_at": "2026-10-22T21:16:19.706288",
+  "total_cnas": 598,
+  "cnas_growth": 73,
+  "cnas_normal": 132,
+  "cnas_declining": 201,
+  "cnas_inactive": 192,
   "top_growth": [
     {
-      "cna_name": "sirius",
+      "cna_name": "Infoblox",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
       "cna_name": "flock",
       "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Velneo",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "sirius",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "WindRiver",
+      "current_count": 5,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Anthropic",
+      "current_count": 5,
       "deviation_pct": 999999.0
     },
     {
@@ -28,33 +48,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "WindRiver",
-      "current_count": 5,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "EA",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Anthropic",
-      "current_count": 5,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "hsi",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "chainguard",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Velneo",
-      "current_count": 2,
+      "cna_name": "IQSIGHT",
+      "current_count": 1,
       "deviation_pct": 999999.0
     }
   ],
@@ -65,9 +65,19 @@
       "deviation_pct": 16.1
     },
     {
+      "cna_name": "JFROG",
+      "current_count": 8,
+      "deviation_pct": 0.0
+    },
+    {
       "cna_name": "HashiCorp",
       "current_count": 5,
       "deviation_pct": -8.2
+    },
+    {
+      "cna_name": "SolarWinds",
+      "current_count": 4,
+      "deviation_pct": -22.0
     },
     {
       "cna_name": "google_android",
@@ -80,9 +90,9 @@
       "deviation_pct": -28.2
     },
     {
-      "cna_name": "f5",
-      "current_count": 11,
-      "deviation_pct": -33.8
+      "cna_name": "NetMotion",
+      "current_count": 4,
+      "deviation_pct": -29.4
     },
     {
       "cna_name": "Unisoc",
@@ -90,24 +100,14 @@
       "deviation_pct": -43.2
     },
     {
-      "cna_name": "glibc",
-      "current_count": 2,
-      "deviation_pct": -45.5
+      "cna_name": "GV",
+      "current_count": 6,
+      "deviation_pct": -53.8
     },
     {
-      "cna_name": "NCSC-NL",
-      "current_count": 1,
-      "deviation_pct": -57.1
-    },
-    {
-      "cna_name": "hp",
-      "current_count": 2,
-      "deviation_pct": -59.3
-    },
-    {
-      "cna_name": "kubernetes",
-      "current_count": 1,
-      "deviation_pct": -60.0
+      "cna_name": "samsung.tv_appliance",
+      "current_count": 4,
+      "deviation_pct": -55.6
     }
   ]
 }
