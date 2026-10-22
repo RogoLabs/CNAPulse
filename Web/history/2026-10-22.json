@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "generated_at": "2026-10-22T03:33:55.634513",
+  "generated_at": "2026-10-22T11:15:35.153762",
   "total_cnas": 598,
   "cnas_growth": 72,
   "cnas_normal": 132,
@@ -8,18 +8,18 @@
   "cnas_inactive": 192,
   "top_growth": [
     {
+      "cna_name": "EA",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "chainguard",
       "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "sirius",
+      "cna_name": "Infoblox",
       "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Velneo",
-      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -33,7 +33,12 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "cirosec",
+      "cna_name": "flock",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "sirius",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -43,18 +48,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "flock",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "hsi",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "WindRiver",
       "current_count": 5,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "cirosec",
+      "current_count": 1,
       "deviation_pct": 999999.0
     }
   ],
@@ -62,17 +62,17 @@
     {
       "cna_name": "SolarWinds",
       "current_count": 6,
-      "deviation_pct": 38.5
-    },
-    {
-      "cna_name": "JFROG",
-      "current_count": 10,
-      "deviation_pct": 29.0
+      "deviation_pct": 23.1
     },
     {
       "cna_name": "PostgreSQL",
       "current_count": 12,
       "deviation_pct": 16.1
+    },
+    {
+      "cna_name": "JFROG",
+      "current_count": 9,
+      "deviation_pct": 14.3
     },
     {
       "cna_name": "HashiCorp",
@@ -105,9 +105,9 @@
       "deviation_pct": -43.2
     },
     {
-      "cna_name": "samsung.tv_appliance",
-      "current_count": 4,
-      "deviation_pct": -55.6
+      "cna_name": "GV",
+      "current_count": 6,
+      "deviation_pct": -53.8
     }
   ]
 }
