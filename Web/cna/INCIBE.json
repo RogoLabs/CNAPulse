@@ -6,13 +6,13 @@
   "country": "Spain",
   "scope_type": "",
   "status": "Normal",
-  "baseline_avg": 28.25,
-  "current_count": 56,
-  "deviation_pct": 98.2,
-  "days_since_last_cve": 2,
-  "std_dev": 25.01,
-  "threshold_low": 14.12,
-  "threshold_high": 70.62,
+  "baseline_avg": 28.42,
+  "current_count": 54,
+  "deviation_pct": 90.0,
+  "days_since_last_cve": 3,
+  "std_dev": 24.91,
+  "threshold_low": 14.21,
+  "threshold_high": 71.04,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -71,12 +71,12 @@
     },
     {
       "month": "Days 60-30",
-      "count": 13,
+      "count": 15,
       "is_current": false
     },
     {
       "month": "Last 30 Days",
-      "count": 56,
+      "count": 54,
       "is_current": true
     }
   ]
