@@ -1,44 +1,24 @@
 {
   "date": "2026-10-23",
-  "generated_at": "2026-10-23T11:08:09.956020",
+  "generated_at": "2026-10-23T16:35:29.087314",
   "total_cnas": 598,
-  "cnas_growth": 74,
-  "cnas_normal": 128,
-  "cnas_declining": 204,
+  "cnas_growth": 72,
+  "cnas_normal": 129,
+  "cnas_declining": 205,
   "cnas_inactive": 192,
   "top_growth": [
-    {
-      "cna_name": "chainguard",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Velneo",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "FB",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Infoblox",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "EA",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
     {
       "cna_name": "Anthropic",
       "current_count": 5,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "cirosec",
+      "cna_name": "hsi",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "flock",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -48,12 +28,32 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "hsi",
+      "cna_name": "FB",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "WindRiver",
+      "current_count": 5,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Velneo",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "cirosec",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
       "cna_name": "sirius",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "EA",
       "current_count": 1,
       "deviation_pct": 999999.0
     }
@@ -65,14 +65,14 @@
       "deviation_pct": 20.0
     },
     {
-      "cna_name": "PostgreSQL",
-      "current_count": 12,
-      "deviation_pct": 16.1
-    },
-    {
       "cna_name": "HashiCorp",
       "current_count": 5,
       "deviation_pct": -8.2
+    },
+    {
+      "cna_name": "PostgreSQL",
+      "current_count": 9,
+      "deviation_pct": -15.6
     },
     {
       "cna_name": "SolarWinds",
