@@ -1,0 +1,113 @@
+{
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T03:37:52.977535",
+  "total_cnas": 598,
+  "cnas_growth": 73,
+  "cnas_normal": 130,
+  "cnas_declining": 203,
+  "cnas_inactive": 192,
+  "top_growth": [
+    {
+      "cna_name": "FB",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "flock",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Velneo",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Anthropic",
+      "current_count": 5,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "WindRiver",
+      "current_count": 5,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "cirosec",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "hsi",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "chainguard",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "sirius",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Infoblox",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    }
+  ],
+  "top_declining": [
+    {
+      "cna_name": "HeroDevs",
+      "current_count": 3,
+      "deviation_pct": 20.0
+    },
+    {
+      "cna_name": "PostgreSQL",
+      "current_count": 12,
+      "deviation_pct": 16.1
+    },
+    {
+      "cna_name": "JFROG",
+      "current_count": 8,
+      "deviation_pct": 0.0
+    },
+    {
+      "cna_name": "HashiCorp",
+      "current_count": 5,
+      "deviation_pct": -8.2
+    },
+    {
+      "cna_name": "SolarWinds",
+      "current_count": 4,
+      "deviation_pct": -22.0
+    },
+    {
+      "cna_name": "google_android",
+      "current_count": 27,
+      "deviation_pct": -25.8
+    },
+    {
+      "cna_name": "isc",
+      "current_count": 4,
+      "deviation_pct": -28.2
+    },
+    {
+      "cna_name": "NetMotion",
+      "current_count": 4,
+      "deviation_pct": -29.4
+    },
+    {
+      "cna_name": "Unisoc",
+      "current_count": 3,
+      "deviation_pct": -43.2
+    },
+    {
+      "cna_name": "GV",
+      "current_count": 6,
+      "deviation_pct": -53.8
+    }
+  ]
+}
