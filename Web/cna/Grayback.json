@@ -1,15 +1,15 @@
 {
-  "assigner_id": "unknown",
+  "assigner_id": "772f0079-75c2-41ca-913e-d9072716578b",
   "cna_name": "Grayback",
   "cna_org_name": "Grayback Security",
   "cna_advisory_url": "https://www.grayback.es/en/advisories",
   "country": "Spain",
   "scope_type": "",
-  "status": "Inactive",
+  "status": "Growth",
   "baseline_avg": 0.0,
-  "current_count": 0,
-  "deviation_pct": 0.0,
-  "days_since_last_cve": null,
+  "current_count": 4,
+  "deviation_pct": 999999.0,
+  "days_since_last_cve": 0,
   "std_dev": null,
   "threshold_low": 0.0,
   "threshold_high": 0.0,
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 0,
+      "count": 4,
       "is_current": true
     }
   ]
