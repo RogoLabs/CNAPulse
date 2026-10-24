@@ -1,25 +1,15 @@
 {
   "date": "2026-10-24",
-  "generated_at": "2026-10-24T15:28:32.607165",
+  "generated_at": "2026-10-24T20:20:52.505594",
   "total_cnas": 598,
   "cnas_growth": 71,
-  "cnas_normal": 127,
-  "cnas_declining": 209,
+  "cnas_normal": 126,
+  "cnas_declining": 210,
   "cnas_inactive": 191,
   "top_growth": [
     {
-      "cna_name": "sirius",
+      "cna_name": "Infoblox",
       "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "chainguard",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "WindRiver",
-      "current_count": 5,
       "deviation_pct": 999999.0
     },
     {
@@ -28,12 +18,12 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "hsi",
+      "cna_name": "FB",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Infoblox",
+      "cna_name": "EA",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -43,17 +33,27 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "Grayback",
+      "current_count": 4,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "WindRiver",
+      "current_count": 5,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "flock",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Anthropic",
-      "current_count": 5,
+      "cna_name": "sirius",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "EA",
+      "cna_name": "cirosec",
       "current_count": 1,
       "deviation_pct": 999999.0
     }
@@ -85,14 +85,14 @@
       "deviation_pct": -25.8
     },
     {
-      "cna_name": "isc",
-      "current_count": 4,
-      "deviation_pct": -28.2
-    },
-    {
       "cna_name": "NetMotion",
       "current_count": 4,
       "deviation_pct": -29.4
+    },
+    {
+      "cna_name": "isc",
+      "current_count": 4,
+      "deviation_pct": -38.5
     },
     {
       "cna_name": "Unisoc",
