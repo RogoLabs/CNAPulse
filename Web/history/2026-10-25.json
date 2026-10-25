@@ -1,34 +1,14 @@
 {
   "date": "2026-10-25",
-  "generated_at": "2026-10-25T20:28:15.929939",
+  "generated_at": "2026-10-25T23:03:27.473129",
   "total_cnas": 598,
   "cnas_growth": 71,
-  "cnas_normal": 128,
-  "cnas_declining": 208,
+  "cnas_normal": 127,
+  "cnas_declining": 209,
   "cnas_inactive": 191,
   "top_growth": [
     {
       "cna_name": "flock",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "cirosec",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "EA",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Infoblox",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "hsi",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -38,13 +18,28 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "sirius",
+      "cna_name": "EA",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Velneo",
-      "current_count": 2,
+      "cna_name": "FB",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "hsi",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "cirosec",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Infoblox",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -53,8 +48,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "IQSIGHT",
+      "cna_name": "sirius",
       "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Anthropic",
+      "current_count": 5,
       "deviation_pct": 999999.0
     }
   ],
