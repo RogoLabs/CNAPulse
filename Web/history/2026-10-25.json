@@ -1,6 +1,6 @@
 {
   "date": "2026-10-25",
-  "generated_at": "2026-10-25T15:39:56.647811",
+  "generated_at": "2026-10-25T20:28:15.929939",
   "total_cnas": 598,
   "cnas_growth": 71,
   "cnas_normal": 128,
@@ -8,22 +8,7 @@
   "cnas_inactive": 191,
   "top_growth": [
     {
-      "cna_name": "hsi",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "FB",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "chainguard",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "EA",
+      "cna_name": "flock",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -33,13 +18,28 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Anthropic",
-      "current_count": 5,
+      "cna_name": "EA",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Infoblox",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "hsi",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
       "cna_name": "WindRiver",
       "current_count": 5,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "sirius",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -53,7 +53,7 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "sirius",
+      "cna_name": "IQSIGHT",
       "current_count": 1,
       "deviation_pct": 999999.0
     }
@@ -75,11 +75,6 @@
       "deviation_pct": -12.2
     },
     {
-      "cna_name": "PostgreSQL",
-      "current_count": 9,
-      "deviation_pct": -25.0
-    },
-    {
       "cna_name": "google_android",
       "current_count": 27,
       "deviation_pct": -25.8
@@ -88,6 +83,11 @@
       "cna_name": "NetMotion",
       "current_count": 4,
       "deviation_pct": -29.4
+    },
+    {
+      "cna_name": "PostgreSQL",
+      "current_count": 8,
+      "deviation_pct": -34.0
     },
     {
       "cna_name": "isc",
