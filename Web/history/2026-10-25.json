@@ -1,0 +1,113 @@
+{
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T03:29:13.924649",
+  "total_cnas": 598,
+  "cnas_growth": 72,
+  "cnas_normal": 125,
+  "cnas_declining": 210,
+  "cnas_inactive": 191,
+  "top_growth": [
+    {
+      "cna_name": "EA",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Infoblox",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "WindRiver",
+      "current_count": 5,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "FB",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "IQSIGHT",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "chainguard",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "hsi",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "flock",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Anthropic",
+      "current_count": 5,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "cirosec",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    }
+  ],
+  "top_declining": [
+    {
+      "cna_name": "HeroDevs",
+      "current_count": 3,
+      "deviation_pct": 20.0
+    },
+    {
+      "cna_name": "HashiCorp",
+      "current_count": 5,
+      "deviation_pct": -8.2
+    },
+    {
+      "cna_name": "SolarWinds",
+      "current_count": 4,
+      "deviation_pct": -22.0
+    },
+    {
+      "cna_name": "PostgreSQL",
+      "current_count": 9,
+      "deviation_pct": -25.0
+    },
+    {
+      "cna_name": "google_android",
+      "current_count": 27,
+      "deviation_pct": -25.8
+    },
+    {
+      "cna_name": "NetMotion",
+      "current_count": 4,
+      "deviation_pct": -29.4
+    },
+    {
+      "cna_name": "isc",
+      "current_count": 4,
+      "deviation_pct": -38.5
+    },
+    {
+      "cna_name": "Unisoc",
+      "current_count": 3,
+      "deviation_pct": -43.2
+    },
+    {
+      "cna_name": "GV",
+      "current_count": 6,
+      "deviation_pct": -46.2
+    },
+    {
+      "cna_name": "samsung.tv_appliance",
+      "current_count": 4,
+      "deviation_pct": -55.6
+    }
+  ]
+}
