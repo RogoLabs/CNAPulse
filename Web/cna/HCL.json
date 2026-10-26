@@ -2,7 +2,7 @@
   "assigner_id": "1e47fe04-f25f-42fa-b674-36de2c5e3cfc",
   "cna_name": "HCL",
   "cna_org_name": "HCL Software",
-  "cna_advisory_url": "https://support.hcl-software.com/community?id=community_forum&amp;sys_id=038a2b921b7bb34c77761fc58d4bcb0d",
+  "cna_advisory_url": "https://support.hcl-software.com/community?id=community_forum&sys_id=038a2b921b7bb34c77761fc58d4bcb0d",
   "country": "India",
   "scope_type": "",
   "status": "Normal",
@@ -10,7 +10,7 @@
   "current_count": 20,
   "deviation_pct": -12.1,
   "days_since_last_cve": 2,
-  "std_dev": 15.88,
+  "std_dev": 16.1,
   "threshold_low": 11.38,
   "threshold_high": 56.88,
   "timeline_13months": [

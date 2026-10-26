@@ -2,7 +2,7 @@
   "assigner_id": "a5532a13-c4dd-4202-bef1-e0b8f2f8d12b",
   "cna_name": "N-able",
   "cna_org_name": "N-able",
-  "cna_advisory_url": "https://me.n-able.com/s/global-search/%40uri#t=All&amp;sort=relevancy&amp;f:@repositorytype=[Security_Advisory]",
+  "cna_advisory_url": "https://me.n-able.com/s/global-search/%40uri#t=All&sort=relevancy&f:@repositorytype=[Security_Advisory]",
   "country": "USA",
   "scope_type": "",
   "status": "Declining",
