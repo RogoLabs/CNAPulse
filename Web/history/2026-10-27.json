@@ -1,29 +1,24 @@
 {
   "date": "2026-10-27",
-  "generated_at": "2026-10-27T08:42:44.227320",
+  "generated_at": "2026-10-27T15:09:54.465643",
   "total_cnas": 598,
   "cnas_growth": 79,
-  "cnas_normal": 129,
-  "cnas_declining": 201,
+  "cnas_normal": 128,
+  "cnas_declining": 202,
   "cnas_inactive": 189,
   "top_growth": [
     {
-      "cna_name": "sirius",
+      "cna_name": "Forescout",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "EA",
-      "current_count": 1,
+      "cna_name": "esaqa",
+      "current_count": 5,
       "deviation_pct": 999999.0
     },
     {
       "cna_name": "IQSIGHT",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "FB",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -33,18 +28,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Anthropic",
-      "current_count": 5,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Grayback",
-      "current_count": 4,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "flock",
-      "current_count": 1,
+      "cna_name": "chainguard",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -53,8 +38,23 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "esaqa",
-      "current_count": 5,
+      "cna_name": "Grayback",
+      "current_count": 4,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "FB",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "cirosec",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "EA",
+      "current_count": 1,
       "deviation_pct": 999999.0
     }
   ],
@@ -100,14 +100,14 @@
       "deviation_pct": -51.4
     },
     {
+      "cna_name": "wolfSSL",
+      "current_count": 5,
+      "deviation_pct": -54.1
+    },
+    {
       "cna_name": "samsung.tv_appliance",
       "current_count": 4,
       "deviation_pct": -55.6
-    },
-    {
-      "cna_name": "NCSC-NL",
-      "current_count": 1,
-      "deviation_pct": -57.1
     }
   ]
 }
