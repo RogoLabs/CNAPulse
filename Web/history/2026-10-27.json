@@ -1,24 +1,49 @@
 {
   "date": "2026-10-27",
-  "generated_at": "2026-10-27T15:09:54.465643",
-  "total_cnas": 598,
+  "generated_at": "2026-10-27T21:52:33.576477",
+  "total_cnas": 603,
   "cnas_growth": 79,
-  "cnas_normal": 128,
-  "cnas_declining": 202,
-  "cnas_inactive": 189,
+  "cnas_normal": 127,
+  "cnas_declining": 203,
+  "cnas_inactive": 194,
   "top_growth": [
-    {
-      "cna_name": "Forescout",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
     {
       "cna_name": "esaqa",
       "current_count": 5,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "IQSIGHT",
+      "cna_name": "Infoblox",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "flock",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Anthropic",
+      "current_count": 5,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Grayback",
+      "current_count": 4,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Velneo",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "EA",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "FB",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -28,33 +53,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "chainguard",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Infoblox",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Grayback",
-      "current_count": 4,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "FB",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "cirosec",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "EA",
-      "current_count": 1,
+      "cna_name": "WindRiver",
+      "current_count": 5,
       "deviation_pct": 999999.0
     }
   ],
@@ -75,11 +75,6 @@
       "deviation_pct": -25.8
     },
     {
-      "cna_name": "NetMotion",
-      "current_count": 4,
-      "deviation_pct": -29.4
-    },
-    {
       "cna_name": "PostgreSQL",
       "current_count": 8,
       "deviation_pct": -34.0
@@ -88,6 +83,11 @@
       "cna_name": "isc",
       "current_count": 4,
       "deviation_pct": -38.5
+    },
+    {
+      "cna_name": "microfocus",
+      "current_count": 2,
+      "deviation_pct": -40.0
     },
     {
       "cna_name": "GV",
@@ -105,8 +105,8 @@
       "deviation_pct": -54.1
     },
     {
-      "cna_name": "samsung.tv_appliance",
-      "current_count": 4,
+      "cna_name": "NetScaler",
+      "current_count": 2,
       "deviation_pct": -55.6
     }
   ]

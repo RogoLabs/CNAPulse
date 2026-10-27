@@ -1,9 +1,9 @@
 {
   "assigner_id": "655498c3-6ec5-4f0b-aea6-853b334d05a6",
   "cna_name": "rami.io",
-  "cna_org_name": "rami.io GmbH",
-  "cna_advisory_url": "https://rami.io/security/advisories/",
-  "country": "Germany",
+  "cna_org_name": "rami.io",
+  "cna_advisory_url": "",
+  "country": "",
   "scope_type": "",
   "status": "Normal",
   "baseline_avg": 3.11,
