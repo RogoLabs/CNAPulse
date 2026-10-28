@@ -1,0 +1,113 @@
+{
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T04:20:31.437860",
+  "total_cnas": 603,
+  "cnas_growth": 81,
+  "cnas_normal": 128,
+  "cnas_declining": 200,
+  "cnas_inactive": 194,
+  "top_growth": [
+    {
+      "cna_name": "chainguard",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "hsi",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "esaqa",
+      "current_count": 5,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Infoblox",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "sirius",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Grayback",
+      "current_count": 4,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Anthropic",
+      "current_count": 5,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Velneo",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "FB",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "WindRiver",
+      "current_count": 5,
+      "deviation_pct": 999999.0
+    }
+  ],
+  "top_declining": [
+    {
+      "cna_name": "autodesk",
+      "current_count": 6,
+      "deviation_pct": -7.7
+    },
+    {
+      "cna_name": "SolarWinds",
+      "current_count": 4,
+      "deviation_pct": -12.2
+    },
+    {
+      "cna_name": "google_android",
+      "current_count": 27,
+      "deviation_pct": -25.8
+    },
+    {
+      "cna_name": "PostgreSQL",
+      "current_count": 8,
+      "deviation_pct": -34.0
+    },
+    {
+      "cna_name": "isc",
+      "current_count": 4,
+      "deviation_pct": -38.5
+    },
+    {
+      "cna_name": "microfocus",
+      "current_count": 2,
+      "deviation_pct": -40.0
+    },
+    {
+      "cna_name": "GV",
+      "current_count": 6,
+      "deviation_pct": -46.2
+    },
+    {
+      "cna_name": "Unisoc",
+      "current_count": 3,
+      "deviation_pct": -51.4
+    },
+    {
+      "cna_name": "wolfSSL",
+      "current_count": 5,
+      "deviation_pct": -54.1
+    },
+    {
+      "cna_name": "NetScaler",
+      "current_count": 2,
+      "deviation_pct": -55.6
+    }
+  ]
+}
