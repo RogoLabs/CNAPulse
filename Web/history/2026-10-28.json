@@ -1,29 +1,14 @@
 {
   "date": "2026-10-28",
-  "generated_at": "2026-10-28T04:20:31.437860",
+  "generated_at": "2026-10-28T12:13:03.328741",
   "total_cnas": 603,
-  "cnas_growth": 81,
-  "cnas_normal": 128,
-  "cnas_declining": 200,
+  "cnas_growth": 80,
+  "cnas_normal": 130,
+  "cnas_declining": 199,
   "cnas_inactive": 194,
   "top_growth": [
     {
-      "cna_name": "chainguard",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "hsi",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "esaqa",
-      "current_count": 5,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Infoblox",
+      "cna_name": "flock",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -33,13 +18,28 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Grayback",
-      "current_count": 4,
+      "cna_name": "Forescout",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Anthropic",
+      "cna_name": "chainguard",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "IQSIGHT",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "esaqa",
       "current_count": 5,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "cirosec",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -48,13 +48,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "FB",
+      "cna_name": "EA",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "WindRiver",
-      "current_count": 5,
+      "cna_name": "Grayback",
+      "current_count": 4,
       "deviation_pct": 999999.0
     }
   ],
