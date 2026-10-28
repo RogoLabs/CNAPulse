@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://chromereleases.googleblog.com/",
   "country": "USA",
   "scope_type": "",
-  "status": "Normal",
-  "baseline_avg": 262.27,
+  "status": "Growth",
+  "baseline_avg": 262.36,
   "current_count": 851,
-  "deviation_pct": 224.5,
+  "deviation_pct": 224.4,
   "days_since_last_cve": 0,
-  "std_dev": 277.78,
-  "threshold_low": 131.14,
-  "threshold_high": 655.68,
+  "std_dev": 278.09,
+  "threshold_low": 131.18,
+  "threshold_high": 655.91,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -71,7 +71,7 @@
     },
     {
       "month": "Days 60-30",
-      "count": 326,
+      "count": 327,
       "is_current": false
     },
     {
