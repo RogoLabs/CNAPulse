@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://gitlab.wikimedia.org/repos/security/wikimedia-cve-assignments",
   "country": "USA",
   "scope_type": "",
-  "status": "Normal",
-  "baseline_avg": 19.12,
-  "current_count": 28,
-  "deviation_pct": 46.4,
+  "status": "Growth",
+  "baseline_avg": 20.12,
+  "current_count": 20,
+  "deviation_pct": -0.6,
   "days_since_last_cve": 28,
-  "std_dev": 14.3,
-  "threshold_low": 9.56,
-  "threshold_high": 47.81,
+  "std_dev": 14.21,
+  "threshold_low": 10.06,
+  "threshold_high": 50.31,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -71,12 +71,12 @@
     },
     {
       "month": "Days 60-30",
-      "count": 17,
+      "count": 25,
       "is_current": false
     },
     {
       "month": "Last 30 Days",
-      "count": 28,
+      "count": 20,
       "is_current": true
     }
   ]
