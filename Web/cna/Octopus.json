@@ -6,13 +6,13 @@
   "country": "Australia",
   "scope_type": "",
   "status": "Growth",
-  "baseline_avg": 1.67,
+  "baseline_avg": 1.83,
   "current_count": 8,
-  "deviation_pct": 380.0,
-  "days_since_last_cve": 1,
-  "std_dev": 0.52,
-  "threshold_low": 0.83,
-  "threshold_high": 4.17,
+  "deviation_pct": 336.4,
+  "days_since_last_cve": 0,
+  "std_dev": 0.75,
+  "threshold_low": 0.92,
+  "threshold_high": 4.58,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -71,7 +71,7 @@
     },
     {
       "month": "Days 60-30",
-      "count": 2,
+      "count": 3,
       "is_current": false
     },
     {
