@@ -1,19 +1,44 @@
 {
   "date": "2026-10-30",
-  "generated_at": "2026-10-30T09:40:11.413749",
+  "generated_at": "2026-10-30T17:58:11.375621",
   "total_cnas": 603,
-  "cnas_growth": 77,
-  "cnas_normal": 125,
-  "cnas_declining": 209,
-  "cnas_inactive": 192,
+  "cnas_growth": 74,
+  "cnas_normal": 131,
+  "cnas_declining": 207,
+  "cnas_inactive": 191,
   "top_growth": [
     {
-      "cna_name": "FB",
+      "cna_name": "Infoblox",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "flock",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "chainguard",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "Forescout",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "rt-labs",
+      "current_count": 11,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "esaqa",
+      "current_count": 5,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "ClickHouse",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -23,46 +48,21 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "chainguard",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "hsi",
+      "cna_name": "sirius",
       "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "EA",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "cirosec",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "NCSC",
-      "current_count": 10,
       "deviation_pct": 999999.0
     },
     {
       "cna_name": "Velneo",
       "current_count": 2,
       "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "flock",
-      "current_count": 1,
-      "deviation_pct": 999999.0
     }
   ],
   "top_declining": [
     {
       "cna_name": "fedora",
-      "current_count": 9,
-      "deviation_pct": 19.1
+      "current_count": 10,
+      "deviation_pct": 32.4
     },
     {
       "cna_name": "tenable",
@@ -90,9 +90,9 @@
       "deviation_pct": -25.0
     },
     {
-      "cna_name": "Joomla",
-      "current_count": 22,
-      "deviation_pct": -36.2
+      "cna_name": "nvidia",
+      "current_count": 26,
+      "deviation_pct": -25.2
     },
     {
       "cna_name": "isc",
@@ -100,14 +100,14 @@
       "deviation_pct": -38.5
     },
     {
-      "cna_name": "ESET",
-      "current_count": 1,
-      "deviation_pct": -40.0
+      "cna_name": "Joomla",
+      "current_count": 20,
+      "deviation_pct": -42.4
     },
     {
-      "cna_name": "wikimedia-foundation",
-      "current_count": 12,
-      "deviation_pct": -50.3
+      "cna_name": "Unisoc",
+      "current_count": 3,
+      "deviation_pct": -51.4
     }
   ]
 }

@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://www.nvidia.com/en-us/security/",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
-  "baseline_avg": 25.25,
-  "current_count": 140,
-  "deviation_pct": 454.5,
-  "days_since_last_cve": 2,
-  "std_dev": 14.63,
-  "threshold_low": 12.62,
-  "threshold_high": 63.12,
+  "status": "Declining",
+  "baseline_avg": 34.75,
+  "current_count": 26,
+  "deviation_pct": -25.2,
+  "days_since_last_cve": 3,
+  "std_dev": 43.32,
+  "threshold_low": 17.38,
+  "threshold_high": 86.88,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -71,12 +71,12 @@
     },
     {
       "month": "Days 60-30",
-      "count": 53,
+      "count": 167,
       "is_current": false
     },
     {
       "month": "Last 30 Days",
-      "count": 140,
+      "count": 26,
       "is_current": true
     }
   ]
