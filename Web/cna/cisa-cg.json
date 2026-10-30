@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://www.cisa.gov/news-events/cybersecurity-advisories",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
-  "baseline_avg": 10.18,
-  "current_count": 79,
-  "deviation_pct": 675.9,
-  "days_since_last_cve": 7,
-  "std_dev": 7.19,
-  "threshold_low": 5.09,
-  "threshold_high": 25.45,
+  "status": "Normal",
+  "baseline_avg": 15.73,
+  "current_count": 18,
+  "deviation_pct": 14.5,
+  "days_since_last_cve": 8,
+  "std_dev": 19.69,
+  "threshold_low": 7.86,
+  "threshold_high": 39.32,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -71,12 +71,12 @@
     },
     {
       "month": "Days 60-30",
-      "count": 10,
+      "count": 71,
       "is_current": false
     },
     {
       "month": "Last 30 Days",
-      "count": 79,
+      "count": 18,
       "is_current": true
     }
   ]
