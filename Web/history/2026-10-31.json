@@ -1,39 +1,19 @@
 {
   "date": "2026-10-31",
-  "generated_at": "2026-10-31T04:23:59.956526",
+  "generated_at": "2026-10-31T11:47:52.511229",
   "total_cnas": 603,
-  "cnas_growth": 71,
-  "cnas_normal": 138,
-  "cnas_declining": 203,
+  "cnas_growth": 67,
+  "cnas_normal": 137,
+  "cnas_declining": 208,
   "cnas_inactive": 191,
   "top_growth": [
     {
-      "cna_name": "Forescout",
-      "current_count": 1,
+      "cna_name": "Grayback",
+      "current_count": 4,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "flock",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "FB",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "rt-labs",
-      "current_count": 11,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Infoblox",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "ClickHouse",
+      "cna_name": "cirosec",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -43,17 +23,37 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "cirosec",
+      "cna_name": "rt-labs",
+      "current_count": 11,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "flock",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Grayback",
-      "current_count": 4,
+      "cna_name": "esaqa",
+      "current_count": 5,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "sirius",
+      "cna_name": "chainguard",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "EA",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "NCSC",
+      "current_count": 10,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "ClickHouse",
       "current_count": 1,
       "deviation_pct": 999999.0
     }
@@ -61,8 +61,8 @@
   "top_declining": [
     {
       "cna_name": "fedora",
-      "current_count": 10,
-      "deviation_pct": 32.4
+      "current_count": 8,
+      "deviation_pct": 0.0
     },
     {
       "cna_name": "tenable",
@@ -95,6 +95,11 @@
       "deviation_pct": -25.2
     },
     {
+      "cna_name": "JetBrains",
+      "current_count": 12,
+      "deviation_pct": -34.1
+    },
+    {
       "cna_name": "isc",
       "current_count": 4,
       "deviation_pct": -38.5
@@ -103,11 +108,6 @@
       "cna_name": "Joomla",
       "current_count": 20,
       "deviation_pct": -42.4
-    },
-    {
-      "cna_name": "Unisoc",
-      "current_count": 3,
-      "deviation_pct": -51.4
     }
   ]
 }
