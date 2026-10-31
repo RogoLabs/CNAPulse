@@ -1,19 +1,29 @@
 {
   "date": "2026-10-31",
-  "generated_at": "2026-10-31T11:47:52.511229",
+  "generated_at": "2026-10-31T16:55:32.075017",
   "total_cnas": 603,
-  "cnas_growth": 67,
-  "cnas_normal": 137,
-  "cnas_declining": 208,
+  "cnas_growth": 65,
+  "cnas_normal": 138,
+  "cnas_declining": 209,
   "cnas_inactive": 191,
   "top_growth": [
     {
-      "cna_name": "Grayback",
-      "current_count": 4,
+      "cna_name": "EA",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "cirosec",
+      "cna_name": "sirius",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "flock",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Forescout",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -23,18 +33,18 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "rt-labs",
-      "current_count": 11,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "flock",
+      "cna_name": "ClickHouse",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "esaqa",
-      "current_count": 5,
+      "cna_name": "Infoblox",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Grayback",
+      "current_count": 4,
       "deviation_pct": 999999.0
     },
     {
@@ -43,18 +53,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "EA",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "NCSC",
       "current_count": 10,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "ClickHouse",
-      "current_count": 1,
       "deviation_pct": 999999.0
     }
   ],
@@ -63,6 +63,11 @@
       "cna_name": "fedora",
       "current_count": 8,
       "deviation_pct": 0.0
+    },
+    {
+      "cna_name": "DSF",
+      "current_count": 4,
+      "deviation_pct": -5.9
     },
     {
       "cna_name": "tenable",
@@ -83,11 +88,6 @@
       "cna_name": "google_android",
       "current_count": 27,
       "deviation_pct": -16.5
-    },
-    {
-      "cna_name": "qualcomm",
-      "current_count": 15,
-      "deviation_pct": -25.0
     },
     {
       "cna_name": "nvidia",
