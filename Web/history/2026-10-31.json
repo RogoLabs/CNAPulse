@@ -1,0 +1,113 @@
+{
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T04:23:59.956526",
+  "total_cnas": 603,
+  "cnas_growth": 71,
+  "cnas_normal": 138,
+  "cnas_declining": 203,
+  "cnas_inactive": 191,
+  "top_growth": [
+    {
+      "cna_name": "Forescout",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "flock",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "FB",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "rt-labs",
+      "current_count": 11,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Infoblox",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "ClickHouse",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Velneo",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "cirosec",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Grayback",
+      "current_count": 4,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "sirius",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    }
+  ],
+  "top_declining": [
+    {
+      "cna_name": "fedora",
+      "current_count": 10,
+      "deviation_pct": 32.4
+    },
+    {
+      "cna_name": "tenable",
+      "current_count": 6,
+      "deviation_pct": -7.7
+    },
+    {
+      "cna_name": "netgear",
+      "current_count": 6,
+      "deviation_pct": -10.6
+    },
+    {
+      "cna_name": "SolarWinds",
+      "current_count": 4,
+      "deviation_pct": -12.2
+    },
+    {
+      "cna_name": "google_android",
+      "current_count": 27,
+      "deviation_pct": -16.5
+    },
+    {
+      "cna_name": "qualcomm",
+      "current_count": 15,
+      "deviation_pct": -25.0
+    },
+    {
+      "cna_name": "nvidia",
+      "current_count": 26,
+      "deviation_pct": -25.2
+    },
+    {
+      "cna_name": "isc",
+      "current_count": 4,
+      "deviation_pct": -38.5
+    },
+    {
+      "cna_name": "Joomla",
+      "current_count": 20,
+      "deviation_pct": -42.4
+    },
+    {
+      "cna_name": "Unisoc",
+      "current_count": 3,
+      "deviation_pct": -51.4
+    }
+  ]
+}
