@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://pkg.go.dev/vuln/list",
   "country": "USA",
   "scope_type": "",
-  "status": "Normal",
+  "status": "Growth",
   "baseline_avg": 9.08,
   "current_count": 19,
   "deviation_pct": 109.2,

@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://access.redhat.com/security/security-updates/#/security-advisories",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
-  "baseline_avg": 94.25,
-  "current_count": 234,
-  "deviation_pct": 148.3,
+  "status": "Normal",
+  "baseline_avg": 94.33,
+  "current_count": 233,
+  "deviation_pct": 147.0,
   "days_since_last_cve": 1,
-  "std_dev": 87.34,
-  "threshold_low": 47.12,
-  "threshold_high": 235.62,
+  "std_dev": 87.07,
+  "threshold_low": 47.17,
+  "threshold_high": 235.83,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 234,
+      "count": 233,
       "is_current": true
     }
   ]

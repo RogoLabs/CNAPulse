@@ -5,18 +5,18 @@
   "cna_advisory_url": "https://www.dell.com/support/security/en-us",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
-  "baseline_avg": 45.83,
+  "status": "Normal",
+  "baseline_avg": 44.58,
   "current_count": 121,
-  "deviation_pct": 164.0,
-  "days_since_last_cve": 1,
-  "std_dev": 51.79,
-  "threshold_low": 22.92,
-  "threshold_high": 114.58,
+  "deviation_pct": 171.4,
+  "days_since_last_cve": 2,
+  "std_dev": 51.74,
+  "threshold_low": 22.29,
+  "threshold_high": 111.46,
   "timeline_13months": [
     {
       "month": "Days 390-360",
-      "count": 34,
+      "count": 19,
       "is_current": false
     },
     {
