@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://www.solarwinds.com/trust-center/security-advisories",
   "country": "USA",
   "scope_type": "",
-  "status": "Declining",
+  "status": "Normal",
   "baseline_avg": 4.56,
   "current_count": 4,
   "deviation_pct": -12.2,

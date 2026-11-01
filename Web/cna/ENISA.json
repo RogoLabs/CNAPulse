@@ -6,13 +6,13 @@
   "country": "Greece",
   "scope_type": "",
   "status": "Growth",
-  "baseline_avg": 7.29,
+  "baseline_avg": 5.67,
   "current_count": 21,
-  "deviation_pct": 188.2,
+  "deviation_pct": 270.6,
   "days_since_last_cve": 5,
-  "std_dev": 4.42,
-  "threshold_low": 3.64,
-  "threshold_high": 18.21,
+  "std_dev": 4.33,
+  "threshold_low": 2.83,
+  "threshold_high": 14.17,
   "timeline_13months": [
     {
       "month": "Days 390-360",
