@@ -1,6 +1,6 @@
 {
   "date": "2026-11-02",
-  "generated_at": "2026-11-02T10:38:25.370590",
+  "generated_at": "2026-11-02T15:16:57.623780",
   "total_cnas": 603,
   "cnas_growth": 61,
   "cnas_normal": 135,
@@ -8,17 +8,22 @@
   "cnas_inactive": 191,
   "top_growth": [
     {
+      "cna_name": "EA",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "esaqa",
       "current_count": 5,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "NCSC",
-      "current_count": 10,
+      "cna_name": "Grayback",
+      "current_count": 4,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Forescout",
+      "cna_name": "cirosec",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -28,18 +33,18 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "Forescout",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "chainguard",
       "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "cirosec",
+      "cna_name": "sirius",
       "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Grayback",
-      "current_count": 4,
       "deviation_pct": 999999.0
     },
     {
@@ -49,11 +54,6 @@
     },
     {
       "cna_name": "Infoblox",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "EA",
       "current_count": 1,
       "deviation_pct": 999999.0
     }
