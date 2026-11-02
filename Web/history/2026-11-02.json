@@ -1,29 +1,39 @@
 {
   "date": "2026-11-02",
-  "generated_at": "2026-11-02T00:19:39.990798",
+  "generated_at": "2026-11-02T10:38:25.370590",
   "total_cnas": 603,
-  "cnas_growth": 60,
+  "cnas_growth": 61,
   "cnas_normal": 135,
-  "cnas_declining": 217,
+  "cnas_declining": 216,
   "cnas_inactive": 191,
   "top_growth": [
     {
-      "cna_name": "Infoblox",
+      "cna_name": "esaqa",
+      "current_count": 5,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "NCSC",
+      "current_count": 10,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Forescout",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "ClickHouse",
-      "current_count": 1,
+      "cna_name": "Velneo",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "rt-labs",
-      "current_count": 11,
+      "cna_name": "chainguard",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "sirius",
+      "cna_name": "cirosec",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -33,28 +43,18 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "flock",
+      "cna_name": "ClickHouse",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "esaqa",
-      "current_count": 5,
+      "cna_name": "Infoblox",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
       "cna_name": "EA",
       "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "chainguard",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "NCSC",
-      "current_count": 10,
       "deviation_pct": 999999.0
     }
   ],

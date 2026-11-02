@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://corp.mediatek.com/product-security-bulletin",
   "country": "Taiwan",
   "scope_type": "",
-  "status": "Normal",
-  "baseline_avg": 23.78,
-  "current_count": 31,
-  "deviation_pct": 30.4,
-  "days_since_last_cve": 27,
-  "std_dev": 15.69,
-  "threshold_low": 11.89,
-  "threshold_high": 59.44,
+  "status": "Growth",
+  "baseline_avg": 21.4,
+  "current_count": 87,
+  "deviation_pct": 306.5,
+  "days_since_last_cve": 0,
+  "std_dev": 12.03,
+  "threshold_low": 10.7,
+  "threshold_high": 53.5,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 31,
+      "count": 87,
       "is_current": true
     }
   ]
