@@ -1,11 +1,11 @@
 {
   "date": "2026-11-03",
-  "generated_at": "2026-11-03T13:43:25.640445",
-  "total_cnas": 603,
-  "cnas_growth": 63,
-  "cnas_normal": 137,
-  "cnas_declining": 213,
-  "cnas_inactive": 190,
+  "generated_at": "2026-11-03T20:49:29.641374",
+  "total_cnas": 604,
+  "cnas_growth": 68,
+  "cnas_normal": 143,
+  "cnas_declining": 204,
+  "cnas_inactive": 189,
   "top_growth": [
     {
       "cna_name": "Velneo",
@@ -13,8 +13,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "chainguard",
-      "current_count": 5,
+      "cna_name": "Forescout",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -28,12 +28,7 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "flock",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Forescout",
+      "cna_name": "cirosec",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -43,22 +38,32 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "chainguard",
+      "current_count": 5,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "rt-labs",
+      "current_count": 11,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "NCSC",
       "current_count": 10,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "cirosec",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Infoblox",
+      "cna_name": "securepoint",
       "current_count": 1,
       "deviation_pct": 999999.0
     }
   ],
   "top_declining": [
+    {
+      "cna_name": "SolarWinds",
+      "current_count": 7,
+      "deviation_pct": 53.7
+    },
     {
       "cna_name": "fedora",
       "current_count": 8,
@@ -75,29 +80,9 @@
       "deviation_pct": -10.6
     },
     {
-      "cna_name": "SolarWinds",
-      "current_count": 4,
-      "deviation_pct": -12.2
-    },
-    {
-      "cna_name": "jenkins",
-      "current_count": 15,
-      "deviation_pct": -19.2
-    },
-    {
-      "cna_name": "ManageEngine",
-      "current_count": 5,
-      "deviation_pct": -20.0
-    },
-    {
-      "cna_name": "nvidia",
-      "current_count": 26,
-      "deviation_pct": -25.2
-    },
-    {
       "cna_name": "JFROG",
       "current_count": 6,
-      "deviation_pct": -31.4
+      "deviation_pct": -22.9
     },
     {
       "cna_name": "JetBrains",
@@ -108,6 +93,21 @@
       "cna_name": "isc",
       "current_count": 4,
       "deviation_pct": -38.5
+    },
+    {
+      "cna_name": "samsung.tv_appliance",
+      "current_count": 5,
+      "deviation_pct": -44.4
+    },
+    {
+      "cna_name": "HCL",
+      "current_count": 13,
+      "deviation_pct": -45.1
+    },
+    {
+      "cna_name": "CIRCL",
+      "current_count": 20,
+      "deviation_pct": -47.6
     }
   ]
 }

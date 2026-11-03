@@ -2,7 +2,7 @@
   "assigner_id": "unknown",
   "cna_name": "Checkmk",
   "cna_org_name": "Checkmk GmbH",
-  "cna_advisory_url": "https://checkmk.com/werks",
+  "cna_advisory_url": "https://checkmarx.com/zero/vulnerabilities/",
   "country": "Germany",
   "scope_type": "",
   "status": "Inactive",
