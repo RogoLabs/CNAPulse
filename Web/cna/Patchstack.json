@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://patchstack.com/database/",
   "country": "Estonia",
   "scope_type": "",
-  "status": "Growth",
-  "baseline_avg": 469.17,
-  "current_count": 1008,
-  "deviation_pct": 114.8,
+  "status": "Normal",
+  "baseline_avg": 471.58,
+  "current_count": 982,
+  "deviation_pct": 108.2,
   "days_since_last_cve": 0,
-  "std_dev": 283.13,
-  "threshold_low": 234.58,
-  "threshold_high": 1172.92,
+  "std_dev": 226.6,
+  "threshold_low": 235.79,
+  "threshold_high": 1178.96,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 1008,
+      "count": 982,
       "is_current": true
     }
   ]
