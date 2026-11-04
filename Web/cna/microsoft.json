@@ -6,17 +6,17 @@
   "country": "USA",
   "scope_type": "",
   "status": "Growth",
-  "baseline_avg": 273.33,
+  "baseline_avg": 272.67,
   "current_count": 1474,
-  "deviation_pct": 439.3,
+  "deviation_pct": 440.6,
   "days_since_last_cve": 3,
-  "std_dev": 282.95,
-  "threshold_low": 136.67,
-  "threshold_high": 683.33,
+  "std_dev": 283.25,
+  "threshold_low": 136.33,
+  "threshold_high": 681.67,
   "timeline_13months": [
     {
       "month": "Days 390-360",
-      "count": 180,
+      "count": 172,
       "is_current": false
     },
     {
