@@ -1,14 +1,14 @@
 {
   "date": "2026-11-04",
-  "generated_at": "2026-11-04T01:04:59.234357",
+  "generated_at": "2026-11-04T10:32:08.772746",
   "total_cnas": 604,
-  "cnas_growth": 68,
-  "cnas_normal": 143,
-  "cnas_declining": 204,
+  "cnas_growth": 70,
+  "cnas_normal": 142,
+  "cnas_declining": 203,
   "cnas_inactive": 189,
   "top_growth": [
     {
-      "cna_name": "Infoblox",
+      "cna_name": "securepoint",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -18,12 +18,17 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "NCSC",
-      "current_count": 10,
+      "cna_name": "rt-labs",
+      "current_count": 11,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "EA",
+      "cna_name": "AxxonSoft",
+      "current_count": 5,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Infoblox",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -33,23 +38,18 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "Forescout",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "Grayback",
       "current_count": 4,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "AxxonSoft",
-      "current_count": 5,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "ClickHouse",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "esaqa",
-      "current_count": 5,
+      "cna_name": "NCSC",
+      "current_count": 10,
       "deviation_pct": 999999.0
     },
     {
@@ -95,14 +95,14 @@
       "deviation_pct": -38.5
     },
     {
+      "cna_name": "HCL",
+      "current_count": 13,
+      "deviation_pct": -43.5
+    },
+    {
       "cna_name": "samsung.tv_appliance",
       "current_count": 5,
       "deviation_pct": -44.4
-    },
-    {
-      "cna_name": "HCL",
-      "current_count": 13,
-      "deviation_pct": -45.1
     },
     {
       "cna_name": "CIRCL",
