@@ -6,13 +6,13 @@
   "country": "Uzbekistan",
   "scope_type": "",
   "status": "Declining",
-  "baseline_avg": 34.5,
+  "baseline_avg": 29.57,
   "current_count": 3,
-  "deviation_pct": -91.3,
+  "deviation_pct": -89.9,
   "days_since_last_cve": 22,
-  "std_dev": 40.83,
-  "threshold_low": 17.25,
-  "threshold_high": 86.25,
+  "std_dev": 39.43,
+  "threshold_low": 14.79,
+  "threshold_high": 73.93,
   "timeline_13months": [
     {
       "month": "Days 390-360",

@@ -6,13 +6,13 @@
   "country": "China",
   "scope_type": "",
   "status": "Growth",
-  "baseline_avg": 32.0,
-  "current_count": 98,
-  "deviation_pct": 206.2,
+  "baseline_avg": 29.25,
+  "current_count": 77,
+  "deviation_pct": 163.2,
   "days_since_last_cve": 4,
-  "std_dev": 20.22,
-  "threshold_low": 16.0,
-  "threshold_high": 80.0,
+  "std_dev": 17.4,
+  "threshold_low": 14.62,
+  "threshold_high": 73.12,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 98,
+      "count": 77,
       "is_current": true
     }
   ]
