@@ -6,13 +6,13 @@
   "country": "Hungary",
   "scope_type": "",
   "status": "Normal",
-  "baseline_avg": 2.33,
-  "current_count": 4,
-  "deviation_pct": 71.4,
+  "baseline_avg": 2.67,
+  "current_count": 3,
+  "deviation_pct": 12.5,
   "days_since_last_cve": 12,
-  "std_dev": 2.31,
-  "threshold_low": 1.17,
-  "threshold_high": 5.83,
+  "std_dev": 2.08,
+  "threshold_low": 1.33,
+  "threshold_high": 6.67,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 4,
+      "count": 3,
       "is_current": true
     }
   ]

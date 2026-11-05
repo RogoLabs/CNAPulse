@@ -1,24 +1,24 @@
 {
   "date": "2026-11-05",
-  "generated_at": "2026-11-05T01:19:39.642580",
+  "generated_at": "2026-11-05T10:26:45.705134",
   "total_cnas": 604,
-  "cnas_growth": 69,
-  "cnas_normal": 142,
+  "cnas_growth": 71,
+  "cnas_normal": 141,
   "cnas_declining": 205,
-  "cnas_inactive": 188,
+  "cnas_inactive": 187,
   "top_growth": [
     {
-      "cna_name": "rt-labs",
-      "current_count": 11,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Forescout",
+      "cna_name": "Infoblox",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "sirius",
+      "cna_name": "securepoint",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "cirosec",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -28,17 +28,7 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "EA",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "NCSC",
-      "current_count": 10,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "ClickHouse",
+      "cna_name": "Forescout",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -48,12 +38,22 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Infoblox",
+      "cna_name": "Grayback",
+      "current_count": 4,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "flock",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "NetDEF",
+      "cna_name": "samsungsemiconductor",
+      "current_count": 35,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "EA",
       "current_count": 1,
       "deviation_pct": 999999.0
     }
@@ -67,7 +67,7 @@
     {
       "cna_name": "fedora",
       "current_count": 8,
-      "deviation_pct": 0.0
+      "deviation_pct": 11.1
     },
     {
       "cna_name": "tenable",
