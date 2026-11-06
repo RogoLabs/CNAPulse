@@ -5,18 +5,18 @@
   "cna_advisory_url": "https://support.hcl-software.com/community?id=community_forum&sys_id=038a2b921b7bb34c77761fc58d4bcb0d",
   "country": "India",
   "scope_type": "",
-  "status": "Declining",
-  "baseline_avg": 23.0,
-  "current_count": 12,
-  "deviation_pct": -47.8,
-  "days_since_last_cve": 8,
-  "std_dev": 16.82,
-  "threshold_low": 11.5,
-  "threshold_high": 57.5,
+  "status": "Normal",
+  "baseline_avg": 22.33,
+  "current_count": 14,
+  "deviation_pct": -37.3,
+  "days_since_last_cve": 0,
+  "std_dev": 16.3,
+  "threshold_low": 11.17,
+  "threshold_high": 55.83,
   "timeline_13months": [
     {
       "month": "Days 390-360",
-      "count": 16,
+      "count": 8,
       "is_current": false
     },
     {
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 12,
+      "count": 14,
       "is_current": true
     }
   ]
