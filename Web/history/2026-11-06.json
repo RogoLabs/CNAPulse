@@ -1,35 +1,20 @@
 {
   "date": "2026-11-06",
-  "generated_at": "2026-11-06T10:28:35.422066",
+  "generated_at": "2026-11-06T18:58:44.739606",
   "total_cnas": 604,
-  "cnas_growth": 73,
+  "cnas_growth": 75,
   "cnas_normal": 139,
-  "cnas_declining": 206,
-  "cnas_inactive": 186,
+  "cnas_declining": 205,
+  "cnas_inactive": 185,
   "top_growth": [
     {
-      "cna_name": "NCSC",
-      "current_count": 10,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Forescout",
+      "cna_name": "securepoint",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "EA",
+      "cna_name": "WrenSecurity",
       "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "sirius",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "rt-labs",
-      "current_count": 11,
       "deviation_pct": 999999.0
     },
     {
@@ -38,8 +23,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "esaqa",
-      "current_count": 5,
+      "cna_name": "Velneo",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "sirius",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -48,7 +38,17 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "securepoint",
+      "cna_name": "ClickHouse",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Forescout",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "cirosec",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -65,9 +65,14 @@
       "deviation_pct": 53.7
     },
     {
+      "cna_name": "sonicwall",
+      "current_count": 7,
+      "deviation_pct": 46.5
+    },
+    {
       "cna_name": "fedora",
-      "current_count": 9,
-      "deviation_pct": 25.0
+      "current_count": 10,
+      "deviation_pct": 38.9
     },
     {
       "cna_name": "tenable",
@@ -77,7 +82,7 @@
     {
       "cna_name": "netgear",
       "current_count": 6,
-      "deviation_pct": -23.4
+      "deviation_pct": -10.6
     },
     {
       "cna_name": "samsung.tv_appliance",
@@ -90,19 +95,14 @@
       "deviation_pct": -38.5
     },
     {
-      "cna_name": "JetBrains",
-      "current_count": 10,
-      "deviation_pct": -40.2
-    },
-    {
       "cna_name": "JFROG",
       "current_count": 5,
       "deviation_pct": -43.7
     },
     {
-      "cna_name": "CIRCL",
-      "current_count": 19,
-      "deviation_pct": -50.6
+      "cna_name": "glibc",
+      "current_count": 2,
+      "deviation_pct": -50.0
     },
     {
       "cna_name": "Deltaww",
