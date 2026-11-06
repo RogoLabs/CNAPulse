@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://www.arista.com/en/support/advisories-notices",
   "country": "USA",
   "scope_type": "",
-  "status": "Normal",
-  "baseline_avg": 12.83,
-  "current_count": 24,
-  "deviation_pct": 87.0,
-  "days_since_last_cve": 13,
-  "std_dev": 17.63,
-  "threshold_low": 6.42,
-  "threshold_high": 32.08,
+  "status": "Declining",
+  "baseline_avg": 16.67,
+  "current_count": 1,
+  "deviation_pct": -94.0,
+  "days_since_last_cve": 14,
+  "std_dev": 26.71,
+  "threshold_low": 8.33,
+  "threshold_high": 41.67,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 24,
+      "count": 1,
       "is_current": true
     }
   ]
