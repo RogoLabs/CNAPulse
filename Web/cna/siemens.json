@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://www.siemens.com/global/en/products/services/cert.html#SiemensSecurityAdvisories",
   "country": "Germany",
   "scope_type": "",
-  "status": "Growth",
+  "status": "Normal",
   "baseline_avg": 13.09,
   "current_count": 34,
   "deviation_pct": 159.7,

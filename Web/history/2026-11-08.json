@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-08",
+  "generated_at": "2026-11-08T04:46:50.375023",
+  "total_cnas": 605,
+  "cnas_growth": 82,
+  "cnas_normal": 123,
+  "cnas_declining": 215,
+  "cnas_inactive": 185,
+  "top_growth": [
+    {
+      "cna_name": "Airoha",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "rt-labs",
+      "current_count": 11,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "securepoint",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "AxxonSoft",
+      "current_count": 5,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "NCSC",
+      "current_count": 10,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Velneo",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "ClickHouse",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "NetDEF",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "sirius",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "EA",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    }
+  ],
+  "top_declining": [
+    {
+      "cna_name": "SolarWinds",
+      "current_count": 7,
+      "deviation_pct": 53.7
+    },
+    {
+      "cna_name": "elastic",
+      "current_count": 19,
+      "deviation_pct": 8.3
+    },
+    {
+      "cna_name": "jci",
+      "current_count": 7,
+      "deviation_pct": 6.5
+    },
+    {
+      "cna_name": "NetMotion",
+      "current_count": 5,
+      "deviation_pct": -11.8
+    },
+    {
+      "cna_name": "f5",
+      "current_count": 11,
+      "deviation_pct": -17.3
+    },
+    {
+      "cna_name": "tenable",
+      "current_count": 5,
+      "deviation_pct": -23.1
+    },
+    {
+      "cna_name": "Joomla",
+      "current_count": 26,
+      "deviation_pct": -27.6
+    },
+    {
+      "cna_name": "samsung.tv_appliance",
+      "current_count": 5,
+      "deviation_pct": -36.5
+    },
+    {
+      "cna_name": "isc",
+      "current_count": 4,
+      "deviation_pct": -38.5
+    },
+    {
+      "cna_name": "JFROG",
+      "current_count": 5,
+      "deviation_pct": -43.7
+    }
+  ]
+}
