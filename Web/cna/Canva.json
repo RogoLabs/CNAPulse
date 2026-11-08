@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://trust.canva.com/",
   "country": "Australia",
   "scope_type": "",
-  "status": "Growth",
-  "baseline_avg": 2.5,
-  "current_count": 10,
-  "deviation_pct": 300.0,
+  "status": "Normal",
+  "baseline_avg": 6.0,
+  "current_count": 3,
+  "deviation_pct": -50.0,
   "days_since_last_cve": 10,
   "std_dev": null,
-  "threshold_low": 1.25,
-  "threshold_high": 6.25,
+  "threshold_low": 3.0,
+  "threshold_high": 15.0,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 10,
+      "count": 3,
       "is_current": true
     }
   ]

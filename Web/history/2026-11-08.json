@@ -1,35 +1,15 @@
 {
   "date": "2026-11-08",
-  "generated_at": "2026-11-08T04:46:50.375023",
+  "generated_at": "2026-11-08T12:52:39.638549",
   "total_cnas": 605,
-  "cnas_growth": 82,
-  "cnas_normal": 123,
-  "cnas_declining": 215,
+  "cnas_growth": 81,
+  "cnas_normal": 122,
+  "cnas_declining": 217,
   "cnas_inactive": 185,
   "top_growth": [
     {
-      "cna_name": "Airoha",
+      "cna_name": "sirius",
       "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "rt-labs",
-      "current_count": 11,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "securepoint",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "AxxonSoft",
-      "current_count": 5,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "NCSC",
-      "current_count": 10,
       "deviation_pct": 999999.0
     },
     {
@@ -38,7 +18,32 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "ClickHouse",
+      "cna_name": "rt-labs",
+      "current_count": 11,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "AxxonSoft",
+      "current_count": 5,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "esaqa",
+      "current_count": 5,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "POSIT",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "EA",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Airoha",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -48,13 +53,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "sirius",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "EA",
-      "current_count": 1,
+      "cna_name": "samsungsemiconductor",
+      "current_count": 35,
       "deviation_pct": 999999.0
     }
   ],
