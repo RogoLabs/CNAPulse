@@ -1,20 +1,20 @@
 {
   "date": "2026-11-08",
-  "generated_at": "2026-11-08T12:52:39.638549",
+  "generated_at": "2026-11-08T19:22:22.255170",
   "total_cnas": 605,
   "cnas_growth": 81,
-  "cnas_normal": 122,
-  "cnas_declining": 217,
+  "cnas_normal": 121,
+  "cnas_declining": 218,
   "cnas_inactive": 185,
   "top_growth": [
     {
-      "cna_name": "sirius",
-      "current_count": 1,
+      "cna_name": "samsungsemiconductor",
+      "current_count": 35,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Velneo",
-      "current_count": 2,
+      "cna_name": "Grayback",
+      "current_count": 4,
       "deviation_pct": 999999.0
     },
     {
@@ -23,8 +23,18 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "AxxonSoft",
-      "current_count": 5,
+      "cna_name": "NetDEF",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Akrites",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "WrenSecurity",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -33,28 +43,18 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "POSIT",
-      "current_count": 2,
+      "cna_name": "EA",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "EA",
+      "cna_name": "securepoint",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
       "cna_name": "Airoha",
       "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "NetDEF",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "samsungsemiconductor",
-      "current_count": 35,
       "deviation_pct": 999999.0
     }
   ],
@@ -85,11 +85,6 @@
       "deviation_pct": -17.3
     },
     {
-      "cna_name": "tenable",
-      "current_count": 5,
-      "deviation_pct": -23.1
-    },
-    {
       "cna_name": "Joomla",
       "current_count": 26,
       "deviation_pct": -27.6
@@ -103,6 +98,11 @@
       "cna_name": "isc",
       "current_count": 4,
       "deviation_pct": -38.5
+    },
+    {
+      "cna_name": "glibc",
+      "current_count": 2,
+      "deviation_pct": -41.7
     },
     {
       "cna_name": "JFROG",
