@@ -1,10 +1,10 @@
 {
   "date": "2026-11-09",
-  "generated_at": "2026-11-09T00:36:20.314475",
+  "generated_at": "2026-11-09T10:57:59.214659",
   "total_cnas": 605,
-  "cnas_growth": 80,
-  "cnas_normal": 122,
-  "cnas_declining": 218,
+  "cnas_growth": 83,
+  "cnas_normal": 117,
+  "cnas_declining": 220,
   "cnas_inactive": 185,
   "top_growth": [
     {
@@ -13,13 +13,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Grayback",
-      "current_count": 4,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "NCSC",
-      "current_count": 10,
+      "cna_name": "Akrites",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -28,37 +23,47 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "esaqa",
-      "current_count": 5,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "AxxonSoft",
       "current_count": 5,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "NetDEF",
+      "cna_name": "flock",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "POSIT",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Akrites",
+      "cna_name": "securepoint",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Forescout",
+      "cna_name": "samsungsemiconductor",
+      "current_count": 35,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "rt-labs",
+      "current_count": 11,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "ClickHouse",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "EA",
       "current_count": 1,
       "deviation_pct": 999999.0
     }
   ],
   "top_declining": [
+    {
+      "cna_name": "mongodb",
+      "current_count": 40,
+      "deviation_pct": 75.4
+    },
     {
       "cna_name": "SolarWinds",
       "current_count": 7,
@@ -103,11 +108,6 @@
       "cna_name": "glibc",
       "current_count": 2,
       "deviation_pct": -41.7
-    },
-    {
-      "cna_name": "JFROG",
-      "current_count": 5,
-      "deviation_pct": -43.7
     }
   ]
 }

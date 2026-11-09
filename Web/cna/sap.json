@@ -6,13 +6,13 @@
   "country": "Germany",
   "scope_type": "",
   "status": "Normal",
-  "baseline_avg": 22.67,
+  "baseline_avg": 20.4,
   "current_count": 20,
-  "deviation_pct": -11.8,
+  "deviation_pct": -2.0,
   "days_since_last_cve": 27,
-  "std_dev": 16.11,
-  "threshold_low": 11.33,
-  "threshold_high": 56.67,
+  "std_dev": 13.23,
+  "threshold_low": 10.2,
+  "threshold_high": 51.0,
   "timeline_13months": [
     {
       "month": "Days 390-360",
