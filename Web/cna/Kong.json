@@ -5,12 +5,12 @@
   "cna_advisory_url": "https://konghq.com/compliance/psa",
   "country": "USA",
   "scope_type": "",
-  "status": "Declining",
+  "status": "Growth",
   "baseline_avg": 3.2,
-  "current_count": 1,
-  "deviation_pct": -68.8,
-  "days_since_last_cve": 29,
-  "std_dev": 2.49,
+  "current_count": 11,
+  "deviation_pct": 243.8,
+  "days_since_last_cve": 0,
+  "std_dev": 3.9,
   "threshold_low": 1.6,
   "threshold_high": 8.0,
   "timeline_13months": [
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 1,
+      "count": 11,
       "is_current": true
     }
   ]
