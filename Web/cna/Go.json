@@ -5,18 +5,18 @@
   "cna_advisory_url": "https://pkg.go.dev/vuln/list",
   "country": "USA",
   "scope_type": "",
-  "status": "Declining",
+  "status": "Normal",
   "baseline_avg": 10.42,
-  "current_count": 3,
-  "deviation_pct": -71.2,
-  "days_since_last_cve": 14,
+  "current_count": 15,
+  "deviation_pct": 44.0,
+  "days_since_last_cve": 0,
   "std_dev": 7.25,
   "threshold_low": 5.21,
   "threshold_high": 26.04,
   "timeline_13months": [
     {
       "month": "Days 390-360",
-      "count": 10,
+      "count": 3,
       "is_current": false
     },
     {
@@ -36,7 +36,7 @@
     },
     {
       "month": "Days 270-240",
-      "count": 6,
+      "count": 10,
       "is_current": false
     },
     {
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 3,
+      "count": 15,
       "is_current": true
     }
   ]

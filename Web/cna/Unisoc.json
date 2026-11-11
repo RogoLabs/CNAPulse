@@ -6,22 +6,22 @@
   "country": "China",
   "scope_type": "",
   "status": "Growth",
-  "baseline_avg": 5.83,
-  "current_count": 6,
-  "deviation_pct": 2.9,
-  "days_since_last_cve": 6,
-  "std_dev": 4.07,
-  "threshold_low": 2.92,
-  "threshold_high": 14.58,
+  "baseline_avg": 5.43,
+  "current_count": 3,
+  "deviation_pct": -44.7,
+  "days_since_last_cve": 7,
+  "std_dev": 3.87,
+  "threshold_low": 2.71,
+  "threshold_high": 13.57,
   "timeline_13months": [
     {
       "month": "Days 390-360",
-      "count": 0,
+      "count": 1,
       "is_current": false
     },
     {
       "month": "Days 360-330",
-      "count": 1,
+      "count": 11,
       "is_current": false
     },
     {
@@ -36,7 +36,7 @@
     },
     {
       "month": "Days 270-240",
-      "count": 0,
+      "count": 8,
       "is_current": false
     },
     {
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 6,
+      "count": 3,
       "is_current": true
     }
   ]

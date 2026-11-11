@@ -5,23 +5,23 @@
   "cna_advisory_url": "https://www.amd.com/en/resources/product-security.html#security",
   "country": "USA",
   "scope_type": "",
-  "status": "Normal",
+  "status": "Growth",
   "baseline_avg": 15.0,
   "current_count": 30,
   "deviation_pct": 100.0,
   "days_since_last_cve": 0,
-  "std_dev": 17.18,
+  "std_dev": 18.8,
   "threshold_low": 7.5,
   "threshold_high": 37.5,
   "timeline_13months": [
     {
       "month": "Days 390-360",
-      "count": 0,
+      "count": 15,
       "is_current": false
     },
     {
       "month": "Days 360-330",
-      "count": 15,
+      "count": 0,
       "is_current": false
     },
     {
@@ -36,7 +36,7 @@
     },
     {
       "month": "Days 270-240",
-      "count": 42,
+      "count": 0,
       "is_current": false
     },
     {
