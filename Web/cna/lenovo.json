@@ -6,13 +6,13 @@
   "country": "USA",
   "scope_type": "",
   "status": "Normal",
-  "baseline_avg": 7.33,
+  "baseline_avg": 6.6,
   "current_count": 7,
-  "deviation_pct": -4.5,
+  "deviation_pct": 6.1,
   "days_since_last_cve": 26,
-  "std_dev": 4.12,
-  "threshold_low": 3.67,
-  "threshold_high": 18.33,
+  "std_dev": 4.27,
+  "threshold_low": 3.3,
+  "threshold_high": 16.5,
   "timeline_13months": [
     {
       "month": "Days 390-360",
