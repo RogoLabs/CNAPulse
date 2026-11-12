@@ -1,35 +1,15 @@
 {
   "date": "2026-11-12",
-  "generated_at": "2026-11-12T15:01:57.223536",
+  "generated_at": "2026-11-12T21:49:54.524178",
   "total_cnas": 608,
-  "cnas_growth": 93,
-  "cnas_normal": 131,
-  "cnas_declining": 200,
+  "cnas_growth": 91,
+  "cnas_normal": 130,
+  "cnas_declining": 203,
   "cnas_inactive": 184,
   "top_growth": [
     {
-      "cna_name": "esaqa",
-      "current_count": 5,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "EA",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "WrenSecurity",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "NetDEF",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "AxxonSoft",
-      "current_count": 5,
+      "cna_name": "openEuler",
+      "current_count": 4,
       "deviation_pct": 999999.0
     },
     {
@@ -38,12 +18,27 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Velneo",
+      "cna_name": "Illumio",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "POSIT",
+      "cna_name": "rt-labs",
+      "current_count": 11,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Forescout",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "samsungsemiconductor",
+      "current_count": 35,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "NetDEF",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
@@ -53,8 +48,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "samsungsemiconductor",
-      "current_count": 35,
+      "cna_name": "Grayback",
+      "current_count": 6,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Velneo",
+      "current_count": 2,
       "deviation_pct": 999999.0
     }
   ],
@@ -70,14 +70,24 @@
       "deviation_pct": 53.7
     },
     {
-      "cna_name": "f5",
-      "current_count": 11,
-      "deviation_pct": 23.6
+      "cna_name": "OpenVPN",
+      "current_count": 5,
+      "deviation_pct": 45.2
     },
     {
-      "cna_name": "jci",
-      "current_count": 7,
-      "deviation_pct": 21.7
+      "cna_name": "f5",
+      "current_count": 11,
+      "deviation_pct": 11.2
+    },
+    {
+      "cna_name": "Joomla",
+      "current_count": 39,
+      "deviation_pct": 8.6
+    },
+    {
+      "cna_name": "NetMotion",
+      "current_count": 5,
+      "deviation_pct": -11.8
     },
     {
       "cna_name": "checkpoint",
@@ -85,14 +95,9 @@
       "deviation_pct": -14.3
     },
     {
-      "cna_name": "Joomla",
-      "current_count": 27,
-      "deviation_pct": -24.8
-    },
-    {
       "cna_name": "cisa-cg",
       "current_count": 12,
-      "deviation_pct": -28.6
+      "deviation_pct": -21.4
     },
     {
       "cna_name": "mitre",
@@ -103,11 +108,6 @@
       "cna_name": "Deltaww",
       "current_count": 3,
       "deviation_pct": -33.3
-    },
-    {
-      "cna_name": "GV",
-      "current_count": 9,
-      "deviation_pct": -34.1
     }
   ]
 }
