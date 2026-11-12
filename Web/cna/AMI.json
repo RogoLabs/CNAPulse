@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://www.ami.com/security-center/",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
-  "baseline_avg": 1.0,
-  "current_count": 9,
-  "deviation_pct": 800.0,
+  "status": "Normal",
+  "baseline_avg": 2.33,
+  "current_count": 4,
+  "deviation_pct": 71.4,
   "days_since_last_cve": 1,
-  "std_dev": null,
-  "threshold_low": 0.5,
-  "threshold_high": 2.5,
+  "std_dev": 2.31,
+  "threshold_low": 1.17,
+  "threshold_high": 5.83,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 9,
+      "count": 4,
       "is_current": true
     }
   ]
