@@ -5,10 +5,10 @@
   "cna_advisory_url": "https://support.citrix.com/support-home/topic-article-list?trendingCategory=20&trendingTopicName=Security%20Bulletin",
   "country": "USA",
   "scope_type": "",
-  "status": "Declining",
+  "status": "Growth",
   "baseline_avg": 5.0,
-  "current_count": 1,
-  "deviation_pct": -80.0,
+  "current_count": 14,
+  "deviation_pct": 180.0,
   "days_since_last_cve": 0,
   "std_dev": 3.83,
   "threshold_low": 2.5,
@@ -51,12 +51,12 @@
     },
     {
       "month": "Days 180-150",
-      "count": 0,
+      "count": 6,
       "is_current": false
     },
     {
       "month": "Days 150-120",
-      "count": 6,
+      "count": 0,
       "is_current": false
     },
     {
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 1,
+      "count": 14,
       "is_current": true
     }
   ]

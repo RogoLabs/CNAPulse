@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://support.citrix.com/securitybulletins",
   "country": "USA",
   "scope_type": "",
-  "status": "Normal",
-  "baseline_avg": 2.25,
-  "current_count": 2,
-  "deviation_pct": -11.1,
-  "days_since_last_cve": 29,
-  "std_dev": 0.96,
-  "threshold_low": 1.12,
-  "threshold_high": 5.62,
+  "status": "Declining",
+  "baseline_avg": 2.75,
+  "current_count": 0,
+  "deviation_pct": -100.0,
+  "days_since_last_cve": 30,
+  "std_dev": 1.71,
+  "threshold_low": 1.38,
+  "threshold_high": 6.88,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -56,7 +56,7 @@
     },
     {
       "month": "Days 150-120",
-      "count": 0,
+      "count": 2,
       "is_current": false
     },
     {
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 2,
+      "count": 0,
       "is_current": true
     }
   ]
