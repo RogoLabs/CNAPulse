@@ -6,13 +6,13 @@
   "country": "Sweden",
   "scope_type": "",
   "status": "Growth",
-  "baseline_avg": 7.83,
-  "current_count": 24,
-  "deviation_pct": 206.4,
+  "baseline_avg": 6.86,
+  "current_count": 23,
+  "deviation_pct": 235.4,
   "days_since_last_cve": 23,
-  "std_dev": 5.71,
-  "threshold_low": 3.92,
-  "threshold_high": 19.58,
+  "std_dev": 5.81,
+  "threshold_low": 3.43,
+  "threshold_high": 17.14,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 24,
+      "count": 23,
       "is_current": true
     }
   ]

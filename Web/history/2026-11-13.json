@@ -1,24 +1,29 @@
 {
   "date": "2026-11-13",
-  "generated_at": "2026-11-13T05:24:03.204517",
+  "generated_at": "2026-11-13T14:01:38.139940",
   "total_cnas": 608,
   "cnas_growth": 91,
-  "cnas_normal": 128,
-  "cnas_declining": 205,
+  "cnas_normal": 127,
+  "cnas_declining": 206,
   "cnas_inactive": 184,
   "top_growth": [
     {
-      "cna_name": "openam-jp",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Akrites",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "Forescout",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "AxxonSoft",
+      "current_count": 5,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "POSIT",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "SDC",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -28,8 +33,18 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "WrenSecurity",
+      "cna_name": "securepoint",
       "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "samsungsemiconductor",
+      "current_count": 35,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "NetDEF",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -38,22 +53,7 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Airoha",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "openEuler",
-      "current_count": 4,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "AxxonSoft",
-      "current_count": 5,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "ClickHouse",
+      "cna_name": "EA",
       "current_count": 1,
       "deviation_pct": 999999.0
     }
@@ -67,17 +67,12 @@
     {
       "cna_name": "SolarWinds",
       "current_count": 7,
-      "deviation_pct": 53.7
+      "deviation_pct": 36.6
     },
     {
       "cna_name": "f5",
       "current_count": 11,
       "deviation_pct": 11.2
-    },
-    {
-      "cna_name": "Joomla",
-      "current_count": 39,
-      "deviation_pct": 8.6
     },
     {
       "cna_name": "NetMotion",
@@ -108,6 +103,11 @@
       "cna_name": "GV",
       "current_count": 9,
       "deviation_pct": -34.1
+    },
+    {
+      "cna_name": "mitre",
+      "current_count": 253,
+      "deviation_pct": -36.4
     }
   ]
 }
