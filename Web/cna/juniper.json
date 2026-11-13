@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://kb.juniper.net/InfoCenter/index?page=content&channel=SECURITY_ADVISORIES",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
-  "baseline_avg": 14.8,
-  "current_count": 171,
-  "deviation_pct": 1055.4,
-  "days_since_last_cve": 15,
-  "std_dev": 12.74,
-  "threshold_low": 7.4,
-  "threshold_high": 37.0,
+  "status": "Normal",
+  "baseline_avg": 37.83,
+  "current_count": 18,
+  "deviation_pct": -52.4,
+  "days_since_last_cve": 16,
+  "std_dev": 57.56,
+  "threshold_low": 18.92,
+  "threshold_high": 94.58,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 171,
+      "count": 18,
       "is_current": true
     }
   ]
