@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T05:13:09.281454",
+  "total_cnas": 608,
+  "cnas_growth": 92,
+  "cnas_normal": 128,
+  "cnas_declining": 206,
+  "cnas_inactive": 182,
+  "top_growth": [
+    {
+      "cna_name": "esaqa",
+      "current_count": 6,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "POSIT",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "openam-jp",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "NCSC",
+      "current_count": 10,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "NetDEF",
+      "current_count": 4,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "B.Braun",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Grayback",
+      "current_count": 6,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "AxxonSoft",
+      "current_count": 5,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "SDC",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "EA",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    }
+  ],
+  "top_declining": [
+    {
+      "cna_name": "Arista",
+      "current_count": 27,
+      "deviation_pct": 89.0
+    },
+    {
+      "cna_name": "SolarWinds",
+      "current_count": 7,
+      "deviation_pct": 36.6
+    },
+    {
+      "cna_name": "cisa-cg",
+      "current_count": 15,
+      "deviation_pct": -1.8
+    },
+    {
+      "cna_name": "NetMotion",
+      "current_count": 5,
+      "deviation_pct": -11.8
+    },
+    {
+      "cna_name": "checkpoint",
+      "current_count": 3,
+      "deviation_pct": -14.3
+    },
+    {
+      "cna_name": "Deltaww",
+      "current_count": 3,
+      "deviation_pct": -33.3
+    },
+    {
+      "cna_name": "GV",
+      "current_count": 9,
+      "deviation_pct": -34.1
+    },
+    {
+      "cna_name": "isc",
+      "current_count": 4,
+      "deviation_pct": -38.5
+    },
+    {
+      "cna_name": "mitre",
+      "current_count": 228,
+      "deviation_pct": -42.7
+    },
+    {
+      "cna_name": "Foxit",
+      "current_count": 6,
+      "deviation_pct": -43.7
+    }
+  ]
+}
