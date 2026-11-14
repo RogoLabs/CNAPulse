@@ -1,24 +1,39 @@
 {
   "date": "2026-11-14",
-  "generated_at": "2026-11-14T05:13:09.281454",
+  "generated_at": "2026-11-14T13:03:11.455587",
   "total_cnas": 608,
-  "cnas_growth": 92,
-  "cnas_normal": 128,
-  "cnas_declining": 206,
+  "cnas_growth": 91,
+  "cnas_normal": 124,
+  "cnas_declining": 211,
   "cnas_inactive": 182,
   "top_growth": [
     {
-      "cna_name": "esaqa",
-      "current_count": 6,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "POSIT",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "openam-jp",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "ClickHouse",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "samsungsemiconductor",
+      "current_count": 35,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "NetDEF",
+      "current_count": 4,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "securepoint",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "EA",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -28,33 +43,18 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "NetDEF",
-      "current_count": 4,
+      "cna_name": "Airoha",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "rt-labs",
+      "current_count": 20,
       "deviation_pct": 999999.0
     },
     {
       "cna_name": "B.Braun",
       "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Grayback",
-      "current_count": 6,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "AxxonSoft",
-      "current_count": 5,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "SDC",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "EA",
-      "current_count": 1,
       "deviation_pct": 999999.0
     }
   ],
@@ -105,9 +105,9 @@
       "deviation_pct": -42.7
     },
     {
-      "cna_name": "Foxit",
-      "current_count": 6,
-      "deviation_pct": -43.7
+      "cna_name": "openssl",
+      "current_count": 5,
+      "deviation_pct": -44.4
     }
   ]
 }

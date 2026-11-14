@@ -6,13 +6,13 @@
   "country": "Estonia",
   "scope_type": "",
   "status": "Normal",
-  "baseline_avg": 513.17,
-  "current_count": 770,
-  "deviation_pct": 50.0,
+  "baseline_avg": 514.5,
+  "current_count": 754,
+  "deviation_pct": 46.6,
   "days_since_last_cve": 0,
-  "std_dev": 199.58,
-  "threshold_low": 256.58,
-  "threshold_high": 1282.92,
+  "std_dev": 206.86,
+  "threshold_low": 257.25,
+  "threshold_high": 1286.25,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 770,
+      "count": 754,
       "is_current": true
     }
   ]

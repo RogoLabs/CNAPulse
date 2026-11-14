@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://www.qnap.com/en/security-advisories",
   "country": "Taiwan",
   "scope_type": "",
-  "status": "Normal",
-  "baseline_avg": 18.38,
-  "current_count": 37,
-  "deviation_pct": 101.4,
-  "days_since_last_cve": 15,
-  "std_dev": 16.83,
-  "threshold_low": 9.19,
-  "threshold_high": 45.94,
+  "status": "Declining",
+  "baseline_avg": 22.75,
+  "current_count": 2,
+  "deviation_pct": -91.2,
+  "days_since_last_cve": 16,
+  "std_dev": 16.51,
+  "threshold_low": 11.38,
+  "threshold_high": 56.88,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 37,
+      "count": 2,
       "is_current": true
     }
   ]
