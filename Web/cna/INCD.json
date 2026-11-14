@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://www.gov.il/en/departments/faq/cve_advisories",
   "country": "Israel",
   "scope_type": "",
-  "status": "Normal",
-  "baseline_avg": 4.8,
-  "current_count": 4,
-  "deviation_pct": -16.7,
-  "days_since_last_cve": 29,
-  "std_dev": 2.95,
-  "threshold_low": 2.4,
-  "threshold_high": 12.0,
+  "status": "Declining",
+  "baseline_avg": 5.6,
+  "current_count": 0,
+  "deviation_pct": -100.0,
+  "days_since_last_cve": 30,
+  "std_dev": 2.51,
+  "threshold_low": 2.8,
+  "threshold_high": 14.0,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 4,
+      "count": 0,
       "is_current": true
     }
   ]

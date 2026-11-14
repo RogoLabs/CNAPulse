@@ -6,13 +6,13 @@
   "country": "Poland",
   "scope_type": "",
   "status": "Growth",
-  "baseline_avg": 28.0,
+  "baseline_avg": 27.92,
   "current_count": 58,
-  "deviation_pct": 107.1,
+  "deviation_pct": 107.8,
   "days_since_last_cve": 1,
-  "std_dev": 13.02,
-  "threshold_low": 14.0,
-  "threshold_high": 70.0,
+  "std_dev": 13.07,
+  "threshold_low": 13.96,
+  "threshold_high": 69.79,
   "timeline_13months": [
     {
       "month": "Days 390-360",
