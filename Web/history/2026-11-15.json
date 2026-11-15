@@ -1,27 +1,12 @@
 {
   "date": "2026-11-15",
-  "generated_at": "2026-11-15T10:28:28.498799",
+  "generated_at": "2026-11-15T18:33:24.852593",
   "total_cnas": 608,
-  "cnas_growth": 87,
-  "cnas_normal": 123,
-  "cnas_declining": 216,
+  "cnas_growth": 86,
+  "cnas_normal": 122,
+  "cnas_declining": 218,
   "cnas_inactive": 182,
   "top_growth": [
-    {
-      "cna_name": "Forescout",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "B.Braun",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "openEuler",
-      "current_count": 4,
-      "deviation_pct": 999999.0
-    },
     {
       "cna_name": "WrenSecurity",
       "current_count": 1,
@@ -33,13 +18,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "securepoint",
+      "cna_name": "ClickHouse",
       "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "POSIT",
-      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -48,13 +28,33 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "NetDEF",
-      "current_count": 5,
+      "cna_name": "samsungsemiconductor",
+      "current_count": 35,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "EA",
+      "cna_name": "Forescout",
       "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Airoha",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "rt-labs",
+      "current_count": 20,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "B.Braun",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Akrites",
+      "current_count": 5,
       "deviation_pct": 999999.0
     }
   ],
