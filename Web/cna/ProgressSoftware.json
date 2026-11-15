@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://community.progress.com/s/",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
-  "baseline_avg": 13.83,
+  "status": "Normal",
+  "baseline_avg": 15.09,
   "current_count": 68,
-  "deviation_pct": 391.6,
+  "deviation_pct": 350.6,
   "days_since_last_cve": 1,
-  "std_dev": 21.11,
-  "threshold_low": 6.92,
-  "threshold_high": 34.58,
+  "std_dev": 21.68,
+  "threshold_low": 7.55,
+  "threshold_high": 37.73,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -66,12 +66,12 @@
     },
     {
       "month": "Days 90-60",
-      "count": 18,
+      "count": 5,
       "is_current": false
     },
     {
       "month": "Days 60-30",
-      "count": 5,
+      "count": 71,
       "is_current": false
     },
     {
