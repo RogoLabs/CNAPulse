@@ -6,13 +6,13 @@
   "country": "Germany",
   "scope_type": "",
   "status": "Growth",
-  "baseline_avg": 3.45,
-  "current_count": 9,
-  "deviation_pct": 160.5,
+  "baseline_avg": 3.55,
+  "current_count": 8,
+  "deviation_pct": 125.6,
   "days_since_last_cve": 3,
-  "std_dev": 2.34,
-  "threshold_low": 1.73,
-  "threshold_high": 8.64,
+  "std_dev": 2.38,
+  "threshold_low": 1.77,
+  "threshold_high": 8.86,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -71,12 +71,12 @@
     },
     {
       "month": "Days 60-30",
-      "count": 1,
+      "count": 2,
       "is_current": false
     },
     {
       "month": "Last 30 Days",
-      "count": 9,
+      "count": 8,
       "is_current": true
     }
   ]

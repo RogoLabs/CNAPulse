@@ -6,13 +6,13 @@
   "country": "Luxembourg",
   "scope_type": "",
   "status": "Declining",
-  "baseline_avg": 39.17,
-  "current_count": 21,
-  "deviation_pct": -46.4,
-  "days_since_last_cve": 1,
-  "std_dev": 30.2,
-  "threshold_low": 19.58,
-  "threshold_high": 97.92,
+  "baseline_avg": 39.33,
+  "current_count": 20,
+  "deviation_pct": -49.2,
+  "days_since_last_cve": 2,
+  "std_dev": 30.39,
+  "threshold_low": 19.67,
+  "threshold_high": 98.33,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -71,12 +71,12 @@
     },
     {
       "month": "Days 60-30",
-      "count": 20,
+      "count": 21,
       "is_current": false
     },
     {
       "month": "Last 30 Days",
-      "count": 21,
+      "count": 20,
       "is_current": true
     }
   ]
