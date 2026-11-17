@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://advisories.typo3.org/",
   "country": "Switzerland",
   "scope_type": "",
-  "status": "Growth",
-  "baseline_avg": 6.89,
-  "current_count": 22,
-  "deviation_pct": 219.4,
-  "days_since_last_cve": 13,
-  "std_dev": 8.61,
-  "threshold_low": 3.44,
-  "threshold_high": 17.22,
+  "status": "Normal",
+  "baseline_avg": 6.2,
+  "current_count": 32,
+  "deviation_pct": 416.1,
+  "days_since_last_cve": 0,
+  "std_dev": 8.3,
+  "threshold_low": 3.1,
+  "threshold_high": 15.5,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 22,
+      "count": 32,
       "is_current": true
     }
   ]

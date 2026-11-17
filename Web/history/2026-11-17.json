@@ -1,15 +1,15 @@
 {
   "date": "2026-11-17",
-  "generated_at": "2026-11-17T06:50:55.942447",
-  "total_cnas": 599,
-  "cnas_growth": 90,
-  "cnas_normal": 137,
-  "cnas_declining": 200,
-  "cnas_inactive": 172,
+  "generated_at": "2026-11-17T18:14:21.055969",
+  "total_cnas": 608,
+  "cnas_growth": 93,
+  "cnas_normal": 131,
+  "cnas_declining": 203,
+  "cnas_inactive": 181,
   "top_growth": [
     {
-      "cna_name": "B.Braun",
-      "current_count": 3,
+      "cna_name": "Airoha",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -18,22 +18,12 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "Zenitel",
+      "current_count": 11,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "Circutor",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "WrenSecurity",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Forescout",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "SDC",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -43,18 +33,28 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "POSIT",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "securepoint",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "rt-labs",
-      "current_count": 20,
+      "cna_name": "NCSC",
+      "current_count": 10,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "NetDEF",
+      "cna_name": "AxxonSoft",
       "current_count": 5,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "esaqa",
+      "current_count": 6,
       "deviation_pct": 999999.0
     }
   ],
@@ -65,9 +65,39 @@
       "deviation_pct": 57.5
     },
     {
+      "cna_name": "Joomla",
+      "current_count": 40,
+      "deviation_pct": 11.4
+    },
+    {
       "cna_name": "checkpoint",
       "current_count": 3,
-      "deviation_pct": -14.3
+      "deviation_pct": 0.0
+    },
+    {
+      "cna_name": "cisa-cg",
+      "current_count": 15,
+      "deviation_pct": -1.8
+    },
+    {
+      "cna_name": "openssl",
+      "current_count": 8,
+      "deviation_pct": -11.1
+    },
+    {
+      "cna_name": "NetMotion",
+      "current_count": 5,
+      "deviation_pct": -11.8
+    },
+    {
+      "cna_name": "isc",
+      "current_count": 4,
+      "deviation_pct": -33.3
+    },
+    {
+      "cna_name": "GV",
+      "current_count": 9,
+      "deviation_pct": -34.1
     },
     {
       "cna_name": "CIRCL",
@@ -75,39 +105,9 @@
       "deviation_pct": -41.5
     },
     {
-      "cna_name": "JFROG",
-      "current_count": 5,
-      "deviation_pct": -43.7
-    },
-    {
-      "cna_name": "juniper",
-      "current_count": 18,
-      "deviation_pct": -52.4
-    },
-    {
-      "cna_name": "Temporal",
-      "current_count": 2,
-      "deviation_pct": -52.9
-    },
-    {
-      "cna_name": "Vivo",
-      "current_count": 1,
-      "deviation_pct": -57.1
-    },
-    {
-      "cna_name": "Okta",
+      "cna_name": "Foxit",
       "current_count": 6,
-      "deviation_pct": -58.6
-    },
-    {
-      "cna_name": "bizerba",
-      "current_count": 1,
-      "deviation_pct": -60.0
-    },
-    {
-      "cna_name": "Ubiquiti",
-      "current_count": 7,
-      "deviation_pct": -60.0
+      "deviation_pct": -43.7
     }
   ]
 }

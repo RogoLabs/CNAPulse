@@ -5,11 +5,11 @@
   "cna_advisory_url": "https://www.atlassian.com/trust/security/advisory-publishing-policy",
   "country": "Australia",
   "scope_type": "",
-  "status": "Declining",
+  "status": "Growth",
   "baseline_avg": 2.17,
-  "current_count": 0,
-  "deviation_pct": -100.0,
-  "days_since_last_cve": 42,
+  "current_count": 17,
+  "deviation_pct": 684.6,
+  "days_since_last_cve": 0,
   "std_dev": 2.04,
   "threshold_low": 1.08,
   "threshold_high": 5.42,
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 0,
+      "count": 17,
       "is_current": true
     }
   ]
