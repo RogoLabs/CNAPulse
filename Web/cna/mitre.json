@@ -5,14 +5,14 @@
   "cna_advisory_url": "",
   "country": "USA",
   "scope_type": "",
-  "status": "Declining",
-  "baseline_avg": 394.75,
-  "current_count": 204,
-  "deviation_pct": -48.3,
-  "days_since_last_cve": 0,
-  "std_dev": 125.27,
-  "threshold_low": 197.38,
-  "threshold_high": 986.88,
+  "status": "Normal",
+  "baseline_avg": 392.42,
+  "current_count": 192,
+  "deviation_pct": -51.1,
+  "days_since_last_cve": 1,
+  "std_dev": 125.89,
+  "threshold_low": 196.21,
+  "threshold_high": 981.04,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -71,12 +71,12 @@
     },
     {
       "month": "Days 60-30",
-      "count": 232,
+      "count": 244,
       "is_current": false
     },
     {
       "month": "Last 30 Days",
-      "count": 204,
+      "count": 192,
       "is_current": true
     }
   ]

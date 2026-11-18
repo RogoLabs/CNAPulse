@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://www.csa.gov.sg/alerts-advisories",
   "country": "Singapore",
   "scope_type": "",
-  "status": "Normal",
+  "status": "Growth",
   "baseline_avg": 5.43,
   "current_count": 31,
   "deviation_pct": 471.1,
