@@ -1,27 +1,12 @@
 {
   "date": "2026-11-18",
-  "generated_at": "2026-11-18T11:13:55.224925",
+  "generated_at": "2026-11-18T20:03:15.466213",
   "total_cnas": 612,
-  "cnas_growth": 96,
+  "cnas_growth": 99,
   "cnas_normal": 125,
-  "cnas_declining": 207,
-  "cnas_inactive": 184,
+  "cnas_declining": 205,
+  "cnas_inactive": 183,
   "top_growth": [
-    {
-      "cna_name": "Velneo",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "rt-labs",
-      "current_count": 20,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "ClickHouse",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
     {
       "cna_name": "WrenSecurity",
       "current_count": 1,
@@ -33,8 +18,28 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "NCSC",
-      "current_count": 10,
+      "cna_name": "B.Braun",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Airoha",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "samsungsemiconductor",
+      "current_count": 35,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "NetDEF",
+      "current_count": 5,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "POSIT",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -48,13 +53,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "NetDEF",
-      "current_count": 5,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Airoha",
-      "current_count": 1,
+      "cna_name": "Grayback",
+      "current_count": 7,
       "deviation_pct": 999999.0
     }
   ],
@@ -85,11 +85,6 @@
       "deviation_pct": -1.2
     },
     {
-      "cna_name": "openssl",
-      "current_count": 8,
-      "deviation_pct": -11.1
-    },
-    {
       "cna_name": "NetMotion",
       "current_count": 5,
       "deviation_pct": -11.8
@@ -103,6 +98,11 @@
       "cna_name": "isc",
       "current_count": 4,
       "deviation_pct": -33.3
+    },
+    {
+      "cna_name": "Netskope",
+      "current_count": 1,
+      "deviation_pct": -40.0
     },
     {
       "cna_name": "Foxit",
