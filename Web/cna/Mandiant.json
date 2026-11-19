@@ -5,11 +5,11 @@
   "cna_advisory_url": "https://github.com/mandiant/Vulnerability-Disclosures",
   "country": "USA",
   "scope_type": "",
-  "status": "Normal",
+  "status": "Growth",
   "baseline_avg": 3.8,
-  "current_count": 9,
-  "deviation_pct": 136.8,
-  "days_since_last_cve": 9,
+  "current_count": 11,
+  "deviation_pct": 189.5,
+  "days_since_last_cve": 0,
   "std_dev": 2.17,
   "threshold_low": 1.9,
   "threshold_high": 9.5,
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 9,
+      "count": 11,
       "is_current": true
     }
   ]

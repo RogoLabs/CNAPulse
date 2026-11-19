@@ -1,40 +1,25 @@
 {
   "date": "2026-11-19",
-  "generated_at": "2026-11-19T02:18:28.438758",
+  "generated_at": "2026-11-19T11:13:24.606528",
   "total_cnas": 612,
-  "cnas_growth": 100,
-  "cnas_normal": 123,
-  "cnas_declining": 206,
-  "cnas_inactive": 183,
+  "cnas_growth": 101,
+  "cnas_normal": 126,
+  "cnas_declining": 204,
+  "cnas_inactive": 181,
   "top_growth": [
     {
-      "cna_name": "rt-labs",
-      "current_count": 20,
+      "cna_name": "samsungsemiconductor",
+      "current_count": 35,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Circutor",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "WrenSecurity",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Illumio",
+      "cna_name": "POSIT",
       "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Airoha",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Nitro",
-      "current_count": 1,
+      "cna_name": "esaqa",
+      "current_count": 6,
       "deviation_pct": 999999.0
     },
     {
@@ -43,17 +28,32 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "B.Braun",
-      "current_count": 3,
+      "cna_name": "rt-labs",
+      "current_count": 20,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "SDC",
+      "cna_name": "Grayback",
+      "current_count": 7,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Velneo",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "openam-jp",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "securepoint",
+      "cna_name": "ClickHouse",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Airlock",
       "current_count": 1,
       "deviation_pct": 999999.0
     }
@@ -63,11 +63,6 @@
       "cna_name": "SolarWinds",
       "current_count": 7,
       "deviation_pct": 57.5
-    },
-    {
-      "cna_name": "fedora",
-      "current_count": 10,
-      "deviation_pct": 42.9
     },
     {
       "cna_name": "Joomla",
@@ -95,19 +90,24 @@
       "deviation_pct": -14.3
     },
     {
+      "cna_name": "CSA",
+      "current_count": 6,
+      "deviation_pct": -23.8
+    },
+    {
+      "cna_name": "OpenVPN",
+      "current_count": 3,
+      "deviation_pct": -27.3
+    },
+    {
       "cna_name": "isc",
       "current_count": 4,
       "deviation_pct": -33.3
     },
     {
-      "cna_name": "Netskope",
-      "current_count": 1,
-      "deviation_pct": -40.0
-    },
-    {
-      "cna_name": "Foxit",
-      "current_count": 6,
-      "deviation_pct": -43.7
+      "cna_name": "CIRCL",
+      "current_count": 25,
+      "deviation_pct": -38.5
     }
   ]
 }
