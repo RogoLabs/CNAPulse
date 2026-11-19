@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T02:18:28.438758",
+  "total_cnas": 612,
+  "cnas_growth": 100,
+  "cnas_normal": 123,
+  "cnas_declining": 206,
+  "cnas_inactive": 183,
+  "top_growth": [
+    {
+      "cna_name": "rt-labs",
+      "current_count": 20,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Circutor",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "WrenSecurity",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Illumio",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Airoha",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Nitro",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "AxxonSoft",
+      "current_count": 5,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "B.Braun",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "SDC",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "securepoint",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    }
+  ],
+  "top_declining": [
+    {
+      "cna_name": "SolarWinds",
+      "current_count": 7,
+      "deviation_pct": 57.5
+    },
+    {
+      "cna_name": "fedora",
+      "current_count": 10,
+      "deviation_pct": 42.9
+    },
+    {
+      "cna_name": "Joomla",
+      "current_count": 40,
+      "deviation_pct": 11.4
+    },
+    {
+      "cna_name": "checkpoint",
+      "current_count": 3,
+      "deviation_pct": 0.0
+    },
+    {
+      "cna_name": "cisa-cg",
+      "current_count": 15,
+      "deviation_pct": -1.2
+    },
+    {
+      "cna_name": "NetMotion",
+      "current_count": 5,
+      "deviation_pct": -11.8
+    },
+    {
+      "cna_name": "redhat-cnalr",
+      "current_count": 2,
+      "deviation_pct": -14.3
+    },
+    {
+      "cna_name": "isc",
+      "current_count": 4,
+      "deviation_pct": -33.3
+    },
+    {
+      "cna_name": "Netskope",
+      "current_count": 1,
+      "deviation_pct": -40.0
+    },
+    {
+      "cna_name": "Foxit",
+      "current_count": 6,
+      "deviation_pct": -43.7
+    }
+  ]
+}
