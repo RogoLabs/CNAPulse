@@ -1,20 +1,30 @@
 {
   "date": "2026-11-20",
-  "generated_at": "2026-11-20T10:59:34.936036",
+  "generated_at": "2026-11-20T19:40:06.008063",
   "total_cnas": 612,
-  "cnas_growth": 99,
-  "cnas_normal": 130,
-  "cnas_declining": 203,
+  "cnas_growth": 94,
+  "cnas_normal": 133,
+  "cnas_declining": 205,
   "cnas_inactive": 180,
   "top_growth": [
     {
-      "cna_name": "Grayback",
-      "current_count": 7,
+      "cna_name": "Zenitel",
+      "current_count": 11,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "esaqa",
-      "current_count": 6,
+      "cna_name": "rt-labs",
+      "current_count": 20,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "B.Braun",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Illumio",
+      "current_count": 2,
       "deviation_pct": 999999.0
     },
     {
@@ -23,27 +33,12 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "NetDEF",
-      "current_count": 5,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "SDC",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "AxxonSoft",
       "current_count": 5,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Zenitel",
-      "current_count": 11,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Circutor",
+      "cna_name": "Airoha",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -53,8 +48,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Airlock",
-      "current_count": 1,
+      "cna_name": "Grayback",
+      "current_count": 7,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "samsungsemiconductor",
+      "current_count": 35,
       "deviation_pct": 999999.0
     }
   ],
@@ -95,11 +95,6 @@
       "deviation_pct": -14.3
     },
     {
-      "cna_name": "isc",
-      "current_count": 4,
-      "deviation_pct": -22.2
-    },
-    {
       "cna_name": "CSA",
       "current_count": 6,
       "deviation_pct": -23.8
@@ -108,6 +103,11 @@
       "cna_name": "hikvision",
       "current_count": 2,
       "deviation_pct": -36.4
+    },
+    {
+      "cna_name": "SolarWinds",
+      "current_count": 3,
+      "deviation_pct": -38.6
     }
   ]
 }
