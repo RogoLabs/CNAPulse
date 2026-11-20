@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T02:03:00.560886",
+  "total_cnas": 612,
+  "cnas_growth": 100,
+  "cnas_normal": 126,
+  "cnas_declining": 206,
+  "cnas_inactive": 180,
+  "top_growth": [
+    {
+      "cna_name": "Velneo",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "AxxonSoft",
+      "current_count": 5,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Zenitel",
+      "current_count": 11,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "gnutls",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Westell",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "securepoint",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Airlock",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "SDC",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Illumio",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Airoha",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    }
+  ],
+  "top_declining": [
+    {
+      "cna_name": "checkpoint",
+      "current_count": 3,
+      "deviation_pct": 14.3
+    },
+    {
+      "cna_name": "cisa-cg",
+      "current_count": 15,
+      "deviation_pct": -1.2
+    },
+    {
+      "cna_name": "OpenVPN",
+      "current_count": 4,
+      "deviation_pct": -3.0
+    },
+    {
+      "cna_name": "talos",
+      "current_count": 13,
+      "deviation_pct": -5.8
+    },
+    {
+      "cna_name": "NetMotion",
+      "current_count": 5,
+      "deviation_pct": -11.8
+    },
+    {
+      "cna_name": "Google",
+      "current_count": 4,
+      "deviation_pct": -12.0
+    },
+    {
+      "cna_name": "CIRCL",
+      "current_count": 35,
+      "deviation_pct": -13.9
+    },
+    {
+      "cna_name": "redhat-cnalr",
+      "current_count": 2,
+      "deviation_pct": -14.3
+    },
+    {
+      "cna_name": "CSA",
+      "current_count": 6,
+      "deviation_pct": -23.8
+    },
+    {
+      "cna_name": "isc",
+      "current_count": 4,
+      "deviation_pct": -33.3
+    }
+  ]
+}

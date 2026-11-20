@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://talosintelligence.com/vulnerability_reports",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
-  "baseline_avg": 10.8,
-  "current_count": 43,
-  "deviation_pct": 298.1,
+  "status": "Declining",
+  "baseline_avg": 13.8,
+  "current_count": 13,
+  "deviation_pct": -5.8,
   "days_since_last_cve": 3,
-  "std_dev": 11.42,
-  "threshold_low": 5.4,
-  "threshold_high": 27.0,
+  "std_dev": 12.72,
+  "threshold_low": 6.9,
+  "threshold_high": 34.5,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -71,12 +71,12 @@
     },
     {
       "month": "Days 60-30",
-      "count": 2,
+      "count": 32,
       "is_current": false
     },
     {
       "month": "Last 30 Days",
-      "count": 43,
+      "count": 13,
       "is_current": true
     }
   ]
