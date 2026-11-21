@@ -1,50 +1,15 @@
 {
   "date": "2026-11-21",
-  "generated_at": "2026-11-21T10:41:29.173824",
+  "generated_at": "2026-11-21T18:47:02.953970",
   "total_cnas": 607,
-  "cnas_growth": 114,
-  "cnas_normal": 128,
-  "cnas_declining": 190,
+  "cnas_growth": 111,
+  "cnas_normal": 126,
+  "cnas_declining": 195,
   "cnas_inactive": 175,
   "top_growth": [
     {
-      "cna_name": "Grayback",
-      "current_count": 7,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "securepoint",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "Circutor",
       "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "NCSC",
-      "current_count": 10,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Airoha",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "B.Braun",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "WrenSecurity",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "gnutls",
-      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
@@ -53,8 +18,43 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "SDC",
+      "cna_name": "NCSC",
+      "current_count": 10,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Zenitel",
+      "current_count": 11,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "esaqa",
+      "current_count": 6,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "gnutls",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Pydantic",
+      "current_count": 9,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "securepoint",
       "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Illumio",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "samsungsemiconductor",
+      "current_count": 35,
       "deviation_pct": 999999.0
     }
   ],
@@ -63,11 +63,6 @@
       "cna_name": "Acronis",
       "current_count": 11,
       "deviation_pct": 83.3
-    },
-    {
-      "cna_name": "Centreon",
-      "current_count": 3,
-      "deviation_pct": 12.5
     },
     {
       "cna_name": "NEC",
@@ -105,9 +100,14 @@
       "deviation_pct": -47.1
     },
     {
-      "cna_name": "mitre",
-      "current_count": 172,
-      "deviation_pct": -56.3
+      "cna_name": "siemens",
+      "current_count": 7,
+      "deviation_pct": -49.1
+    },
+    {
+      "cna_name": "Secur0",
+      "current_count": 4,
+      "deviation_pct": -53.5
     }
   ]
 }
