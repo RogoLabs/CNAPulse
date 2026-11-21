@@ -5,11 +5,11 @@
   "cna_advisory_url": "https://www.zerodayinitiative.com/advisories/published/",
   "country": "Japan",
   "scope_type": "",
-  "status": "Normal",
+  "status": "Growth",
   "baseline_avg": 31.55,
-  "current_count": 98,
-  "deviation_pct": 210.7,
-  "days_since_last_cve": 1,
+  "current_count": 119,
+  "deviation_pct": 277.2,
+  "days_since_last_cve": 0,
   "std_dev": 24.49,
   "threshold_low": 15.77,
   "threshold_high": 78.86,
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 98,
+      "count": 119,
       "is_current": true
     }
   ]

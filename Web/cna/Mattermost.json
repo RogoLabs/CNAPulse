@@ -5,10 +5,10 @@
   "cna_advisory_url": "https://mattermost.com/security-updates/",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
+  "status": "Normal",
   "baseline_avg": 16.58,
-  "current_count": 34,
-  "deviation_pct": 105.0,
+  "current_count": 35,
+  "deviation_pct": 111.1,
   "days_since_last_cve": 0,
   "std_dev": 8.16,
   "threshold_low": 8.29,
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 34,
+      "count": 35,
       "is_current": true
     }
   ]

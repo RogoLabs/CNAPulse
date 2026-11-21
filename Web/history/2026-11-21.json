@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T02:00:31.785822",
+  "total_cnas": 607,
+  "cnas_growth": 114,
+  "cnas_normal": 129,
+  "cnas_declining": 189,
+  "cnas_inactive": 175,
+  "top_growth": [
+    {
+      "cna_name": "Illumio",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "B.Braun",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Airlock",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Akrites",
+      "current_count": 5,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "NetDEF",
+      "current_count": 5,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Nitro",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "securepoint",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Zenitel",
+      "current_count": 11,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Grayback",
+      "current_count": 7,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Forescout",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    }
+  ],
+  "top_declining": [
+    {
+      "cna_name": "Acronis",
+      "current_count": 11,
+      "deviation_pct": 83.3
+    },
+    {
+      "cna_name": "Centreon",
+      "current_count": 3,
+      "deviation_pct": 5.9
+    },
+    {
+      "cna_name": "NEC",
+      "current_count": 3,
+      "deviation_pct": 0.0
+    },
+    {
+      "cna_name": "redhat-cnalr",
+      "current_count": 2,
+      "deviation_pct": -14.3
+    },
+    {
+      "cna_name": "NCSC-FI",
+      "current_count": 2,
+      "deviation_pct": -30.0
+    },
+    {
+      "cna_name": "symantec",
+      "current_count": 1,
+      "deviation_pct": -40.0
+    },
+    {
+      "cna_name": "Foxit",
+      "current_count": 6,
+      "deviation_pct": -43.7
+    },
+    {
+      "cna_name": "Zoom",
+      "current_count": 2,
+      "deviation_pct": -47.1
+    },
+    {
+      "cna_name": "mitre",
+      "current_count": 179,
+      "deviation_pct": -54.5
+    },
+    {
+      "cna_name": "bizerba",
+      "current_count": 1,
+      "deviation_pct": -60.0
+    }
+  ]
+}

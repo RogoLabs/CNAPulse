@@ -5,10 +5,10 @@
   "cna_advisory_url": "https://www.incibe.es/incibe-cert/alerta-temprana/vulnerabilidades/avisos-cna",
   "country": "Spain",
   "scope_type": "",
-  "status": "Normal",
+  "status": "Growth",
   "baseline_avg": 25.42,
-  "current_count": 77,
-  "deviation_pct": 203.0,
+  "current_count": 78,
+  "deviation_pct": 206.9,
   "days_since_last_cve": 0,
   "std_dev": 17.33,
   "threshold_low": 12.71,
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 77,
+      "count": 78,
       "is_current": true
     }
   ]

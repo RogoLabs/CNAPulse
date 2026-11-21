@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://thewatch.centreon.com/latest-security-bulletins-64",
   "country": "France",
   "scope_type": "",
-  "status": "Growth",
+  "status": "Declining",
   "baseline_avg": 2.83,
   "current_count": 3,
   "deviation_pct": 5.9,
