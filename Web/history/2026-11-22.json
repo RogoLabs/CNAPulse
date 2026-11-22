@@ -1,50 +1,15 @@
 {
   "date": "2026-11-22",
-  "generated_at": "2026-11-22T01:00:12.666386",
+  "generated_at": "2026-11-22T10:48:03.394215",
   "total_cnas": 607,
-  "cnas_growth": 111,
+  "cnas_growth": 109,
   "cnas_normal": 125,
-  "cnas_declining": 196,
+  "cnas_declining": 198,
   "cnas_inactive": 175,
   "top_growth": [
     {
-      "cna_name": "samsungsemiconductor",
-      "current_count": 35,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Grayback",
-      "current_count": 7,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "AxxonSoft",
-      "current_count": 5,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "POSIT",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "Zenitel",
       "current_count": 11,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "rt-labs",
-      "current_count": 41,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Pydantic",
-      "current_count": 9,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "NCSC",
-      "current_count": 10,
       "deviation_pct": 999999.0
     },
     {
@@ -53,8 +18,43 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "openEuler",
-      "current_count": 4,
+      "cna_name": "openam-jp",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "gnutls",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "rt-labs",
+      "current_count": 41,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "SDC",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Airoha",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Forescout",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Akrites",
+      "current_count": 5,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "NetDEF",
+      "current_count": 5,
       "deviation_pct": 999999.0
     }
   ],
@@ -106,8 +106,8 @@
     },
     {
       "cna_name": "mitre",
-      "current_count": 165,
-      "deviation_pct": -58.0
+      "current_count": 162,
+      "deviation_pct": -58.8
     }
   ]
 }
