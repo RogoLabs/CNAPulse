@@ -5,11 +5,11 @@
   "cna_advisory_url": "https://support.google.com/product-documentation/topic/12974021?hl=en&ref_topic=10123615&sjid=5419128013624043298-NA",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
+  "status": "Normal",
   "baseline_avg": 23.38,
-  "current_count": 158,
-  "deviation_pct": 575.9,
-  "days_since_last_cve": 12,
+  "current_count": 211,
+  "deviation_pct": 802.7,
+  "days_since_last_cve": 0,
   "std_dev": 32.2,
   "threshold_low": 11.69,
   "threshold_high": 58.44,
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 158,
+      "count": 211,
       "is_current": true
     }
   ]
