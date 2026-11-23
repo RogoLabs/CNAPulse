@@ -1,17 +1,12 @@
 {
   "date": "2026-11-23",
-  "generated_at": "2026-11-23T01:25:56.227899",
-  "total_cnas": 603,
-  "cnas_growth": 96,
-  "cnas_normal": 134,
-  "cnas_declining": 202,
-  "cnas_inactive": 171,
+  "generated_at": "2026-11-23T11:54:30.433671",
+  "total_cnas": 607,
+  "cnas_growth": 108,
+  "cnas_normal": 125,
+  "cnas_declining": 199,
+  "cnas_inactive": 175,
   "top_growth": [
-    {
-      "cna_name": "Airlock",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
     {
       "cna_name": "POSIT",
       "current_count": 2,
@@ -23,12 +18,32 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "openEuler",
-      "current_count": 4,
+      "cna_name": "esaqa",
+      "current_count": 6,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Forescout",
+      "cna_name": "WrenSecurity",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Nitro",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Airoha",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "AxxonSoft",
+      "current_count": 5,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Circutor",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -38,23 +53,8 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Pydantic",
-      "current_count": 9,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "ClickHouse",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Zenitel",
-      "current_count": 11,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Circutor",
-      "current_count": 1,
+      "cna_name": "gnutls",
+      "current_count": 3,
       "deviation_pct": 999999.0
     }
   ],
@@ -65,19 +65,24 @@
       "deviation_pct": 83.3
     },
     {
-      "cna_name": "GV",
-      "current_count": 7,
-      "deviation_pct": -33.3
+      "cna_name": "NEC",
+      "current_count": 3,
+      "deviation_pct": 0.0
     },
     {
-      "cna_name": "Netskope",
+      "cna_name": "redhat-cnalr",
+      "current_count": 2,
+      "deviation_pct": -14.3
+    },
+    {
+      "cna_name": "NCSC-FI",
+      "current_count": 2,
+      "deviation_pct": -30.0
+    },
+    {
+      "cna_name": "symantec",
       "current_count": 1,
       "deviation_pct": -40.0
-    },
-    {
-      "cna_name": "JFROG",
-      "current_count": 5,
-      "deviation_pct": -43.7
     },
     {
       "cna_name": "SolarWinds",
@@ -85,29 +90,24 @@
       "deviation_pct": -45.5
     },
     {
-      "cna_name": "cloudflare",
-      "current_count": 1,
-      "deviation_pct": -52.9
+      "cna_name": "Zoom",
+      "current_count": 2,
+      "deviation_pct": -47.1
     },
     {
-      "cna_name": "tenable",
-      "current_count": 3,
-      "deviation_pct": -55.9
+      "cna_name": "siemens",
+      "current_count": 7,
+      "deviation_pct": -49.1
+    },
+    {
+      "cna_name": "Foxit",
+      "current_count": 6,
+      "deviation_pct": -50.0
     },
     {
       "cna_name": "mitre",
-      "current_count": 161,
-      "deviation_pct": -58.9
-    },
-    {
-      "cna_name": "bizerba",
-      "current_count": 1,
-      "deviation_pct": -60.0
-    },
-    {
-      "cna_name": "juniper",
-      "current_count": 18,
-      "deviation_pct": -60.4
+      "current_count": 162,
+      "deviation_pct": -58.7
     }
   ]
 }
