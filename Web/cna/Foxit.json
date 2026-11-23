@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://www.foxit.com/support/security.html",
   "country": "USA",
   "scope_type": "",
-  "status": "Declining",
+  "status": "Normal",
   "baseline_avg": 10.67,
   "current_count": 6,
   "deviation_pct": -43.7,

@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://sourceware.org/git/?p=glibc.git;a=tree;f=advisories;hb=HEAD",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
+  "status": "Normal",
   "baseline_avg": 3.43,
   "current_count": 8,
   "deviation_pct": 133.3,

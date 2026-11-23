@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://mattermost.com/security-updates/",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
+  "status": "Normal",
   "baseline_avg": 16.67,
   "current_count": 34,
   "deviation_pct": 104.0,
