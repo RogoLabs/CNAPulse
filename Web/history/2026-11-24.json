@@ -1,15 +1,45 @@
 {
   "date": "2026-11-24",
-  "generated_at": "2026-11-24T14:08:54.153204",
-  "total_cnas": 607,
-  "cnas_growth": 113,
+  "generated_at": "2026-11-24T20:00:01.640994",
+  "total_cnas": 606,
+  "cnas_growth": 116,
   "cnas_normal": 128,
-  "cnas_declining": 192,
-  "cnas_inactive": 174,
+  "cnas_declining": 190,
+  "cnas_inactive": 172,
   "top_growth": [
+    {
+      "cna_name": "Illumio",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
     {
       "cna_name": "Symfony",
       "current_count": 23,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "AxxonSoft",
+      "current_count": 5,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OS-S",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "B.Braun",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Forescout",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "securepoint",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
@@ -18,43 +48,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Nitro",
+      "cna_name": "ClickHouse",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
       "cna_name": "Airoha",
       "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "esaqa",
-      "current_count": 6,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Pydantic",
-      "current_count": 9,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Airlock",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "NetDEF",
-      "current_count": 5,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "POSIT",
-      "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "rt-labs",
-      "current_count": 41,
       "deviation_pct": 999999.0
     }
   ],

@@ -2,7 +2,7 @@
   "assigner_id": "a59d8014-47c4-4630-ab43-e1b13cbe58e3",
   "cna_name": "Qt",
   "cna_org_name": "Qt Group",
-  "cna_advisory_url": "https://wiki.qt.io/List_of_known_vulnerabilities_in_Qt_products",
+  "cna_advisory_url": "https://www.qt.io/security-advisories",
   "country": "Finland",
   "scope_type": "",
   "status": "Growth",
