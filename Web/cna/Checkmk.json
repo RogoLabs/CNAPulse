@@ -5,14 +5,14 @@
   "cna_advisory_url": "https://checkmarx.com/zero/vulnerabilities/",
   "country": "Germany",
   "scope_type": "",
-  "status": "Growth",
-  "baseline_avg": 3.64,
-  "current_count": 8,
-  "deviation_pct": 120.0,
-  "days_since_last_cve": 1,
+  "status": "Normal",
+  "baseline_avg": 3.55,
+  "current_count": 9,
+  "deviation_pct": 153.8,
+  "days_since_last_cve": 0,
   "std_dev": 1.86,
-  "threshold_low": 1.82,
-  "threshold_high": 9.09,
+  "threshold_low": 1.77,
+  "threshold_high": 8.86,
   "timeline_13months": [
     {
       "month": "Days 390-360",
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 8,
+      "count": 9,
       "is_current": true
     }
   ]

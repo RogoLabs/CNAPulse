@@ -1,15 +1,25 @@
 {
   "date": "2026-11-24",
-  "generated_at": "2026-11-24T08:43:03.777251",
+  "generated_at": "2026-11-24T13:58:59.607857",
   "total_cnas": 607,
-  "cnas_growth": 112,
-  "cnas_normal": 126,
-  "cnas_declining": 195,
+  "cnas_growth": 113,
+  "cnas_normal": 128,
+  "cnas_declining": 192,
   "cnas_inactive": 174,
   "top_growth": [
     {
-      "cna_name": "Symfony",
-      "current_count": 6,
+      "cna_name": "POSIT",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "securepoint",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "samsungsemiconductor",
+      "current_count": 35,
       "deviation_pct": 999999.0
     },
     {
@@ -18,43 +28,33 @@
       "deviation_pct": 999999.0
     },
     {
+      "cna_name": "Forescout",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "rt-labs",
+      "current_count": 41,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "WrenSecurity",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Circutor",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
       "cna_name": "gnutls",
       "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "SDC",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Airoha",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "NetDEF",
-      "current_count": 5,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Akrites",
-      "current_count": 5,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Zenitel",
-      "current_count": 11,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "openam-jp",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "samsungsemiconductor",
-      "current_count": 35,
+      "cna_name": "Illumio",
+      "current_count": 2,
       "deviation_pct": 999999.0
     }
   ],
@@ -68,11 +68,6 @@
       "cna_name": "NEC",
       "current_count": 3,
       "deviation_pct": 0.0
-    },
-    {
-      "cna_name": "redhat-cnalr",
-      "current_count": 2,
-      "deviation_pct": -14.3
     },
     {
       "cna_name": "NCSC-FI",
@@ -107,6 +102,11 @@
     {
       "cna_name": "bizerba",
       "current_count": 1,
+      "deviation_pct": -60.0
+    },
+    {
+      "cna_name": "Anthropic",
+      "current_count": 2,
       "deviation_pct": -60.0
     }
   ]
