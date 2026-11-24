@@ -5,7 +5,7 @@
   "cna_advisory_url": "https://www.cisa.gov/news-events/cybersecurity-advisories",
   "country": "USA",
   "scope_type": "",
-  "status": "Normal",
+  "status": "Growth",
   "baseline_avg": 15.64,
   "current_count": 16,
   "deviation_pct": 2.3,

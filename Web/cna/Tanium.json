@@ -5,10 +5,10 @@
   "cna_advisory_url": "https://security.tanium.com/",
   "country": "USA",
   "scope_type": "",
-  "status": "Growth",
+  "status": "Normal",
   "baseline_avg": 10.75,
-  "current_count": 83,
-  "deviation_pct": 672.1,
+  "current_count": 99,
+  "deviation_pct": 820.9,
   "days_since_last_cve": 0,
   "std_dev": 15.81,
   "threshold_low": 5.38,
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 83,
+      "count": 99,
       "is_current": true
     }
   ]
