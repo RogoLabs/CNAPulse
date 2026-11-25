@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T03:59:35.208507",
+  "total_cnas": 606,
+  "cnas_growth": 116,
+  "cnas_normal": 129,
+  "cnas_declining": 189,
+  "cnas_inactive": 172,
+  "top_growth": [
+    {
+      "cna_name": "Westell",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Nitro",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "POSIT",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Symfony",
+      "current_count": 23,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Circutor",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "gnutls",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "securepoint",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Airoha",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OS-S",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "WrenSecurity",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    }
+  ],
+  "top_declining": [
+    {
+      "cna_name": "Acronis",
+      "current_count": 11,
+      "deviation_pct": 109.5
+    },
+    {
+      "cna_name": "NEC",
+      "current_count": 3,
+      "deviation_pct": 0.0
+    },
+    {
+      "cna_name": "NCSC-FI",
+      "current_count": 2,
+      "deviation_pct": -40.0
+    },
+    {
+      "cna_name": "symantec",
+      "current_count": 1,
+      "deviation_pct": -40.0
+    },
+    {
+      "cna_name": "Zoom",
+      "current_count": 2,
+      "deviation_pct": -47.1
+    },
+    {
+      "cna_name": "siemens",
+      "current_count": 7,
+      "deviation_pct": -49.1
+    },
+    {
+      "cna_name": "Foxit",
+      "current_count": 6,
+      "deviation_pct": -50.0
+    },
+    {
+      "cna_name": "bizerba",
+      "current_count": 1,
+      "deviation_pct": -60.0
+    },
+    {
+      "cna_name": "Anthropic",
+      "current_count": 2,
+      "deviation_pct": -60.0
+    },
+    {
+      "cna_name": "juniper",
+      "current_count": 18,
+      "deviation_pct": -60.4
+    }
+  ]
+}
