@@ -1,30 +1,45 @@
 {
   "date": "2026-11-25",
-  "generated_at": "2026-11-25T03:59:35.208507",
+  "generated_at": "2026-11-25T16:53:57.597927",
   "total_cnas": 606,
-  "cnas_growth": 116,
-  "cnas_normal": 129,
-  "cnas_declining": 189,
-  "cnas_inactive": 172,
+  "cnas_growth": 117,
+  "cnas_normal": 124,
+  "cnas_declining": 194,
+  "cnas_inactive": 171,
   "top_growth": [
+    {
+      "cna_name": "gnutls",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Pydantic",
+      "current_count": 10,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Forescout",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
     {
       "cna_name": "Westell",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Nitro",
-      "current_count": 1,
+      "cna_name": "Akrites",
+      "current_count": 10,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "POSIT",
-      "current_count": 2,
+      "cna_name": "AxxonSoft",
+      "current_count": 5,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Symfony",
-      "current_count": 23,
+      "cna_name": "openEuler",
+      "current_count": 4,
       "deviation_pct": 999999.0
     },
     {
@@ -33,28 +48,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "gnutls",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "securepoint",
+      "cna_name": "Uniview",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Airoha",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "OS-S",
-      "current_count": 3,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "WrenSecurity",
-      "current_count": 1,
+      "cna_name": "Illumio",
+      "current_count": 2,
       "deviation_pct": 999999.0
     }
   ],
@@ -62,7 +62,7 @@
     {
       "cna_name": "Acronis",
       "current_count": 11,
-      "deviation_pct": 109.5
+      "deviation_pct": 83.3
     },
     {
       "cna_name": "NEC",
@@ -85,19 +85,19 @@
       "deviation_pct": -47.1
     },
     {
-      "cna_name": "siemens",
-      "current_count": 7,
-      "deviation_pct": -49.1
-    },
-    {
       "cna_name": "Foxit",
       "current_count": 6,
       "deviation_pct": -50.0
     },
     {
-      "cna_name": "bizerba",
-      "current_count": 1,
-      "deviation_pct": -60.0
+      "cna_name": "siemens",
+      "current_count": 6,
+      "deviation_pct": -56.6
+    },
+    {
+      "cna_name": "icscert",
+      "current_count": 20,
+      "deviation_pct": -58.9
     },
     {
       "cna_name": "Anthropic",
