@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T01:39:18.295773",
+  "total_cnas": 606,
+  "cnas_growth": 116,
+  "cnas_normal": 121,
+  "cnas_declining": 198,
+  "cnas_inactive": 171,
+  "top_growth": [
+    {
+      "cna_name": "Nitro",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "NCSC",
+      "current_count": 10,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Westell",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "SDC",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Airoha",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "securepoint",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Circutor",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "WrenSecurity",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Illumio",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "samsungsemiconductor",
+      "current_count": 35,
+      "deviation_pct": 999999.0
+    }
+  ],
+  "top_declining": [
+    {
+      "cna_name": "Acronis",
+      "current_count": 11,
+      "deviation_pct": 83.3
+    },
+    {
+      "cna_name": "NEC",
+      "current_count": 3,
+      "deviation_pct": 0.0
+    },
+    {
+      "cna_name": "NCSC-FI",
+      "current_count": 2,
+      "deviation_pct": -40.0
+    },
+    {
+      "cna_name": "Zoom",
+      "current_count": 2,
+      "deviation_pct": -47.1
+    },
+    {
+      "cna_name": "Foxit",
+      "current_count": 6,
+      "deviation_pct": -50.0
+    },
+    {
+      "cna_name": "NLnet Labs",
+      "current_count": 6,
+      "deviation_pct": -50.7
+    },
+    {
+      "cna_name": "siemens",
+      "current_count": 6,
+      "deviation_pct": -56.6
+    },
+    {
+      "cna_name": "Anthropic",
+      "current_count": 2,
+      "deviation_pct": -60.0
+    },
+    {
+      "cna_name": "juniper",
+      "current_count": 18,
+      "deviation_pct": -60.4
+    },
+    {
+      "cna_name": "kubernetes",
+      "current_count": 1,
+      "deviation_pct": -61.5
+    }
+  ]
+}
