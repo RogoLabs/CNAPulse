@@ -1,39 +1,34 @@
 {
   "date": "2026-11-26",
-  "generated_at": "2026-11-26T01:39:18.295773",
+  "generated_at": "2026-11-26T11:58:44.096455",
   "total_cnas": 606,
-  "cnas_growth": 116,
-  "cnas_normal": 121,
-  "cnas_declining": 198,
-  "cnas_inactive": 171,
+  "cnas_growth": 113,
+  "cnas_normal": 120,
+  "cnas_declining": 201,
+  "cnas_inactive": 172,
   "top_growth": [
     {
-      "cna_name": "Nitro",
+      "cna_name": "Zenitel",
+      "current_count": 11,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Pydantic",
+      "current_count": 11,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Airlock",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "NCSC",
-      "current_count": 10,
+      "cna_name": "samsungsemiconductor",
+      "current_count": 35,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Westell",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "SDC",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Airoha",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "securepoint",
+      "cna_name": "openam-jp",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -43,18 +38,23 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "WrenSecurity",
-      "current_count": 1,
+      "cna_name": "openEuler",
+      "current_count": 4,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Illumio",
-      "current_count": 2,
+      "cna_name": "gnutls",
+      "current_count": 3,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "samsungsemiconductor",
-      "current_count": 35,
+      "cna_name": "NCSC",
+      "current_count": 10,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OS-S",
+      "current_count": 3,
       "deviation_pct": 999999.0
     }
   ],
@@ -90,24 +90,24 @@
       "deviation_pct": -50.7
     },
     {
+      "cna_name": "Unisoc",
+      "current_count": 3,
+      "deviation_pct": -52.6
+    },
+    {
+      "cna_name": "symantec",
+      "current_count": 1,
+      "deviation_pct": -54.5
+    },
+    {
       "cna_name": "siemens",
       "current_count": 6,
       "deviation_pct": -56.6
     },
     {
-      "cna_name": "Anthropic",
-      "current_count": 2,
+      "cna_name": "twcert",
+      "current_count": 7,
       "deviation_pct": -60.0
-    },
-    {
-      "cna_name": "juniper",
-      "current_count": 18,
-      "deviation_pct": -60.4
-    },
-    {
-      "cna_name": "kubernetes",
-      "current_count": 1,
-      "deviation_pct": -61.5
     }
   ]
 }

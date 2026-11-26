@@ -1,22 +1,22 @@
 {
-  "assigner_id": "8b54e794-c6f0-462e-9faa-c1001a673ac3",
+  "assigner_id": "unknown",
   "cna_name": "Liferay",
   "cna_org_name": "Liferay, Inc.",
   "cna_advisory_url": "https://liferay.dev/portal/security/known-vulnerabilities",
   "country": "USA",
   "scope_type": "",
-  "status": "Declining",
-  "baseline_avg": 1.0,
+  "status": "Inactive",
+  "baseline_avg": 0.0,
   "current_count": 0,
-  "deviation_pct": -100.0,
-  "days_since_last_cve": 389,
+  "deviation_pct": 0.0,
+  "days_since_last_cve": null,
   "std_dev": null,
-  "threshold_low": 0.5,
-  "threshold_high": 2.5,
+  "threshold_low": 0.0,
+  "threshold_high": 0.0,
   "timeline_13months": [
     {
       "month": "Days 390-360",
-      "count": 1,
+      "count": 0,
       "is_current": false
     },
     {
