@@ -1,39 +1,44 @@
 {
   "date": "2026-11-26",
-  "generated_at": "2026-11-26T11:58:44.096455",
+  "generated_at": "2026-11-26T21:09:58.143702",
   "total_cnas": 606,
-  "cnas_growth": 113,
-  "cnas_normal": 120,
-  "cnas_declining": 201,
-  "cnas_inactive": 172,
+  "cnas_growth": 111,
+  "cnas_normal": 117,
+  "cnas_declining": 205,
+  "cnas_inactive": 173,
   "top_growth": [
+    {
+      "cna_name": "NetDEF",
+      "current_count": 5,
+      "deviation_pct": 999999.0
+    },
     {
       "cna_name": "Zenitel",
       "current_count": 11,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Pydantic",
-      "current_count": 11,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Airlock",
+      "cna_name": "SDC",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "samsungsemiconductor",
-      "current_count": 35,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "openam-jp",
+      "cna_name": "Airoha",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "Circutor",
+      "cna_name": "POSIT",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Nitro",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Uniview",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -43,18 +48,13 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "gnutls",
-      "current_count": 3,
+      "cna_name": "WrenSecurity",
+      "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "NCSC",
-      "current_count": 10,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "OS-S",
-      "current_count": 3,
+      "cna_name": "Airlock",
+      "current_count": 1,
       "deviation_pct": 999999.0
     }
   ],
@@ -63,6 +63,11 @@
       "cna_name": "Acronis",
       "current_count": 11,
       "deviation_pct": 83.3
+    },
+    {
+      "cna_name": "cisa-cg",
+      "current_count": 20,
+      "deviation_pct": 30.2
     },
     {
       "cna_name": "NEC",
@@ -103,11 +108,6 @@
       "cna_name": "siemens",
       "current_count": 6,
       "deviation_pct": -56.6
-    },
-    {
-      "cna_name": "twcert",
-      "current_count": 7,
-      "deviation_pct": -60.0
     }
   ]
 }
