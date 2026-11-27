@@ -5,11 +5,11 @@
   "cna_advisory_url": "https://www.siemens.com/global/en/products/services/cert.html#SiemensSecurityAdvisories",
   "country": "Germany",
   "scope_type": "",
-  "status": "Declining",
+  "status": "Normal",
   "baseline_avg": 13.83,
-  "current_count": 6,
-  "deviation_pct": -56.6,
-  "days_since_last_cve": 16,
+  "current_count": 8,
+  "deviation_pct": -42.2,
+  "days_since_last_cve": 0,
   "std_dev": 8.54,
   "threshold_low": 6.92,
   "threshold_high": 34.58,
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 6,
+      "count": 8,
       "is_current": true
     }
   ]

@@ -1,15 +1,15 @@
 {
-  "assigner_id": "unknown",
+  "assigner_id": "1a4f025a-074d-4105-b4e2-52bd8eabe2ea",
   "cna_name": "AISLE",
   "cna_org_name": "AISLE Incorporated",
   "cna_advisory_url": "https://aisle.com/cve-discoveries",
   "country": "Netherlands",
   "scope_type": "",
-  "status": "Inactive",
+  "status": "Growth",
   "baseline_avg": 0.0,
-  "current_count": 0,
-  "deviation_pct": 0.0,
-  "days_since_last_cve": null,
+  "current_count": 14,
+  "deviation_pct": 999999.0,
+  "days_since_last_cve": 0,
   "std_dev": null,
   "threshold_low": 0.0,
   "threshold_high": 0.0,
@@ -76,7 +76,7 @@
     },
     {
       "month": "Last 30 Days",
-      "count": 0,
+      "count": 14,
       "is_current": true
     }
   ]
