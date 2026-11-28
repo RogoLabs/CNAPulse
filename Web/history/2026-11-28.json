@@ -1,14 +1,24 @@
 {
   "date": "2026-11-28",
-  "generated_at": "2026-11-28T03:08:08.626381",
+  "generated_at": "2026-11-28T15:08:29.795619",
   "total_cnas": 606,
-  "cnas_growth": 109,
-  "cnas_normal": 119,
-  "cnas_declining": 206,
+  "cnas_growth": 107,
+  "cnas_normal": 117,
+  "cnas_declining": 210,
   "cnas_inactive": 172,
   "top_growth": [
     {
-      "cna_name": "securepoint",
+      "cna_name": "POSIT",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "rt-labs",
+      "current_count": 41,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Circutor",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
@@ -18,43 +28,33 @@
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "AxxonSoft",
-      "current_count": 5,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Akrites",
-      "current_count": 10,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Nitro",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "Uniview",
-      "current_count": 1,
-      "deviation_pct": 999999.0
-    },
-    {
       "cna_name": "openam-jp",
       "current_count": 1,
       "deviation_pct": 999999.0
     },
     {
-      "cna_name": "rt-labs",
-      "current_count": 41,
+      "cna_name": "ClickHouse",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "AISLE",
+      "current_count": 14,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Westell",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "samsungsemiconductor",
+      "current_count": 35,
       "deviation_pct": 999999.0
     },
     {
       "cna_name": "Illumio",
       "current_count": 2,
-      "deviation_pct": 999999.0
-    },
-    {
-      "cna_name": "B.Braun",
-      "current_count": 3,
       "deviation_pct": 999999.0
     }
   ],
@@ -73,11 +73,6 @@
       "cna_name": "NCSC-FI",
       "current_count": 2,
       "deviation_pct": -40.0
-    },
-    {
-      "cna_name": "Foxit",
-      "current_count": 6,
-      "deviation_pct": -43.7
     },
     {
       "cna_name": "Zoom",
@@ -105,9 +100,14 @@
       "deviation_pct": -54.5
     },
     {
-      "cna_name": "OTRS",
+      "cna_name": "hikvision",
       "current_count": 2,
-      "deviation_pct": -55.6
+      "deviation_pct": -54.5
+    },
+    {
+      "cna_name": "TPLink",
+      "current_count": 7,
+      "deviation_pct": -57.1
     }
   ]
 }
