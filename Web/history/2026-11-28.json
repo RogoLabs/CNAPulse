@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T03:08:08.626381",
+  "total_cnas": 606,
+  "cnas_growth": 109,
+  "cnas_normal": 119,
+  "cnas_declining": 206,
+  "cnas_inactive": 172,
+  "top_growth": [
+    {
+      "cna_name": "securepoint",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "OS-S",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "AxxonSoft",
+      "current_count": 5,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Akrites",
+      "current_count": 10,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Nitro",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Uniview",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "openam-jp",
+      "current_count": 1,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "rt-labs",
+      "current_count": 41,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "Illumio",
+      "current_count": 2,
+      "deviation_pct": 999999.0
+    },
+    {
+      "cna_name": "B.Braun",
+      "current_count": 3,
+      "deviation_pct": 999999.0
+    }
+  ],
+  "top_declining": [
+    {
+      "cna_name": "cisa-cg",
+      "current_count": 20,
+      "deviation_pct": 30.2
+    },
+    {
+      "cna_name": "NEC",
+      "current_count": 3,
+      "deviation_pct": 0.0
+    },
+    {
+      "cna_name": "NCSC-FI",
+      "current_count": 2,
+      "deviation_pct": -40.0
+    },
+    {
+      "cna_name": "Foxit",
+      "current_count": 6,
+      "deviation_pct": -43.7
+    },
+    {
+      "cna_name": "Zoom",
+      "current_count": 2,
+      "deviation_pct": -47.1
+    },
+    {
+      "cna_name": "NLnet Labs",
+      "current_count": 6,
+      "deviation_pct": -50.7
+    },
+    {
+      "cna_name": "Unisoc",
+      "current_count": 3,
+      "deviation_pct": -52.6
+    },
+    {
+      "cna_name": "kubernetes",
+      "current_count": 1,
+      "deviation_pct": -53.8
+    },
+    {
+      "cna_name": "symantec",
+      "current_count": 1,
+      "deviation_pct": -54.5
+    },
+    {
+      "cna_name": "OTRS",
+      "current_count": 2,
+      "deviation_pct": -55.6
+    }
+  ]
+}
